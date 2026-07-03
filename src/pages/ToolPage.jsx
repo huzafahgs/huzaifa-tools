@@ -59,6 +59,7 @@ const toolComponents = {
   "distance-calculator": lazy(() => import("../tools/DistanceCalculator")),
   "text-to-speech": lazy(() => import("../tools/TextToSpeech")),
   "screen-resolution": lazy(() => import("../tools/ScreenResolution")),
+  "image-compressor": lazy(() => import("../tools/ImageCompressor")),
 };
 
 function ToolPage() {

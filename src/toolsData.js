@@ -405,13 +405,6 @@ const tools = [
     icon: "🖼️",
     description: "Compress images online.",
     category: "Utility"
-  },
-  {
-    name: "QR Code Scanner",
-    slug: "qr-scanner",
-    icon: "📸",
-    description: "Scan QR codes from images.",
-    category: "Utility"
   }
 ];
 

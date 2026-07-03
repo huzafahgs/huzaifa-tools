@@ -1,7 +1,8 @@
 {
-  "name": "huzaifa-ai-tools",
+  "name": "huzaifa-office",
+  "description": "Huzaifa Office - 50+ Free AI Tools Platform by Huzaifa Group of Software",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
