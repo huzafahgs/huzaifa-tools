@@ -1,55 +1,50 @@
-import { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "../styles/Tool.css";
 
-export default function ScreenResolution() {
-  const [resolution] = useState({
+export default function ScreenResolutionTester() {
+  const [resolution, setResolution] = useState({
     width: window.innerWidth,
     height: window.innerHeight,
     devicePixelRatio: window.devicePixelRatio
   });
 
-  React.useEffect(() => {
+  useEffect(() => {
     const handleResize = () => {
-      window.location.reload();
+      setResolution({
+        width: window.innerWidth,
+        height: window.innerHeight,
+        devicePixelRatio: window.devicePixelRatio
+      });
     };
+
     window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
   }, []);
 
   return (
     <div className="tool-container">
       <div className="tool-header">
         <h1>📺 Screen Resolution Tester</h1>
-        <p>Check your screen resolution</p>
+        <p>Check your screen resolution and device information</p>
       </div>
 
-      <div className="result-box" style={{textAlign: "center"}}>
-        <div className="result-item">
-          <span className="result-label">Screen Width</span>
-          <span className="result-value">{resolution.width}px</span>
-        </div>
-        <div className="result-item">
-          <span className="result-label">Screen Height</span>
-          <span className="result-value">{resolution.height}px</span>
-        </div>
-        <div className="result-item">
-          <span className="result-label">Total Pixels</span>
-          <span className="result-value">{(resolution.width * resolution.height).toLocaleString()}</span>
-        </div>
-        <div className="result-item">
-          <span className="result-label">Device Pixel Ratio</span>
-          <span className="result-value">{resolution.devicePixelRatio}x</span>
-        </div>
-        <div className="result-item">
-          <span className="result-label">Aspect Ratio</span>
-          <span className="result-value">{(resolution.width / resolution.height).toFixed(2)}</span>
-        </div>
-      </div>
+      <div className="result-box">
+        <p><strong>Width:</strong> {resolution.width}px</p>
+        <p><strong>Height:</strong> {resolution.height}px</p>
+        <p><strong>Pixels:</strong> {(resolution.width * resolution.height).toLocaleString()}</p>
+        <p><strong>Device Pixel Ratio:</strong> {resolution.devicePixelRatio}x</p>
+        <p><strong>Aspect Ratio:</strong> {(resolution.width / resolution.height).toFixed(2)}</p>
 
-      <div style={{marginTop: "30px", padding: "20px", background: "#0a0d1a", borderRadius: "10px", fontSize: "12px", color: "#aaa"}}>
-        <p><strong>Device Type Detection:</strong></p>
         <p>
-          {resolution.width < 768 ? "📱 Mobile Device" : resolution.width < 1024 ? "📱 Tablet" : "💻 Desktop/Large Screen"}
+          <strong>Device Type:</strong>{" "}
+          {resolution.width < 768
+            ? "📱 Mobile"
+            : resolution.width < 1024
+            ? "📱 Tablet"
+            : "💻 Desktop"}
         </p>
       </div>
     </div>
