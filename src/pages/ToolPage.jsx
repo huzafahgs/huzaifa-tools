@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import tools from "../toolsData";
+import Layout from "../components/Layout";
 import { lazy, Suspense } from "react";
 
 const toolComponents = {
@@ -18,6 +19,7 @@ const toolComponents = {
   "sha256-hash": lazy(() => import("../tools/SHA256Hash")),
   "uuid-generator": lazy(() => import("../tools/UUIDGenerator")),
   "qr-code-generator": lazy(() => import("../tools/QRCodeGenerator")),
+  "qr-code-scanner": lazy(() => import("../tools/QRCodeScanner")),
   "color-picker": lazy(() => import("../tools/ColorPicker")),
   "gradient-generator": lazy(() => import("../tools/GradientGenerator")),
   "bmi-calculator": lazy(() => import("../tools/BMICalculator")),
@@ -66,17 +68,22 @@ function ToolPage() {
 
   if (!tool) {
     return (
-      <div style={{ padding: "40px", color: "white", textAlign: "center" }}>
-        <h1>Tool Not Found</h1>
-        <p>The tool you're looking for doesn't exist.</p>
-      </div>
+      <Layout title="Tool Not Found">
+        <div style={{ padding: "40px", color: "white", textAlign: "center" }}>
+          <h1 style={{ color: "gold" }}>Tool Not Found</h1>
+          <p>The tool you're looking for doesn't exist.</p>
+          <a href="/" style={{ color: "gold", textDecoration: "none", marginTop: "20px", display: "inline-block" }}>← Back to Home</a>
+        </div>
+      </Layout>
     );
   }
 
   return (
-    <Suspense fallback={<div style={{ padding: "40px", color: "white", textAlign: "center" }}>Loading...</div>}>
-      {Component ? <Component /> : <div style={{ padding: "40px", color: "white" }}>Tool component not found</div>}
-    </Suspense>
+    <Layout title={tool.name}>
+      <Suspense fallback={<div style={{ padding: "40px", color: "white", textAlign: "center" }}>Loading...</div>}>
+        {Component ? <Component /> : <div style={{ padding: "40px", color: "white" }}>Tool component not found</div>}
+      </Suspense>
+    </Layout>
   );
 }
 

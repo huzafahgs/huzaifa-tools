@@ -110,6 +110,13 @@ const tools = [
     category: "Generator"
   },
   {
+    name: "QR Code Scanner",
+    slug: "qr-code-scanner",
+    icon: "📸",
+    description: "Scan QR codes with your camera.",
+    category: "Generator"
+  },
+  {
     name: "Color Picker",
     slug: "color-picker",
     icon: "🎨",
