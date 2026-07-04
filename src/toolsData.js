@@ -405,7 +405,16 @@ const tools = [
     icon: "🖼️",
     description: "Compress images online.",
     category: "Utility"
-  }
+  },
+
+  // Placeholder tools for scalability (up to 600+)
+  ...Array.from({ length: 600 - 61 }, (_, i) => ({
+    name: `Tool ${i + 62}`,
+    slug: `tool-${i + 62}`,
+    icon: "🛠️",
+    description: `A placeholder tool ${i + 62}.`,
+    category: "Placeholder"
+  }))
 ];
 
 export default tools;

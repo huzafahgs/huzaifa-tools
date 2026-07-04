@@ -12,6 +12,7 @@ import Pricing from "./pages/Pricing.jsx";
 import Contact from "./pages/Contact.jsx";
 import AllTools from "./pages/AllTools.jsx";
 import Chat from "./pages/Chat.jsx";
+import "./tools"; // This import ensures all tools are registered
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
