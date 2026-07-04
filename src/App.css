@@ -120,16 +120,31 @@ body{
 }
 
 .tool-card{
-  background:#11182f;
+  min-height:100%;
+  background:linear-gradient(180deg,#141b34 0%,#0f1529 100%);
   padding:30px;
-  border-radius:20px;
+  border:1px solid #222;
+  border-radius:16px;
   text-align:center;
+  box-shadow:0 12px 30px rgba(0,0,0,.18);
   transition:.3s;
 }
 
 .tool-card:hover{
-  transform:translateY(-10px);
-  border:1px solid gold;
+  transform:translateY(-6px);
+  border-color:gold;
+  box-shadow:0 16px 34px rgba(0,0,0,.28),0 0 0 1px rgba(255,215,0,.2);
+}
+
+.tools-grid a:focus-visible{
+  outline:3px solid gold;
+  outline-offset:5px;
+  border-radius:18px;
+}
+
+.tools-grid a:focus-visible .tool-card{
+  border-color:gold;
+  box-shadow:0 0 0 1px gold,0 16px 34px rgba(0,0,0,.28);
 }
 
 .tool-icon{
@@ -142,6 +157,7 @@ body{
 
 .tool-card p{
   color:#bbb;
+  line-height:1.5;
 }
 
 .use-btn{
@@ -151,4 +167,32 @@ body{
   border-radius:10px;
   background:gold;
   font-weight:bold;
+  color:black;
+  cursor:pointer;
+  box-shadow:0 8px 18px rgba(255,215,0,.16);
+}
+
+.tool-card:hover .use-btn,
+.tools-grid a:focus-visible .use-btn{
+  background:#ffd700;
+}
+
+@media (max-width:768px){
+  .main{
+    padding:24px 16px;
+  }
+
+  .tools-grid{
+    grid-template-columns:1fr;
+    gap:18px;
+  }
+
+  .tool-card{
+    padding:24px 18px;
+    border-radius:14px;
+  }
+
+  .tool-card:hover{
+    transform:translateY(-3px);
+  }
 }
