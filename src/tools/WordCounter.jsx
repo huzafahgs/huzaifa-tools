@@ -17,14 +17,25 @@ export default function WordCounter() {
         <p>Count words, characters, and sentences in your text</p>
       </div>
 
+      <label htmlFor="word-counter-input" className="output-label">
+        Text to analyze
+      </label>
       <textarea
+        id="word-counter-input"
         value={text}
         onChange={(e) => setText(e.target.value)}
         placeholder="Enter your text here..."
         className="tool-textarea"
+        aria-describedby="word-counter-help word-counter-summary"
       />
+      <p id="word-counter-help" style={{ color: "#aaa", marginTop: "-20px", marginBottom: "20px" }}>
+        Counts update automatically as you type.
+      </p>
+      <div id="word-counter-summary" className="info-message" role="status" aria-live="polite">
+        {text.trim() ? `${wordCount} words, ${charCount} characters, ${sentenceCount} sentences.` : "Enter text to see live writing statistics."}
+      </div>
 
-      <div className="stats-grid">
+      <div className="stats-grid" aria-label="Text statistics">
         <div className="stat-box">
           <div className="stat-value">{wordCount}</div>
           <div className="stat-label">Words</div>

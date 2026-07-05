@@ -22,13 +22,21 @@ function App() {
   return (
     <Layout title="Home">
       <header className="topbar">
-        <input
-          type="text"
-          placeholder="Search any tool..."
-          className="search"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-        />
+        <div className="search-wrap">
+          <label htmlFor="home-tool-search" className="search-label">Search tools</label>
+          <input
+            id="home-tool-search"
+            type="search"
+            placeholder="Search any tool..."
+            className="search"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            aria-describedby="home-tool-search-help"
+          />
+          <p id="home-tool-search-help" className="search-help">
+            Find calculators, converters, generators, and developer tools.
+          </p>
+        </div>
         <button className="login-btn">Login / Sign Up</button>
       </header>
 
@@ -50,11 +58,12 @@ function App() {
       </section>
 
       {/* Category Filter */}
-      <div style={{ marginBottom: "30px", display: "flex", gap: "10px", flexWrap: "wrap" }}>
+      <div className="category-filter" aria-label="Tool categories">
         {categories.map(category => (
           <button
             key={category}
             onClick={() => setSelectedCategory(category)}
+            aria-pressed={selectedCategory === category}
             style={{
               padding: "10px 20px",
               background: selectedCategory === category ? "gold" : "#11182f",

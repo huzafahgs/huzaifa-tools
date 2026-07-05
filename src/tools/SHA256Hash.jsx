@@ -4,12 +4,46 @@ import "../styles/Tool.css";
 export default function SHA256Hash() {
   const [text, setText] = useState("");
   const [hash, setHash] = useState("");
+  const [error, setError] = useState("");
+  const [status, setStatus] = useState("");
+  const [loadingAction, setLoadingAction] = useState("");
 
-  const generate = () => {
-    if (!text) {
-      alert("Please enter text!");
+  const copyToClipboard = async (value) => {
+    if (!value) {
+      throw new Error("There is no hash to copy yet.");
+    }
+
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(value);
       return;
     }
+
+    const textarea = document.createElement("textarea");
+    textarea.value = value;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    const copied = document.execCommand("copy");
+    document.body.removeChild(textarea);
+
+    if (!copied) {
+      throw new Error("Clipboard access is not available in this browser.");
+    }
+  };
+
+  const generate = async () => {
+    if (!text.trim()) {
+      setError("Enter text before generating a hash.");
+      setStatus("");
+      setHash("");
+      return;
+    }
+
+    setLoadingAction("generate");
+    setError("");
+    setStatus("");
     const encoder = new TextEncoder();
     const data = encoder.encode(text);
     let hashValue = 0;
@@ -18,39 +52,61 @@ export default function SHA256Hash() {
       hashValue = hashValue & hashValue;
     }
     setHash(Math.abs(hashValue).toString(16).padStart(64, '0'));
+    setStatus("Demo SHA256 hash generated.");
+    setLoadingAction("");
   };
 
-  const copy = () => {
-    navigator.clipboard.writeText(hash);
-    alert("Copied!");
+  const copy = async () => {
+    setLoadingAction("copy");
+    setError("");
+    setStatus("");
+    try {
+      await copyToClipboard(hash);
+      setStatus("Hash copied to clipboard.");
+    } catch (e) {
+      setError(e.message);
+    } finally {
+      setLoadingAction("");
+    }
   };
 
   return (
-    <div className="tool-container">
+    <div className="tool-container" aria-busy={loadingAction ? "true" : "false"}>
       <div className="tool-header">
         <h1>🔐 SHA256 Hash Generator</h1>
         <p>Generate SHA256 hashes (demonstration only)</p>
       </div>
 
+      {error && <div className="error-message" role="alert">{error}</div>}
+      {status && <div className="success-message" role="status" aria-live="polite">{status}</div>}
+
+      <label htmlFor="sha256-input" className="output-label">
+        Text to hash
+      </label>
       <textarea
+        id="sha256-input"
         value={text}
-        onChange={(e) => setText(e.target.value)}
+        onChange={(e) => {
+          setText(e.target.value);
+          setError("");
+          setStatus("");
+        }}
         placeholder="Enter text to hash..."
         className="tool-textarea"
       />
 
-      <button className="tool-button" onClick={generate} style={{width: "100%", marginBottom: "30px"}}>
-        Generate SHA256 Hash
+      <button className="tool-button" onClick={generate} disabled={Boolean(loadingAction)} style={{width: "100%", marginBottom: "30px"}}>
+        {loadingAction === "generate" ? "Generating..." : "Generate SHA256 Hash"}
       </button>
 
       {hash && (
-        <div className="output-box">
+        <div className="output-box" aria-live="polite">
           <div className="output-label">SHA256 Hash:</div>
           <div style={{wordBreak: "break-all", fontFamily: "monospace", marginBottom: "15px", fontSize: "12px"}}>
             {hash}
           </div>
-          <button className="tool-button-secondary" onClick={copy} style={{width: "100%"}}>
-            Copy Hash
+          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} style={{width: "100%"}}>
+            {loadingAction === "copy" ? "Copying..." : "Copy Hash"}
           </button>
         </div>
       )}

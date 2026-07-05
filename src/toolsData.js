@@ -406,13 +406,223 @@ const tools = [
     description: "Compress images online.",
     category: "Utility"
   },
+  {
+    name: "Regex Tester",
+    slug: "regex-tester",
+    icon: ".*",
+    description: "Test regular expressions with flags, matches, and groups.",
+    category: "Developer"
+  },
+  {
+    name: "JWT Decoder",
+    slug: "jwt-decoder",
+    icon: "🔓",
+    description: "Decode JWT headers and payloads safely in your browser.",
+    category: "Developer"
+  },
+  {
+    name: "Unix Timestamp Converter",
+    slug: "unix-timestamp-converter",
+    icon: "⏳",
+    description: "Convert Unix timestamps to readable dates and back.",
+    category: "Developer"
+  },
+  {
+    name: "HTML Entity Encoder/Decoder",
+    slug: "html-entity-converter",
+    icon: "&;",
+    description: "Encode and decode HTML entities instantly.",
+    category: "Developer"
+  },
+  {
+    name: "Lorem Ipsum Generator",
+    slug: "lorem-ipsum-generator",
+    icon: "¶",
+    description: "Generate clean placeholder text for designs and drafts.",
+    category: "Text"
+  },
+  {
+    name: "Password Strength Checker",
+    slug: "password-strength-checker",
+    icon: "🛡️",
+    description: "Check password strength and get security suggestions.",
+    category: "Security"
+  },
+  {
+    name: "CSS Minifier",
+    slug: "css-minifier",
+    icon: "{}",
+    description: "Minify CSS by removing comments and extra whitespace.",
+    category: "Developer"
+  },
+  {
+    name: "JavaScript Minifier",
+    slug: "javascript-minifier",
+    icon: "JS",
+    description: "Minify JavaScript safely for simple production snippets.",
+    category: "Developer"
+  },
+  {
+    name: "Meta Tag Generator",
+    slug: "meta-tag-generator",
+    icon: "🏷️",
+    description: "Generate SEO, Open Graph, and Twitter meta tags.",
+    category: "SEO"
+  },
+  {
+    name: "Robots.txt Generator",
+    slug: "robots-txt-generator",
+    icon: "🤖",
+    description: "Create clean robots.txt rules for search engines.",
+    category: "SEO"
+  },
+  {
+    name: "XML Formatter",
+    slug: "xml-formatter",
+    icon: "XML",
+    description: "Format and validate XML with readable indentation.",
+    category: "Developer"
+  },
+  {
+    name: "XML to JSON Converter",
+    slug: "xml-to-json",
+    icon: "↔",
+    description: "Convert XML documents into structured JSON.",
+    category: "Developer"
+  },
+  {
+    name: "JSON to XML Converter",
+    slug: "json-to-xml",
+    icon: "↕",
+    description: "Convert JSON objects and arrays into XML.",
+    category: "Developer"
+  },
+  {
+    name: "HTML Formatter",
+    slug: "html-formatter",
+    icon: "HTML",
+    description: "Beautify HTML markup for easier reading.",
+    category: "Developer"
+  },
+  {
+    name: "SQL Formatter",
+    slug: "sql-formatter",
+    icon: "SQL",
+    description: "Format SQL queries with readable keyword breaks.",
+    category: "Developer"
+  },
+  {
+    name: "URL Parser",
+    slug: "url-parser",
+    icon: "🔎",
+    description: "Parse URLs into protocol, host, path, and parameters.",
+    category: "Developer"
+  },
+  {
+    name: "Cron Expression Generator",
+    slug: "cron-expression-generator",
+    icon: "⏰",
+    description: "Build common cron expressions and readable schedules.",
+    category: "Developer"
+  },
+  {
+    name: "HMAC Generator",
+    slug: "hmac-generator",
+    icon: "🔏",
+    description: "Generate HMAC signatures using Web Crypto.",
+    category: "Security"
+  },
+  {
+    name: "Text Diff Checker",
+    slug: "text-diff-checker",
+    icon: "≠",
+    description: "Compare two text blocks line by line.",
+    category: "Text"
+  },
+  {
+    name: "Color Contrast Checker",
+    slug: "color-contrast-checker",
+    icon: "◐",
+    description: "Check WCAG contrast ratios for text and backgrounds.",
+    category: "Developer"
+  },
+  {
+    name: "Mortgage Calculator",
+    slug: "mortgage-calculator",
+    icon: "🏠",
+    description: "Estimate monthly mortgage payments and total interest.",
+    category: "Calculator"
+  },
+  {
+    name: "ROI Calculator",
+    slug: "roi-calculator",
+    icon: "📈",
+    description: "Calculate return on investment and net profit.",
+    category: "Business"
+  },
+  {
+    name: "Budget Calculator",
+    slug: "budget-calculator",
+    icon: "📒",
+    description: "Compare income, expenses, and monthly savings.",
+    category: "Business"
+  },
+  {
+    name: "Commission Calculator",
+    slug: "commission-calculator",
+    icon: "💼",
+    description: "Calculate sales commission and total payout.",
+    category: "Business"
+  },
+  {
+    name: "Retirement Calculator",
+    slug: "retirement-calculator",
+    icon: "🌅",
+    description: "Estimate future retirement savings from monthly deposits.",
+    category: "Finance"
+  },
+  {
+    name: "BMR Calculator",
+    slug: "bmr-calculator",
+    icon: "🔥",
+    description: "Estimate basal metabolic rate using standard formulas.",
+    category: "Health"
+  },
+  {
+    name: "Calorie Calculator",
+    slug: "calorie-calculator",
+    icon: "🍽️",
+    description: "Estimate daily calories based on activity level.",
+    category: "Health"
+  },
+  {
+    name: "Ideal Weight Calculator",
+    slug: "ideal-weight-calculator",
+    icon: "⚖",
+    description: "Estimate ideal body weight ranges by height and gender.",
+    category: "Health"
+  },
+  {
+    name: "Grade Calculator",
+    slug: "grade-calculator",
+    icon: "📝",
+    description: "Calculate weighted grade scores for students.",
+    category: "Student"
+  },
+  {
+    name: "Pace Calculator",
+    slug: "pace-calculator",
+    icon: "🏃",
+    description: "Calculate running pace, time, and speed.",
+    category: "Health"
+  },
 
   // Placeholder tools for scalability (up to 600+)
-  ...Array.from({ length: 600 - 61 }, (_, i) => ({
-    name: `Tool ${i + 62}`,
-    slug: `tool-${i + 62}`,
+  ...Array.from({ length: 600 - 91 }, (_, i) => ({
+    name: `Tool ${i + 92}`,
+    slug: `tool-${i + 92}`,
     icon: "🛠️",
-    description: `A placeholder tool ${i + 62}.`,
+    description: `A placeholder tool ${i + 92}.`,
     category: "Placeholder"
   }))
 ];
