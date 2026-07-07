@@ -40,6 +40,7 @@ function App() {
       </header>
 
       <section className="hero animate-slide-up" aria-labelledby="hero-heading">
+        <p className="hero-kicker">Huzaifa Group of Software</p>
         <h1 id="hero-heading">
           All-in-One <span className="hero-accent">AI Tools</span> Platform
         </h1>
