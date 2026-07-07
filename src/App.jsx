@@ -8,10 +8,8 @@ function App() {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  // Get unique categories
   const categories = ["All", ...new Set(tools.map(t => t.category))];
 
-  // Filter tools based on search and category
   const filteredTools = tools.filter(tool => {
     const matchesSearch = tool.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
                           tool.description.toLowerCase().includes(searchQuery.toLowerCase());
@@ -32,48 +30,40 @@ function App() {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             aria-describedby="home-tool-search-help"
+            autoComplete="off"
           />
           <p id="home-tool-search-help" className="search-help">
             Find calculators, converters, generators, and developer tools.
           </p>
         </div>
-        <button className="login-btn">Login / Sign Up</button>
+        <button type="button" className="login-btn">Login / Sign Up</button>
       </header>
 
-      <section className="hero">
-        <h1>
-          All-in-One <span>AI Tools</span> Platform
+      <section className="hero animate-slide-up" aria-labelledby="hero-heading">
+        <h1 id="hero-heading">
+          All-in-One <span className="hero-accent">AI Tools</span> Platform
         </h1>
 
-        <p>
+        <p className="hero-tagline">
           Free • Fast • Powerful • Secure • Developers • Students • Business
         </p>
 
-        <div className="stats">
-          <div className="stat-card">{tools.length}+ Tools</div>
-          <div className="stat-card">100% Free</div>
-          <div className="stat-card">Secure</div>
-          <div className="stat-card">Mobile Friendly</div>
+        <div className="stats" role="list">
+          <div className="stat-card" role="listitem">{tools.length}+ Tools</div>
+          <div className="stat-card" role="listitem">100% Free</div>
+          <div className="stat-card" role="listitem">Secure</div>
+          <div className="stat-card" role="listitem">Mobile Friendly</div>
         </div>
       </section>
 
-      {/* Category Filter */}
-      <div className="category-filter" aria-label="Tool categories">
+      <div className="category-filter" role="group" aria-label="Tool categories">
         {categories.map(category => (
           <button
             key={category}
+            type="button"
             onClick={() => setSelectedCategory(category)}
             aria-pressed={selectedCategory === category}
-            style={{
-              padding: "10px 20px",
-              background: selectedCategory === category ? "gold" : "#11182f",
-              color: selectedCategory === category ? "black" : "gold",
-              border: "1px solid gold",
-              borderRadius: "20px",
-              cursor: "pointer",
-              fontWeight: "bold",
-              transition: "all 0.3s"
-            }}
+            className={`category-pill${selectedCategory === category ? " category-pill--active" : ""}`}
           >
             {category}
           </button>
@@ -81,39 +71,36 @@ function App() {
       </div>
 
       <h2 className="section-title">
-        {selectedCategory === "All" ? "🔥 All Tools" : `🔥 ${selectedCategory} Tools`} ({filteredTools.length})
+        {selectedCategory === "All" ? "🔥 All Tools" : `🔥 ${selectedCategory} Tools`}
+        <span className="section-count"> ({filteredTools.length})</span>
       </h2>
 
-      <div className="tools-grid">
+      <div className="tools-grid" aria-live="polite" aria-busy="false">
         {filteredTools.map((tool) => (
-          <Link to={`/${tool.slug}`} key={tool.slug} style={{ textDecoration: "none" }}>
-            <div className="tool-card">
-              <div className="tool-icon">{tool.icon}</div>
+          <Link to={`/${tool.slug}`} key={tool.slug}>
+            <article className="tool-card">
+              <div className="tool-icon" aria-hidden="true">{tool.icon}</div>
               <h3>{tool.name}</h3>
               <p>{tool.description}</p>
-              <button className="use-btn">Use Now →</button>
-            </div>
+              <button type="button" className="use-btn">Use Now →</button>
+            </article>
           </Link>
         ))}
       </div>
 
       {filteredTools.length === 0 && (
-        <div style={{ textAlign: "center", padding: "40px", color: "#aaa" }}>
-          <p>No tools found matching your search.</p>
+        <div className="empty-state" role="status">
+          <div className="empty-state-icon" aria-hidden="true">🔍</div>
+          <h3 className="empty-state-title">No tools found</h3>
+          <p className="empty-state-text">
+            Try a different search term or category to discover our full toolkit.
+          </p>
         </div>
       )}
 
-      {/* Footer */}
-      <footer style={{
-        marginTop: "80px",
-        paddingTop: "40px",
-        paddingBottom: "40px",
-        borderTop: "1px solid #222",
-        textAlign: "center",
-        color: "#666"
-      }}>
-        <p style={{ marginBottom: "10px" }}>© 2024 Huzaifa Tools. All rights reserved.</p>
-        <p style={{ color: "gold", fontWeight: "bold" }}>Powered by Huzaifa Group of Software</p>
+      <footer className="site-footer">
+        <p>© 2024 Huzaifa Tools. All rights reserved.</p>
+        <p className="brand-line">Powered by Huzaifa Group of Software</p>
       </footer>
     </Layout>
   );
