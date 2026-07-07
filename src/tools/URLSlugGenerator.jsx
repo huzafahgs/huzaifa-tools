@@ -106,15 +106,20 @@ export default function URLSlugGenerator() {
           setError("");
           setStatus("");
         }}
+        onKeyDown={(e) => {
+          if ((e.ctrlKey || e.metaKey) && e.key === "Enter") {
+            generate();
+          }
+        }}
         placeholder="Enter your text here..."
         className="tool-textarea"
         aria-describedby="slug-help"
       />
       <p id="slug-help" style={{ color: "#aaa", marginTop: "-20px", marginBottom: "20px" }}>
-        Spaces become hyphens and symbols are removed.
+        Spaces become hyphens and symbols are removed. Press Ctrl+Enter to generate.
       </p>
 
-      <button className="tool-button" onClick={generate} disabled={Boolean(loadingAction)} style={{width: "100%", marginBottom: "30px"}}>
+      <button className="tool-button" onClick={generate} disabled={Boolean(loadingAction)} title="Generate URL slug" style={{width: "100%", marginBottom: "30px"}}>
         {loadingAction === "generate" ? "Generating..." : "Generate Slug"}
       </button>
 
@@ -122,7 +127,7 @@ export default function URLSlugGenerator() {
         <div className="output-box" aria-live="polite" style={{overflowWrap: "anywhere"}}>
           <div className="output-label">Generated Slug:</div>
           {slug}
-          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} style={{marginTop: "15px", width: "100%"}}>
+          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} title="Copy generated slug" style={{marginTop: "15px", width: "100%"}}>
             {loadingAction === "copy" ? "Copying..." : "Copy Slug"}
           </button>
         </div>

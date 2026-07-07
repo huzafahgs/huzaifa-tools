@@ -112,6 +112,11 @@ export default function HexToDecimal() {
           setError("");
           setStatus("");
         }}
+        onKeyDown={(e) => {
+          if (e.key === "Enter") {
+            convert();
+          }
+        }}
         placeholder="Enter hexadecimal (e.g., 1A, FF)"
         className="tool-input"
         aria-describedby="hex-help"
@@ -120,7 +125,7 @@ export default function HexToDecimal() {
         Use digits 0-9 and letters A-F.
       </p>
 
-      <button className="tool-button" onClick={convert} disabled={Boolean(loadingAction)} style={{width: "100%", marginBottom: "30px"}}>
+      <button className="tool-button" onClick={convert} disabled={Boolean(loadingAction)} title="Convert hexadecimal to decimal" style={{width: "100%", marginBottom: "30px"}}>
         {loadingAction === "convert" ? "Converting..." : "Convert"}
       </button>
 
@@ -130,7 +135,7 @@ export default function HexToDecimal() {
           <div style={{fontSize: "28px", fontWeight: "bold", color: "gold"}}>
             {decimal}
           </div>
-          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} style={{marginTop: "15px", width: "100%"}}>
+          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} title="Copy decimal value" style={{marginTop: "15px", width: "100%"}}>
             {loadingAction === "copy" ? "Copying..." : "Copy"}
           </button>
         </div>

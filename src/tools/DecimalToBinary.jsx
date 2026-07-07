@@ -114,6 +114,11 @@ export default function DecimalToBinary() {
           setError("");
           setStatus("");
         }}
+        onKeyDown={(e) => {
+          if (e.key === "Enter") {
+            convert();
+          }
+        }}
         placeholder="Enter decimal number"
         className="tool-input"
         aria-describedby="decimal-help"
@@ -122,7 +127,7 @@ export default function DecimalToBinary() {
         Whole numbers are supported.
       </p>
 
-      <button className="tool-button" onClick={convert} disabled={Boolean(loadingAction)} style={{width: "100%", marginBottom: "30px"}}>
+      <button className="tool-button" onClick={convert} disabled={Boolean(loadingAction)} title="Convert decimal to binary" style={{width: "100%", marginBottom: "30px"}}>
         {loadingAction === "convert" ? "Converting..." : "Convert"}
       </button>
 
@@ -132,7 +137,7 @@ export default function DecimalToBinary() {
           <div style={{fontSize: "20px", fontWeight: "bold", color: "gold", wordBreak: "break-all"}}>
             {binary}
           </div>
-          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} style={{marginTop: "15px", width: "100%"}}>
+          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} title="Copy binary value" style={{marginTop: "15px", width: "100%"}}>
             {loadingAction === "copy" ? "Copying..." : "Copy"}
           </button>
         </div>

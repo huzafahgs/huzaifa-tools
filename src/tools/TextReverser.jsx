@@ -110,18 +110,27 @@ export default function TextReverser() {
           setError("");
           setStatus("");
         }}
+        onKeyDown={(e) => {
+          if ((e.ctrlKey || e.metaKey) && e.key === "Enter") {
+            reverse();
+          }
+        }}
         placeholder="Enter your text here..."
         className="tool-textarea"
+        aria-describedby="reverse-help"
       />
+      <p id="reverse-help" style={{ color: "#aaa", marginTop: "-20px", marginBottom: "20px" }}>
+        Press Ctrl+Enter to reverse characters.
+      </p>
 
       <div style={{display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(170px, 1fr))", gap: "10px", marginBottom: "30px"}}>
-        <button className="tool-button" onClick={reverse} disabled={Boolean(loadingAction)}>
+        <button className="tool-button" onClick={reverse} disabled={Boolean(loadingAction)} title="Reverse characters">
           {loadingAction === "characters" ? "Reversing..." : "Reverse Characters"}
         </button>
-        <button className="tool-button" onClick={reverseWords} disabled={Boolean(loadingAction)}>
+        <button className="tool-button" onClick={reverseWords} disabled={Boolean(loadingAction)} title="Reverse word order">
           {loadingAction === "words" ? "Reversing..." : "Reverse Words"}
         </button>
-        <button className="tool-button" onClick={reverseParagraphs} disabled={Boolean(loadingAction)}>
+        <button className="tool-button" onClick={reverseParagraphs} disabled={Boolean(loadingAction)} title="Reverse paragraph order">
           {loadingAction === "paragraphs" ? "Reversing..." : "Reverse Paragraphs"}
         </button>
       </div>
@@ -130,7 +139,7 @@ export default function TextReverser() {
         <div className="output-box" aria-live="polite" style={{whiteSpace: "pre-wrap", overflowWrap: "anywhere"}}>
           <div className="output-label">Reversed Text:</div>
           {reversed}
-          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} style={{marginTop: "15px", width: "100%"}}>
+          <button className="tool-button-secondary" onClick={copy} disabled={Boolean(loadingAction)} title="Copy reversed text" style={{marginTop: "15px", width: "100%"}}>
             {loadingAction === "copy" ? "Copying..." : "Copy"}
           </button>
         </div>
