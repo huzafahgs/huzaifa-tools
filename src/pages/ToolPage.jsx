@@ -74,7 +74,14 @@ function ToolPage() {
 
   return (
     <Layout title={tool.name}>
-      <Suspense fallback={<div style={{ padding: "40px", color: "white", textAlign: "center" }}>Loading...</div>}>
+      <Suspense fallback={
+        <div className="tool-container">
+          <div className="loading-state" role="status" aria-live="polite">
+            <span className="loading" aria-hidden="true"></span>
+            <span>Loading {tool.name}...</span>
+          </div>
+        </div>
+      }>
         {Component ? <Component /> : <ComingSoon toolName={tool.name} />}
       </Suspense>
     </Layout>
