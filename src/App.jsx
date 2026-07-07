@@ -9,13 +9,22 @@ function App() {
   const [selectedCategory, setSelectedCategory] = useState("All");
 
   const categories = ["All", ...new Set(tools.map(t => t.category))];
+  const trimmedSearch = searchQuery.trim();
 
   const filteredTools = tools.filter(tool => {
-    const matchesSearch = tool.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                          tool.description.toLowerCase().includes(searchQuery.toLowerCase());
+    const query = trimmedSearch.toLowerCase();
+    const matchesSearch = tool.name.toLowerCase().includes(query) ||
+                          tool.description.toLowerCase().includes(query);
     const matchesCategory = selectedCategory === "All" || tool.category === selectedCategory;
     return matchesSearch && matchesCategory;
   });
+  const hasActiveSearch = Boolean(trimmedSearch);
+  const searchSummary = hasActiveSearch
+    ? `${filteredTools.length} result${filteredTools.length === 1 ? "" : "s"} for "${trimmedSearch}"`
+    : `Browse ${filteredTools.length} available tools`;
+  const getCategoryCount = (category) => (
+    category === "All" ? tools.length : tools.filter(tool => tool.category === category).length
+  );
 
   return (
     <Layout title="Home">
@@ -25,15 +34,30 @@ function App() {
           <input
             id="home-tool-search"
             type="search"
-            placeholder="Search any tool..."
+            placeholder="Search tools, converters, calculators..."
             className="search"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === "Escape") {
+                setSearchQuery("");
+              }
+            }}
             aria-describedby="home-tool-search-help"
             autoComplete="off"
           />
+          {hasActiveSearch && (
+            <button
+              type="button"
+              className="search-clear"
+              onClick={() => setSearchQuery("")}
+              aria-label="Clear search"
+            >
+              ×
+            </button>
+          )}
           <p id="home-tool-search-help" className="search-help">
-            Find calculators, converters, generators, and developer tools.
+            {searchSummary}. Press Escape to clear search.
           </p>
         </div>
         <button type="button" className="login-btn">Login / Sign Up</button>
@@ -66,7 +90,8 @@ function App() {
             aria-pressed={selectedCategory === category}
             className={`category-pill${selectedCategory === category ? " category-pill--active" : ""}`}
           >
-            {category}
+            <span>{category}</span>
+            <span className="category-count">{getCategoryCount(category)}</span>
           </button>
         ))}
       </div>
@@ -94,8 +119,20 @@ function App() {
           <div className="empty-state-icon" aria-hidden="true">🔍</div>
           <h3 className="empty-state-title">No tools found</h3>
           <p className="empty-state-text">
-            Try a different search term or category to discover our full toolkit.
+            Try clearing your search, using a broader keyword, or switching to All categories.
           </p>
+          {(hasActiveSearch || selectedCategory !== "All") && (
+            <button
+              type="button"
+              className="empty-state-action"
+              onClick={() => {
+                setSearchQuery("");
+                setSelectedCategory("All");
+              }}
+            >
+              Reset filters
+            </button>
+          )}
         </div>
       )}
 

@@ -197,7 +197,7 @@ body::before {
 .search {
   width: 100%;
   min-height: 3.5rem;
-  padding: var(--space-4) var(--space-5) var(--space-4) var(--space-12);
+  padding: var(--space-4) var(--space-12) var(--space-4) var(--space-12);
   border: 1px solid var(--color-border-subtle);
   border-radius: var(--radius-xl);
   background: var(--glass-bg);
@@ -221,6 +221,34 @@ body::before {
   color: var(--color-text-subtle);
   font-size: var(--text-lg);
   pointer-events: none;
+}
+
+.search-clear {
+  position: absolute;
+  right: var(--space-3);
+  bottom: calc(var(--space-4) - 1px);
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-full);
+  background: var(--color-bg-raised);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  font-size: var(--text-lg);
+  line-height: 1;
+  display: grid;
+  place-items: center;
+  transition:
+    background-color var(--duration-fast) var(--ease-out),
+    border-color var(--duration-fast) var(--ease-out),
+    color var(--duration-fast) var(--ease-out);
+}
+
+.search-clear:hover,
+.search-clear:focus-visible {
+  background: var(--theme-accent);
+  border-color: var(--theme-accent);
+  color: var(--color-text-inverse);
 }
 
 .search::placeholder {
@@ -382,11 +410,29 @@ body::before {
   cursor: pointer;
   font-weight: var(--font-weight-bold);
   font-size: var(--text-sm);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
   transition:
     background-color var(--duration-normal) var(--ease-out),
     color var(--duration-normal) var(--ease-out),
     transform var(--duration-fast) var(--ease-out),
     box-shadow var(--duration-normal) var(--ease-out);
+}
+
+.category-count {
+  min-width: 1.65rem;
+  padding: 0 var(--space-2);
+  border-radius: var(--radius-full);
+  background: rgba(255, 215, 0, 0.12);
+  color: inherit;
+  font-size: var(--text-xs);
+  line-height: 1.6;
+}
+
+.category-pill--active .category-count {
+  background: rgba(0, 0, 0, 0.14);
 }
 
 .category-pill:hover {
@@ -574,6 +620,24 @@ body::before {
   line-height: var(--leading-relaxed);
 }
 
+.empty-state-action {
+  margin-top: var(--space-5);
+  padding: var(--space-3) var(--space-6);
+  border: 1px solid var(--theme-accent);
+  border-radius: var(--radius-md);
+  background: var(--theme-accent);
+  color: var(--color-text-inverse);
+  font-weight: var(--font-weight-bold);
+  cursor: pointer;
+  box-shadow: var(--shadow-gold-sm);
+}
+
+.empty-state-action:hover,
+.empty-state-action:focus-visible {
+  background: var(--color-gold-bright);
+  box-shadow: var(--shadow-gold-md);
+}
+
 /* ── Loading & Skeleton ── */
 
 .loading-spinner {
@@ -726,6 +790,7 @@ body::before {
   .category-pill {
     flex: 1 1 calc(50% - var(--space-2));
     text-align: center;
+    padding-inline: var(--space-3);
   }
 
   .tools-grid {
