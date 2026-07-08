@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://huzaifa-ai-tools.vercel.app/sitemap.xml
+Sitemap: https://huzaifatools.com/sitemap.xml
