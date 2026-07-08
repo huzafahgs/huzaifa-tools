@@ -138,6 +138,24 @@ function App() {
 
       <footer className="site-footer">
         <p>© 2024 Huzaifa Tools. All rights reserved.</p>
+        <div style={{
+          display: "flex",
+          justifyContent: "center",
+          flexWrap: "wrap",
+          gap: "15px",
+          margin: "15px 0",
+          fontSize: "14px"
+        }}>
+          <Link to="/about-us" style={{ color: "gold", textDecoration: "none" }}>About Us</Link>
+          <span style={{ color: "#444" }}>|</span>
+          <Link to="/contact" style={{ color: "gold", textDecoration: "none" }}>Contact</Link>
+          <span style={{ color: "#444" }}>|</span>
+          <Link to="/privacy-policy" style={{ color: "gold", textDecoration: "none" }}>Privacy Policy</Link>
+          <span style={{ color: "#444" }}>|</span>
+          <Link to="/terms-conditions" style={{ color: "gold", textDecoration: "none" }}>Terms & Conditions</Link>
+          <span style={{ color: "#444" }}>|</span>
+          <Link to="/disclaimer" style={{ color: "gold", textDecoration: "none" }}>Disclaimer</Link>
+        </div>
         <p className="brand-line">Powered by Huzaifa Group of Software</p>
       </footer>
     </Layout>
