@@ -13,6 +13,13 @@ const navItems = [
   { to: "/contact", label: "Contact", icon: "📞" },
 ];
 
+const legalLinks = [
+  { to: "/about-us", label: "About" },
+  { to: "/privacy-policy", label: "Privacy" },
+  { to: "/terms-conditions", label: "Terms" },
+  { to: "/disclaimer", label: "Disclaimer" },
+];
+
 function Layout({ children }) {
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -65,6 +72,13 @@ function Layout({ children }) {
         <div className="sidebar-footer">
           <p>Powered by</p>
           <p className="brand-line">Huzaifa Group of Software</p>
+          <nav className="legal-links" aria-label="Legal pages">
+            {legalLinks.map(({ to, label }) => (
+              <Link key={to} to={to} onClick={closeMenu}>
+                {label}
+              </Link>
+            ))}
+          </nav>
         </div>
       </aside>
 

@@ -128,6 +128,26 @@ body::before {
   margin-top: var(--space-1);
 }
 
+.legal-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2) var(--space-3);
+  margin-top: var(--space-4);
+}
+
+.legal-links a {
+  color: var(--color-text-subtle);
+  font-size: var(--text-xs);
+  text-decoration: none;
+}
+
+.legal-links a:hover,
+.legal-links a:focus-visible {
+  color: var(--theme-accent);
+  text-decoration: underline;
+}
+
 /* Mobile nav */
 .nav-toggle {
   display: none;
