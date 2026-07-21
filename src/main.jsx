@@ -6,6 +6,7 @@ import "./index.css";
 import App from "./App.jsx";
 import ToolPage from "./pages/ToolPage.jsx";
 import Blog from "./pages/Blog.jsx";
+import BlogPost from "./pages/BlogPost.jsx";
 import Favorites from "./pages/Favorites.jsx";
 import History from "./pages/History.jsx";
 import Pricing from "./pages/Pricing.jsx";
@@ -27,6 +28,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/" element={<App />} />
         <Route path="/all-tools" element={<AllTools />} />
         <Route path="/blog" element={<Blog />} />
+        <Route path="/blog/:slug" element={<BlogPost />} />
         <Route path="/favorites" element={<Favorites />} />
         <Route path="/history" element={<History />} />
         <Route path="/pricing" element={<Pricing />} />

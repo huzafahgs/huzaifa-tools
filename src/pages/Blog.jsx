@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Layout from "../components/Layout";
 
 function Blog() {
@@ -23,18 +24,23 @@ function Blog() {
               Our mission is to provide you with the best free tools for text manipulation, calculations, conversions, and more.
               Each tool is designed with simplicity and efficiency in mind.
             </p>
-            <button style={{
-              background: "gold",
-              color: "black",
-              border: "none",
-              padding: "10px 20px",
-              borderRadius: "5px",
-              cursor: "pointer",
-              fontWeight: "bold",
-              marginTop: "15px"
-            }}>
+            <Link
+              to="/blog/welcome-to-huzaifa-tools"
+              style={{
+                background: "gold",
+                color: "black",
+                border: "none",
+                padding: "10px 20px",
+                borderRadius: "5px",
+                cursor: "pointer",
+                fontWeight: "bold",
+                marginTop: "15px",
+                textDecoration: "none",
+                display: "inline-block"
+              }}
+            >
               Read More →
-            </button>
+            </Link>
           </article>
 
           <article style={{
@@ -50,18 +56,23 @@ function Blog() {
               We've just launched our complete toolkit with over 50 free tools covering everything from text processing to calculations.
               All tools work locally without requiring an API key.
             </p>
-            <button style={{
-              background: "gold",
-              color: "black",
-              border: "none",
-              padding: "10px 20px",
-              borderRadius: "5px",
-              cursor: "pointer",
-              fontWeight: "bold",
-              marginTop: "15px"
-            }}>
+            <Link
+              to="/blog/50-tools-at-your-fingertips"
+              style={{
+                background: "gold",
+                color: "black",
+                border: "none",
+                padding: "10px 20px",
+                borderRadius: "5px",
+                cursor: "pointer",
+                fontWeight: "bold",
+                marginTop: "15px",
+                textDecoration: "none",
+                display: "inline-block"
+              }}
+            >
               Read More →
-            </button>
+            </Link>
           </article>
 
           <div style={{ textAlign: "center", padding: "30px", color: "#666" }}>
