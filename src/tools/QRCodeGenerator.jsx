@@ -47,7 +47,15 @@ export default function QRCodeGenerator() {
 
       {qrCode && (
         <div style={{textAlign: "center"}}>
-          <img src={qrCode} alt="QR Code" style={{border: "2px solid gold", borderRadius: "10px", maxWidth: "300px"}} />
+          <img
+            src={qrCode}
+            alt="Generated QR code"
+            width="300"
+            height="300"
+            loading="lazy"
+            decoding="async"
+            style={{border: "2px solid gold", borderRadius: "10px", maxWidth: "300px", height: "auto"}}
+          />
           <button className="tool-button" onClick={downloadQR} style={{marginTop: "20px"}}>
             Download QR Code
           </button>

@@ -45,25 +45,32 @@ function Contact() {
           <div>
             <h2 style={{ color: "gold", marginBottom: "20px" }}>Send us a Message</h2>
             {submitted && (
-              <div style={{
-                background: "#1a3a1a",
-                border: "1px solid #4caf50",
-                color: "#4caf50",
-                padding: "15px",
-                borderRadius: "5px",
-                marginBottom: "20px"
-              }}>
+              <div
+                role="status"
+                aria-live="polite"
+                style={{
+                  background: "#1a3a1a",
+                  border: "1px solid #4caf50",
+                  color: "#4caf50",
+                  padding: "15px",
+                  borderRadius: "5px",
+                  marginBottom: "20px"
+                }}
+              >
                 ✓ Thank you! We'll get back to you soon.
               </div>
             )}
             <form onSubmit={handleSubmit}>
               <div style={{ marginBottom: "20px" }}>
-                <label style={{ color: "gold", display: "block", marginBottom: "8px" }}>Name</label>
+                <label htmlFor="contact-name" style={{ color: "gold", display: "block", marginBottom: "8px" }}>Name</label>
                 <input
+                  id="contact-name"
                   type="text"
                   name="name"
                   value={formData.name}
                   onChange={handleChange}
+                  required
+                  autoComplete="name"
                   style={{
                     width: "100%",
                     padding: "10px",
@@ -79,10 +86,13 @@ function Contact() {
               <div style={{ marginBottom: "20px" }}>
                 <label style={{ color: "gold", display: "block", marginBottom: "8px" }}>Email</label>
                 <input
+                  id="contact-email"
                   type="email"
                   name="email"
                   value={formData.email}
                   onChange={handleChange}
+                  required
+                  autoComplete="email"
                   style={{
                     width: "100%",
                     padding: "10px",
@@ -98,10 +108,12 @@ function Contact() {
               <div style={{ marginBottom: "20px" }}>
                 <label style={{ color: "gold", display: "block", marginBottom: "8px" }}>Subject</label>
                 <input
+                  id="contact-subject"
                   type="text"
                   name="subject"
                   value={formData.subject}
                   onChange={handleChange}
+                  required
                   style={{
                     width: "100%",
                     padding: "10px",
@@ -115,11 +127,13 @@ function Contact() {
                 />
               </div>
               <div style={{ marginBottom: "20px" }}>
-                <label style={{ color: "gold", display: "block", marginBottom: "8px" }}>Message</label>
+                <label htmlFor="contact-message" style={{ color: "gold", display: "block", marginBottom: "8px" }}>Message</label>
                 <textarea
+                  id="contact-message"
                   name="message"
                   value={formData.message}
                   onChange={handleChange}
+                  required
                   style={{
                     width: "100%",
                     padding: "10px",
@@ -175,11 +189,11 @@ function Contact() {
             }}>
               <h3 style={{ color: "gold", marginBottom: "10px" }}>🌐 Social Media</h3>
               <p style={{ color: "#ddd" }}>Follow us on social media for updates:</p>
-              <div style={{ display: "flex", gap: "10px", marginTop: "10px" }}>
-                <a href="#" style={{ color: "gold", textDecoration: "none" }}>Twitter</a>
-                <a href="#" style={{ color: "gold", textDecoration: "none" }}>Facebook</a>
-                <a href="#" style={{ color: "gold", textDecoration: "none" }}>Instagram</a>
-                <a href="#" style={{ color: "gold", textDecoration: "none" }}>LinkedIn</a>
+              <div style={{ display: "flex", flexWrap: "wrap", gap: "10px", marginTop: "10px" }}>
+                <a href="mailto:support@huzaifahub.com" style={{ color: "gold", textDecoration: "none" }}>Email</a>
+                <a href="/contact" style={{ color: "gold", textDecoration: "none" }}>Contact</a>
+                <a href="/about-us" style={{ color: "gold", textDecoration: "none" }}>About</a>
+                <a href="/blog" style={{ color: "gold", textDecoration: "none" }}>Blog</a>
               </div>
             </div>
 

@@ -12,6 +12,7 @@ import Pricing from "./pages/Pricing.jsx";
 import Contact from "./pages/Contact.jsx";
 import AllTools from "./pages/AllTools.jsx";
 import Chat from "./pages/Chat.jsx";
+import SeoHead from "./components/SeoHead.jsx";
 import AboutUs from "./pages/AboutUs.jsx";
 import PrivacyPolicy from "./pages/PrivacyPolicy.jsx";
 import TermsConditions from "./pages/TermsConditions.jsx";
@@ -21,6 +22,7 @@ import "./tools"; // This import ensures all tools are registered
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <BrowserRouter>
+      <SeoHead />
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/all-tools" element={<AllTools />} />

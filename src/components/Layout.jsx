@@ -45,7 +45,15 @@ function Layout({ children }) {
 
       <aside id="sidebar-nav" className={`sidebar${menuOpen ? " is-open" : ""}`}>
         <Link to="/" style={{ textDecoration: "none" }} onClick={closeMenu}>
-          <img src={logo} alt="Huzaifa Logo" className="logo" />
+          <img
+            src={logo}
+            alt="Huzaifa Logo"
+            className="logo"
+            width="120"
+            height="120"
+            loading="eager"
+            decoding="async"
+          />
           <h2 className="brand">HUZAIFA</h2>
         </Link>
 
