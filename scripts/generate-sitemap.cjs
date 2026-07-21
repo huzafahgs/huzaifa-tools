@@ -6,6 +6,15 @@ async function main() {
   const toolsModuleUrl = pathToFileURL(path.resolve(__dirname, '../src/toolsData.js'));
   const toolsModule = await import(toolsModuleUrl.href);
   const tools = toolsModule.default || [];
+
+  const registeredToolsPath = path.resolve(__dirname, '../src/tools/index.js');
+  const registeredToolsSource = fs.readFileSync(registeredToolsPath, 'utf8');
+  const registeredToolSlugs = new Set(
+    [...registeredToolsSource.matchAll(/registerTool\("([^"]+)"/g)].map((match) => match[1])
+  );
+
+  const registeredTools = tools.filter((tool) => tool?.slug && registeredToolSlugs.has(tool.slug));
+
   const SITE_URL = process.env.VITE_SITE_URL || 'https://ai-tools-by-huzaifa.vercel.app';
 
   const staticRoutes = [
@@ -21,7 +30,7 @@ async function main() {
 
   const urls = [
     ...staticRoutes.map((route) => ({ loc: `${SITE_URL}${route}`, changefreq: 'weekly', priority: route === '/' ? '1.0' : '0.8' })),
-    ...tools.map((tool) => ({
+    ...registeredTools.map((tool) => ({
       loc: `${SITE_URL}/${tool.slug}`,
       changefreq: 'weekly',
       priority: '0.8',
