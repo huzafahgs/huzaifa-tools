@@ -60,9 +60,10 @@ export default function SeoHead({ title }) {
     setMeta("twitter:description", seo.twitterDescription);
     setMeta("twitter:image", seo.twitterImage);
 
-    // Ensure browser icons use the branded assets shipped with the app.
-    setLink("icon", "/favicon.svg");
-    setLink("apple-touch-icon", "/logo.png");
+    // Ensure browser icons use the official Huzaifa favicon on every route.
+    setLink("icon", "/favicon.ico");
+    setLink("shortcut icon", "/favicon.ico");
+    setLink("apple-touch-icon", "/favicon.png");
 
     const existingScript = document.getElementById("app-jsonld");
     if (existingScript) existingScript.remove();

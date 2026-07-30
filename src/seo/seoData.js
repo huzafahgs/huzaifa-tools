@@ -2,42 +2,42 @@ import tools from "../toolsData";
 import logoAsset from "../assets/logo.png";
 
 const SITE_URL = import.meta.env.VITE_SITE_URL || "https://ai-tools-by-huzaifa.vercel.app";
-const DEFAULT_TITLE = "Huzaifa Office - 50+ Free AI Tools";
-const DEFAULT_DESCRIPTION = "Huzaifa Office offers 50+ free AI tools for text processing, calculations, conversions, and productivity.";
+const DEFAULT_TITLE = "Huzaifa Tools – 600+ Free AI & Utility Tools";
+const DEFAULT_DESCRIPTION = "Huzaifa Tools offers 600+ free AI and utility tools for text processing, calculations, conversions, and productivity.";
 const DEFAULT_IMAGE = logoAsset;
 
 const ROUTE_META = {
   "/": {
-    title: "Huzaifa Office - 50+ Free AI Tools",
+    title: "Huzaifa Tools – 600+ Free AI & Utility Tools",
     description: DEFAULT_DESCRIPTION,
   },
   "/all-tools": {
-    title: "All Tools | Huzaifa Office",
-    description: "Explore the full catalog of free tools on Huzaifa Office.",
+    title: "All Tools | Huzaifa Tools",
+    description: "Explore the full catalog of free tools on Huzaifa Tools.",
   },
   "/blog": {
-    title: "Blog | Huzaifa Office",
-    description: "Read the latest updates, product news, and tips from Huzaifa Office.",
+    title: "Blog | Huzaifa Tools",
+    description: "Read the latest updates, product news, and tips from Huzaifa Tools.",
   },
   "/favorites": {
-    title: "Favorites | Huzaifa Office",
-    description: "Save and revisit your favorite tools on Huzaifa Office.",
+    title: "Favorites | Huzaifa Tools",
+    description: "Save and revisit your favorite tools on Huzaifa Tools.",
   },
   "/history": {
-    title: "History | Huzaifa Office",
-    description: "Review your recent tool activity on Huzaifa Office.",
+    title: "History | Huzaifa Tools",
+    description: "Review your recent tool activity on Huzaifa Tools.",
   },
   "/pricing": {
-    title: "Pricing | Huzaifa Office",
-    description: "Use Huzaifa Office tools completely free with a premium experience in mind.",
+    title: "Pricing | Huzaifa Tools",
+    description: "Use Huzaifa Tools completely free with a premium experience in mind.",
   },
   "/contact": {
-    title: "Contact | Huzaifa Office",
+    title: "Contact | Huzaifa Tools",
     description: "Contact Huzaifa Group of Software for support, questions, or partnership inquiries.",
   },
   "/chat": {
-    title: "AI Chat | Huzaifa Office",
-    description: "Chat with Huzaifa Office for product guidance and support.",
+    title: "AI Chat | Huzaifa Tools",
+    description: "Chat with Huzaifa Tools for product guidance and support.",
   },
 };
 
@@ -50,15 +50,15 @@ function buildToolDescription(tool) {
   if (!tool) return DEFAULT_DESCRIPTION;
   if (tool.seoDescription) return tool.seoDescription;
   if (tool.description) {
-    return `${tool.description} Fast, secure, and free on Huzaifa Office.`;
+    return `${tool.description} Fast, secure, and free on Huzaifa Tools.`;
   }
-  return `${tool.name} is available for free on Huzaifa Office.`;
+  return `${tool.name} is available for free on Huzaifa Tools.`;
 }
 
 function buildToolTitle(tool, fallbackTitle) {
   if (!tool) return fallbackTitle || DEFAULT_TITLE;
   if (tool.seoTitle) return tool.seoTitle;
-  return `${tool.name} | Huzaifa Office`;
+  return `${tool.name} | Huzaifa Tools`;
 }
 
 export function getPageSeoData(pathname, fallbackTitle) {
