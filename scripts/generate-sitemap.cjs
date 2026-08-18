@@ -3,19 +3,38 @@ const path = require('path');
 const { pathToFileURL } = require('url');
 
 async function main() {
-  const toolsModuleUrl = pathToFileURL(path.resolve(__dirname, '../src/toolsData.js'));
+  const toolsModuleUrl = pathToFileURL(
+    path.resolve(__dirname, '../src/toolsData.js')
+  );
+
   const toolsModule = await import(toolsModuleUrl.href);
   const tools = toolsModule.default || [];
 
-  const registeredToolsPath = path.resolve(__dirname, '../src/tools/index.js');
-  const registeredToolsSource = fs.readFileSync(registeredToolsPath, 'utf8');
-  const registeredToolSlugs = new Set(
-    [...registeredToolsSource.matchAll(/registerTool\("([^"]+)"/g)].map((match) => match[1])
+  const registeredToolsPath = path.resolve(
+    __dirname,
+    '../src/tools/index.js'
   );
 
-  const registeredTools = tools.filter((tool) => tool?.slug && registeredToolSlugs.has(tool.slug));
+  const registeredToolsSource = fs.readFileSync(
+    registeredToolsPath,
+    'utf8'
+  );
 
-  const SITE_URL = process.env.VITE_SITE_URL || 'https://ai-tools-by-huzaifa.vercel.app';
+  const registeredToolSlugs = new Set(
+    [...registeredToolsSource.matchAll(/registerTool\("([^"]+)"/g)].map(
+      (match) => match[1]
+    )
+  );
+
+  const registeredTools = tools.filter(
+    (tool) =>
+      tool?.slug &&
+      registeredToolSlugs.has(tool.slug)
+  );
+
+  const SITE_URL =
+    process.env.VITE_SITE_URL ||
+    'https://ai-tools-by-huzaifa.vercel.app';
 
   const staticRoutes = [
     '/',
@@ -26,10 +45,19 @@ async function main() {
     '/pricing',
     '/contact',
     '/chat',
+    '/about-us',
+    '/privacy-policy',
+    '/terms-conditions',
+    '/disclaimer',
   ];
 
   const urls = [
-    ...staticRoutes.map((route) => ({ loc: `${SITE_URL}${route}`, changefreq: 'weekly', priority: route === '/' ? '1.0' : '0.8' })),
+    ...staticRoutes.map((route) => ({
+      loc: `${SITE_URL}${route}`,
+      changefreq: 'weekly',
+      priority: route === '/' ? '1.0' : '0.8',
+    })),
+
     ...registeredTools.map((tool) => ({
       loc: `${SITE_URL}/${tool.slug}`,
       changefreq: 'weekly',
@@ -37,14 +65,24 @@ async function main() {
     })),
   ];
 
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls
-    .map(
-      (item) => `  <url><loc>${item.loc}</loc><changefreq>${item.changefreq}</changefreq><priority>${item.priority}</priority></url>`
-    )
-    .join('\n')}\n</urlset>\n`;
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls
+  .map(
+    (item) =>
+      `  <url><loc>${item.loc}</loc><changefreq>${item.changefreq}</changefreq><priority>${item.priority}</priority></url>`
+  )
+  .join('\n')}
+</urlset>
+`;
 
-  const outputPath = path.resolve(__dirname, '../public/sitemap.xml');
+  const outputPath = path.resolve(
+    __dirname,
+    '../public/sitemap.xml'
+  );
+
   fs.writeFileSync(outputPath, xml, 'utf8');
+
   console.log(`Sitemap generated with ${urls.length} URLs`);
 }
 
