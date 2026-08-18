@@ -41,7 +41,7 @@ function BlogPost() {
     setMeta("og:title", post.metaTitle, "property");
     setMeta("og:description", post.metaDescription, "property");
     setMeta("og:type", "article", "property");
-    setMeta("og:url", `${window.location.origin}/blog/${post.slug}", "property");
+    setMeta("og:url", `${window.location.origin}/blog/${post.slug}`, "property");
     setMeta("og:image", post.featuredImage, "property");
 
     setMeta("twitter:card", "summary_large_image");
