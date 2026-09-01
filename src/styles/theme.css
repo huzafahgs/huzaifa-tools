@@ -1,0 +1,192 @@
+/**
+ * Huzaifa Tools — Theme (TASK 001)
+ * Semantic mapping + glassmorphism utilities
+ */
+
+@import "./tokens.css";
+
+/* ── Semantic Theme ── */
+
+:root,
+[data-theme="luxury"] {
+  color-scheme: dark;
+
+  /* Backgrounds */
+  --color-bg: var(--ht-black-900);
+  --color-bg-elevated: var(--ht-black-800);
+  --color-bg-surface: var(--ht-black-700);
+  --color-bg-surface-alt: var(--ht-black-650);
+  --color-bg-gradient-start: var(--ht-black-650);
+  --color-bg-gradient-end: var(--ht-black-750);
+  --color-bg-overlay: var(--ht-black-overlay);
+
+  /* Accent */
+  --color-accent: var(--ht-gold-200);
+  --color-accent-hover: var(--ht-gold-100);
+  --color-accent-muted: var(--ht-gold-500);
+  --color-accent-subtle: var(--ht-gold-alpha-08);
+  --color-accent-ring: var(--ht-gold-alpha-18);
+
+  /* Text */
+  --color-text: var(--ht-white);
+  --color-text-secondary: var(--ht-gray-200);
+  --color-text-muted: var(--ht-gray-300);
+  --color-text-subtle: var(--ht-gray-400);
+  --color-text-faint: var(--ht-gray-500);
+  --color-text-inverse: var(--ht-black-pure);
+  --color-text-accent: var(--ht-gold-200);
+
+  /* Border */
+  --color-border: var(--ht-border-default);
+  --color-border-muted: var(--ht-border-muted);
+  --color-border-accent: var(--ht-gold-200);
+
+  /* Focus */
+  --color-focus-ring: var(--ht-gold-alpha-18);
+  --color-focus-outline: var(--ht-gold-200);
+
+  /* Typography (semantic) */
+  --font-display: var(--ht-font-display);
+  --font-body: var(--ht-font-body);
+  --font-mono: var(--ht-font-mono);
+
+  /* Spacing (semantic shortcuts) */
+  --space-xs: var(--ht-space-2);
+  --space-sm: var(--ht-space-3);
+  --space-md: var(--ht-space-4);
+  --space-lg: var(--ht-space-6);
+  --space-xl: var(--ht-space-8);
+  --space-2xl: var(--ht-space-12);
+  --space-3xl: var(--ht-space-16);
+
+  /* Radius (semantic) */
+  --radius-sm: var(--ht-radius-sm);
+  --radius-md: var(--ht-radius-md);
+  --radius-lg: var(--ht-radius-lg);
+  --radius-xl: var(--ht-radius-xl);
+
+  /* Shadow (semantic) */
+  --shadow-sm: var(--ht-shadow-sm);
+  --shadow-md: var(--ht-shadow-md);
+  --shadow-lg: var(--ht-shadow-lg);
+  --shadow-xl: var(--ht-shadow-xl);
+  --shadow-gold: var(--ht-shadow-gold-md);
+  --shadow-focus: var(--ht-shadow-gold-ring);
+
+  /* Glass (semantic) */
+  --glass-bg: var(--ht-glass-bg);
+  --glass-bg-strong: var(--ht-glass-bg-strong);
+  --glass-border: var(--ht-glass-border);
+  --glass-blur: var(--ht-glass-blur);
+}
+
+/* ── Glassmorphism Utilities ── */
+
+.ht-glass {
+  background: var(--ht-glass-bg);
+  backdrop-filter: blur(var(--ht-glass-blur)) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur)) saturate(var(--ht-glass-saturate));
+  border: 1px solid var(--ht-glass-border);
+  box-shadow: var(--ht-shadow-md), var(--ht-shadow-inner);
+}
+
+.ht-glass-strong {
+  background: var(--ht-glass-bg-strong);
+  backdrop-filter: blur(var(--ht-glass-blur-lg)) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur-lg)) saturate(var(--ht-glass-saturate));
+  border: 1px solid var(--ht-glass-border-strong);
+  box-shadow: var(--ht-shadow-lg), var(--ht-shadow-inner);
+}
+
+.ht-glass-subtle {
+  background: var(--ht-glass-bg-subtle);
+  backdrop-filter: blur(var(--ht-glass-blur-sm)) saturate(var(--ht-glass-saturate-soft));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur-sm)) saturate(var(--ht-glass-saturate-soft));
+  border: 1px solid var(--ht-glass-border-faint);
+}
+
+.ht-glass-gold {
+  background: var(--ht-glass-bg-gold);
+  backdrop-filter: blur(var(--ht-glass-blur)) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur)) saturate(var(--ht-glass-saturate));
+  border: 1px solid var(--ht-glass-border);
+  box-shadow: var(--ht-shadow-gold-sm);
+}
+
+.ht-glass-panel {
+  background: linear-gradient(
+    145deg,
+    rgba(20, 27, 52, 0.78) 0%,
+    rgba(12, 16, 34, 0.62) 100%
+  );
+  backdrop-filter: blur(var(--ht-glass-blur)) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur)) saturate(var(--ht-glass-saturate));
+  border: 1px solid var(--ht-glass-border);
+  border-radius: var(--ht-radius-xl);
+  box-shadow: var(--ht-shadow-elevated);
+}
+
+.ht-glass-card {
+  background: linear-gradient(
+    180deg,
+    rgba(20, 27, 52, 0.84) 0%,
+    rgba(15, 21, 41, 0.72) 100%
+  );
+  backdrop-filter: blur(12px) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(12px) saturate(var(--ht-glass-saturate));
+  border: 1px solid var(--ht-glass-border);
+  border-radius: var(--ht-radius-xl);
+  box-shadow: var(--ht-shadow-card);
+  transition:
+    border-color 200ms ease,
+    box-shadow 200ms ease,
+    transform 200ms ease;
+}
+
+.ht-glass-card:hover {
+  border-color: var(--ht-glass-border-strong);
+  box-shadow: var(--ht-shadow-card-hover);
+  transform: translateY(-2px);
+}
+
+.ht-glass-nav {
+  background: rgba(12, 16, 34, 0.82);
+  backdrop-filter: blur(var(--ht-glass-blur-lg)) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur-lg)) saturate(var(--ht-glass-saturate));
+  border-bottom: 1px solid var(--ht-glass-border);
+  box-shadow: var(--ht-shadow-sm);
+}
+
+.ht-glass-modal {
+  background: var(--ht-glass-bg-strong);
+  backdrop-filter: blur(var(--ht-glass-blur-xl)) saturate(var(--ht-glass-saturate));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur-xl)) saturate(var(--ht-glass-saturate));
+  border: 1px solid var(--ht-glass-border-strong);
+  border-radius: var(--ht-radius-2xl);
+  box-shadow: var(--ht-shadow-2xl), var(--ht-shadow-gold-glow);
+}
+
+.ht-glass-input {
+  background: rgba(12, 16, 34, 0.55);
+  backdrop-filter: blur(var(--ht-glass-blur-sm));
+  -webkit-backdrop-filter: blur(var(--ht-glass-blur-sm));
+  border: 1px solid var(--ht-border-muted);
+  border-radius: var(--ht-radius-md);
+  box-shadow: var(--ht-shadow-inner-deep);
+  transition: border-color 200ms ease, box-shadow 200ms ease;
+}
+
+.ht-glass-input:focus,
+.ht-glass-input:focus-within {
+  border-color: var(--ht-gold-200);
+  box-shadow: var(--ht-shadow-gold-ring), var(--ht-shadow-inner-deep);
+  outline: none;
+}
+
+/* ── Reduced Motion ── */
+
+@media (prefers-reduced-motion: reduce) {
+  .ht-glass-card:hover {
+    transform: none;
+  }
+}

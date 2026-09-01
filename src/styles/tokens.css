@@ -1,0 +1,294 @@
+/**
+ * Huzaifa Tools — Design Tokens (TASK 001)
+ * Premium Black & Gold · raw values only
+ */
+
+:root {
+  /* ── Black Scale ── */
+  --ht-black-pure: #000000;
+  --ht-black-950: #030508;
+  --ht-black-900: #050816;
+  --ht-black-850: #080d1a;
+  --ht-black-800: #0c1022;
+  --ht-black-750: #0f1529;
+  --ht-black-700: #11182f;
+  --ht-black-650: #141b34;
+  --ht-black-600: #1a2240;
+  --ht-black-overlay: rgba(5, 8, 22, 0.88);
+  --ht-black-scrim: rgba(0, 0, 0, 0.62);
+
+  /* ── Gold Scale ── */
+  --ht-gold-50: #fff9e0;
+  --ht-gold-100: #ffe566;
+  --ht-gold-200: #ffd700;
+  --ht-gold-300: #f0c800;
+  --ht-gold-400: #d4af37;
+  --ht-gold-500: #c9a227;
+  --ht-gold-600: #b8860b;
+  --ht-gold-700: #96700a;
+  --ht-gold-alpha-08: rgba(255, 215, 0, 0.08);
+  --ht-gold-alpha-14: rgba(255, 215, 0, 0.14);
+  --ht-gold-alpha-18: rgba(255, 215, 0, 0.18);
+  --ht-gold-alpha-28: rgba(255, 215, 0, 0.28);
+  --ht-gold-alpha-35: rgba(255, 215, 0, 0.35);
+  --ht-gold-alpha-50: rgba(255, 215, 0, 0.5);
+
+  /* ── Neutral Text ── */
+  --ht-white: #ffffff;
+  --ht-gray-100: #e8e8e8;
+  --ht-gray-200: #cccccc;
+  --ht-gray-300: #aaaaaa;
+  --ht-gray-400: #888888;
+  --ht-gray-500: #666666;
+  --ht-gray-600: #444444;
+
+  /* ── Border ── */
+  --ht-border-default: #222222;
+  --ht-border-muted: #2a2f45;
+  --ht-border-strong: #3a4058;
+
+  /* ── Semantic ── */
+  --ht-success-bg: #0e4a0e;
+  --ht-success-border: #4ec84e;
+  --ht-success-text: #99ff99;
+  --ht-error-bg: #4a0e0e;
+  --ht-error-border: #c84e4e;
+  --ht-error-text: #ff9999;
+  --ht-info-bg: #0e2a4a;
+  --ht-info-border: #4e8ec8;
+  --ht-info-text: #99d9ff;
+
+  /* ── Typography: Families ── */
+  --ht-font-display: "Georgia", "Times New Roman", "Palatino Linotype", serif;
+  --ht-font-body: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --ht-font-mono: ui-monospace, "Cascadia Code", "SF Mono", Consolas, "Liberation Mono", monospace;
+
+  /* ── Typography: Scale ── */
+  --ht-text-2xs: 0.6875rem;   /* 11px */
+  --ht-text-xs: 0.75rem;      /* 12px */
+  --ht-text-sm: 0.8125rem;    /* 13px */
+  --ht-text-base: 1rem;       /* 16px */
+  --ht-text-md: 1.125rem;     /* 18px */
+  --ht-text-lg: 1.25rem;      /* 20px */
+  --ht-text-xl: 1.5rem;       /* 24px */
+  --ht-text-2xl: 2rem;        /* 32px */
+  --ht-text-3xl: 2.25rem;     /* 36px */
+  --ht-text-4xl: 3rem;        /* 48px */
+  --ht-text-5xl: 3.75rem;     /* 60px */
+  --ht-text-6xl: 4.5rem;      /* 72px */
+
+  /* ── Typography: Weight ── */
+  --ht-weight-regular: 400;
+  --ht-weight-medium: 500;
+  --ht-weight-semibold: 600;
+  --ht-weight-bold: 700;
+
+  /* ── Typography: Line Height ── */
+  --ht-leading-none: 1;
+  --ht-leading-tight: 1.15;
+  --ht-leading-snug: 1.35;
+  --ht-leading-normal: 1.5;
+  --ht-leading-relaxed: 1.625;
+  --ht-leading-loose: 1.75;
+
+  /* ── Typography: Letter Spacing ── */
+  --ht-tracking-tighter: -0.03em;
+  --ht-tracking-tight: -0.02em;
+  --ht-tracking-normal: 0;
+  --ht-tracking-wide: 0.04em;
+  --ht-tracking-wider: 0.08em;
+  --ht-tracking-widest: 0.12em;
+
+  /* ── Spacing Scale (4px base) ── */
+  --ht-space-0: 0;
+  --ht-space-px: 1px;
+  --ht-space-0-5: 0.125rem;   /* 2px */
+  --ht-space-1: 0.25rem;      /* 4px */
+  --ht-space-1-5: 0.375rem;   /* 6px */
+  --ht-space-2: 0.5rem;       /* 8px */
+  --ht-space-2-5: 0.625rem;   /* 10px */
+  --ht-space-3: 0.75rem;      /* 12px */
+  --ht-space-3-5: 0.875rem;   /* 14px */
+  --ht-space-4: 1rem;         /* 16px */
+  --ht-space-5: 1.25rem;      /* 20px */
+  --ht-space-6: 1.5rem;       /* 24px */
+  --ht-space-7: 1.75rem;      /* 28px */
+  --ht-space-8: 2rem;         /* 32px */
+  --ht-space-9: 2.25rem;      /* 36px */
+  --ht-space-10: 2.5rem;      /* 40px */
+  --ht-space-11: 2.75rem;     /* 44px */
+  --ht-space-12: 3rem;        /* 48px */
+  --ht-space-14: 3.5rem;      /* 56px */
+  --ht-space-16: 4rem;        /* 64px */
+  --ht-space-20: 5rem;        /* 80px */
+  --ht-space-24: 6rem;        /* 96px */
+  --ht-space-32: 8rem;        /* 128px */
+
+  /* ── Radius ── */
+  --ht-radius-sm: 0.5rem;
+  --ht-radius-md: 0.625rem;
+  --ht-radius-lg: 0.875rem;
+  --ht-radius-xl: 1rem;
+  --ht-radius-2xl: 1.25rem;
+  --ht-radius-3xl: 1.5rem;
+  --ht-radius-full: 9999px;
+
+  /* ── Shadow Tokens ── */
+  --ht-shadow-none: none;
+  --ht-shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.18);
+  --ht-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.16);
+  --ht-shadow-md: 0 8px 18px rgba(0, 0, 0, 0.2);
+  --ht-shadow-lg: 0 12px 30px rgba(0, 0, 0, 0.24);
+  --ht-shadow-xl: 0 16px 40px rgba(0, 0, 0, 0.3);
+  --ht-shadow-2xl: 0 24px 56px rgba(0, 0, 0, 0.36);
+  --ht-shadow-inner: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  --ht-shadow-inner-deep: inset 0 2px 6px rgba(0, 0, 0, 0.35);
+  --ht-shadow-gold-sm: 0 4px 14px rgba(255, 215, 0, 0.12);
+  --ht-shadow-gold-md: 0 8px 22px rgba(255, 215, 0, 0.18);
+  --ht-shadow-gold-lg: 0 12px 32px rgba(255, 215, 0, 0.22);
+  --ht-shadow-gold-ring: 0 0 0 3px var(--ht-gold-alpha-18);
+  --ht-shadow-gold-glow: 0 0 24px var(--ht-gold-alpha-35);
+  --ht-shadow-elevated: var(--ht-shadow-lg), var(--ht-shadow-inner);
+  --ht-shadow-card: var(--ht-shadow-md), 0 0 0 1px rgba(255, 215, 0, 0.06);
+  --ht-shadow-card-hover: var(--ht-shadow-xl), 0 0 0 1px var(--ht-gold-alpha-28);
+
+  /* ── Glassmorphism Tokens ── */
+  --ht-glass-bg: rgba(12, 16, 34, 0.68);
+  --ht-glass-bg-strong: rgba(17, 24, 47, 0.86);
+  --ht-glass-bg-subtle: rgba(255, 255, 255, 0.03);
+  --ht-glass-bg-gold: rgba(255, 215, 0, 0.04);
+  --ht-glass-border: var(--ht-gold-alpha-14);
+  --ht-glass-border-strong: var(--ht-gold-alpha-28);
+  --ht-glass-border-faint: rgba(255, 255, 255, 0.06);
+  --ht-glass-blur: 16px;
+  --ht-glass-blur-sm: 8px;
+  --ht-glass-blur-lg: 24px;
+  --ht-glass-blur-xl: 32px;
+  --ht-glass-saturate: 150%;
+  --ht-glass-saturate-soft: 120%;
+
+  /* ── Animation Tokens ── */
+  --ht-duration-instant: 100ms;
+  --ht-duration-fast: 150ms;
+  --ht-duration-normal: 300ms;
+  --ht-duration-slow: 500ms;
+  --ht-duration-slower: 800ms;
+
+  --ht-ease-default: cubic-bezier(0.4, 0, 0.2, 1);
+  --ht-ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ht-ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ht-ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ht-ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* ── Layout Tokens ── */
+  --ht-layout-max-width: 100%;
+
+  /* ── Legacy Aliases (consumed by index.css / utilities.css) ── */
+  --color-black: var(--ht-black-pure);
+  --color-bg-deep: var(--ht-black-900);
+  --color-bg-base: var(--ht-black-800);
+  --color-bg-raised: var(--ht-black-700);
+  --color-bg-surface: var(--ht-black-650);
+  --color-bg-surface-end: var(--ht-black-750);
+  --color-bg-overlay: var(--ht-black-overlay);
+  --color-gold: var(--ht-gold-200);
+  --color-gold-bright: var(--ht-gold-100);
+  --color-gold-muted: var(--ht-gold-500);
+  --color-gold-dark: var(--ht-gold-600);
+  --color-gold-ghost: var(--ht-gold-alpha-08);
+  --color-gold-soft: var(--ht-gold-alpha-18);
+  --color-gold-glow: var(--ht-gold-alpha-35);
+  --color-text-primary: var(--ht-white);
+  --color-text-secondary: var(--ht-gray-200);
+  --color-text-muted: var(--ht-gray-300);
+  --color-text-subtle: var(--ht-gray-400);
+  --color-text-faint: var(--ht-gray-500);
+  --color-text-inverse: var(--ht-black-pure);
+  --color-text-accent: var(--ht-gold-200);
+  --color-border-default: var(--ht-border-default);
+  --color-border-subtle: var(--ht-border-muted);
+  --color-border-accent: var(--ht-gold-200);
+  --color-border-glass: var(--ht-gold-alpha-14);
+  --color-focus-ring: var(--ht-gold-alpha-18);
+  --color-focus-outline: var(--ht-gold-200);
+  --font-display: var(--ht-font-display);
+  --font-sans: var(--ht-font-body);
+  --font-mono: var(--ht-font-mono);
+  --text-xs: var(--ht-text-xs);
+  --text-sm: var(--ht-text-sm);
+  --text-base: var(--ht-text-base);
+  --text-md: var(--ht-text-md);
+  --text-lg: var(--ht-text-lg);
+  --text-xl: var(--ht-text-xl);
+  --text-2xl: var(--ht-text-2xl);
+  --text-3xl: var(--ht-text-3xl);
+  --text-4xl: var(--ht-text-5xl);
+  --font-weight-normal: var(--ht-weight-regular);
+  --font-weight-medium: var(--ht-weight-medium);
+  --font-weight-semibold: var(--ht-weight-semibold);
+  --font-weight-bold: var(--ht-weight-bold);
+  --leading-tight: var(--ht-leading-tight);
+  --leading-snug: var(--ht-leading-snug);
+  --leading-normal: var(--ht-leading-normal);
+  --leading-relaxed: var(--ht-leading-relaxed);
+  --tracking-tight: var(--ht-tracking-tight);
+  --tracking-normal: var(--ht-tracking-normal);
+  --tracking-wide: var(--ht-tracking-wide);
+  --tracking-wider: var(--ht-tracking-wider);
+  --space-0: var(--ht-space-0);
+  --space-1: var(--ht-space-1);
+  --space-2: var(--ht-space-2);
+  --space-3: var(--ht-space-3);
+  --space-4: var(--ht-space-4);
+  --space-5: var(--ht-space-5);
+  --space-6: var(--ht-space-6);
+  --space-8: var(--ht-space-8);
+  --space-10: var(--ht-space-10);
+  --space-12: var(--ht-space-12);
+  --space-16: var(--ht-space-16);
+  --space-20: var(--ht-space-20);
+  --space-24: var(--ht-space-24);
+  --radius-sm: var(--ht-radius-sm);
+  --radius-md: var(--ht-radius-md);
+  --radius-lg: var(--ht-radius-lg);
+  --radius-xl: var(--ht-radius-xl);
+  --radius-2xl: var(--ht-radius-2xl);
+  --radius-full: var(--ht-radius-full);
+  --shadow-xs: var(--ht-shadow-xs);
+  --shadow-sm: var(--ht-shadow-sm);
+  --shadow-md: var(--ht-shadow-md);
+  --shadow-lg: var(--ht-shadow-lg);
+  --shadow-xl: var(--ht-shadow-xl);
+  --shadow-gold-sm: var(--ht-shadow-gold-sm);
+  --shadow-gold-md: var(--ht-shadow-gold-ring);
+  --shadow-gold-lg: var(--ht-shadow-card-hover);
+  --shadow-inner: var(--ht-shadow-inner);
+  --glass-bg: var(--ht-glass-bg);
+  --glass-bg-strong: var(--ht-glass-bg-strong);
+  --glass-bg-light: var(--ht-glass-bg-subtle);
+  --glass-border: var(--ht-glass-border);
+  --glass-border-strong: var(--ht-glass-border-strong);
+  --glass-blur: var(--ht-glass-blur);
+  --glass-blur-strong: var(--ht-glass-blur-lg);
+  --glass-saturate: var(--ht-glass-saturate);
+  --duration-instant: var(--ht-duration-instant);
+  --duration-fast: var(--ht-duration-fast);
+  --duration-normal: var(--ht-duration-normal);
+  --duration-slow: var(--ht-duration-slow);
+  --duration-slower: var(--ht-duration-slower);
+  --ease-default: var(--ht-ease-default);
+  --ease-in: var(--ht-ease-in);
+  --ease-out: var(--ht-ease-out);
+  --ease-in-out: var(--ht-ease-in-out);
+  --ease-spring: var(--ht-ease-spring);
+  --layout-max-width: var(--ht-layout-max-width);
+  --theme-bg: var(--ht-black-900);
+  --theme-surface: var(--ht-black-800);
+  --theme-surface-raised: var(--ht-black-700);
+  --theme-text: var(--ht-white);
+  --theme-text-muted: var(--ht-gray-300);
+  --theme-accent: var(--ht-gold-200);
+  --theme-border: var(--ht-border-default);
+
+  color-scheme: dark;
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-tools-by-huzaifa.vercel.app/sitemap.xml
