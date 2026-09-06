@@ -3,13 +3,16 @@ import { getBlogBySlug } from "../data/blogs";
 import logoAsset from "../assets/logo.png";
 
 const SITE_URL = import.meta.env.VITE_SITE_URL || "https://ai-tools-by-huzaifa.vercel.app";
-const DEFAULT_TITLE = "Huzaifa Tools – 600+ Free AI & Utility Tools";
-const DEFAULT_DESCRIPTION = "Huzaifa Tools offers 600+ free AI and utility tools for text processing, calculations, conversions, and productivity.";
+const TOOL_COUNT = tools.length;
+const DEFAULT_TITLE = `Huzaifa Tools – ${TOOL_COUNT}+ Free AI & Utility Tools`;
+const DEFAULT_DESCRIPTION = `Huzaifa Tools offers ${TOOL_COUNT}+ free AI and utility tools for text processing, calculations, conversions, and productivity.`;
 const DEFAULT_IMAGE = logoAsset;
+const INDEXABLE_ROBOTS = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
+const NOINDEX_ROBOTS = "noindex, nofollow";
 
 const ROUTE_META = {
   "/": {
-    title: "Huzaifa Tools – 600+ Free AI & Utility Tools",
+    title: DEFAULT_TITLE,
     description: DEFAULT_DESCRIPTION,
   },
   "/all-tools": {
@@ -40,6 +43,22 @@ const ROUTE_META = {
     title: "AI Chat | Huzaifa Tools",
     description: "Chat with Huzaifa Tools for product guidance and support.",
   },
+  "/about-us": {
+    title: "About Us | Huzaifa Tools",
+    description: "Learn about Huzaifa Group of Software and the free tools platform.",
+  },
+  "/privacy-policy": {
+    title: "Privacy Policy | Huzaifa Tools",
+    description: "Read the Huzaifa Tools privacy policy.",
+  },
+  "/terms-conditions": {
+    title: "Terms & Conditions | Huzaifa Tools",
+    description: "Read the Huzaifa Tools terms and conditions.",
+  },
+  "/disclaimer": {
+    title: "Disclaimer | Huzaifa Tools",
+    description: "Read the Huzaifa Tools disclaimer.",
+  },
 };
 
 function normalizePath(pathname) {
@@ -65,20 +84,27 @@ function buildToolTitle(tool, fallbackTitle) {
 export function getPageSeoData(pathname, fallbackTitle) {
   const normalizedPath = normalizePath(pathname);
   const routeKey = normalizedPath === "/" ? "/" : normalizedPath;
-  const tool = tools.find((entry) => entry.slug === normalizedPath.replace(/^\//, ""));
+  const slug = normalizedPath.replace(/^\//, "");
+  const tool = tools.find((entry) => entry.slug === slug);
   const blogSlug = normalizedPath.startsWith("/blog/")
     ? normalizedPath.replace("/blog/", "")
     : null;
   const blog = blogSlug ? getBlogBySlug(blogSlug) : null;
   const routeMeta = ROUTE_META[routeKey] || {};
+  const isKnownRoute = Boolean(blog || tool || ROUTE_META[routeKey]);
+  const isMissingToolPage = !isKnownRoute && Boolean(slug) && !normalizedPath.startsWith("/blog/");
 
-  const title = blog
+  const title = isMissingToolPage
+    ? "Tool Not Found | Huzaifa Tools"
+    : blog
     ? blog.metaTitle
     : tool
     ? buildToolTitle(tool, fallbackTitle)
     : routeMeta.title || fallbackTitle || DEFAULT_TITLE;
 
-  const description = blog
+  const description = isMissingToolPage
+    ? "This tool does not exist or is no longer available on Huzaifa Tools."
+    : blog
     ? blog.metaDescription
     : tool
     ? buildToolDescription(tool)
@@ -90,8 +116,14 @@ export function getPageSeoData(pathname, fallbackTitle) {
   const pageDescription = description;
   const ogType = blog ? "article" : tool ? "website" : "website";
   const ogImage = blog?.featuredImage || DEFAULT_IMAGE;
+  const robots = isMissingToolPage ? NOINDEX_ROBOTS : INDEXABLE_ROBOTS;
 
-  const breadcrumbItems = blog
+  const breadcrumbItems = isMissingToolPage
+    ? [
+        { name: "Home", url: SITE_URL },
+        { name: "Tool Not Found", url: canonicalUrl },
+      ]
+    : blog
     ? [
         { name: "Home", url: SITE_URL },
         { name: "Blog", url: `${SITE_URL}/blog` },
@@ -154,10 +186,12 @@ export function getPageSeoData(pathname, fallbackTitle) {
   return {
     title: pageTitle,
     description: pageDescription,
-    canonicalUrl,
+    canonicalUrl: isMissingToolPage ? `${SITE_URL}/` : canonicalUrl,
+    robots,
+    noindex: isMissingToolPage,
     ogTitle: pageTitle,
     ogDescription: pageDescription,
-    ogUrl: canonicalUrl,
+    ogUrl: isMissingToolPage ? `${SITE_URL}/` : canonicalUrl,
     ogType,
     ogImage,
     twitterTitle: pageTitle,
@@ -165,44 +199,46 @@ export function getPageSeoData(pathname, fallbackTitle) {
     twitterImage: ogImage,
     articlePublishedTime: blog?.date || null,
     breadcrumbs: breadcrumbItems,
-    jsonLd: {
-      webpage: {
-        "@context": "https://schema.org",
-        "@type": blog ? "Article" : tool ? "WebPage" : "WebSite",
-        name: pageTitle,
-        url: canonicalUrl,
-        description: pageDescription,
-        inLanguage: "en",
-      },
-      breadcrumb: {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        itemListElement: breadcrumbItems.map((item, index) => ({
-          "@type": "ListItem",
-          position: index + 1,
-          name: item.name,
-          item: item.url,
-        })),
-      },
-      article: articleSchema,
-      faq: faqSchema,
-      tool: tool
-        ? {
+    jsonLd: isMissingToolPage
+      ? null
+      : {
+          webpage: {
             "@context": "https://schema.org",
-            "@type": "SoftwareApplication",
-            name: tool.name,
-            description: pageDescription,
+            "@type": blog ? "Article" : tool ? "WebPage" : "WebSite",
+            name: pageTitle,
             url: canonicalUrl,
-            applicationCategory: "Utilities",
-            operatingSystem: "Web",
-            offers: {
-              "@type": "Offer",
-              price: "0",
-              priceCurrency: "USD",
-            },
-          }
-        : null,
-    },
+            description: pageDescription,
+            inLanguage: "en",
+          },
+          breadcrumb: {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: breadcrumbItems.map((item, index) => ({
+              "@type": "ListItem",
+              position: index + 1,
+              name: item.name,
+              item: item.url,
+            })),
+          },
+          article: articleSchema,
+          faq: faqSchema,
+          tool: tool
+            ? {
+                "@context": "https://schema.org",
+                "@type": "SoftwareApplication",
+                name: tool.name,
+                description: pageDescription,
+                url: canonicalUrl,
+                applicationCategory: "Utilities",
+                operatingSystem: "Web",
+                offers: {
+                  "@type": "Offer",
+                  price: "0",
+                  priceCurrency: "USD",
+                },
+              }
+            : null,
+        },
   };
 }
 

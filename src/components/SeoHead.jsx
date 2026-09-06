@@ -46,7 +46,7 @@ export default function SeoHead({ title }) {
     removeTag('link[rel="canonical"]');
 
     setMeta("description", seo.description);
-    setMeta("robots", "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1");
+    setMeta("robots", seo.robots || "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1");
     setLink("canonical", seo.canonicalUrl);
 
     setMeta("og:title", seo.ogTitle, "property");
@@ -88,7 +88,7 @@ export default function SeoHead({ title }) {
       });
       document.head.appendChild(script);
     }
-  }, [location.pathname, seo.title, seo.description, seo.canonicalUrl]);
+  }, [location.pathname, seo.title, seo.description, seo.canonicalUrl, seo.robots]);
 
   return null;
 }

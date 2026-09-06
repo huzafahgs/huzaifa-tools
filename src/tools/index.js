@@ -88,3 +88,5 @@ registerTool("calorie-calculator", lazyTool(() => import("./CalorieCalculator"))
 registerTool("ideal-weight-calculator", lazyTool(() => import("./IdealWeightCalculator")));
 registerTool("grade-calculator", lazyTool(() => import("./GradeCalculator")));
 registerTool("pace-calculator", lazyTool(() => import("./PaceCalculator")));
+
+registerTool("image-compressor", lazyTool(() => import("./ImageCompressor")));

@@ -67,6 +67,7 @@
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/distance-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/text-to-speech</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/screen-resolution</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/image-compressor</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/regex-tester</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/jwt-decoder</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>

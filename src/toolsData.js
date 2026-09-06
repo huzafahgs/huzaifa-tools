@@ -615,16 +615,7 @@ const tools = [
     icon: "🏃",
     description: "Calculate running pace, time, and speed.",
     category: "Health"
-  },
-
-  // Placeholder tools for scalability (up to 600+)
-  ...Array.from({ length: 600 - 91 }, (_, i) => ({
-    name: `Tool ${i + 92}`,
-    slug: `tool-${i + 92}`,
-    icon: "🛠️",
-    description: `A placeholder tool ${i + 92}.`,
-    category: "Placeholder"
-  }))
+  }
 ];
 
 export default tools;
