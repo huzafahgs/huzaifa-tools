@@ -2,6 +2,8 @@ import { Link, NavLink } from "react-router-dom";
 import { useState } from "react";
 import "../App.css";
 import logo from "../assets/logo.png";
+import LiveWallpaper from "./LiveWallpaper";
+import SiteFooter from "./SiteFooter";
 
 const navItems = [
   { to: "/", label: "Home", icon: "🏠", end: true },
@@ -10,11 +12,13 @@ const navItems = [
   { to: "/history", label: "History", icon: "🕒" },
   { to: "/blog", label: "Blog", icon: "📰" },
   { to: "/pricing", label: "Pricing", icon: "💰" },
+  { to: "/about-us", label: "About", icon: "ℹ️" },
   { to: "/contact", label: "Contact", icon: "📞" },
 ];
 
 const legalLinks = [
   { to: "/about-us", label: "About" },
+  { to: "/contact", label: "Contact" },
   { to: "/privacy-policy", label: "Privacy" },
   { to: "/terms-conditions", label: "Terms" },
   { to: "/disclaimer", label: "Disclaimer" },
@@ -27,6 +31,8 @@ function Layout({ children }) {
 
   return (
     <div className="container">
+      <LiveWallpaper />
+
       <button
         type="button"
         className="nav-toggle"
@@ -44,17 +50,18 @@ function Layout({ children }) {
       />
 
       <aside id="sidebar-nav" className={`sidebar${menuOpen ? " is-open" : ""}`}>
-        <Link to="/" style={{ textDecoration: "none" }} onClick={closeMenu}>
+        <Link to="/" className="sidebar-brand" onClick={closeMenu}>
           <img
             src={logo}
-            alt="Huzaifa Logo"
+            alt="Huzaifa Tools logo"
             className="logo"
             width="120"
             height="120"
             loading="eager"
             decoding="async"
           />
-          <h2 className="brand">HUZAIFA</h2>
+          <h2 className="brand">Huzaifa Tools</h2>
+          <p className="brand-sub">Huzaifa Group of Software</p>
         </Link>
 
         <nav aria-label="Main navigation">
@@ -80,7 +87,7 @@ function Layout({ children }) {
         <div className="sidebar-footer">
           <p>Powered by</p>
           <p className="brand-line">Huzaifa Group of Software</p>
-          <nav className="legal-links" aria-label="Legal pages">
+          <nav className="legal-links" aria-label="Legal and trust pages">
             {legalLinks.map(({ to, label }) => (
               <Link key={to} to={to} onClick={closeMenu}>
                 {label}
@@ -90,7 +97,12 @@ function Layout({ children }) {
         </div>
       </aside>
 
-      <main className="main">{children}</main>
+      <div className="main-column">
+        <main className="main" id="main-content">
+          {children}
+        </main>
+        <SiteFooter />
+      </div>
     </div>
   );
 }

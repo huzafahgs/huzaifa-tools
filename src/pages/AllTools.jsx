@@ -1,25 +1,103 @@
 import Layout from "../components/Layout";
+import ToolCard from "../components/ToolCard";
 import tools from "../toolsData";
-import { Link } from "react-router-dom";
+import { useMemo, useState } from "react";
 
 function AllTools() {
+  const [searchQuery, setSearchQuery] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("All");
+
+  const categories = useMemo(
+    () => ["All", ...new Set(tools.map((tool) => tool.category))],
+    []
+  );
+
+  const trimmedSearch = searchQuery.trim().toLowerCase();
+
+  const filteredTools = tools.filter((tool) => {
+    const matchesSearch =
+      !trimmedSearch ||
+      tool.name.toLowerCase().includes(trimmedSearch) ||
+      tool.description.toLowerCase().includes(trimmedSearch) ||
+      tool.category.toLowerCase().includes(trimmedSearch);
+    const matchesCategory =
+      selectedCategory === "All" || tool.category === selectedCategory;
+    return matchesSearch && matchesCategory;
+  });
+
   return (
     <Layout title="All Tools">
-      <section style={{ padding: "40px" }}>
-        <h1 style={{ color: "gold", marginBottom: "30px" }}>🧰 All Tools ({tools.length})</h1>
+      <section className="page-shell">
+        <header className="page-header">
+          <h1>All Tools</h1>
+          <p>
+            Explore {tools.length} free browser-based tools from Huzaifa Tools.
+          </p>
+        </header>
 
-        <div className="tools-grid">
-          {tools.map((tool) => (
-            <Link to={`/${tool.slug}`} key={tool.slug} style={{ textDecoration: "none" }}>
-              <div className="tool-card">
-                <div className="tool-icon">{tool.icon}</div>
-                <h3>{tool.name}</h3>
-                <p>{tool.description}</p>
-                <button className="use-btn">Use Now →</button>
-              </div>
-            </Link>
+        <div className="search-wrap search-wrap--page">
+          <label htmlFor="all-tools-search" className="search-label">
+            Search all tools
+          </label>
+          <input
+            id="all-tools-search"
+            type="search"
+            className="search"
+            placeholder="Search by name, description, or category..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            autoComplete="off"
+          />
+        </div>
+
+        <div className="category-filter" role="group" aria-label="Filter by category">
+          {categories.map((category) => (
+            <button
+              key={category}
+              type="button"
+              className={`category-pill${selectedCategory === category ? " category-pill--active" : ""}`}
+              aria-pressed={selectedCategory === category}
+              onClick={() => setSelectedCategory(category)}
+            >
+              <span>{category}</span>
+              <span className="category-count">
+                {category === "All"
+                  ? tools.length
+                  : tools.filter((tool) => tool.category === category).length}
+              </span>
+            </button>
           ))}
         </div>
+
+        <h2 className="section-title">
+          {selectedCategory === "All" ? "Catalog" : selectedCategory}
+          <span className="section-count"> ({filteredTools.length})</span>
+        </h2>
+
+        <div className="tools-grid">
+          {filteredTools.map((tool) => (
+            <ToolCard key={tool.slug} tool={tool} />
+          ))}
+        </div>
+
+        {filteredTools.length === 0 && (
+          <div className="empty-state" role="status">
+            <h3 className="empty-state-title">No tools found</h3>
+            <p className="empty-state-text">
+              Try a different search term or category.
+            </p>
+            <button
+              type="button"
+              className="empty-state-action"
+              onClick={() => {
+                setSearchQuery("");
+                setSelectedCategory("All");
+              }}
+            >
+              Reset filters
+            </button>
+          </div>
+        )}
       </section>
     </Layout>
   );

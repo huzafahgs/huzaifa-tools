@@ -51,7 +51,10 @@ function PrivacyPolicy() {
           </p>
 
           <p style={{ marginTop: "40px", textAlign: "center", fontStyle: "italic", color: "gold" }}>
-            If you have any questions or require more information about our Privacy Policy, do not hesitate to contact us.
+            If you have any questions or require more information about our Privacy Policy, contact us at{" "}
+            <a href="mailto:huzaifagroupofsoftware@gmail.com" style={{ color: "gold" }}>
+              huzaifagroupofsoftware@gmail.com
+            </a>.
           </p>
         </div>
       </section>

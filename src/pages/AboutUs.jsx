@@ -52,6 +52,14 @@ function AboutUs() {
             publish new components to support your daily digital tasks. 
           </p>
 
+          <h2 style={{ color: "gold", marginTop: "30px", marginBottom: "20px" }}>Contact</h2>
+          <p style={{ marginBottom: "20px" }}>
+            Questions or feedback? Email{" "}
+            <a href="mailto:huzaifagroupofsoftware@gmail.com" style={{ color: "gold" }}>
+              huzaifagroupofsoftware@gmail.com
+            </a>.
+          </p>
+
           <p style={{ marginTop: "40px", textAlign: "center", fontStyle: "italic", color: "gold" }}>
             Thank you for choosing Huzaifa Tools as your trusted digital utility partner!
           </p>

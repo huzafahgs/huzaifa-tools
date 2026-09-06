@@ -1,68 +1,61 @@
 import Layout from "../components/Layout";
+import { CONTACT_EMAIL } from "../constants/contact";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 function Contact() {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
     subject: "",
-    message: ""
+    message: "",
   });
   const [submitted, setSubmitted] = useState(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setFormData(prev => ({
-      ...prev,
-      [name]: value
-    }));
+    setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!formData.name || !formData.email || !formData.subject || !formData.message) {
-      alert("Please fill in all fields");
       return;
     }
+
+    const body = [
+      `Name: ${formData.name}`,
+      `Reply-to: ${formData.email}`,
+      "",
+      formData.message,
+    ].join("\n");
+
+    const mailto = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = mailto;
     setSubmitted(true);
-    setFormData({ name: "", email: "", subject: "", message: "" });
-    setTimeout(() => setSubmitted(false), 5000);
   };
 
   return (
     <Layout title="Contact">
-      <section style={{ padding: "40px" }}>
-        <h1 style={{ color: "gold", marginBottom: "30px", textAlign: "center" }}>📞 Contact Us</h1>
+      <section className="page-shell contact-page">
+        <header className="page-header">
+          <h1>Contact Us</h1>
+          <p>
+            Reach Huzaifa Group of Software for product questions, feedback, or support.
+          </p>
+        </header>
 
-        <div style={{
-          display: "grid",
-          gridTemplateColumns: "1fr 1fr",
-          gap: "40px",
-          maxWidth: "1000px",
-          margin: "0 auto"
-        }}>
-          {/* Contact Form */}
-          <div>
-            <h2 style={{ color: "gold", marginBottom: "20px" }}>Send us a Message</h2>
+        <div className="contact-grid">
+          <div className="contact-panel">
+            <h2>Send a message</h2>
             {submitted && (
-              <div
-                role="status"
-                aria-live="polite"
-                style={{
-                  background: "#1a3a1a",
-                  border: "1px solid #4caf50",
-                  color: "#4caf50",
-                  padding: "15px",
-                  borderRadius: "5px",
-                  marginBottom: "20px"
-                }}
-              >
-                ✓ Thank you! We'll get back to you soon.
+              <div className="form-status form-status--success" role="status" aria-live="polite">
+                Your email app should open with the message ready to send.
               </div>
             )}
-            <form onSubmit={handleSubmit}>
-              <div style={{ marginBottom: "20px" }}>
-                <label htmlFor="contact-name" style={{ color: "gold", display: "block", marginBottom: "8px" }}>Name</label>
+            <form className="contact-form" onSubmit={handleSubmit} noValidate>
+              <div className="form-group">
+                <label htmlFor="contact-name">Name</label>
                 <input
                   id="contact-name"
                   type="text"
@@ -71,20 +64,11 @@ function Contact() {
                   onChange={handleChange}
                   required
                   autoComplete="name"
-                  style={{
-                    width: "100%",
-                    padding: "10px",
-                    background: "#0a0d1a",
-                    border: "1px solid #333",
-                    borderRadius: "5px",
-                    color: "white",
-                    boxSizing: "border-box"
-                  }}
                   placeholder="Your name"
                 />
               </div>
-              <div style={{ marginBottom: "20px" }}>
-                <label style={{ color: "gold", display: "block", marginBottom: "8px" }}>Email</label>
+              <div className="form-group">
+                <label htmlFor="contact-email">Email</label>
                 <input
                   id="contact-email"
                   type="email"
@@ -93,20 +77,11 @@ function Contact() {
                   onChange={handleChange}
                   required
                   autoComplete="email"
-                  style={{
-                    width: "100%",
-                    padding: "10px",
-                    background: "#0a0d1a",
-                    border: "1px solid #333",
-                    borderRadius: "5px",
-                    color: "white",
-                    boxSizing: "border-box"
-                  }}
                   placeholder="your@email.com"
                 />
               </div>
-              <div style={{ marginBottom: "20px" }}>
-                <label style={{ color: "gold", display: "block", marginBottom: "8px" }}>Subject</label>
+              <div className="form-group">
+                <label htmlFor="contact-subject">Subject</label>
                 <input
                   id="contact-subject"
                   type="text"
@@ -114,100 +89,59 @@ function Contact() {
                   value={formData.subject}
                   onChange={handleChange}
                   required
-                  style={{
-                    width: "100%",
-                    padding: "10px",
-                    background: "#0a0d1a",
-                    border: "1px solid #333",
-                    borderRadius: "5px",
-                    color: "white",
-                    boxSizing: "border-box"
-                  }}
                   placeholder="Subject"
                 />
               </div>
-              <div style={{ marginBottom: "20px" }}>
-                <label htmlFor="contact-message" style={{ color: "gold", display: "block", marginBottom: "8px" }}>Message</label>
+              <div className="form-group">
+                <label htmlFor="contact-message">Message</label>
                 <textarea
                   id="contact-message"
                   name="message"
                   value={formData.message}
                   onChange={handleChange}
                   required
-                  style={{
-                    width: "100%",
-                    padding: "10px",
-                    background: "#0a0d1a",
-                    border: "1px solid #333",
-                    borderRadius: "5px",
-                    color: "white",
-                    minHeight: "150px",
-                    boxSizing: "border-box"
-                  }}
+                  rows={6}
                   placeholder="Your message..."
                 />
               </div>
-              <button
-                type="submit"
-                style={{
-                  background: "gold",
-                  color: "black",
-                  border: "none",
-                  padding: "12px 30px",
-                  borderRadius: "5px",
-                  cursor: "pointer",
-                  fontWeight: "bold",
-                  width: "100%"
-                }}
-              >
-                Send Message
+              <button type="submit" className="btn-primary contact-submit">
+                Open email to send
               </button>
             </form>
           </div>
 
-          {/* Contact Info */}
-          <div>
-            <h2 style={{ color: "gold", marginBottom: "20px" }}>Get in Touch</h2>
-            <div style={{
-              background: "#0c1022",
-              border: "1px solid gold",
-              borderRadius: "8px",
-              padding: "20px",
-              marginBottom: "20px"
-            }}>
-              <h3 style={{ color: "gold", marginBottom: "10px" }}>📧 Email</h3>
-              <p style={{ color: "#ddd" }}>support@huzaifahub.com</p>
-              <p style={{ color: "#ddd" }}>info@huzaifahub.com</p>
+          <aside className="contact-aside">
+            <div className="info-card">
+              <h2>Email</h2>
+              <p>
+                <a className="contact-email-link" href={`mailto:${CONTACT_EMAIL}`}>
+                  {CONTACT_EMAIL}
+                </a>
+              </p>
+              <p className="info-card__note">
+                This is the official contact address for Huzaifa Tools.
+              </p>
             </div>
 
-            <div style={{
-              background: "#0c1022",
-              border: "1px solid gold",
-              borderRadius: "8px",
-              padding: "20px",
-              marginBottom: "20px"
-            }}>
-              <h3 style={{ color: "gold", marginBottom: "10px" }}>🌐 Social Media</h3>
-              <p style={{ color: "#ddd" }}>Follow us on social media for updates:</p>
-              <div style={{ display: "flex", flexWrap: "wrap", gap: "10px", marginTop: "10px" }}>
-                <a href="mailto:support@huzaifahub.com" style={{ color: "gold", textDecoration: "none" }}>Email</a>
-                <a href="/contact" style={{ color: "gold", textDecoration: "none" }}>Contact</a>
-                <a href="/about-us" style={{ color: "gold", textDecoration: "none" }}>About</a>
-                <a href="/blog" style={{ color: "gold", textDecoration: "none" }}>Blog</a>
-              </div>
+            <div className="info-card">
+              <h2>Company</h2>
+              <p>Huzaifa Group of Software</p>
+              <p className="info-card__note">
+                Building free, practical browser tools for developers, students, and businesses.
+              </p>
             </div>
 
-            <div style={{
-              background: "#0c1022",
-              border: "1px solid gold",
-              borderRadius: "8px",
-              padding: "20px"
-            }}>
-              <h3 style={{ color: "gold", marginBottom: "10px" }}>💼 Company</h3>
-              <p style={{ color: "#ddd" }}>Huzaifa Group of Software</p>
-              <p style={{ color: "#aaa", fontSize: "14px" }}>Building premium tools for developers, students, and businesses.</p>
+            <div className="info-card">
+              <h2>Helpful links</h2>
+              <nav className="contact-quick-links" aria-label="Helpful links">
+                <Link to="/about-us">About Us</Link>
+                <Link to="/privacy-policy">Privacy Policy</Link>
+                <Link to="/terms-conditions">Terms & Conditions</Link>
+                <Link to="/disclaimer">Disclaimer</Link>
+                <Link to="/all-tools">All Tools</Link>
+              </nav>
             </div>
-          </div>
+          </aside>
         </div>
       </section>
     </Layout>

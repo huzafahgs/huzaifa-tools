@@ -63,7 +63,10 @@ function TermsConditions() {
           </p>
 
           <p style={{ marginTop: "40px", textAlign: "center", fontStyle: "italic", color: "gold" }}>
-            Thank you for reading our Terms & Conditions. Enjoy using Huzaifa Tools!
+            Questions about these Terms? Contact{" "}
+            <a href="mailto:huzaifagroupofsoftware@gmail.com" style={{ color: "gold" }}>
+              huzaifagroupofsoftware@gmail.com
+            </a>.
           </p>
         </div>
       </section>

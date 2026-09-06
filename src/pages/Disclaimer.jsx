@@ -21,7 +21,10 @@ function Disclaimer() {
           </p>
 
           <p style={{ marginBottom: "20px" }}>
-            If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at support@huzaifahub.com.
+            If you require any more information or have any questions about our site&apos;s disclaimer, please feel free to contact us by email at{" "}
+            <a href="mailto:huzaifagroupofsoftware@gmail.com" style={{ color: "gold" }}>
+              huzaifagroupofsoftware@gmail.com
+            </a>.
           </p>
 
           <h2 style={{ color: "gold", marginTop: "30px", marginBottom: "15px" }}>1. Disclaimers for Huzaifa Tools</h2>
