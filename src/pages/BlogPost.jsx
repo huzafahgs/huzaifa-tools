@@ -2,6 +2,8 @@ import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { marked } from "marked";
 import { CONTACT_EMAIL } from "../constants/contact";
+import ToolCard from "../components/ToolCard";
+import tools from "../toolsData";
 import NotFound from "../components/NotFound";
 import Layout from "../components/Layout";
 import { getAllBlogs, getBlogBySlug } from "../data/blogs";
@@ -11,9 +13,11 @@ function BlogPost() {
   const blog = useMemo(() => getBlogBySlug(slug), [slug]);
   const [contentHtml, setContentHtml] = useState("");
   const [loading, setLoading] = useState(true);
+  const [toc, setToc] = useState([]);
 
   useEffect(() => {
     let active = true;
+    setToc([]);
     if (!blog) {
       setContentHtml("");
       setLoading(false);
@@ -27,7 +31,20 @@ function BlogPost() {
       .content()
       .then((markdown) => {
         if (!active) return;
-        setContentHtml(marked.parse(markdown.replace(/^# .+\r?\n/, "")));
+        const html = marked.parse(markdown.replace(/^# .+\r?\n/, ""));
+        if (blog.flagship) {
+          // Content is trusted, repository-authored markdown; no visitor HTML is accepted.
+          const doc = new DOMParser().parseFromString(html, "text/html");
+          const headings = [...doc.querySelectorAll("h2")].map((heading, index) => {
+            heading.id = "guide-section-" + (index + 1);
+            heading.tabIndex = -1;
+            return { id: heading.id, label: heading.textContent };
+          });
+          setToc(headings);
+          setContentHtml(doc.body.innerHTML);
+        } else {
+          setContentHtml(html);
+        }
       })
       .catch(() => {
         if (!active) return;
@@ -48,6 +65,7 @@ function BlogPost() {
 
   const relatedPosts = useMemo(() => {
     if (!blog) return [];
+    if (blog.relatedSlugs) return blog.relatedSlugs.map(getBlogBySlug).filter(Boolean);
     return getAllBlogs()
       .filter((item) => item.slug !== blog.slug)
       .filter(
@@ -62,7 +80,7 @@ function BlogPost() {
 
   return (
     <Layout>
-      <section className="blog-post-page">
+      <section className={`blog-post-page${blog.flagship ? " blog-post-page--flagship" : ""}`}>
         <nav className="tool-breadcrumb" aria-label="Breadcrumb"><Link to="/">Home</Link><span>/</span><Link to="/blog">Blog</Link></nav>
         <div className="blog-hero">
           <div className="blog-hero-meta">
@@ -96,6 +114,13 @@ function BlogPost() {
           </article>
 
           <aside className="blog-sidebar">
+            {blog.flagship && toc.length > 0 && (
+              <nav className="article-toc blog-sidebar-card" aria-label="Table of contents">
+                <h2>In this guide</h2>
+                <ol>{toc.map(item => <li key={item.id}><a href={"#" + item.id}>{item.label}</a></li>)}</ol>
+                <a href="#article-faq">Frequently asked questions</a>
+              </nav>
+            )}
             <div className="blog-sidebar-card">
               <h2>Explore Related Tools</h2>
               <ul className="sidebar-links">
@@ -130,7 +155,14 @@ function BlogPost() {
           </aside>
         </div>
 
-        {blog.faq.length > 0 && <section className="blog-faq">
+        {blog.recommendedTools && (
+          <section className="blog-recommended" aria-labelledby="recommended-heading">
+            <h2 id="recommended-heading">Choose a task to try</h2>
+            <p>Start with a harmless sample and check the output before using your own data.</p>
+            <div className="tools-grid">{blog.recommendedTools.map(slug => tools.find(tool => tool.slug === slug)).filter(Boolean).map(tool => <ToolCard key={tool.slug} tool={tool} />)}</div>
+          </section>
+        )}
+        {blog.faq.length > 0 && <section className="blog-faq" id="article-faq" tabIndex={-1}>
           <h2>Frequently Asked Questions</h2>
           <div className="faq-grid">
             {blog.faq.map((item, index) => (

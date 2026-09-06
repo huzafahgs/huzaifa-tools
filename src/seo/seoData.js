@@ -166,6 +166,7 @@ export function getPageSeoData(pathname, fallbackTitle) {
         },
         datePublished: blog.date,
         dateModified: blog.updated || blog.date,
+        ...(blog.wordCount ? { wordCount: blog.wordCount } : {}),
       }
     : null;
 
@@ -190,8 +191,8 @@ export function getPageSeoData(pathname, fallbackTitle) {
     canonicalUrl,
     robots,
     noindex,
-    ogTitle: pageTitle,
-    ogDescription: pageDescription,
+    ogTitle: blog?.ogTitle || pageTitle,
+    ogDescription: blog?.ogDescription || pageDescription,
     ogUrl: canonicalUrl,
     ogType,
     ogImage,

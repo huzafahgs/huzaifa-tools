@@ -1653,3 +1653,51 @@ body {
 @media (prefers-reduced-motion: reduce) { .live-wallpaper__glow { will-change: auto; } .blog-card { transition: none; } .blog-card:hover { transform: none; } }
 
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+
+
+/* Flagship guide: scoped reading layout, no changes to decorative stacking. */
+.blog-post-page--flagship .blog-hero {
+  position: relative;
+  padding: clamp(24px, 4vw, 48px);
+  border: 1px solid #51452b;
+  border-radius: 24px;
+  background: linear-gradient(130deg, #151824, #0b111e 72%);
+}
+.blog-post-page--flagship .blog-hero h1 { max-width: 27ch; padding-right: 72px; font-size: clamp(2rem, 3.4vw, 3.2rem); }
+.blog-post-page--flagship .blog-hero-image { position: absolute; top: 24px; right: 20px; width: 80px; height: 96px; padding: 8px; border: 0; background: transparent; }
+.blog-post-page--flagship .blog-badge { color: #e6c76a; text-transform: uppercase; letter-spacing: .08em; font-size: .8rem; }
+.blog-post-page--flagship .blog-content-layout { grid-template-columns: minmax(0, 1fr) 260px; }
+.blog-post-page--flagship .blog-content { padding: clamp(22px, 3vw, 42px); font-size: 1.05rem; }
+.blog-post-page--flagship .blog-content p { margin: 0 0 1.25em; line-height: 1.85; }
+.blog-post-page--flagship .blog-content h2 { font-size: clamp(1.5rem, 2.5vw, 2rem); line-height: 1.3; padding-top: 1rem; border-top: 1px solid #343644; margin: 2.5rem 0 1.25rem; scroll-margin-top: 5rem; }
+.blog-post-page--flagship .blog-content h3 { margin: 2rem 0 1rem; line-height: 1.4; color: #f4f1e9; }
+.blog-post-page--flagship .blog-content blockquote { margin: 1.5rem 0; padding: 1.25rem; border-left: 3px solid #d9b85e; border-radius: 0 12px 12px 0; background: #191b25; }
+.blog-post-page--flagship .blog-content blockquote p { margin-bottom: 0; }
+.blog-post-page--flagship .blog-content code { overflow-wrap: anywhere; }
+.blog-post-page--flagship .blog-content pre { line-height: 1.65; }
+.blog-post-page--flagship .blog-sidebar { position: sticky; top: 1rem; max-height: calc(100svh - 2rem); overflow-y: auto; scrollbar-width: thin; }
+.article-toc ol { padding-left: 1.4rem; margin: 0 0 1rem; }
+.article-toc li { margin-bottom: .65rem; padding-left: .15rem; font-size: .9rem; line-height: 1.5; color: #c5ccda; }
+.article-toc a { color: #d7dce6; text-decoration: none; }
+.article-toc a:hover { color: #e6c76a; text-decoration: underline; }
+.blog-post-page--flagship a:focus-visible { outline: 2px solid #e6c76a; outline-offset: 4px; border-radius: 3px; }
+.blog-recommended { margin-top: 3rem; }
+.blog-recommended > h2 { color: #e6c76a; margin-bottom: .75rem; }
+.blog-recommended > p { color: #c5ccda; margin-bottom: 1.5rem; }
+.blog-post-page--flagship .blog-faq { scroll-margin-top: 5rem; }
+.blog-post-page--flagship .faq-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 1050px) {
+  .blog-post-page--flagship .blog-content-layout { display: flex; flex-direction: column; }
+  .blog-post-page--flagship .blog-sidebar { position: static; order: -1; width: 100%; max-height: none; overflow: visible; }
+  .blog-post-page--flagship .blog-sidebar > .blog-sidebar-card { display: none; }
+  .blog-post-page--flagship .blog-sidebar > .article-toc { display: block; }
+  .article-toc ol { columns: 2; column-gap: 2rem; }
+  .article-toc li { break-inside: avoid; }
+}
+@media (max-width: 600px) {
+  .blog-post-page--flagship .blog-hero h1 { padding-right: 0; }
+  .blog-post-page--flagship .blog-hero-image { display: none; }
+  .article-toc ol { columns: 1; }
+  .blog-post-page--flagship .faq-grid { grid-template-columns: 1fr; }
+  .blog-post-page--flagship .blog-content { font-size: 1rem; width: 100%; }
+}
