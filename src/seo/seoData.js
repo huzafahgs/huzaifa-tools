@@ -4,11 +4,11 @@ import logoAsset from "../assets/logo.png";
 
 const SITE_URL = import.meta.env.VITE_SITE_URL || "https://ai-tools-by-huzaifa.vercel.app";
 const TOOL_COUNT = tools.length;
-const DEFAULT_TITLE = `Huzaifa Tools – ${TOOL_COUNT}+ Free AI & Utility Tools`;
-const DEFAULT_DESCRIPTION = `Huzaifa Tools offers ${TOOL_COUNT}+ free AI and utility tools for text processing, calculations, conversions, and productivity.`;
-const DEFAULT_IMAGE = logoAsset;
+const DEFAULT_TITLE = `Huzaifa Tools – Free Online Utilities`;
+const DEFAULT_DESCRIPTION = `Huzaifa Tools offers ${TOOL_COUNT} free browser utilities for text processing, calculations, conversions, and productivity.`;
+const DEFAULT_IMAGE = new URL(logoAsset, SITE_URL).href;
 const INDEXABLE_ROBOTS = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
-const NOINDEX_ROBOTS = "noindex, nofollow";
+const NOINDEX_ROBOTS = "noindex, follow";
 
 const ROUTE_META = {
   "/": {
@@ -21,7 +21,7 @@ const ROUTE_META = {
   },
   "/blog": {
     title: "Blog | Huzaifa Tools",
-    description: "Read the latest updates, product news, and tips from Huzaifa Tools.",
+    description: "Practical image compression, format selection, and website performance guides with step-by-step checks and helpful tools.",
   },
   "/favorites": {
     title: "Favorites | Huzaifa Tools",
@@ -33,7 +33,7 @@ const ROUTE_META = {
   },
   "/pricing": {
     title: "Pricing | Huzaifa Tools",
-    description: "Use Huzaifa Tools completely free with a premium experience in mind.",
+    description: "Use the current Huzaifa Tools catalog for free without an account or subscription. Review tool limits and data handling.",
   },
   "/contact": {
     title: "Contact | Huzaifa Tools",
@@ -41,7 +41,7 @@ const ROUTE_META = {
   },
   "/chat": {
     title: "AI Chat | Huzaifa Tools",
-    description: "Chat with Huzaifa Tools for product guidance and support.",
+    description: "AI Chat is not available yet. Browse working utilities or contact Huzaifa Tools for product support.",
   },
   "/about-us": {
     title: "About Us | Huzaifa Tools",
@@ -70,7 +70,7 @@ function buildToolDescription(tool) {
   if (!tool) return DEFAULT_DESCRIPTION;
   if (tool.seoDescription) return tool.seoDescription;
   if (tool.description) {
-    return `${tool.description} Fast, secure, and free on Huzaifa Tools.`;
+    return `${tool.description} Free to use on Huzaifa Tools.`;
   }
   return `${tool.name} is available for free on Huzaifa Tools.`;
 }
@@ -92,18 +92,18 @@ export function getPageSeoData(pathname, fallbackTitle) {
   const blog = blogSlug ? getBlogBySlug(blogSlug) : null;
   const routeMeta = ROUTE_META[routeKey] || {};
   const isKnownRoute = Boolean(blog || tool || ROUTE_META[routeKey]);
-  const isMissingToolPage = !isKnownRoute && Boolean(slug) && !normalizedPath.startsWith("/blog/");
+  const isMissingPage = !isKnownRoute;
 
-  const title = isMissingToolPage
-    ? "Tool Not Found | Huzaifa Tools"
+  const title = isMissingPage
+    ? "Page Not Found | Huzaifa Tools"
     : blog
     ? blog.metaTitle
     : tool
     ? buildToolTitle(tool, fallbackTitle)
     : routeMeta.title || fallbackTitle || DEFAULT_TITLE;
 
-  const description = isMissingToolPage
-    ? "This tool does not exist or is no longer available on Huzaifa Tools."
+  const description = isMissingPage
+    ? "This page does not exist or is no longer available. Browse the Huzaifa Tools catalog or blog."
     : blog
     ? blog.metaDescription
     : tool
@@ -115,13 +115,14 @@ export function getPageSeoData(pathname, fallbackTitle) {
   const pageTitle = title;
   const pageDescription = description;
   const ogType = blog ? "article" : tool ? "website" : "website";
-  const ogImage = blog?.featuredImage || DEFAULT_IMAGE;
-  const robots = isMissingToolPage ? NOINDEX_ROBOTS : INDEXABLE_ROBOTS;
+  const ogImage = new URL(blog?.featuredImage || DEFAULT_IMAGE, SITE_URL).href;
+  const noindex = isMissingPage || ["/favorites", "/history", "/chat"].includes(normalizedPath);
+  const robots = isMissingPage ? "noindex, nofollow" : noindex ? NOINDEX_ROBOTS : INDEXABLE_ROBOTS;
 
-  const breadcrumbItems = isMissingToolPage
+  const breadcrumbItems = isMissingPage
     ? [
         { name: "Home", url: SITE_URL },
-        { name: "Tool Not Found", url: canonicalUrl },
+        { name: "Page Not Found", url: canonicalUrl },
       ]
     : blog
     ? [
@@ -164,7 +165,7 @@ export function getPageSeoData(pathname, fallbackTitle) {
           },
         },
         datePublished: blog.date,
-        dateModified: blog.date,
+        dateModified: blog.updated || blog.date,
       }
     : null;
 
@@ -186,12 +187,12 @@ export function getPageSeoData(pathname, fallbackTitle) {
   return {
     title: pageTitle,
     description: pageDescription,
-    canonicalUrl: isMissingToolPage ? `${SITE_URL}/` : canonicalUrl,
+    canonicalUrl,
     robots,
-    noindex: isMissingToolPage,
+    noindex,
     ogTitle: pageTitle,
     ogDescription: pageDescription,
-    ogUrl: isMissingToolPage ? `${SITE_URL}/` : canonicalUrl,
+    ogUrl: canonicalUrl,
     ogType,
     ogImage,
     twitterTitle: pageTitle,
@@ -199,12 +200,12 @@ export function getPageSeoData(pathname, fallbackTitle) {
     twitterImage: ogImage,
     articlePublishedTime: blog?.date || null,
     breadcrumbs: breadcrumbItems,
-    jsonLd: isMissingToolPage
+    jsonLd: noindex
       ? null
       : {
           webpage: {
             "@context": "https://schema.org",
-            "@type": blog ? "Article" : tool ? "WebPage" : "WebSite",
+            "@type": normalizedPath === "/" ? "WebSite" : "WebPage",
             name: pageTitle,
             url: canonicalUrl,
             description: pageDescription,

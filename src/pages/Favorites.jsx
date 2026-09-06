@@ -1,3 +1,4 @@
+import tools from "../toolsData";
 import Layout from "../components/Layout";
 import { useState, useEffect } from "react";
 
@@ -5,19 +6,11 @@ function Favorites() {
   const [favorites, setFavorites] = useState([]);
 
   useEffect(() => {
-    const saved = localStorage.getItem("favoriteTools");
-    if (saved) {
-      setFavorites(JSON.parse(saved));
-    }
+    try {
+      const saved = JSON.parse(localStorage.getItem("favoriteTools") || "[]");
+      setFavorites(Array.isArray(saved) ? saved.filter(name => tools.some(tool => tool.name === name)) : []);
+    } catch { setFavorites([]); }
   }, []);
-
-  const addToFavorites = (toolName) => {
-    if (!favorites.includes(toolName)) {
-      const newFavorites = [...favorites, toolName];
-      setFavorites(newFavorites);
-      localStorage.setItem("favoriteTools", JSON.stringify(newFavorites));
-    }
-  };
 
   const removeFromFavorites = (toolName) => {
     const newFavorites = favorites.filter(t => t !== toolName);
@@ -40,7 +33,7 @@ function Favorites() {
             color: "#aaa"
           }}>
             <p style={{ fontSize: "18px", marginBottom: "15px" }}>No favorite tools yet</p>
-            <p>Add tools to your favorites by clicking the star icon on any tool</p>
+            <p>Saving new favorites is not available in the current catalog. You can bookmark individual tool pages in your browser.</p>
             <a href="/" style={{
               display: "inline-block",
               marginTop: "20px",

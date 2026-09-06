@@ -14,11 +14,16 @@ PNG is ideal for logos, icons, and graphics that need transparency or crisp boun
 
 WebP can often replace both JPEG and PNG with smaller files and good quality, especially on modern browsers.
 
-## Use the right workflow
-
-Convert images in [Image Compressor](/image-compressor) and keep your captions clear with [Text Case Converter](/text-case-converter). This produces fast, polished pages.
-
 ## Practical recommendations
 
 Use WebP as a standard, AVIF where possible, JPEG for compatibility, and PNG for transparency.
+
+
+## Test the actual content
+
+Export the same crop in each supported format and compare it on both light and dark backgrounds. A photograph, diagram, and transparent logo have different needs. JPEG cannot preserve transparency. PNG can preserve exact pixels, but photographic PNG files may be large. WebP requires an encoder and a viewer that support the chosen output features. Do not compare exports with different dimensions and attribute all savings to the format. Keep the smallest output that satisfies your visual and compatibility requirements.
+
+## Continue the workflow
+
+For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).
 `;

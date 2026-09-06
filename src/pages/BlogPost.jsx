@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { marked } from "marked";
+import { CONTACT_EMAIL } from "../constants/contact";
+import NotFound from "../components/NotFound";
 import Layout from "../components/Layout";
 import { getAllBlogs, getBlogBySlug } from "../data/blogs";
 
@@ -25,7 +27,7 @@ function BlogPost() {
       .content()
       .then((markdown) => {
         if (!active) return;
-        setContentHtml(marked.parse(markdown));
+        setContentHtml(marked.parse(markdown.replace(/^# .+\r?\n/, "")));
       })
       .catch(() => {
         if (!active) return;
@@ -56,25 +58,12 @@ function BlogPost() {
       .slice(0, 3);
   }, [blog]);
 
-  if (!blog) {
-    return (
-      <Layout>
-        <section className="blog-page">
-          <div className="empty-state">
-            <h1>Blog post not found</h1>
-            <p>The requested article cannot be found. Please check the link or return to the blog homepage.</p>
-            <Link to="/blog" className="btn-primary">
-              ← Back to Blog
-            </Link>
-          </div>
-        </section>
-      </Layout>
-    );
-  }
+  if (!blog) return <NotFound />;
 
   return (
     <Layout>
       <section className="blog-post-page">
+        <nav className="tool-breadcrumb" aria-label="Breadcrumb"><Link to="/">Home</Link><span>/</span><Link to="/blog">Blog</Link></nav>
         <div className="blog-hero">
           <div className="blog-hero-meta">
             <span className="blog-badge">{blog.category}</span>
@@ -84,12 +73,14 @@ function BlogPost() {
           <h1>{blog.title}</h1>
           <p className="blog-subtitle">{blog.metaDescription}</p>
           <div className="blog-post-meta">
-            By {blog.author} · {blog.date}
+            By {blog.author} · <time dateTime={blog.date}>{blog.date}</time>
+            {blog.updated && <> · Updated <time dateTime={blog.updated}>{blog.updated}</time></>}
           </div>
 
           <img
             src={blog.featuredImage}
-            alt={blog.title}
+            alt=""
+            width="800" height="200"
             className="blog-hero-image"
             loading="lazy"
           />
@@ -115,7 +106,7 @@ function BlogPost() {
                   <Link to="/all-tools">All Tools</Link>
                 </li>
                 <li>
-                  <Link to="/pdf-tools">PDF Tools</Link>
+                  <Link to="/blog/best-image-dimensions">Image sizing guide</Link>
                 </li>
                 <li>
                   <Link to="/word-counter">Word Counter</Link>
@@ -130,16 +121,16 @@ function BlogPost() {
               <h2>Need support?</h2>
               <p>
                 Reach out to our team at{' '}
-                <a href="mailto:huzaifagroupofsoftware@gmail.com">
-                  huzaifagroupofsoftware@gmail.com
+                <a href={`mailto:${CONTACT_EMAIL}`}>
+                  {CONTACT_EMAIL}
                 </a>{' '}
-                for help with image optimization, website speed, or SEO strategy.
+                to report a tool issue or suggest a correction to this guide.
               </p>
             </div>
           </aside>
         </div>
 
-        <section className="blog-faq">
+        {blog.faq.length > 0 && <section className="blog-faq">
           <h2>Frequently Asked Questions</h2>
           <div className="faq-grid">
             {blog.faq.map((item, index) => (
@@ -149,7 +140,7 @@ function BlogPost() {
               </div>
             ))}
           </div>
-        </section>
+        </section>}
 
         <section className="blog-related">
           <div className="section-heading">
@@ -161,7 +152,7 @@ function BlogPost() {
                 <article key={item.slug} className="blog-card">
                   <img
                     src={item.featuredImage}
-                    alt={item.title}
+                    alt="" width="320" height="160"
                     className="blog-card-image"
                     loading="lazy"
                   />
@@ -170,7 +161,7 @@ function BlogPost() {
                       <span className="blog-card-badge">{item.category}</span>
                       <span>{item.readingTime}</span>
                     </div>
-                    <h2>{item.title}</h2>
+                    <h2><Link to={`/blog/${item.slug}`}>{item.title}</Link></h2>
                     <p>{item.metaDescription}</p>
                     <div className="blog-card-footer">
                       <span>{item.date}</span>

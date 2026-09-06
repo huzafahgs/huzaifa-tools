@@ -1,10 +1,10 @@
-import { useEffect } from "react";
+import { useEffect, useMemo } from "react";
 import { useLocation } from "react-router-dom";
 import { getPageSeoData } from "../seo/seoData";
 
 export default function SeoHead({ title }) {
   const location = useLocation();
-  const seo = getPageSeoData(location.pathname, title);
+  const seo = useMemo(() => getPageSeoData(location.pathname, title), [location.pathname, title]);
 
   useEffect(() => {
     document.title = seo.title;
@@ -55,6 +55,7 @@ export default function SeoHead({ title }) {
     setMeta("og:type", seo.ogType || "website", "property");
     setMeta("og:site_name", "Huzaifa Group of Software", "property");
     setMeta("og:image", seo.ogImage, "property");
+    setMeta("og:image:alt", "Huzaifa Tools", "property");
 
     setMeta("twitter:card", "summary_large_image");
     setMeta("twitter:title", seo.twitterTitle);
@@ -88,7 +89,7 @@ export default function SeoHead({ title }) {
       });
       document.head.appendChild(script);
     }
-  }, [location.pathname, seo.title, seo.description, seo.canonicalUrl, seo.robots]);
+  }, [seo]);
 
   return null;
 }

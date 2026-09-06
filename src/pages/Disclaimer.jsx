@@ -3,19 +3,10 @@ import Layout from "../components/Layout";
 function Disclaimer() {
   return (
     <Layout title="Disclaimer">
-      <section style={{ padding: "40px" }}>
+      <section className="trust-page">
         <h1 style={{ color: "gold", marginBottom: "30px", textAlign: "center" }}>⚠️ Disclaimer</h1>
 
-        <div style={{
-          background: "#0c1022",
-          border: "1px solid gold",
-          borderRadius: "8px",
-          padding: "40px",
-          maxWidth: "800px",
-          margin: "0 auto",
-          lineHeight: "1.6",
-          color: "#ddd"
-        }}>
+        <div className="trust-panel">
           <p style={{ color: "gold", marginBottom: "20px", fontWeight: "bold" }}>
             Last Updated: July 8, 2026
           </p>

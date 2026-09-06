@@ -10,11 +10,11 @@ Alt text helps search engines understand images and improves accessibility for u
 
 Compress images and choose efficient formats. Fast-loading visuals support better SEO and a smoother experience.
 
-## Include internal links
+## Write alt text for the purpose of the image
 
-Link to relevant tools like [All Tools](/all-tools) and [PDF Tools](/pdf-tools) to provide visitors with more resources.
+For an informative photograph, describe the relevant subject. For an image used as a link, explain its destination or action. For a decorative flourish, empty alt text avoids unnecessary repetition. A chart may need a nearby text explanation of its values and conclusion. Avoid stuffing filenames or alt text with search terms. Check that your article still makes sense when images fail to load and that surrounding copy explains information the image alone cannot convey.
 
-## Keep captions concise
+## Continue the workflow
 
-Use [Word Counter](/word-counter) and [Text Case Converter](/text-case-converter) to make captions and headlines readable and SEO-friendly.
+For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).
 `;

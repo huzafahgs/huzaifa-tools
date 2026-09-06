@@ -14,7 +14,11 @@ Compress, resize, and export optimized assets. Use [Image Compressor](/image-com
 
 When you use the right formats and compression settings, free optimization can reduce file size dramatically.
 
-## Keep page copy focused
+## Check limits before choosing a free workflow
 
-Use [Text Case Converter](/text-case-converter) and [Word Counter](/word-counter) to keep your page content tight and effective.
+Free does not tell you whether a service uploads files or processes them locally. Check supported output formats, file-size limits, batch limits, and download behavior before supplying an important file. Try a non-sensitive image first. The Huzaifa compressor creates a JPEG in your browser; its output may be larger than an already optimized original. Open the download and compare its size rather than assuming every compression attempt saves bytes.
+
+## Continue the workflow
+
+For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).
 `;

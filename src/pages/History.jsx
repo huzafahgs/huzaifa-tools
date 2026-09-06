@@ -1,3 +1,4 @@
+import tools from "../toolsData";
 import Layout from "../components/Layout";
 import { useState, useEffect } from "react";
 
@@ -5,10 +6,10 @@ function History() {
   const [history, setHistory] = useState([]);
 
   useEffect(() => {
-    const saved = localStorage.getItem("toolHistory");
-    if (saved) {
-      setHistory(JSON.parse(saved));
-    }
+    try {
+      const saved = JSON.parse(localStorage.getItem("toolHistory") || "[]");
+      setHistory(Array.isArray(saved) ? saved.filter(item => item && typeof item.name === "string" && tools.some(tool => tool.slug === item.slug)) : []);
+    } catch { setHistory([]); }
   }, []);
 
   const clearHistory = () => {
@@ -57,7 +58,7 @@ function History() {
             color: "#aaa"
           }}>
             <p style={{ fontSize: "18px", marginBottom: "15px" }}>No history yet</p>
-            <p>Your recently used tools will appear here</p>
+            <p>Automatic tool history is not active in the current catalog. Use your browser history to revisit a tool.</p>
             <a href="/" style={{
               display: "inline-block",
               marginTop: "20px",

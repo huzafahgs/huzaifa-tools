@@ -46,15 +46,15 @@ function Blog() {
       <section className="blog-page">
         <div className="page-header">
           <span className="eyebrow">Huzaifa Tools Blog</span>
-          <h1>Image Optimization, Performance, and SaaS SEO Insights</h1>
+          <h1>Practical guides for a faster web</h1>
           <p>
-            Discover premium guides, case-driven image strategies, and fast web
-            optimization insights built for modern brands and startups.
+            Learn how to prepare images, choose formats, and check page performance.
+            Clear workflows, useful examples, and the limits that matter.
           </p>
         </div>
 
         <div className="blog-actions">
-          <label htmlFor="blog-search" className="search-wrap" style={{ minWidth: "280px" }}>
+          <label htmlFor="blog-search" className="search-wrap">
             <span className="search-label">Search blog posts</span>
             <input
               id="blog-search"
@@ -67,7 +67,7 @@ function Blog() {
             />
           </label>
 
-          <div className="category-filter" role="tablist" aria-label="Blog categories">
+          <div className="category-filter" role="group" aria-label="Blog categories">
             {categories.map((categoryName) => (
               <button
                 key={categoryName}
@@ -83,12 +83,14 @@ function Blog() {
           </div>
         </div>
 
+        <p className="blog-results" role="status">{filteredBlogs.length} article{filteredBlogs.length === 1 ? "" : "s"} found</p>
         <div className="blog-grid">
           {filteredBlogs.map((blog) => (
             <article key={blog.slug} className="blog-card">
               <img
                 src={blog.featuredImage}
-                alt={blog.title}
+                alt=""
+                width="320" height="160"
                 className="blog-card-image"
                 loading="lazy"
               />
@@ -99,13 +101,13 @@ function Blog() {
                   <span>{blog.readingTime}</span>
                 </div>
 
-                <h2>{blog.title}</h2>
+                <h2><Link to={`/blog/${blog.slug}`}>{blog.title}</Link></h2>
                 <p>{blog.metaDescription}</p>
 
                 <div className="blog-card-footer">
-                  <span>{blog.date}</span>
+                  <time dateTime={blog.date}>{blog.date}</time>
                   <Link to={`/blog/${blog.slug}`} className="btn-primary">
-                    Read article
+                    Read article <span className="sr-only">: {blog.title}</span>
                   </Link>
                 </div>
               </div>

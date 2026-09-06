@@ -8,8 +8,6 @@ import SiteFooter from "./SiteFooter";
 const navItems = [
   { to: "/", label: "Home", icon: "🏠", end: true },
   { to: "/all-tools", label: "All Tools", icon: "🧰" },
-  { to: "/favorites", label: "Favorites", icon: "⭐" },
-  { to: "/history", label: "History", icon: "🕒" },
   { to: "/blog", label: "Blog", icon: "📰" },
   { to: "/pricing", label: "Pricing", icon: "💰" },
   { to: "/about-us", label: "About", icon: "ℹ️" },
@@ -32,6 +30,7 @@ function Layout({ children }) {
   return (
     <div className="container">
       <LiveWallpaper />
+      <a className="skip-link" href="#main-content">Skip to content</a>
 
       <button
         type="button"
@@ -98,7 +97,7 @@ function Layout({ children }) {
       </aside>
 
       <div className="main-column">
-        <main className="main" id="main-content">
+        <main className="main" id="main-content" tabIndex={-1}>
           {children}
         </main>
         <SiteFooter />

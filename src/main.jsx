@@ -39,6 +39,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/disclaimer" element={<Disclaimer />} />
         <Route path="/chat" element={<Chat />} />
         <Route path="/:slug" element={<ToolPage />} />
+        <Route path="*" element={<ToolPage />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>

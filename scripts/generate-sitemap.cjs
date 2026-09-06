@@ -47,15 +47,12 @@ async function main() {
     '/',
     '/all-tools',
     '/blog',
-    '/favorites',
-    '/history',
     '/pricing',
     '/contact',
     '/about-us',
     '/privacy-policy',
     '/terms-conditions',
     '/disclaimer',
-    '/chat',
   ];
 
   const urls = [

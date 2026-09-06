@@ -4,7 +4,7 @@ Choosing the right image format can improve speed, compatibility, and visual qua
 
 ## When to use AVIF
 
-AVIF is excellent for photos and marketing graphics because it delivers small files without sacrificing detail. Use it where browser support is strong.
+AVIF can be useful for photos and marketing graphics; check that the chosen export retains the detail you need. Use it where browser support is strong.
 
 ## When to use WebP
 
@@ -18,11 +18,17 @@ JPG remains useful for compatibility on older browsers, while PNG works best for
 
 Optimizing file format is only part of the strategy. Compress images and resize them first. Tools like [Image Compressor](/image-compressor) make that simple.
 
-## Improve editorial quality
-
-Keep page copy tight with [Text Case Converter](/text-case-converter) and link to internal resources like [All Tools](/all-tools) to help readers discover more content.
 
 ## Summary
 
 Use AVIF where supported, WebP for compatibility, JPEG for legacy needs, and PNG for transparent graphics.
+
+
+## A practical selection checklist
+
+For a product photograph, compare a JPEG with a modern-format export at the same dimensions. For a screenshot with small text, inspect a lossless export before accepting lossy artifacts. For a logo, check transparency against both light and dark backgrounds. Keep vector originals when available. File size is only one criterion: your content system, email client, or download recipient must also be able to display the file. The Huzaifa compressor exports JPEG; it does not provide every format discussed here.
+
+## Continue the workflow
+
+For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).
 `;

@@ -54,8 +54,8 @@ function App() {
         </h1>
 
         <p className="hero-tagline">
-          {toolCount}+ free tools for text, calculators, converters, security, and productivity —
-          fast, private, and ready in your browser.
+          {toolCount} free tools for text, calculators, converters, security, and productivity —
+          ready to use without an account.
         </p>
 
         <div className="hero-search">
@@ -116,6 +116,7 @@ function App() {
           </div>
         </div>
       </section>
+      <p className="search-help">Preparing images for a website? Read our <Link to="/blog/image-compression-guide-2026">image compression guide</Link> or check <Link to="/privacy-policy">how tools handle data</Link>.</p>
 
       <div id="tool-catalog" className="category-filter" role="group" aria-label="Tool categories">
         {categories.map((category) => (

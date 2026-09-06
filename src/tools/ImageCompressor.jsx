@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useEffect, useState } from "react";
 import "../styles/Tool.css";
 
 export default function ImageCompressor() {
@@ -8,16 +8,20 @@ export default function ImageCompressor() {
   const [quality, setQuality] = useState(80);
   const [compressedImage, setCompressedImage] = useState(null);
   const [isCompressing, setIsCompressing] = useState(false);
+  const [error, setError] = useState("");
+  useEffect(() => () => { if (compressedImage) URL.revokeObjectURL(compressedImage); }, [compressedImage]);
 
   const handleFileSelect = (event) => {
     const file = event.target.files[0];
+    if (!file) return;
+    setError("");
     if (file && file.type.startsWith("image/")) {
       setSelectedFile(file);
       setOriginalSize(file.size);
       setCompressedImage(null);
       setCompressedSize(0);
     } else {
-      alert("Please select a valid image file");
+      setError("Please select a valid image file.");
     }
   };
 
@@ -28,27 +32,37 @@ export default function ImageCompressor() {
     }
 
     setIsCompressing(true);
+    setError("");
+    const fail = () => { setError("Unable to process this image. Try a smaller JPEG or PNG file."); setIsCompressing(false); };
 
     const reader = new FileReader();
+    reader.onerror = fail;
     reader.onload = (event) => {
       const img = new Image();
+      img.onerror = fail;
       img.onload = () => {
+        try {
         const canvas = document.createElement("canvas");
         canvas.width = img.width;
         canvas.height = img.height;
 
         const ctx = canvas.getContext("2d");
+        if (!ctx) { fail(); return; }
+        ctx.fillStyle = "#ffffff";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
         ctx.drawImage(img, 0, 0);
 
         canvas.toBlob(
           (blob) => {
-            setCompressedImage(canvas.toDataURL());
+            if (!blob) { fail(); return; }
+            setCompressedImage(URL.createObjectURL(blob));
             setCompressedSize(blob.size);
             setIsCompressing(false);
           },
           "image/jpeg",
           quality / 100
         );
+        } catch { fail(); }
       };
       img.src = event.target.result;
     };
@@ -60,7 +74,7 @@ export default function ImageCompressor() {
 
     const link = document.createElement("a");
     link.href = compressedImage;
-    link.download = `compressed-${selectedFile.name}`;
+    link.download = `compressed-${selectedFile.name.replace(/\.[^.]+$/, "")}.jpg`;
     link.click();
   };
 
@@ -76,9 +90,11 @@ export default function ImageCompressor() {
     <div className="tool-container">
       <div className="tool-header">
         <h1>🖼️ Image Compressor</h1>
-        <p>Compress images and reduce file size while maintaining quality</p>
+        <p>Export a JPEG with adjustable quality; compare the result before saving.</p>
       </div>
 
+      <p className="info-message">JPEG output has no transparency or animation. Transparent areas become white. Keep your original file.</p>
+      {error && <p role="alert">{error}</p>}
       <div className="input-section">
         <div className="file-input-group">
           <label htmlFor="image-input" className="file-label">
@@ -88,10 +104,12 @@ export default function ImageCompressor() {
             id="image-input"
             type="file"
             accept="image/*"
+            disabled={isCompressing}
             onChange={handleFileSelect}
             style={{ display: "none" }}
           />
           <button
+            disabled={isCompressing}
             onClick={() => document.getElementById("image-input").click()}
             className="btn"
             style={{
@@ -134,10 +152,12 @@ export default function ImageCompressor() {
 
         {selectedFile && (
           <div style={{ marginTop: "20px" }}>
-            <label style={{ color: "gold", marginRight: "10px" }}>
+            <label htmlFor="compression-quality" style={{ color: "gold", marginRight: "10px" }}>
               Quality: {quality}%
             </label>
             <input
+              id="compression-quality"
+              disabled={isCompressing}
               type="range"
               min="10"
               max="100"

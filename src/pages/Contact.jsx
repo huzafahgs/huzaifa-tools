@@ -53,7 +53,7 @@ function Contact() {
                 Your email app should open with the message ready to send.
               </div>
             )}
-            <form className="contact-form" onSubmit={handleSubmit} noValidate>
+            <form className="contact-form" onSubmit={handleSubmit}>
               <div className="form-group">
                 <label htmlFor="contact-name">Name</label>
                 <input

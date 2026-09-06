@@ -76,7 +76,7 @@ const tools = [
     name: "Password Generator",
     slug: "password-generator",
     icon: "🔑",
-    description: "Generate secure passwords instantly.",
+    description: "Generate a random password with selectable character sets.",
     category: "Security"
   },
   {

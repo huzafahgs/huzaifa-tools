@@ -1,6 +1,8 @@
 import { Link, useParams } from "react-router-dom";
 import tools from "../toolsData";
+import NotFound from "../components/NotFound";
 import Layout from "../components/Layout";
+import { getToolHelp } from "../data/toolHelp";
 import ToolCard from "../components/ToolCard";
 import { Suspense, useMemo } from "react";
 import { getToolComponent } from "../toolRegistry";
@@ -9,6 +11,7 @@ function ToolPage() {
   const { slug } = useParams();
   const tool = tools.find((entry) => entry.slug === slug);
   const Component = getToolComponent(slug);
+  const help = tool ? getToolHelp(tool) : null;
 
   const relatedTools = useMemo(() => {
     if (!tool) return [];
@@ -17,26 +20,7 @@ function ToolPage() {
       .slice(0, 4);
   }, [tool]);
 
-  if (!tool || !Component) {
-    return (
-      <Layout title="Tool Not Found">
-        <div className="empty-state tool-not-found" role="status">
-          <h1 className="empty-state-title">Tool Not Found</h1>
-          <p className="empty-state-text">
-            The tool you are looking for does not exist or is no longer available.
-          </p>
-          <div className="hero-actions">
-            <Link to="/" className="btn-primary">
-              Back to Home
-            </Link>
-            <Link to="/all-tools" className="btn-secondary">
-              Browse all tools
-            </Link>
-          </div>
-        </div>
-      </Layout>
-    );
-  }
+  if (!tool || !Component) return <NotFound />;
 
   return (
     <Layout title={tool.name}>
@@ -66,15 +50,12 @@ function ToolPage() {
           <div className="tool-help-panel">
             <h2 id="tool-help-heading">About this tool</h2>
             <p>{tool.description}</p>
-            <h3>How to use</h3>
-            <ol className="tool-help-steps">
-              <li>Enter or paste your input in the fields above.</li>
-              <li>Review the options if the tool offers any settings.</li>
-              <li>Read the result and copy or download it as needed.</li>
-            </ol>
+            {help.steps && <><h3>How to use</h3><ol className="tool-help-steps">{help.steps.map(step => <li key={step}>{step}</li>)}</ol></>}
             <p className="tool-help-note">
-              Most Huzaifa Tools run locally in your browser so your data stays on your device.
+              {help.note}
             </p>
+            {help.guide && <p><Link to={help.guide}>{help.guideLabel}</Link></p>}
+            <p><Link to="/privacy-policy">Data handling</Link> · <Link to="/contact">Report a problem</Link></p>
           </div>
 
           {relatedTools.length > 0 && (

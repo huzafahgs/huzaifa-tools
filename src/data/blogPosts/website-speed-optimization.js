@@ -8,17 +8,17 @@ Use a compressor to reduce image size before uploading. This improves page speed
 
 ## Use modern formats
 
-WebP and AVIF are generally better than JPEG and PNG for performance. They keep quality while shrinking file size.
+Compare supported formats using the same originals and dimensions. The smallest acceptable output depends on the image and encoding settings.
 
 ## Size images for display
 
 Avoid delivering larger images than necessary. Resizing images to the screen size reduces wasted bytes.
 
-## Keep your content focused
+## Find the bottleneck before changing every image
 
-Polish headlines and captions with [Word Counter](/word-counter) and [Text Case Converter](/text-case-converter) for a cohesive page.
+Use the browser network panel to sort requests by transferred size. Identify whether a slow first view is waiting on an image, font, script, or server response. Start with a single high-impact asset, keep test conditions similar, and repeat the measurement. If the image is already small, further compression may have little effect. Reserve its layout space and avoid loading several hidden carousel images at high priority. Record what changed so you can undo a visually poor optimization.
 
-## Internal link strategy
+## Continue the workflow
 
-Link to useful tools such as [All Tools](/all-tools) and [PDF Tools](/pdf-tools) to help users find more value on your site.
+For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).
 `;

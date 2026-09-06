@@ -3,6 +3,7 @@ import "../styles/Tool.css";
 
 export default function PasswordGenerator() {
   const [password, setPassword] = useState("");
+  const [status, setStatus] = useState("");
   const [length, setLength] = useState(16);
   const [uppercase, setUppercase] = useState(true);
   const [lowercase, setLowercase] = useState(true);
@@ -16,29 +17,41 @@ export default function PasswordGenerator() {
     if (numbers) chars += "0123456789";
     if (symbols) chars += "!@#$%^&*()_+-=[]{}|;:,.<>?";
 
-    let pass = "";
-    for (let i = 0; i < length; i++) {
-      pass += chars.charAt(Math.floor(Math.random() * chars.length));
-    }
-    setPassword(pass);
+    setStatus("");
+    if (!chars) { setPassword(""); setStatus("Choose at least one character set."); return; }
+    try {
+      let pass = "";
+      const bytes = new Uint8Array(128);
+      // Reject excess values so every character has equal probability.
+      const limit = 256 - (256 % chars.length);
+      while (pass.length < length) {
+        crypto.getRandomValues(bytes);
+        for (const byte of bytes) {
+          if (byte < limit) pass += chars[byte % chars.length];
+          if (pass.length === length) break;
+        }
+      }
+      setPassword(pass);
+    } catch { setPassword(""); setStatus("Secure generation is unavailable in this browser."); }
   };
 
-  const copy = () => {
-    navigator.clipboard.writeText(password);
-    alert("Copied!");
+  const copy = async () => {
+    try { await navigator.clipboard.writeText(password); setStatus("Password copied."); }
+    catch { setStatus("Unable to copy. Select the password and copy it manually."); }
   };
 
   return (
     <div className="tool-container">
       <div className="tool-header">
         <h1>🔑 Password Generator</h1>
-        <p>Generate secure passwords instantly</p>
+        <p>Generate a random password using the selected character sets.</p>
       </div>
 
       <div className="form-grid">
         <div className="form-group">
-          <label>Password Length: {length}</label>
+          <label htmlFor="password-length">Password length: {length}</label>
           <input
+            id="password-length"
             type="range"
             min="4"
             max="64"
@@ -92,6 +105,7 @@ export default function PasswordGenerator() {
         Generate Password
       </button>
 
+      {status && <p role="status">{status}</p>}
       {password && (
         <div className="output-box">
           <div className="output-label">Generated Password:</div>

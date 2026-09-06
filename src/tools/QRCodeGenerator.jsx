@@ -32,13 +32,16 @@ export default function QRCodeGenerator() {
         <p>Create QR codes instantly</p>
       </div>
 
+      <p className="info-message">Your text is sent to api.qrserver.com to create the code. Do not enter sensitive information.</p>
+      <label htmlFor="qr-input">Text or URL</label>
       <input
+        id="qr-input"
         type="text"
         value={text}
         onChange={(e) => setText(e.target.value)}
         placeholder="Enter text or URL..."
         className="tool-input"
-        onKeyPress={(e) => e.key === "Enter" && generateQR()}
+        onKeyDown={(e) => e.key === "Enter" && generateQR()}
       />
 
       <button className="tool-button" onClick={generateQR} style={{marginBottom: "30px"}}>

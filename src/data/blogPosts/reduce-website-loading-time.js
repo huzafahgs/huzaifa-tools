@@ -10,11 +10,11 @@ Resize and compress images before uploading. Avoid heavy source files and browse
 
 Select WebP or AVIF whenever possible, and serve them responsively to match the user’s device.
 
-## Support your text
+## Prioritize visible improvements
 
-Keep copy polished with [Text Case Converter](/text-case-converter) and [Word Counter](/word-counter) to support the optimized visuals.
+List the heaviest requests for a slow page and identify which are needed for the initial view. Optimize the main visible image before spending time on a tiny icon. Keep layout space reserved, and lazy-load below-the-fold images where appropriate. Re-test with the same viewport and connection settings. A smaller image does not fix a slow backend or a large script bundle, so record separate evidence for transfer size and overall loading behavior.
 
-## Link to tools
+## Continue the workflow
 
-Point readers to [Image Compressor](/image-compressor) and [All Tools](/all-tools) so they can apply the same optimization strategies.
+For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).
 `;

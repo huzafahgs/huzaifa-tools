@@ -3,25 +3,16 @@ import Layout from "../components/Layout";
 function TermsConditions() {
   return (
     <Layout title="Terms & Conditions">
-      <section style={{ padding: "40px" }}>
+      <section className="trust-page">
         <h1 style={{ color: "gold", marginBottom: "30px", textAlign: "center" }}>📜 Terms & Conditions</h1>
 
-        <div style={{
-          background: "#0c1022",
-          border: "1px solid gold",
-          borderRadius: "8px",
-          padding: "40px",
-          maxWidth: "800px",
-          margin: "0 auto",
-          lineHeight: "1.6",
-          color: "#ddd"
-        }}>
+        <div className="trust-panel">
           <p style={{ color: "gold", marginBottom: "20px", fontWeight: "bold" }}>
             Last Updated: July 8, 2026
           </p>
 
           <p style={{ marginBottom: "20px" }}>
-            Welcome to <strong>Huzaifa Tools</strong>! These terms and conditions outline the rules and regulations for the use of Huzaifa Tools' Website, located at our platform.
+            Welcome to <strong>Huzaifa Tools</strong>! These terms and conditions outline the rules and regulations for the use of Huzaifa Tools at https://ai-tools-by-huzaifa.vercel.app.
           </p>
 
           <p style={{ marginBottom: "20px" }}>
