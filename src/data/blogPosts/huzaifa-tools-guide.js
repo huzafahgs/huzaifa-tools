@@ -4,7 +4,7 @@ Huzaifa Tools brings those short, focused jobs into a searchable collection of o
 
 This guide is a working companion to that catalog. It explains what to use, how representative tools behave, and where a result needs caution. You can follow it as a tutorial or jump to the section that matches your task. Examples use invented sample inputs or straightforward arithmetic; they are not customer results, market quotes, medical recommendations, or performance benchmarks.
 
-> **Before you begin:** choose the output you need, check the tool's limitations, and keep a copy of the original input. Some operations run locally, QR generation uses an external service, currency rates are fixed, and the current MD5/SHA-256 pages are demonstrations rather than standards-compliant hash implementations. Those distinctions matter more than a tool's name.
+> **Before you begin:** choose the output you need, check the tool's limitations, and keep a copy of the original input. Some operations run locally, QR generation uses an external service, currency rates are fixed, and MD5/SHA-256 now compute real text digests; plain hashes are not password-storage schemes. Those distinctions matter more than a tool's name.
 
 ## What Huzaifa Tools is—and when it is useful
 

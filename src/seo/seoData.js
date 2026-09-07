@@ -21,7 +21,7 @@ const ROUTE_META = {
   },
   "/blog": {
     title: "Blog | Huzaifa Tools",
-    description: "Practical image compression, format selection, and website performance guides with step-by-step checks and helpful tools.",
+    description: "Practical guides to PDF tasks, image editing, data conversion, and developer utilities, with worked examples, checks, and honest tool limitations.",
   },
   "/favorites": {
     title: "Favorites | Huzaifa Tools",

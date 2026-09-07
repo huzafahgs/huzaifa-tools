@@ -46,9 +46,9 @@ function Blog() {
       <section className="blog-page">
         <div className="page-header">
           <span className="eyebrow">Huzaifa Tools Blog</span>
-          <h1>Practical guides for a faster web</h1>
+          <h1>Practical guides for everyday tools</h1>
           <p>
-            Learn how to prepare images, choose formats, and check page performance.
+            Learn how to work with PDFs, prepare images, and review data and code.
             Clear workflows, useful examples, and the limits that matter.
           </p>
         </div>

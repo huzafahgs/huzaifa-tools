@@ -1,3 +1,5 @@
+import { toolGuideTopics } from './toolGuideSeries.js';
+const guidesByTool = Object.fromEntries(toolGuideTopics.map(topic => [topic.toolSlug, topic]));
 const help = {
  "md5-hash": { steps: ["Enter the exact text, including any intended whitespace.", "Generate the digest and compare or copy the 32-character hexadecimal output."], note: "Empty input is supported. This hashes UTF-8 text locally, not file bytes. MD5 is unsuitable for passwords and collision-resistant security checks." },
  "sha256-hash": { steps: ["Enter the exact text to hash.", "Generate and copy the 64-character hexadecimal digest."], note: "Uses Web Crypto over UTF-8 text locally. Whitespace matters and empty input is supported. A plain digest does not authenticate a sender and is not a password-storage scheme." },
@@ -19,4 +21,8 @@ const categories = {
  Calculator: "Check units, input ranges, and rounding against a known example before relying on a result.",
  SEO: "Review generated output against your actual pages and settings. Metadata alone cannot guarantee indexing or rankings."
 };
-export function getToolHelp(tool) { return tool.help || help[tool.slug] || { note: categories[tool.category] || "Check the options and review the output against your intended use before saving it." }; }
+export function getToolHelp(tool) {
+ const content = tool.help || help[tool.slug] || { note: categories[tool.category] || "Check the options and review the output against your intended use before saving it." };
+ const guide = guidesByTool[tool.slug];
+ return guide ? { ...content, guide: `/blog/${guide.articleSlug}`, guideLabel: guide.title } : content;
+}

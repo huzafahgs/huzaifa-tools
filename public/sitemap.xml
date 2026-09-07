@@ -109,6 +109,16 @@
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/html-minifier</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/css-formatter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/javascript-formatter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/merge-pdf-files-in-order</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/split-pdf-by-page-ranges</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/extract-selected-pdf-pages</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/images-to-a4-pdf</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/pdf-pages-to-png-images</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/crop-image-by-pixel-coordinates</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/read-image-metadata-exif</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/rotate-flip-image-without-confusion</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/json-to-csv-flat-data</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/format-javascript-without-executing</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/huzaifa-tools-guide</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-guide-2026</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/webp-vs-avif</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>

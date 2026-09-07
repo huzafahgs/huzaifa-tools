@@ -32,7 +32,7 @@ function BlogPost() {
       .then((markdown) => {
         if (!active) return;
         const html = marked.parse(markdown.replace(/^# .+\r?\n/, ""));
-        if (blog.flagship) {
+        if (blog.flagship || blog.readingGuide) {
           // Content is trusted, repository-authored markdown; no visitor HTML is accepted.
           const doc = new DOMParser().parseFromString(html, "text/html");
           const headings = [...doc.querySelectorAll("h2")].map((heading, index) => {
@@ -80,7 +80,7 @@ function BlogPost() {
 
   return (
     <Layout>
-      <section className={`blog-post-page${blog.flagship ? " blog-post-page--flagship" : ""}`}>
+      <section className={`blog-post-page${blog.flagship || blog.readingGuide ? " blog-post-page--flagship" : ""}`}>
         <nav className="tool-breadcrumb" aria-label="Breadcrumb"><Link to="/">Home</Link><span>/</span><Link to="/blog">Blog</Link></nav>
         <div className="blog-hero">
           <div className="blog-hero-meta">
@@ -114,7 +114,7 @@ function BlogPost() {
           </article>
 
           <aside className="blog-sidebar">
-            {blog.flagship && toc.length > 0 && (
+            {(blog.flagship || blog.readingGuide) && toc.length > 0 && (
               <nav className="article-toc blog-sidebar-card" aria-label="Table of contents">
                 <h2>In this guide</h2>
                 <ol>{toc.map(item => <li key={item.id}><a href={"#" + item.id}>{item.label}</a></li>)}</ol>
@@ -124,6 +124,9 @@ function BlogPost() {
             <div className="blog-sidebar-card">
               <h2>Explore Related Tools</h2>
               <ul className="sidebar-links">
+                {blog.readingGuide ? blog.recommendedTools.map(slug => tools.find(tool => tool.slug === slug)).filter(Boolean).map(tool => (
+                  <li key={tool.slug}><Link to={`/${tool.slug}`}>{tool.name}</Link></li>
+                )) : <>
                 <li>
                   <Link to="/image-compressor">Image Compressor</Link>
                 </li>
@@ -139,6 +142,7 @@ function BlogPost() {
                 <li>
                   <Link to="/text-case-converter">Text Case Converter</Link>
                 </li>
+                </>}
               </ul>
             </div>
 

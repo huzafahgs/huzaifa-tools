@@ -1,4 +1,6 @@
+import toolGuides from './toolGuideSeries.js';
 const blogs = [
+  ...toolGuides,
   {
   "id": 21,
   "title": "The Complete Huzaifa Tools Guide: Free Online Utilities for Work, Study, and Development",
@@ -15,7 +17,7 @@ const blogs = [
   "date": "2026-09-06",
   "updated": "2026-09-07",
   "readingTime": "49 min read",
-  "wordCount": 9784,
+  "wordCount": 9785,
   "metaTitle": "Huzaifa Tools Guide: 100 Free Online Utilities Explained",
   "metaDescription": "A practical guide to Huzaifa Tools for developers, students, creators, and businesses, with examples, privacy details, and honest tool limitations.",
   "ogTitle": "The Complete Huzaifa Tools Guide",
