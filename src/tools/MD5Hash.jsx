@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { digestText } from './batch/textDigest';
 import "../styles/Tool.css";
 
 export default function MD5Hash() {
@@ -7,15 +8,6 @@ export default function MD5Hash() {
   const [error, setError] = useState("");
   const [status, setStatus] = useState("");
   const [loadingAction, setLoadingAction] = useState("");
-
-  const toBase64 = (value) => {
-    const bytes = new TextEncoder().encode(value);
-    let binary = "";
-    bytes.forEach((byte) => {
-      binary += String.fromCharCode(byte);
-    });
-    return btoa(binary);
-  };
 
   const copyToClipboard = async (value) => {
     if (!value) {
@@ -43,22 +35,15 @@ export default function MD5Hash() {
   };
 
   const generate = async () => {
-    if (!text.trim()) {
-      setError("Enter text before generating a hash.");
-      setStatus("");
-      setHash("");
-      return;
-    }
-
     setLoadingAction("generate");
     setError("");
     setStatus("");
-    const result = toBase64(text).split('').reduce((hash, char) => {
-      return ((hash << 5) - hash) + char.charCodeAt(0);
-    }, 0).toString(16);
-    setHash(result);
-    setStatus("Demo MD5 hash generated.");
-    setLoadingAction("");
+    setHash("");
+    try {
+      setHash(await digestText('MD5', text));
+      setStatus("MD5 digest generated from the exact UTF-8 text.");
+    } catch (e) { setError(e.message); }
+    finally { setLoadingAction(""); }
   };
 
   const copy = async () => {
@@ -79,7 +64,7 @@ export default function MD5Hash() {
     <div className="tool-container" aria-busy={loadingAction ? "true" : "false"}>
       <div className="tool-header">
         <h1>🔒 MD5 Hash Generator</h1>
-        <p>Generate MD5 hashes (demonstration only)</p>
+        <p>Generate the MD5 digest of UTF-8 text locally in your browser.</p>
       </div>
 
       {error && <div className="error-message" role="alert">{error}</div>}
@@ -91,10 +76,13 @@ export default function MD5Hash() {
       <textarea
         id="md5-input"
         value={text}
+        maxLength={1000000}
+        disabled={Boolean(loadingAction)}
         onChange={(e) => {
           setText(e.target.value);
           setError("");
           setStatus("");
+          setHash("");
         }}
         placeholder="Enter text to hash..."
         className="tool-textarea"
@@ -117,7 +105,7 @@ export default function MD5Hash() {
       )}
 
       <div style={{marginTop: "30px", padding: "15px", background: "#0a0d1a", borderRadius: "8px", fontSize: "12px", color: "#aaa"}}>
-        <p><strong>Note:</strong> This is a demonstration hash. For cryptographic purposes, use proper hashing libraries.</p>
+        <p><strong>Note:</strong> MD5 is a legacy checksum and is not collision-resistant. Do not use it for passwords or security-sensitive integrity checks. Whitespace and newlines are included; empty input hashes the empty string. This hashes text, not uploaded file bytes.</p>
       </div>
     </div>
   );

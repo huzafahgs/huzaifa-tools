@@ -1,3 +1,4 @@
+import documentImageTools from './data/documentImageTools.js';
 const tools = [
   // Text Tools
   {
@@ -618,4 +619,4 @@ const tools = [
   }
 ];
 
-export default tools;
+export default [...tools, ...documentImageTools];

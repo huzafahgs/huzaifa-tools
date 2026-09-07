@@ -1,0 +1,24 @@
+.batch-tool { overflow-wrap:anywhere; }
+.batch-tool fieldset { border:0; padding:0; min-width:0; }
+.batch-tool label { display:block; margin:16px 0 8px; color:#f2df9d; font-weight:600; }
+.batch-tool input:not([type=checkbox]), .batch-tool select { width:100%; padding:12px; color:#f5f5fa; background:#11162a; border:1px solid #67708b; border-radius:8px; min-width:0; }
+.batch-tool input[type=checkbox] { margin-right:10px; }
+.batch-tool button, .batch-tool a { min-height:42px; }
+.batch-tool :focus-visible { outline:3px solid #f2ca50; outline-offset:3px; }
+.batch-tool button:disabled { opacity:.5; cursor:not-allowed; }
+.batch-local { padding:12px; border-left:3px solid #cdaa51; background:#12192b; color:#d9deeb; font-size:.9rem; }
+.batch-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
+.batch-actions { display:flex; flex-wrap:wrap; gap:12px; margin:20px 0; }
+.batch-actions button { flex:1; }
+.batch-files { padding-left:22px; }
+.batch-files li { padding:10px 0; display:flex; align-items:center; gap:6px; }
+.batch-files span { flex:1; min-width:0; }
+.batch-files button { padding:6px; color:#eee; background:#202940; border:1px solid #68718c; border-radius:5px; }
+.batch-download { margin:20px 0; padding:14px; border:1px solid #596078; border-radius:10px; display:grid; gap:10px; }
+.batch-download img, .batch-preview { max-width:100%; max-height:360px; object-fit:contain; display:block; margin:12px auto; background:repeating-conic-gradient(#ddd 0% 25%,#fff 0% 50%) 0/20px 20px; }
+.batch-download a { text-align:center; text-decoration:none; }
+.batch-tool small { color:#c4cada; }
+.batch-tool pre { white-space:pre-wrap; overflow-wrap:anywhere; background:#101626; padding:16px; max-height:500px; overflow:auto; }
+.batch-tool details { margin-top:20px; padding:14px; border:1px solid #505b73; border-radius:8px; }
+.batch-tool summary { cursor:pointer; color:#f2df9d; }
+@media(max-width:600px) { .batch-grid { grid-template-columns:1fr; } .batch-tool { padding:24px 16px; } .batch-files li { flex-wrap:wrap; } .batch-files span { flex-basis:100%; } }

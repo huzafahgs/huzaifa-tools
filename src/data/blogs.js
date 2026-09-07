@@ -13,9 +13,10 @@ const blogs = [
   ],
   "author": "Huzaifa Group of Software",
   "date": "2026-09-06",
+  "updated": "2026-09-07",
   "readingTime": "49 min read",
-  "wordCount": 9667,
-  "metaTitle": "Huzaifa Tools Guide: 86 Free Online Utilities Explained",
+  "wordCount": 9784,
+  "metaTitle": "Huzaifa Tools Guide: 100 Free Online Utilities Explained",
   "metaDescription": "A practical guide to Huzaifa Tools for developers, students, creators, and businesses, with examples, privacy details, and honest tool limitations.",
   "ogTitle": "The Complete Huzaifa Tools Guide",
   "ogDescription": "Choose the right utility for your next task: practical workflows, worked examples, and the limits to check before using the result.",
@@ -53,8 +54,8 @@ const blogs = [
       "answer": "No. Many calculations and text operations run locally, but QR generation sends its input to api.qrserver.com. Speech behavior depends on the browser and available voices. Review the privacy policy before entering sensitive information."
     },
     {
-      "question": "Can I use the MD5 and SHA-256 pages for real checksums?",
-      "answer": "Not in their current form. These pages use demo-style calculations rather than standards-compliant digests. Use an established cryptographic implementation for checksums or integrations. MD5 is also unsuitable for modern password security."
+      "question": "What do the MD5 and SHA-256 pages hash?",
+      "answer": "They compute real digests of the exact UTF-8 text entered, including whitespace. They do not hash uploaded files or interpret a filename as file contents. MD5 is a legacy checksum, not a collision-resistant security choice. Neither plain MD5 nor plain SHA-256 is a password-storage scheme."
     },
     {
       "question": "Does Image Compressor resize images or export AVIF?",

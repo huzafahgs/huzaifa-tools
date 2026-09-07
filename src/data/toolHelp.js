@@ -1,4 +1,6 @@
 const help = {
+ "md5-hash": { steps: ["Enter the exact text, including any intended whitespace.", "Generate the digest and compare or copy the 32-character hexadecimal output."], note: "Empty input is supported. This hashes UTF-8 text locally, not file bytes. MD5 is unsuitable for passwords and collision-resistant security checks." },
+ "sha256-hash": { steps: ["Enter the exact text to hash.", "Generate and copy the 64-character hexadecimal digest."], note: "Uses Web Crypto over UTF-8 text locally. Whitespace matters and empty input is supported. A plain digest does not authenticate a sender and is not a password-storage scheme." },
  "word-counter": { steps: ["Paste or type text; counts update automatically.", "Compare words, characters, and sentence estimates in the statistics below the input."], note: "Words are split by whitespace. Sentences are estimated from punctuation; abbreviations and languages without spaces can produce different counts from another editor." },
  "json-formatter": { steps: ["Paste JSON with quoted property names and valid values.", "Format it, then inspect any validation error before copying the output."], note: "Formatting changes presentation, not meaning. Keep a source copy and do not paste credentials or tokens into shared screenshots." },
  "image-compressor": { steps: ["Select an image your browser can decode.", "Choose JPEG quality, compress, and compare the displayed output size.", "Download the JPEG and inspect it before replacing your original."], note: "Exports a lossy JPEG at the source dimensions. Transparency becomes white; animation and original metadata are not preserved. An already optimized source may be smaller than the output.", guide: "/blog/image-compression-guide-2026", guideLabel: "Read the image compression workflow" },
@@ -17,4 +19,4 @@ const categories = {
  Calculator: "Check units, input ranges, and rounding against a known example before relying on a result.",
  SEO: "Review generated output against your actual pages and settings. Metadata alone cannot guarantee indexing or rankings."
 };
-export function getToolHelp(tool) { return help[tool.slug] || { note: categories[tool.category] || "Check the options and review the output against your intended use before saving it." }; }
+export function getToolHelp(tool) { return tool.help || help[tool.slug] || { note: categories[tool.category] || "Check the options and review the output against your intended use before saving it." }; }

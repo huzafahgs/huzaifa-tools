@@ -3,6 +3,21 @@ import { registerTool } from "../toolRegistry";
 
 const lazyTool = (loader) => lazy(loader);
 
+registerTool("pdf-merger", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFMerger }))));
+registerTool("pdf-splitter", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFSplitter }))));
+registerTool("pdf-page-extractor", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFPageExtractor }))));
+registerTool("images-to-pdf", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.ImagesToPDF }))));
+registerTool("pdf-to-images", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFToImages }))));
+registerTool("image-resizer", lazyTool(() => import('./batch/ImageTools').then(m => ({ default:m.ImageResizer }))));
+registerTool("image-cropper", lazyTool(() => import('./batch/ImageTools').then(m => ({ default:m.ImageCropper }))));
+registerTool("image-converter", lazyTool(() => import('./batch/ImageTools').then(m => ({ default:m.ImageConverter }))));
+registerTool("image-metadata-viewer", lazyTool(() => import('./batch/ImageTools').then(m => ({ default:m.ImageMetadataViewer }))));
+registerTool("image-rotate-flip", lazyTool(() => import('./batch/ImageTools').then(m => ({ default:m.ImageRotateFlip }))));
+registerTool("json-to-csv", lazyTool(() => import('./batch/DeveloperTools').then(m => ({ default:m.JSONToCSV }))));
+registerTool("html-minifier", lazyTool(() => import('./batch/DeveloperTools').then(m => ({ default:m.HTMLMinifier }))));
+registerTool("css-formatter", lazyTool(() => import('./batch/DeveloperTools').then(m => ({ default:m.CSSFormatter }))));
+registerTool("javascript-formatter", lazyTool(() => import('./batch/DeveloperTools').then(m => ({ default:m.JavaScriptFormatter }))));
+
 registerTool("word-counter", lazyTool(() => import("./WordCounter")));
 registerTool("character-counter", lazyTool(() => import("./CharacterCounter")));
 registerTool("text-case-converter", lazyTool(() => import("./TextCaseConverter")));

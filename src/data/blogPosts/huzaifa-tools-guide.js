@@ -1,6 +1,6 @@
 export default `An awkward block of text, a JSON response with a missing comma, an image that is too large to publish, a percentage that needs checking: these are small tasks, but they interrupt real work. They rarely justify opening a complex application. They do deserve a result you can understand and verify.
 
-Huzaifa Tools brings those short, focused jobs into a searchable collection of online utilities. The current public catalog contains 86 registered tools, covering text, development, calculations, conversions, time, images, QR codes, and related tasks. The number describes the catalog at publication, not a promise that every utility has the same capabilities or level of maturity.
+Huzaifa Tools brings those short, focused jobs into a searchable collection of online utilities. The current public catalog contains 100 registered tools, covering text, development, calculations, conversions, time, PDFs, images, QR codes, and related tasks. The number describes the catalog at this update, not a promise that every utility has the same capabilities or level of maturity.
 
 This guide is a working companion to that catalog. It explains what to use, how representative tools behave, and where a result needs caution. You can follow it as a tutorial or jump to the section that matches your task. Examples use invented sample inputs or straightforward arithmetic; they are not customer results, market quotes, medical recommendations, or performance benchmarks.
 
@@ -180,6 +180,8 @@ XML Formatter can help reveal structure and parsing errors. XML-to-JSON and JSON
 
 HTML and SQL formatting are readability aids. They do not prove that markup is accessible, that SQL is safe, or that a query will execute in a particular database dialect. Keep the original and run the appropriate validator or test in the real environment.
 
+For parser-based readability, use [CSS Formatter](/css-formatter) or [JavaScript Formatter](/javascript-formatter). These run locally in a browser worker and report syntax problems without executing the source. Formatting is a review aid, not a replacement for tests.
+
 The CSS and JavaScript minifiers use text transformations rather than a complete language-aware build pipeline. Comment-like sequences inside strings, regular expressions, and whitespace-sensitive behavior need care. Use them for understandable experiments and inspect the result. For production application code, use the project's tested parser-based build tooling; a shorter string is not evidence of equivalent behavior.
 
 ## Security utilities: understand the promise and the boundary
@@ -196,13 +198,13 @@ Keep passwords unique between accounts. Avoid sharing them in screenshots, demon
 
 The [Password Strength Checker](/password-strength-checker) evaluates a small set of visible rules, including length, character classes, and repeated characters. It does not query a breach database or calculate a reliable cracking time. A predictable phrase with substitutions may satisfy several checks. Use sample strings to understand the rules, and do not mistake the label for an audit of a real account credential.
 
-### Hashing: an important current limitation
+### Hashing: exact input and algorithm choice
 
-The catalog includes MD5 and SHA-256 pages, but their current implementations are demo-style calculations. They do **not** compute standards-compliant MD5 or SHA-256 digests. Their output should not be used to verify a download, compare a cryptographic checksum, store a password, or build an integration that expects those algorithms.
+The [MD5](/md5-hash) and [SHA-256](/sha256-hash) pages now compute actual digests of the exact UTF-8 text you enter. Earlier demo-style calculations have been replaced. These are text utilities, not file-upload checksum tools: pasting a filename does not hash that file's bytes. Spaces, newlines and an empty string each have their own digest.
 
 This limitation is separate from the choice of algorithm. Even a correct MD5 implementation is unsuitable for modern password security and other uses that require collision resistance. A correct plain SHA-256 implementation is also not an appropriate password-storage scheme on its own: passwords need dedicated password-hashing methods and a complete authentication design. [OWASP's password-storage guidance](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) explains that distinction.
 
-If you need a real digest, use an established implementation and verify it with published test vectors. Do not substitute the current demo output because its length or formatting looks familiar. This guide deliberately explains the limitation instead of recommending those pages as cryptographic tools.
+When comparing results, both sides must use the same algorithm and exact input bytes. A hexadecimal string is treated as text here, not decoded into binary. Verify integrations with known test vectors, and obtain expected checksums from a trusted source; a matching digest alone does not establish who supplied the content.
 
 ### HMAC and JWT serve different purposes
 
@@ -332,9 +334,11 @@ Begin with a copy of the source. Select it, choose a moderate quality setting, r
 
 There is no promise that an export is smaller than the source. A small optimized WebP or JPEG can become larger when re-encoded. If it does, keep the more appropriate original or adjust the workflow. The quality setting is not a percentage of retained visual information.
 
-A transparent logo intended for a dark background is a poor candidate for this JPEG workflow. So is a text-heavy screenshot that must preserve every pixel. The tool also does not resize a 4,000-pixel image into a thumbnail or convert it to AVIF. Use a separate editor or encoder when those are the actual requirements.
+A transparent logo intended for a dark background is a poor candidate for this JPEG workflow. So is a text-heavy screenshot that must preserve every pixel. The compressor does not resize a 4,000-pixel image into a thumbnail or convert it to AVIF. Use [Image Resizer](/image-resizer) for dimensions and [Image Converter](/image-converter) for PNG, JPEG or WebP output. AVIF export requires another encoder.
 
 For a fuller process, read the [image compression workflow](/blog/image-compression-guide-2026) and the guide to [preserving pixels versus visible quality](/blog/reduce-image-size-without-quality-loss). They explain why the file's purpose should determine the format and acceptance criteria.
+
+For document workflows, [Images to PDF](/images-to-pdf) places ordered images on A4 pages, while [PDF Page Extractor](/pdf-page-extractor) copies selected pages into a new PDF. Both process files in the browser. Use unencrypted PDFs, respect the displayed limits, and inspect the exported document; images are flattened and document-level features such as signatures are not guaranteed to survive.
 
 ### Generate a QR code responsibly
 

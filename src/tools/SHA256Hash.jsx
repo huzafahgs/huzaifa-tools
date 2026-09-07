@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { digestText } from './batch/textDigest';
 import "../styles/Tool.css";
 
 export default function SHA256Hash() {
@@ -34,26 +35,15 @@ export default function SHA256Hash() {
   };
 
   const generate = async () => {
-    if (!text.trim()) {
-      setError("Enter text before generating a hash.");
-      setStatus("");
-      setHash("");
-      return;
-    }
-
     setLoadingAction("generate");
     setError("");
     setStatus("");
-    const encoder = new TextEncoder();
-    const data = encoder.encode(text);
-    let hashValue = 0;
-    for (let i = 0; i < data.length; i++) {
-      hashValue = ((hashValue << 5) - hashValue) + data[i];
-      hashValue = hashValue & hashValue;
-    }
-    setHash(Math.abs(hashValue).toString(16).padStart(64, '0'));
-    setStatus("Demo SHA256 hash generated.");
-    setLoadingAction("");
+    setHash("");
+    try {
+      setHash(await digestText('SHA-256', text));
+      setStatus("SHA-256 digest generated from the exact UTF-8 text.");
+    } catch (e) { setError(e.message); }
+    finally { setLoadingAction(""); }
   };
 
   const copy = async () => {
@@ -74,7 +64,7 @@ export default function SHA256Hash() {
     <div className="tool-container" aria-busy={loadingAction ? "true" : "false"}>
       <div className="tool-header">
         <h1>🔐 SHA256 Hash Generator</h1>
-        <p>Generate SHA256 hashes (demonstration only)</p>
+        <p>Generate a SHA-256 digest of UTF-8 text using the browser's Web Crypto API.</p>
       </div>
 
       {error && <div className="error-message" role="alert">{error}</div>}
@@ -86,10 +76,13 @@ export default function SHA256Hash() {
       <textarea
         id="sha256-input"
         value={text}
+        maxLength={1000000}
+        disabled={Boolean(loadingAction)}
         onChange={(e) => {
           setText(e.target.value);
           setError("");
           setStatus("");
+          setHash("");
         }}
         placeholder="Enter text to hash..."
         className="tool-textarea"
@@ -112,7 +105,7 @@ export default function SHA256Hash() {
       )}
 
       <div style={{marginTop: "30px", padding: "15px", background: "#0a0d1a", borderRadius: "8px", fontSize: "12px", color: "#aaa"}}>
-        <p><strong>Note:</strong> This is a demonstration hash. For cryptographic purposes, use proper hashing libraries.</p>
+        <p><strong>Note:</strong> Processing stays in this browser. Whitespace and newlines are included; empty input hashes the empty string. This hashes text, not uploaded file bytes. A plain SHA-256 digest is not a password-storage scheme and does not authenticate a sender.</p>
       </div>
     </div>
   );
