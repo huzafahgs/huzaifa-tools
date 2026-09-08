@@ -136,6 +136,141 @@ export const expandedGuideTopics = [
   "wordCount": 772
 }, content: () => import("./blogPosts/base64-encode-decode-utf8-text.js").then(m => m.default)},
   {...{
+  "id": 92,
+  "date": "2026-09-08",
+  "toolSlug": "binary-to-decimal",
+  "articleSlug": "binary-to-decimal-digits-sign-and-range",
+  "title": "Binary to Decimal: Digits, Sign and Safe Range",
+  "metaTitle": "Binary to Decimal: Digits, Sign and Safe Range | Huzaifa Tools",
+  "metaDescription": "Read a base-two integer as decimal, verify a bit-place example and distinguish an explicit minus sign from a fixed-width signed bit pattern.",
+  "primaryKeyword": "binary to decimal",
+  "searchIntent": "Interpret a validated binary integer as a safe decimal value",
+  "secondaryTopics": [
+    "Decimal to Binary",
+    "Hex to Decimal"
+  ],
+  "longTailQuestions": [
+    "Can I include a 0b prefix?",
+    "Does 11111111 mean negative one here?",
+    "Will a reverse conversion preserve leading zeros?"
+  ],
+  "category": "Math Guides",
+  "relatedTools": [
+    "binary-to-decimal",
+    "decimal-to-binary",
+    "hex-to-decimal"
+  ],
+  "relatedArticles": [
+    "decimal-integers-to-binary-without-bit-width",
+    "hexadecimal-to-decimal-place-values"
+  ],
+  "faq": [
+    {
+      "question": "Can I include a 0b prefix?",
+      "answer": "No. This interface expects binary digits and an optional leading minus sign. Remove a notation prefix only when the remaining bits are the intended integer."
+    },
+    {
+      "question": "Does 11111111 mean negative one here?",
+      "answer": "No. It is interpreted as 255. Fixed-width two's-complement meaning is not selected by this tool."
+    },
+    {
+      "question": "Will a reverse conversion preserve leading zeros?",
+      "answer": "Not necessarily. Leading zeros do not change the integer value, and a plain decimal-to-binary conversion does not restore an original storage width."
+    }
+  ],
+  "wordCount": 505
+}, content: () => import("./blogPosts/binary-to-decimal-digits-sign-and-range.js").then(m => m.default)},
+  {...{
+  "id": 93,
+  "date": "2026-09-08",
+  "toolSlug": "bmi-calculator",
+  "articleSlug": "bmi-metric-calculation-and-screening-limits",
+  "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
+  "metaTitle": "BMI: Use the Metric Calculation and Understand Screening Limits | Huzaifa Tools",
+  "metaDescription": "Check the metric BMI formula with kilograms and centimetres. Read the current imperial-mode warning and understand why a screening number is not a diagnosis.",
+  "primaryKeyword": "bmi calculator",
+  "searchIntent": "Explain metric BMI arithmetic with current implementation and screening limitations",
+  "secondaryTopics": [
+    "Weight Converter",
+    "Length Converter"
+  ],
+  "longTailQuestions": [
+    "Is the current imperial result reliable?",
+    "Should I enter metres in metric mode?",
+    "Does the BMI category diagnose my health?"
+  ],
+  "category": "Health Guides",
+  "relatedTools": [
+    "bmi-calculator",
+    "weight-converter",
+    "length-converter"
+  ],
+  "relatedArticles": [
+    "mass-conversion-kilograms-pounds-and-tons",
+    "convert-length-without-scaling-the-wrong-dimension"
+  ],
+  "faq": [
+    {
+      "question": "Is the current imperial result reliable?",
+      "answer": "No. The implementation mixes feet conversion with the pounds-and-inches factor. Use a verified alternative and do not rely on that branch."
+    },
+    {
+      "question": "Should I enter metres in metric mode?",
+      "answer": "The height input expects centimetres and converts them to metres internally. Entering 1.75 instead of 175 would use the wrong scale."
+    },
+    {
+      "question": "Does the BMI category diagnose my health?",
+      "answer": "No. It is a limited screening classification. Individual interpretation requires broader information and appropriate clinical assessment."
+    }
+  ],
+  "wordCount": 534
+}, content: () => import("./blogPosts/bmi-metric-calculation-and-screening-limits.js").then(m => m.default)},
+  {...{
+  "id": 94,
+  "date": "2026-09-08",
+  "toolSlug": "bmr-calculator",
+  "articleSlug": "bmr-formula-estimate-versus-daily-energy",
+  "title": "BMR Formula Estimates Are Different from Total Daily Energy Use",
+  "metaTitle": "BMR Formula Estimates Are Different from Total Daily Energy Use | Huzaifa Tools",
+  "metaDescription": "Understand the calculator's height, weight, age and formula coefficient. Follow a worked calculation and distinguish estimated resting energy from a personal intake target.",
+  "primaryKeyword": "bmr calculator",
+  "searchIntent": "Explain the implemented resting-energy equation without prescribing intake",
+  "secondaryTopics": [
+    "Calorie Calculator",
+    "Energy Converter"
+  ],
+  "longTailQuestions": [
+    "Is the displayed BMR my recommended calorie intake?",
+    "Does the tool measure my metabolism?",
+    "Why can invalid inputs still show a result?"
+  ],
+  "category": "Health Guides",
+  "relatedTools": [
+    "bmr-calculator",
+    "calorie-calculator",
+    "energy-converter"
+  ],
+  "relatedArticles": [
+    "calorie-estimates-activity-factors-and-fixed-offsets",
+    "energy-units-joules-kwh-and-calories"
+  ],
+  "faq": [
+    {
+      "question": "Is the displayed BMR my recommended calorie intake?",
+      "answer": "No. It estimates a resting-energy quantity under a formula. It does not prescribe a personal eating plan."
+    },
+    {
+      "question": "Does the tool measure my metabolism?",
+      "answer": "No. It calculates from entered values and fixed coefficients. It is not a metabolic test."
+    },
+    {
+      "question": "Why can invalid inputs still show a result?",
+      "answer": "The formula has limited range validation and clamps a negative result to zero. Review inputs and do not interpret such output clinically."
+    }
+  ],
+  "wordCount": 508
+}, content: () => import("./blogPosts/bmr-formula-estimate-versus-daily-energy.js").then(m => m.default)},
+  {...{
   "id": 64,
   "date": "2026-09-08",
   "toolSlug": "budget-calculator",
@@ -181,6 +316,51 @@ export const expandedGuideTopics = [
   "wordCount": 546
 }, content: () => import("./blogPosts/monthly-budget-income-expenses-and-remainder.js").then(m => m.default)},
   {...{
+  "id": 95,
+  "date": "2026-09-08",
+  "toolSlug": "calorie-calculator",
+  "articleSlug": "calorie-estimates-activity-factors-and-fixed-offsets",
+  "title": "Calorie Estimates: Activity Factors and Fixed Offsets Explained",
+  "metaTitle": "Calorie Estimates: Activity Factors and Fixed Offsets Explained | Huzaifa Tools",
+  "metaDescription": "Inspect how the calculator multiplies a resting estimate and applies fixed offsets. Understand uncertainty and why the displayed loss/gain figures are not personalised recommendations.",
+  "primaryKeyword": "calorie calculator",
+  "searchIntent": "Explain the daily-energy model and its fixed-offset limitations without prescribing diet",
+  "secondaryTopics": [
+    "BMR Calculator",
+    "Energy Converter"
+  ],
+  "longTailQuestions": [
+    "Are the loss and gain figures personalised advice?",
+    "Does the tool know my actual activity level?",
+    "Can I use it for a child or during pregnancy?"
+  ],
+  "category": "Health Guides",
+  "relatedTools": [
+    "calorie-calculator",
+    "bmr-calculator",
+    "energy-converter"
+  ],
+  "relatedArticles": [
+    "bmr-formula-estimate-versus-daily-energy",
+    "energy-units-joules-kwh-and-calories"
+  ],
+  "faq": [
+    {
+      "question": "Are the loss and gain figures personalised advice?",
+      "answer": "No. They are fixed 500-unit offsets from an estimate and are not assessed for individual suitability or safety."
+    },
+    {
+      "question": "Does the tool know my actual activity level?",
+      "answer": "No. You select one broad multiplier. It does not read a tracker or measure daily expenditure."
+    },
+    {
+      "question": "Can I use it for a child or during pregnancy?",
+      "answer": "Do not rely on this generic interface for those circumstances. Use appropriate specialist guidance and tools designed for the relevant population."
+    }
+  ],
+  "wordCount": 518
+}, content: () => import("./blogPosts/calorie-estimates-activity-factors-and-fixed-offsets.js").then(m => m.default)},
+  {...{
   "id": 33,
   "date": "2026-09-07",
   "toolSlug": "character-counter",
@@ -225,6 +405,98 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 789
 }, content: () => import("./blogPosts/character-count-spaces-emoji-and-lines.js").then(m => m.default)},
+  {...{
+  "id": 96,
+  "date": "2026-09-08",
+  "toolSlug": "color-contrast-checker",
+  "articleSlug": "check-text-colour-contrast-against-a-background",
+  "title": "Check Text Colour Contrast Against a Solid Background",
+  "metaTitle": "Check Text Colour Contrast Against a Solid Background | Huzaifa Tools",
+  "metaDescription": "Test a foreground and background pair, interpret normal and large-text contrast thresholds, and understand the limits of a two-colour accessibility check.",
+  "primaryKeyword": "color contrast checker",
+  "searchIntent": "Evaluate a solid foreground/background colour pair for text contrast",
+  "secondaryTopics": [
+    "Color Picker",
+    "Hex to RGB Converter",
+    "Gradient Generator"
+  ],
+  "longTailQuestions": [
+    "Does a passing pair mean my entire website is accessible?",
+    "Can this checker measure text over a photograph?",
+    "Why can a rounded ratio look sufficient while the result fails?"
+  ],
+  "category": "Design Guides",
+  "relatedTools": [
+    "color-contrast-checker",
+    "color-picker",
+    "hex-to-rgb",
+    "gradient-generator"
+  ],
+  "relatedArticles": [
+    "choose-a-colour-and-read-hex-rgb-hsl",
+    "hex-colours-to-rgb-channel-values"
+  ],
+  "faq": [
+    {
+      "question": "Does a passing pair mean my entire website is accessible?",
+      "answer": "No. It addresses the selected solid colours and displayed text thresholds. Navigation, semantics, focus, content and other accessibility requirements need separate checks."
+    },
+    {
+      "question": "Can this checker measure text over a photograph?",
+      "answer": "It does not inspect images. You need to assess the effective background behind the text, including variation across the image, or use a stable solid text surface."
+    },
+    {
+      "question": "Why can a rounded ratio look sufficient while the result fails?",
+      "answer": "The displayed ratio is rounded, but the threshold comparison uses the underlying calculation. Use the actual pass result and choose a pair with sufficient margin."
+    }
+  ],
+  "wordCount": 743
+}, content: () => import("./blogPosts/check-text-colour-contrast-against-a-background.js").then(m => m.default)},
+  {...{
+  "id": 97,
+  "date": "2026-09-08",
+  "toolSlug": "color-picker",
+  "articleSlug": "choose-a-colour-and-read-hex-rgb-hsl",
+  "title": "Choose a Colour and Read Its HEX, RGB and HSL Values",
+  "metaTitle": "Choose a Colour and Read Its HEX, RGB and HSL Values | Huzaifa Tools",
+  "metaDescription": "Inspect a selected colour in three representations, understand rounded HSL values and distinguish a colour choice from a complete accessible palette.",
+  "primaryKeyword": "color picker",
+  "searchIntent": "Select a colour and inspect its supported numeric representations",
+  "secondaryTopics": [
+    "Color Contrast Checker",
+    "Gradient Generator"
+  ],
+  "longTailQuestions": [
+    "Can this sample a colour from an uploaded image?",
+    "Are the HSL components exact for a round trip?",
+    "Does selecting a colour prove good text contrast?"
+  ],
+  "category": "Design Guides",
+  "relatedTools": [
+    "color-picker",
+    "color-contrast-checker",
+    "gradient-generator"
+  ],
+  "relatedArticles": [
+    "check-text-colour-contrast-against-a-background",
+    "two-colour-css-gradients-with-readable-content"
+  ],
+  "faq": [
+    {
+      "question": "Can this sample a colour from an uploaded image?",
+      "answer": "No. This interface uses a browser colour selector and numeric conversion. It does not provide an image-sampling workflow."
+    },
+    {
+      "question": "Are the HSL components exact for a round trip?",
+      "answer": "They are rounded for display. Keep the original HEX or RGB channels when exact channel preservation matters."
+    },
+    {
+      "question": "Does selecting a colour prove good text contrast?",
+      "answer": "No. Contrast depends on a foreground/background pair and the actual rendering context."
+    }
+  ],
+  "wordCount": 507
+}, content: () => import("./blogPosts/choose-a-colour-and-read-hex-rgb-hsl.js").then(m => m.default)},
   {...{
   "id": 65,
   "date": "2026-09-08",
@@ -386,7 +658,8 @@ export const expandedGuideTopics = [
     "color-contrast-checker"
   ],
   "relatedArticles": [
-    "minify-simple-css-and-check-behaviour"
+    "minify-simple-css-and-check-behaviour",
+    "check-text-colour-contrast-against-a-background"
   ],
   "faq": [
     {
@@ -430,7 +703,8 @@ export const expandedGuideTopics = [
     "color-contrast-checker"
   ],
   "relatedArticles": [
-    "format-css-for-a-readable-review"
+    "format-css-for-a-readable-review",
+    "check-text-colour-contrast-against-a-background"
   ],
   "faq": [
     {
@@ -538,6 +812,51 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 549
 }, content: () => import("./blogPosts/fixed-rate-currency-conversion-example.js").then(m => m.default)},
+  {...{
+  "id": 98,
+  "date": "2026-09-08",
+  "toolSlug": "decimal-to-binary",
+  "articleSlug": "decimal-integers-to-binary-without-bit-width",
+  "title": "Decimal Integers to Binary Without an Implied Bit Width",
+  "metaTitle": "Decimal Integers to Binary Without an Implied Bit Width | Huzaifa Tools",
+  "metaDescription": "Convert a safe whole decimal number to base two, verify place values and understand why negative output is not automatically a two's-complement machine encoding.",
+  "primaryKeyword": "decimal to binary",
+  "searchIntent": "Express a safe signed decimal integer in base-two notation",
+  "secondaryTopics": [
+    "Binary to Decimal",
+    "Hex to Decimal"
+  ],
+  "longTailQuestions": [
+    "Does the tool output eight bits automatically?",
+    "Are negative values converted to two's complement?",
+    "Can I convert a decimal fraction?"
+  ],
+  "category": "Math Guides",
+  "relatedTools": [
+    "decimal-to-binary",
+    "binary-to-decimal",
+    "hex-to-decimal"
+  ],
+  "relatedArticles": [
+    "binary-to-decimal-digits-sign-and-range",
+    "hexadecimal-to-decimal-place-values"
+  ],
+  "faq": [
+    {
+      "question": "Does the tool output eight bits automatically?",
+      "answer": "No. It emits the integer's base-two representation without a fixed-width padding setting."
+    },
+    {
+      "question": "Are negative values converted to two's complement?",
+      "answer": "No. They use a leading minus sign and binary magnitude. Two's-complement conversion requires a chosen width."
+    },
+    {
+      "question": "Can I convert a decimal fraction?",
+      "answer": "Not through this whole-integer interface. Use a converter designed for fractional or floating-point representations."
+    }
+  ],
+  "wordCount": 454
+}, content: () => import("./blogPosts/decimal-integers-to-binary-without-bit-width.js").then(m => m.default)},
   {...{
   "id": 68,
   "date": "2026-09-08",
@@ -744,7 +1063,8 @@ export const expandedGuideTopics = [
     "fibonacci-generator"
   ],
   "relatedArticles": [
-    "huzaifa-tools-guide"
+    "check-small-primes-with-divisibility-reasoning",
+    "fibonacci-sequence-start-index-and-precision"
   ],
   "faq": [
     {
@@ -762,6 +1082,51 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 578
 }, content: () => import("./blogPosts/factorials-products-growth-and-number-limits.js").then(m => m.default)},
+  {...{
+  "id": 99,
+  "date": "2026-09-08",
+  "toolSlug": "fibonacci-generator",
+  "articleSlug": "fibonacci-sequence-start-index-and-precision",
+  "title": "Fibonacci Sequences: Starting Values, Term Count and Precision",
+  "metaTitle": "Fibonacci Sequences: Starting Values, Term Count and Precision | Huzaifa Tools",
+  "metaDescription": "Generate a sequence beginning with zero and one, check the recurrence and distinguish term count from index. Understand the 100-term cap and large-number approximation.",
+  "primaryKeyword": "fibonacci generator",
+  "searchIntent": "Generate and understand a zero-first Fibonacci sequence with precision limits",
+  "secondaryTopics": [
+    "Prime Number Checker",
+    "Factorial Calculator"
+  ],
+  "longTailQuestions": [
+    "Does the sequence begin with zero?",
+    "Are all 100 terms exact integers?",
+    "Does the input select one indexed term?"
+  ],
+  "category": "Math Guides",
+  "relatedTools": [
+    "fibonacci-generator",
+    "prime-checker",
+    "factorial-calculator"
+  ],
+  "relatedArticles": [
+    "check-small-primes-with-divisibility-reasoning",
+    "factorials-products-growth-and-number-limits"
+  ],
+  "faq": [
+    {
+      "question": "Does the sequence begin with zero?",
+      "answer": "Yes. The first values are 0 and 1, and the requested term count includes both when the count is at least two."
+    },
+    {
+      "question": "Are all 100 terms exact integers?",
+      "answer": "No. Later values exceed standard JavaScript integer precision. Use an exact-integer implementation for authoritative large terms."
+    },
+    {
+      "question": "Does the input select one indexed term?",
+      "answer": "No. It specifies how many values to generate in the sequence, up to the cap of 100."
+    }
+  ],
+  "wordCount": 489
+}, content: () => import("./blogPosts/fibonacci-sequence-start-index-and-precision.js").then(m => m.default)},
   {...{
   "id": 73,
   "date": "2026-09-08",
@@ -852,6 +1217,188 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 557
 }, content: () => import("./blogPosts/weighted-course-grade-and-assessment-weights.js").then(m => m.default)},
+  {...{
+  "id": 100,
+  "date": "2026-09-08",
+  "toolSlug": "gradient-generator",
+  "articleSlug": "two-colour-css-gradients-with-readable-content",
+  "title": "Two-Colour CSS Gradients with Readable Content Above Them",
+  "metaTitle": "Two-Colour CSS Gradients with Readable Content Above Them | Huzaifa Tools",
+  "metaDescription": "Create a linear or circular radial background, understand the angle control and check contrast across the gradient before placing text over it.",
+  "primaryKeyword": "gradient generator",
+  "searchIntent": "Create a two-colour CSS gradient and review its use behind content",
+  "secondaryTopics": [
+    "Color Picker",
+    "Color Contrast Checker"
+  ],
+  "longTailQuestions": [
+    "Does the angle change a radial gradient?",
+    "Can I add more than two colour stops?",
+    "Does the generator create an animated background?"
+  ],
+  "category": "Design Guides",
+  "relatedTools": [
+    "gradient-generator",
+    "color-picker",
+    "color-contrast-checker"
+  ],
+  "relatedArticles": [
+    "choose-a-colour-and-read-hex-rgb-hsl",
+    "check-text-colour-contrast-against-a-background"
+  ],
+  "faq": [
+    {
+      "question": "Does the angle change a radial gradient?",
+      "answer": "No. The radial output uses a circular gradient. The angle is part of the linear expression only."
+    },
+    {
+      "question": "Can I add more than two colour stops?",
+      "answer": "Not in this interface. Edit the CSS in an appropriate project workflow if additional stops are needed."
+    },
+    {
+      "question": "Does the generator create an animated background?",
+      "answer": "No. It produces a static background declaration. Motion and reduced-motion handling would be separate project work."
+    }
+  ],
+  "wordCount": 539
+}, content: () => import("./blogPosts/two-colour-css-gradients-with-readable-content.js").then(m => m.default)},
+  {...{
+  "id": 101,
+  "date": "2026-09-08",
+  "toolSlug": "hex-to-decimal",
+  "articleSlug": "hexadecimal-to-decimal-place-values",
+  "title": "Hexadecimal to Decimal with Place Values and Safe Integer Limits",
+  "metaTitle": "Hexadecimal to Decimal with Place Values and Safe Integer Limits | Huzaifa Tools",
+  "metaDescription": "Interpret hexadecimal digits, check an optional prefix and verify a small example. Understand signed input and why oversized integers are rejected.",
+  "primaryKeyword": "hex to decimal",
+  "searchIntent": "Convert a validated hexadecimal integer to safe decimal representation",
+  "secondaryTopics": [
+    "Decimal to Binary",
+    "Hex to RGB Converter"
+  ],
+  "longTailQuestions": [
+    "Does 0x change the numeric value?",
+    "Is FF automatically treated as negative one?",
+    "Why is a long valid-looking value rejected?"
+  ],
+  "category": "Math Guides",
+  "relatedTools": [
+    "hex-to-decimal",
+    "decimal-to-binary",
+    "hex-to-rgb"
+  ],
+  "relatedArticles": [
+    "decimal-integers-to-binary-without-bit-width",
+    "hex-colours-to-rgb-channel-values"
+  ],
+  "faq": [
+    {
+      "question": "Does 0x change the numeric value?",
+      "answer": "No. It is an optional prefix indicating hexadecimal notation. The supported digits after it determine the value."
+    },
+    {
+      "question": "Is FF automatically treated as negative one?",
+      "answer": "No. This tool interprets a mathematical hexadecimal integer. Fixed-width signed encodings require an explicit separate interpretation."
+    },
+    {
+      "question": "Why is a long valid-looking value rejected?",
+      "answer": "It may exceed JavaScript's safe-integer range. Use exact-integer tooling instead of deleting digits to force acceptance."
+    }
+  ],
+  "wordCount": 456
+}, content: () => import("./blogPosts/hexadecimal-to-decimal-place-values.js").then(m => m.default)},
+  {...{
+  "id": 102,
+  "date": "2026-09-08",
+  "toolSlug": "hex-to-rgb",
+  "articleSlug": "hex-colours-to-rgb-channel-values",
+  "title": "Hex Colours to RGB: Read the Three Channel Values",
+  "metaTitle": "Hex Colours to RGB: Read the Three Channel Values | Huzaifa Tools",
+  "metaDescription": "Convert a six-digit colour selection into RGB channels, understand the hexadecimal pairs and copy a CSS colour without confusing opacity or contrast.",
+  "primaryKeyword": "hex to rgb converter",
+  "searchIntent": "Translate a selected six-digit hex colour into CSS RGB channels",
+  "secondaryTopics": [
+    "RGB to Hex Converter",
+    "Color Picker",
+    "Color Contrast Checker"
+  ],
+  "longTailQuestions": [
+    "Can I paste any CSS colour string into this page?",
+    "Does converting hex to RGB change the appearance?",
+    "Does the RGB output contain transparency?"
+  ],
+  "category": "Design Guides",
+  "relatedTools": [
+    "hex-to-rgb",
+    "rgb-to-hex",
+    "color-picker",
+    "color-contrast-checker"
+  ],
+  "relatedArticles": [
+    "rgb-channels-to-six-digit-hex-colours",
+    "choose-a-colour-and-read-hex-rgb-hsl"
+  ],
+  "faq": [
+    {
+      "question": "Can I paste any CSS colour string into this page?",
+      "answer": "The page uses a native colour picker rather than a general CSS text parser. Its controls depend on your browser; the conversion operates on a six-digit colour value."
+    },
+    {
+      "question": "Does converting hex to RGB change the appearance?",
+      "answer": "Equivalent channel values describe the same colour in this workflow. Different opacity, backgrounds or display conditions can change the appearance independently of the notation."
+    },
+    {
+      "question": "Does the RGB output contain transparency?",
+      "answer": "No. The result contains red, green and blue channels only. Preserve any required opacity separately."
+    }
+  ],
+  "wordCount": 680
+}, content: () => import("./blogPosts/hex-colours-to-rgb-channel-values.js").then(m => m.default)},
+  {...{
+  "id": 103,
+  "date": "2026-09-08",
+  "toolSlug": "hmac-generator",
+  "articleSlug": "hmac-message-key-and-encoding-agreement",
+  "title": "HMAC: Agree on the Message, Key Encoding and Algorithm",
+  "metaTitle": "HMAC: Agree on the Message, Key Encoding and Algorithm | Huzaifa Tools",
+  "metaDescription": "Generate a keyed message-authentication value with Web Crypto. Check exact UTF-8 input, hexadecimal output and why protocol-specific signing rules still matter.",
+  "primaryKeyword": "hmac generator",
+  "searchIntent": "Generate HMAC from text inputs while matching protocol byte conventions",
+  "secondaryTopics": [
+    "SHA256 Hash Generator",
+    "JWT Decoder"
+  ],
+  "longTailQuestions": [
+    "Is a hexadecimal-looking key decoded into raw bytes?",
+    "Does HMAC encrypt the message?",
+    "Can this automatically sign any API request?"
+  ],
+  "category": "Security Guides",
+  "relatedTools": [
+    "hmac-generator",
+    "sha256-hash",
+    "jwt-decoder"
+  ],
+  "relatedArticles": [
+    "sha256-exact-utf8-text-and-integrity",
+    "inspect-jwt-claims-without-trusting-them"
+  ],
+  "faq": [
+    {
+      "question": "Is a hexadecimal-looking key decoded into raw bytes?",
+      "answer": "No. The input is encoded as UTF-8 text. A protocol using a binary key needs the correct byte representation in suitable tooling."
+    },
+    {
+      "question": "Does HMAC encrypt the message?",
+      "answer": "No. It computes a keyed authentication value. Confidentiality requires a separate appropriate mechanism."
+    },
+    {
+      "question": "Can this automatically sign any API request?",
+      "answer": "No. It does not assemble protocol-specific canonical messages or headers. Supply the exact agreed message and verify the complete integration separately."
+    }
+  ],
+  "wordCount": 492
+}, content: () => import("./blogPosts/hmac-message-key-and-encoding-agreement.js").then(m => m.default)},
   {...{
   "id": 38,
   "date": "2026-09-07",
@@ -987,6 +1534,145 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 731
 }, content: () => import("./blogPosts/conservative-html-minification-preserving-text.js").then(m => m.default)},
+  {...{
+  "id": 104,
+  "date": "2026-09-08",
+  "toolSlug": "ideal-weight-calculator",
+  "articleSlug": "height-based-weight-formulas-and-their-limits",
+  "title": "Height-Based Weight Formulas Are Not a Personal Ideal",
+  "metaTitle": "Height-Based Weight Formulas Are Not a Personal Ideal | Huzaifa Tools",
+  "metaDescription": "Understand the displayed height-based estimate and BMI-derived interval. Check the below-five-feet clamp and why a formula cannot define an individual's healthy target.",
+  "primaryKeyword": "ideal weight calculator",
+  "searchIntent": "Explain height-based reference calculations without prescribing an ideal body weight",
+  "secondaryTopics": [
+    "BMI Calculator",
+    "Length Converter"
+  ],
+  "longTailQuestions": [
+    "Does the formula define my ideal body weight?",
+    "What happens below five feet?",
+    "Is the displayed BMI interval a diagnosis?"
+  ],
+  "category": "Health Guides",
+  "relatedTools": [
+    "ideal-weight-calculator",
+    "bmi-calculator",
+    "length-converter"
+  ],
+  "relatedArticles": [
+    "bmi-metric-calculation-and-screening-limits",
+    "convert-length-without-scaling-the-wrong-dimension"
+  ],
+  "faq": [
+    {
+      "question": "Does the formula define my ideal body weight?",
+      "answer": "No. It is a limited height-based reference and does not assess individual health or body composition."
+    },
+    {
+      "question": "What happens below five feet?",
+      "answer": "The inches-above-five-feet value is clamped to zero, so the estimate remains at the formula's base. Do not interpret that as a personalised target."
+    },
+    {
+      "question": "Is the displayed BMI interval a diagnosis?",
+      "answer": "No. It is calculated from fixed boundaries and height. Clinical interpretation requires broader context and appropriate assessment."
+    }
+  ],
+  "wordCount": 525
+}, content: () => import("./blogPosts/height-based-weight-formulas-and-their-limits.js").then(m => m.default)},
+  {...{
+  "id": 105,
+  "date": "2026-09-08",
+  "toolSlug": "image-converter",
+  "articleSlug": "convert-images-to-jpeg-png-or-webp",
+  "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
+  "metaTitle": "Convert Images to JPEG, PNG or WebP and Check the Result | Huzaifa Tools",
+  "metaDescription": "Create a genuine JPEG, PNG or WebP export, understand transparency and quality tradeoffs, and verify browser format support before sharing the file.",
+  "primaryKeyword": "image converter",
+  "searchIntent": "Re-encode a supported image into a verified JPEG PNG or WebP output",
+  "secondaryTopics": [
+    "Image Resizer",
+    "Image Metadata Viewer",
+    "Image Compressor"
+  ],
+  "longTailQuestions": [
+    "Is renaming an extension equivalent to this conversion?",
+    "Why did my transparent image get a white background?",
+    "Can this page create an AVIF file?"
+  ],
+  "category": "Image Guides",
+  "relatedTools": [
+    "image-converter",
+    "image-resizer",
+    "image-metadata-viewer",
+    "image-compressor"
+  ],
+  "relatedArticles": [
+    "resize-image-pixel-dimensions-with-aspect-ratio",
+    "read-image-metadata-exif"
+  ],
+  "faq": [
+    {
+      "question": "Is renaming an extension equivalent to this conversion?",
+      "answer": "No. Renaming changes the filename. This tool decodes and re-encodes image data and checks the generated output type."
+    },
+    {
+      "question": "Why did my transparent image get a white background?",
+      "answer": "JPEG cannot preserve alpha transparency, and this tool fills that background with white for JPEG output. Choose a suitable alpha-capable format when transparency is required."
+    },
+    {
+      "question": "Can this page create an AVIF file?",
+      "answer": "No. Its output choices are JPEG, PNG and WebP. Some browsers can decode AVIF sources, but that does not add AVIF export to the interface."
+    }
+  ],
+  "wordCount": 770
+}, content: () => import("./blogPosts/convert-images-to-jpeg-png-or-webp.js").then(m => m.default)},
+  {...{
+  "id": 106,
+  "date": "2026-09-08",
+  "toolSlug": "image-resizer",
+  "articleSlug": "resize-image-pixel-dimensions-with-aspect-ratio",
+  "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
+  "metaTitle": "Resize Image Pixel Dimensions with Aspect Ratio in Mind | Huzaifa Tools",
+  "metaDescription": "Resize an image to a usable pixel size, preserve its proportions, choose an output format and verify the downloaded result within browser processing limits.",
+  "primaryKeyword": "image resizer",
+  "searchIntent": "Change raster image dimensions with deliberate aspect-ratio and output choices",
+  "secondaryTopics": [
+    "Image Cropper",
+    "Image Converter",
+    "Image Compressor"
+  ],
+  "longTailQuestions": [
+    "Does the aspect-ratio lock crop my image?",
+    "Can I enlarge a small image to recover missing detail?",
+    "Will a resized GIF remain animated?"
+  ],
+  "category": "Image Guides",
+  "relatedTools": [
+    "image-resizer",
+    "image-cropper",
+    "image-converter",
+    "image-compressor"
+  ],
+  "relatedArticles": [
+    "crop-image-by-pixel-coordinates",
+    "convert-images-to-jpeg-png-or-webp"
+  ],
+  "faq": [
+    {
+      "question": "Does the aspect-ratio lock crop my image?",
+      "answer": "No. It scales the whole image proportionally when you edit a dimension. Use the separate cropper when you want to remove part of the composition."
+    },
+    {
+      "question": "Can I enlarge a small image to recover missing detail?",
+      "answer": "You can request larger dimensions within the limits, but scaling does not recreate original detail that the source lacks."
+    },
+    {
+      "question": "Will a resized GIF remain animated?",
+      "answer": "No. This raster export workflow does not retain animation. Keep the original or use an animation-aware editor when motion is required."
+    }
+  ],
+  "wordCount": 745
+}, content: () => import("./blogPosts/resize-image-pixel-dimensions-with-aspect-ratio.js").then(m => m.default)},
   {...{
   "id": 41,
   "date": "2026-09-07",
@@ -1348,6 +2034,51 @@ export const expandedGuideTopics = [
   "wordCount": 568
 }, content: () => import("./blogPosts/markup-on-cost-versus-sales-margin.js").then(m => m.default)},
   {...{
+  "id": 107,
+  "date": "2026-09-08",
+  "toolSlug": "md5-hash",
+  "articleSlug": "md5-text-digest-for-legacy-comparisons",
+  "title": "MD5 Text Digests for Legacy Comparisons, with Security Limits",
+  "metaTitle": "MD5 Text Digests for Legacy Comparisons, with Security Limits | Huzaifa Tools",
+  "metaDescription": "Generate a genuine MD5 digest of exact UTF-8 text, check a known example and understand why collisions, file bytes and password storage need different treatment.",
+  "primaryKeyword": "md5 hash generator",
+  "searchIntent": "Compute exact-text MD5 for legacy compatibility without security claims",
+  "secondaryTopics": [
+    "SHA256 Hash Generator",
+    "HMAC Generator"
+  ],
+  "longTailQuestions": [
+    "Is the current MD5 output a real digest?",
+    "Can I verify an uploaded file here?",
+    "Is MD5 suitable for storing passwords?"
+  ],
+  "category": "Security Guides",
+  "relatedTools": [
+    "md5-hash",
+    "sha256-hash",
+    "hmac-generator"
+  ],
+  "relatedArticles": [
+    "sha256-exact-utf8-text-and-integrity",
+    "hmac-message-key-and-encoding-agreement"
+  ],
+  "faq": [
+    {
+      "question": "Is the current MD5 output a real digest?",
+      "answer": "Yes. The implementation computes MD5 over UTF-8 text and emits 32 hexadecimal characters. Earlier demonstration behaviour is no longer the current implementation."
+    },
+    {
+      "question": "Can I verify an uploaded file here?",
+      "answer": "No. This interface hashes entered text, not original file bytes. Use a file-hashing workflow for file integrity checks."
+    },
+    {
+      "question": "Is MD5 suitable for storing passwords?",
+      "answer": "No. Plain MD5 is not a password-storage scheme and has additional collision weaknesses. Use an appropriate modern password-storage implementation."
+    }
+  ],
+  "wordCount": 493
+}, content: () => import("./blogPosts/md5-text-digest-for-legacy-comparisons.js").then(m => m.default)},
+  {...{
   "id": 46,
   "date": "2026-09-07",
   "toolSlug": "meta-tag-generator",
@@ -1528,6 +2259,51 @@ export const expandedGuideTopics = [
   "wordCount": 585
 }, content: () => import("./blogPosts/running-pace-from-distance-and-elapsed-time.js").then(m => m.default)},
   {...{
+  "id": 108,
+  "date": "2026-09-08",
+  "toolSlug": "password-generator",
+  "articleSlug": "generate-a-random-password-and-store-it-safely",
+  "title": "Generate a Random Password and Keep the Account Workflow Complete",
+  "metaTitle": "Generate a Random Password and Keep the Account Workflow Complete | Huzaifa Tools",
+  "metaDescription": "Choose length and character pools, understand secure random sampling and check service requirements. Store the result appropriately without treating generation as account protection by itself.",
+  "primaryKeyword": "password generator",
+  "searchIntent": "Generate a random password from supported character pools and handle it appropriately",
+  "secondaryTopics": [
+    "Password Strength Checker",
+    "UUID Generator"
+  ],
+  "longTailQuestions": [
+    "Does selecting numbers guarantee a digit in every result?",
+    "Does the page save my generated password?",
+    "Is the minimum length a security recommendation?"
+  ],
+  "category": "Security Guides",
+  "relatedTools": [
+    "password-generator",
+    "password-strength-checker",
+    "uuid-generator"
+  ],
+  "relatedArticles": [
+    "password-checklist-score-is-not-a-security-verdict",
+    "uuid-shaped-identifiers-for-test-records"
+  ],
+  "faq": [
+    {
+      "question": "Does selecting numbers guarantee a digit in every result?",
+      "answer": "No. Selected classes form a sampling pool. The generator does not force at least one character from each selected class."
+    },
+    {
+      "question": "Does the page save my generated password?",
+      "answer": "It is not a password vault or persistent history. Store the credential appropriately before relying on it for account access."
+    },
+    {
+      "question": "Is the minimum length a security recommendation?",
+      "answer": "No. The control's range describes capability. Choose a suitable length under the service's requirements and current account-security guidance."
+    }
+  ],
+  "wordCount": 526
+}, content: () => import("./blogPosts/generate-a-random-password-and-store-it-safely.js").then(m => m.default)},
+  {...{
   "id": 48,
   "date": "2026-09-07",
   "toolSlug": "password-strength-checker",
@@ -1553,7 +2329,8 @@ export const expandedGuideTopics = [
     "hmac-generator"
   ],
   "relatedArticles": [
-    "huzaifa-tools-guide"
+    "generate-a-random-password-and-store-it-safely",
+    "hmac-message-key-and-encoding-agreement"
   ],
   "faq": [
     {
@@ -1616,6 +2393,141 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 613
 }, content: () => import("./blogPosts/percentage-base-increase-and-decrease.js").then(m => m.default)},
+  {...{
+  "id": 109,
+  "date": "2026-09-08",
+  "toolSlug": "prime-checker",
+  "articleSlug": "check-small-primes-with-divisibility-reasoning",
+  "title": "Check Small Primes with Divisibility Reasoning",
+  "metaTitle": "Check Small Primes with Divisibility Reasoning | Huzaifa Tools",
+  "metaDescription": "Test an ordinary whole number for primality and understand the square-root boundary. Check integer parsing and avoid using the browser routine for cryptographic-size inputs.",
+  "primaryKeyword": "prime number checker",
+  "searchIntent": "Check primality of small integers and understand the trial-division model",
+  "secondaryTopics": [
+    "Factorial Calculator",
+    "Fibonacci Generator"
+  ],
+  "longTailQuestions": [
+    "Is one a prime number?",
+    "Does the tool reject every fractional input?",
+    "Can I test a cryptographic-size prime here?"
+  ],
+  "category": "Math Guides",
+  "relatedTools": [
+    "prime-checker",
+    "factorial-calculator",
+    "fibonacci-generator"
+  ],
+  "relatedArticles": [
+    "factorials-products-growth-and-number-limits",
+    "fibonacci-sequence-start-index-and-precision"
+  ],
+  "faq": [
+    {
+      "question": "Is one a prime number?",
+      "answer": "No. A prime integer is greater than one and has exactly the two positive divisors one and itself."
+    },
+    {
+      "question": "Does the tool reject every fractional input?",
+      "answer": "No. Integer parsing can truncate a fractional value. Enter a whole number explicitly and verify the input."
+    },
+    {
+      "question": "Can I test a cryptographic-size prime here?",
+      "answer": "Do not use this unbounded standard-number routine for that task. Use specialised exact and appropriately validated tooling."
+    }
+  ],
+  "wordCount": 430
+}, content: () => import("./blogPosts/check-small-primes-with-divisibility-reasoning.js").then(m => m.default)},
+  {...{
+  "id": 110,
+  "date": "2026-09-08",
+  "toolSlug": "qr-code-generator",
+  "articleSlug": "create-a-qr-code-and-verify-its-destination",
+  "title": "Create a QR Code and Verify the Destination Before Sharing",
+  "metaTitle": "Create a QR Code and Verify the Destination Before Sharing | Huzaifa Tools",
+  "metaDescription": "Generate a simple QR image from text or a URL, understand the external-service request and test the final code at its actual display size before publication.",
+  "primaryKeyword": "qr code generator",
+  "searchIntent": "Create a simple QR image with an explicit external-processing disclosure",
+  "secondaryTopics": [
+    "QR Code Scanner",
+    "URL Parser"
+  ],
+  "longTailQuestions": [
+    "Is the entered text processed only in my browser?",
+    "Can I change a printed code's destination from this page?",
+    "Why does Download open the image in a tab?"
+  ],
+  "category": "Utility Guides",
+  "relatedTools": [
+    "qr-code-generator",
+    "qr-code-scanner",
+    "url-parser"
+  ],
+  "relatedArticles": [
+    "scan-a-qr-code-and-review-the-decoded-text",
+    "read-url-host-query-and-fragment"
+  ],
+  "faq": [
+    {
+      "question": "Is the entered text processed only in my browser?",
+      "answer": "No. It is sent to api.qrserver.com to obtain the QR image. Avoid sensitive values."
+    },
+    {
+      "question": "Can I change a printed code's destination from this page?",
+      "answer": "No. This tool does not provide dynamic redirect management. A changed encoded value needs a new image unless the original URL is managed separately."
+    },
+    {
+      "question": "Why does Download open the image in a tab?",
+      "answer": "The image is hosted on another origin, and browsers can ignore the requested download behaviour for such links. Save and verify the image through the browser if necessary."
+    }
+  ],
+  "wordCount": 519
+}, content: () => import("./blogPosts/create-a-qr-code-and-verify-its-destination.js").then(m => m.default)},
+  {...{
+  "id": 111,
+  "date": "2026-09-08",
+  "toolSlug": "qr-code-scanner",
+  "articleSlug": "scan-a-qr-code-and-review-the-decoded-text",
+  "title": "Scan a QR Code and Review the Decoded Text Before Acting",
+  "metaTitle": "Scan a QR Code and Review the Decoded Text Before Acting | Huzaifa Tools",
+  "metaDescription": "Use the browser scanner with permission, improve framing and inspect the decoded value. Understand why recognising a code is different from trusting its destination.",
+  "primaryKeyword": "qr code scanner",
+  "searchIntent": "Decode a QR code and inspect its value before following a destination",
+  "secondaryTopics": [
+    "QR Code Generator",
+    "URL Parser"
+  ],
+  "longTailQuestions": [
+    "Does a successful scan mean the destination is safe?",
+    "Why is the camera unavailable?",
+    "Does the scanner automatically open the result?"
+  ],
+  "category": "Utility Guides",
+  "relatedTools": [
+    "qr-code-scanner",
+    "qr-code-generator",
+    "url-parser"
+  ],
+  "relatedArticles": [
+    "create-a-qr-code-and-verify-its-destination",
+    "read-url-host-query-and-fragment"
+  ],
+  "faq": [
+    {
+      "question": "Does a successful scan mean the destination is safe?",
+      "answer": "No. Recognition only recovers the encoded value. Review the address and context before acting."
+    },
+    {
+      "question": "Why is the camera unavailable?",
+      "answer": "Permission, browser support, device policy or another application's camera use can prevent access. Check the browser's camera controls and the device state."
+    },
+    {
+      "question": "Does the scanner automatically open the result?",
+      "answer": "The page displays decoded text with a copy action. Treat any later navigation or execution as a separate decision."
+    }
+  ],
+  "wordCount": 521
+}, content: () => import("./blogPosts/scan-a-qr-code-and-review-the-decoded-text.js").then(m => m.default)},
   {...{
   "id": 49,
   "date": "2026-09-07",
@@ -1707,6 +2619,51 @@ export const expandedGuideTopics = [
   "wordCount": 598
 }, content: () => import("./blogPosts/retirement-savings-scenario-with-monthly-deposits.js").then(m => m.default)},
   {...{
+  "id": 112,
+  "date": "2026-09-08",
+  "toolSlug": "rgb-to-hex",
+  "articleSlug": "rgb-channels-to-six-digit-hex-colours",
+  "title": "RGB to Hex: Convert Channels Without Losing Their Meaning",
+  "metaTitle": "RGB to Hex: Convert Channels Without Losing Their Meaning | Huzaifa Tools",
+  "metaDescription": "Turn red, green and blue integers into a six-digit hex colour, check channel rounding and understand what the converter does with out-of-range input.",
+  "primaryKeyword": "rgb to hex converter",
+  "searchIntent": "Convert three bounded decimal RGB channels to a six-digit hex code",
+  "secondaryTopics": [
+    "Hex to RGB Converter",
+    "Color Contrast Checker"
+  ],
+  "longTailQuestions": [
+    "What happens if a channel is greater than 255?",
+    "Are decimal fractions retained in the hex result?",
+    "Can this convert CMYK print percentages?"
+  ],
+  "category": "Design Guides",
+  "relatedTools": [
+    "rgb-to-hex",
+    "hex-to-rgb",
+    "color-contrast-checker"
+  ],
+  "relatedArticles": [
+    "hex-colours-to-rgb-channel-values",
+    "check-text-colour-contrast-against-a-background"
+  ],
+  "faq": [
+    {
+      "question": "What happens if a channel is greater than 255?",
+      "answer": "The interface clamps it to 255. Check the displayed channel after entering it so that an out-of-range source value is not silently accepted as your intended colour."
+    },
+    {
+      "question": "Are decimal fractions retained in the hex result?",
+      "answer": "No. The input is parsed as an integer, so fractional channel values are truncated in this workflow."
+    },
+    {
+      "question": "Can this convert CMYK print percentages?",
+      "answer": "No. The fields represent red, green and blue integer channels. A print colour workflow requires the appropriate colour model and profile handling."
+    }
+  ],
+  "wordCount": 672
+}, content: () => import("./blogPosts/rgb-channels-to-six-digit-hex-colours.js").then(m => m.default)},
+  {...{
   "id": 50,
   "date": "2026-09-07",
   "toolSlug": "robots-txt-generator",
@@ -1796,6 +2753,141 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 562
 }, content: () => import("./blogPosts/roi-with-extra-costs-and-a-clear-denominator.js").then(m => m.default)},
+  {...{
+  "id": 113,
+  "date": "2026-09-08",
+  "toolSlug": "roman-numeral",
+  "articleSlug": "decimal-to-roman-numerals-one-to-3999",
+  "title": "Decimal to Roman Numerals from 1 to 3999",
+  "metaTitle": "Decimal to Roman Numerals from 1 to 3999 | Huzaifa Tools",
+  "metaDescription": "Convert a positive integer using subtractive Roman notation, follow a worked example and understand the one-way range and integer-input limitations.",
+  "primaryKeyword": "roman numeral converter",
+  "searchIntent": "Convert integers from one through 3999 to conventional subtractive Roman notation",
+  "secondaryTopics": [
+    "Decimal to Binary",
+    "Hex to Decimal"
+  ],
+  "longTailQuestions": [
+    "Can I convert Roman text back to decimal?",
+    "What range is supported?",
+    "Why might a clock show IIII instead of IV?"
+  ],
+  "category": "Math Guides",
+  "relatedTools": [
+    "roman-numeral",
+    "decimal-to-binary",
+    "hex-to-decimal"
+  ],
+  "relatedArticles": [
+    "decimal-integers-to-binary-without-bit-width",
+    "hexadecimal-to-decimal-place-values"
+  ],
+  "faq": [
+    {
+      "question": "Can I convert Roman text back to decimal?",
+      "answer": "No. The current interface converts decimal integers into Roman notation only."
+    },
+    {
+      "question": "What range is supported?",
+      "answer": "Whole numbers from 1 through 3999. Zero, negative values and extended overline notation are not supported."
+    },
+    {
+      "question": "Why might a clock show IIII instead of IV?",
+      "answer": "Some contexts use another convention. This converter uses conventional subtractive pairs, including IV for four."
+    }
+  ],
+  "wordCount": 471
+}, content: () => import("./blogPosts/decimal-to-roman-numerals-one-to-3999.js").then(m => m.default)},
+  {...{
+  "id": 114,
+  "date": "2026-09-08",
+  "toolSlug": "screen-resolution",
+  "articleSlug": "read-browser-viewport-size-and-pixel-ratio",
+  "title": "Read Browser Viewport Size and Device Pixel Ratio",
+  "metaTitle": "Read Browser Viewport Size and Device Pixel Ratio | Huzaifa Tools",
+  "metaDescription": "Interpret the screen tester's viewport width, height and pixel ratio for responsive checks without mistaking them for your monitor's physical resolution.",
+  "primaryKeyword": "screen resolution tester",
+  "searchIntent": "Record browser viewport measurements for a responsive layout bug report",
+  "secondaryTopics": [
+    "Image Resizer",
+    "Color Contrast Checker"
+  ],
+  "longTailQuestions": [
+    "Why does resizing my browser change the reported resolution?",
+    "Does the Mobile label prove I am using a phone?",
+    "Is the Pixels figure my monitor's physical pixel count?"
+  ],
+  "category": "Developer Guides",
+  "relatedTools": [
+    "screen-resolution",
+    "image-resizer",
+    "color-contrast-checker"
+  ],
+  "relatedArticles": [
+    "resize-image-pixel-dimensions-with-aspect-ratio",
+    "check-text-colour-contrast-against-a-background"
+  ],
+  "faq": [
+    {
+      "question": "Why does resizing my browser change the reported resolution?",
+      "answer": "The tool measures the browser viewport. Changing the window size changes that area even though the monitor's hardware resolution stays the same."
+    },
+    {
+      "question": "Does the Mobile label prove I am using a phone?",
+      "answer": "No. It means the viewport width falls below the tool's first threshold. A narrow desktop window can receive the same label."
+    },
+    {
+      "question": "Is the Pixels figure my monitor's physical pixel count?",
+      "answer": "No. It is viewport width multiplied by viewport height in CSS pixel units, rather than a hardware display measurement."
+    }
+  ],
+  "wordCount": 695
+}, content: () => import("./blogPosts/read-browser-viewport-size-and-pixel-ratio.js").then(m => m.default)},
+  {...{
+  "id": 115,
+  "date": "2026-09-08",
+  "toolSlug": "sha256-hash",
+  "articleSlug": "sha256-exact-utf8-text-and-integrity",
+  "title": "SHA-256 of Exact UTF-8 Text: Reproduce a Digest and Understand Its Scope",
+  "metaTitle": "SHA-256 of Exact UTF-8 Text: Reproduce a Digest and Understand Its Scope | Huzaifa Tools",
+  "metaDescription": "Hash exact text with Web Crypto, verify a known SHA-256 value and diagnose whitespace differences. Separate a plain digest from file hashing and sender authentication.",
+  "primaryKeyword": "sha256 hash generator",
+  "searchIntent": "Reproduce SHA-256 text digests with explicit byte and trust boundaries",
+  "secondaryTopics": [
+    "MD5 Hash Generator",
+    "HMAC Generator"
+  ],
+  "longTailQuestions": [
+    "Does the tool produce a genuine SHA-256 value?",
+    "Why does adding a newline change the hash?",
+    "Does a matching digest prove who sent the text?"
+  ],
+  "category": "Security Guides",
+  "relatedTools": [
+    "sha256-hash",
+    "md5-hash",
+    "hmac-generator"
+  ],
+  "relatedArticles": [
+    "md5-text-digest-for-legacy-comparisons",
+    "hmac-message-key-and-encoding-agreement"
+  ],
+  "faq": [
+    {
+      "question": "Does the tool produce a genuine SHA-256 value?",
+      "answer": "Yes. It uses Web Crypto over UTF-8 text and outputs 64 hexadecimal characters."
+    },
+    {
+      "question": "Why does adding a newline change the hash?",
+      "answer": "The newline adds bytes to the input. The tool hashes the exact supplied text rather than trimming it first."
+    },
+    {
+      "question": "Does a matching digest prove who sent the text?",
+      "answer": "No. A plain digest has no secret key or identity binding. Authentication requires an appropriate separate mechanism."
+    }
+  ],
+  "wordCount": 504
+}, content: () => import("./blogPosts/sha256-exact-utf8-text-and-integrity.js").then(m => m.default)},
   {...{
   "id": 83,
   "date": "2026-09-08",
@@ -1931,6 +3023,51 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 665
 }, content: () => import("./blogPosts/format-simple-sql-for-review.js").then(m => m.default)},
+  {...{
+  "id": 116,
+  "date": "2026-09-08",
+  "toolSlug": "stopwatch",
+  "articleSlug": "browser-stopwatch-laps-and-timing-drift",
+  "title": "Browser Stopwatch Laps and the Limits of Interval Timing",
+  "metaTitle": "Browser Stopwatch Laps and the Limits of Interval Timing | Huzaifa Tools",
+  "metaDescription": "Start, stop and record cumulative laps for a short session. Understand hundredths display, background-tab drift and why this stopwatch is not precision timing equipment.",
+  "primaryKeyword": "stopwatch",
+  "searchIntent": "Use a foreground browser stopwatch for informal cumulative timing",
+  "secondaryTopics": [
+    "Timer",
+    "Pace Calculator"
+  ],
+  "longTailQuestions": [
+    "Are lap values separate segment durations?",
+    "Will it stay exact while the device sleeps?",
+    "Does Reset keep the lap history?"
+  ],
+  "category": "Utility Guides",
+  "relatedTools": [
+    "stopwatch",
+    "timer",
+    "pace-calculator"
+  ],
+  "relatedArticles": [
+    "set-a-browser-countdown-and-check-its-limits",
+    "running-pace-from-distance-and-elapsed-time"
+  ],
+  "faq": [
+    {
+      "question": "Are lap values separate segment durations?",
+      "answer": "No. Each lap stores the cumulative counter value. Subtract consecutive laps to estimate the intervening segment."
+    },
+    {
+      "question": "Will it stay exact while the device sleeps?",
+      "answer": "No. Delayed interval callbacks can cause drift. Do not rely on it for background or precision timing."
+    },
+    {
+      "question": "Does Reset keep the lap history?",
+      "answer": "No. Reset clears both the counter and the recorded laps."
+    }
+  ],
+  "wordCount": 479
+}, content: () => import("./blogPosts/browser-stopwatch-laps-and-timing-drift.js").then(m => m.default)},
   {...{
   "id": 85,
   "date": "2026-09-08",
@@ -2112,6 +3249,51 @@ export const expandedGuideTopics = [
   "wordCount": 735
 }, content: () => import("./blogPosts/reverse-characters-words-or-lines.js").then(m => m.default)},
   {...{
+  "id": 117,
+  "date": "2026-09-08",
+  "toolSlug": "text-to-speech",
+  "articleSlug": "listen-to-a-draft-with-browser-text-to-speech",
+  "title": "Listen to a Draft with Browser Text to Speech",
+  "metaTitle": "Listen to a Draft with Browser Text to Speech | Huzaifa Tools",
+  "metaDescription": "Use browser speech playback to review a draft, select an available voice and adjust pace while understanding voice availability, privacy and export limits.",
+  "primaryKeyword": "text to speech",
+  "searchIntent": "Listen to entered text for draft review using browser speech synthesis",
+  "secondaryTopics": [
+    "Word Counter",
+    "Text Case Converter"
+  ],
+  "longTailQuestions": [
+    "Can I download the spoken passage as an MP3?",
+    "Why does my phone show different voices from my laptop?",
+    "Is every available voice guaranteed to work offline?"
+  ],
+  "category": "Utility Guides",
+  "relatedTools": [
+    "text-to-speech",
+    "word-counter",
+    "text-case-converter"
+  ],
+  "relatedArticles": [
+    "count-words-for-a-writing-limit",
+    "change-text-case-with-editorial-review"
+  ],
+  "faq": [
+    {
+      "question": "Can I download the spoken passage as an MP3?",
+      "answer": "No. The current page provides browser playback and a stop control, without an audio export feature."
+    },
+    {
+      "question": "Why does my phone show different voices from my laptop?",
+      "answer": "Available voices come from the browser and operating environment. The tool does not supply a fixed voice catalog across devices."
+    },
+    {
+      "question": "Is every available voice guaranteed to work offline?",
+      "answer": "No. Voice processing can depend on an external service. Verify your selected voice's behavior before using sensitive text or relying on offline playback."
+    }
+  ],
+  "wordCount": 681
+}, content: () => import("./blogPosts/listen-to-a-draft-with-browser-text-to-speech.js").then(m => m.default)},
+  {...{
   "id": 86,
   "date": "2026-09-08",
   "toolSlug": "time-calculator",
@@ -2156,6 +3338,51 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 557
 }, content: () => import("./blogPosts/elapsed-time-between-two-date-values.js").then(m => m.default)},
+  {...{
+  "id": 118,
+  "date": "2026-09-08",
+  "toolSlug": "timer",
+  "articleSlug": "set-a-browser-countdown-and-check-its-limits",
+  "title": "Set a Browser Countdown and Keep Its Timing Limits in View",
+  "metaTitle": "Set a Browser Countdown and Keep Its Timing Limits in View | Huzaifa Tools",
+  "metaDescription": "Set minutes and seconds, start or pause the countdown and understand the completion alert. Avoid relying on background browser timing for consequential reminders.",
+  "primaryKeyword": "timer",
+  "searchIntent": "Run an informal foreground countdown from entered minutes and seconds",
+  "secondaryTopics": [
+    "Stopwatch",
+    "Time Calculator"
+  ],
+  "longTailQuestions": [
+    "Does Set Timer immediately start counting down?",
+    "Will the alert work reliably after closing the tab?",
+    "Is there a downloadable alarm sound?"
+  ],
+  "category": "Utility Guides",
+  "relatedTools": [
+    "timer",
+    "stopwatch",
+    "time-calculator"
+  ],
+  "relatedArticles": [
+    "browser-stopwatch-laps-and-timing-drift",
+    "elapsed-time-between-two-date-values"
+  ],
+  "faq": [
+    {
+      "question": "Does Set Timer immediately start counting down?",
+      "answer": "No. It sets the display. Press Start to begin the countdown."
+    },
+    {
+      "question": "Will the alert work reliably after closing the tab?",
+      "answer": "No. This is a page-based timer without persistent device notifications. Closing or suspending the page interrupts that workflow."
+    },
+    {
+      "question": "Is there a downloadable alarm sound?",
+      "answer": "No. Completion uses a browser alert. The tool does not provide an audio-file export or configurable alarm system."
+    }
+  ],
+  "wordCount": 496
+}, content: () => import("./blogPosts/set-a-browser-countdown-and-check-its-limits.js").then(m => m.default)},
   {...{
   "id": 87,
   "date": "2026-09-08",
@@ -2294,6 +3521,51 @@ export const expandedGuideTopics = [
   "wordCount": 751
 }, content: () => import("./blogPosts/unix-seconds-milliseconds-and-timezones.js").then(m => m.default)},
   {...{
+  "id": 119,
+  "date": "2026-09-08",
+  "toolSlug": "uptime-calculator",
+  "articleSlug": "uptime-duration-totals-and-availability-denominator",
+  "title": "Uptime Duration Totals and the Missing Availability Denominator",
+  "metaTitle": "Uptime Duration Totals and the Missing Availability Denominator | Huzaifa Tools",
+  "metaDescription": "Convert entered uptime days, hours and minutes into totals. Understand why the current percentage is not a valid availability metric and what a real monitoring calculation needs.",
+  "primaryKeyword": "uptime calculator",
+  "searchIntent": "Use duration totals while explaining why availability needs a defined observation window",
+  "secondaryTopics": [
+    "Time Calculator",
+    "Percentage Calculator"
+  ],
+  "longTailQuestions": [
+    "Does the page monitor my website automatically?",
+    "Is the displayed percentage suitable for an SLA report?",
+    "Can I enter fractional minutes?"
+  ],
+  "category": "Utility Guides",
+  "relatedTools": [
+    "uptime-calculator",
+    "time-calculator",
+    "percentage-calculator"
+  ],
+  "relatedArticles": [
+    "elapsed-time-between-two-date-values",
+    "percentage-base-increase-and-decrease"
+  ],
+  "faq": [
+    {
+      "question": "Does the page monitor my website automatically?",
+      "answer": "No. It only calculates from entered duration components. There is no host check or monitoring history."
+    },
+    {
+      "question": "Is the displayed percentage suitable for an SLA report?",
+      "answer": "No. The current formula lacks a valid observation-window model. Use an appropriate monitoring calculation instead."
+    },
+    {
+      "question": "Can I enter fractional minutes?",
+      "answer": "The parser uses integer components. Preserve finer precision in another duration workflow if it is relevant."
+    }
+  ],
+  "wordCount": 516
+}, content: () => import("./blogPosts/uptime-duration-totals-and-availability-denominator.js").then(m => m.default)},
+  {...{
   "id": 56,
   "date": "2026-09-07",
   "toolSlug": "url-encoder",
@@ -2364,7 +3636,8 @@ export const expandedGuideTopics = [
     "qr-code-generator"
   ],
   "relatedArticles": [
-    "percent-encode-a-url-component"
+    "percent-encode-a-url-component",
+    "create-a-qr-code-and-verify-its-destination"
   ],
   "faq": [
     {
@@ -2427,6 +3700,51 @@ export const expandedGuideTopics = [
   ],
   "wordCount": 761
 }, content: () => import("./blogPosts/create-a-readable-url-slug.js").then(m => m.default)},
+  {...{
+  "id": 120,
+  "date": "2026-09-08",
+  "toolSlug": "uuid-generator",
+  "articleSlug": "uuid-shaped-identifiers-for-test-records",
+  "title": "UUID-Shaped Identifiers for Test Records and Ordinary Labels",
+  "metaTitle": "UUID-Shaped Identifiers for Test Records and Ordinary Labels | Huzaifa Tools",
+  "metaDescription": "Generate up to 100 UUID-shaped values, copy individual or grouped results and understand the current Math.random implementation's limits for security-sensitive identifiers.",
+  "primaryKeyword": "uuid generator",
+  "searchIntent": "Generate ordinary UUID-shaped test identifiers without treating them as secret tokens",
+  "secondaryTopics": [
+    "Password Generator",
+    "JSON Formatter"
+  ],
+  "longTailQuestions": [
+    "Are these values suitable for password-reset tokens?",
+    "Does generation guarantee global uniqueness?",
+    "How many values can I generate at once?"
+  ],
+  "category": "Developer Guides",
+  "relatedTools": [
+    "uuid-generator",
+    "password-generator",
+    "json-formatter"
+  ],
+  "relatedArticles": [
+    "generate-a-random-password-and-store-it-safely",
+    "format-json-and-check-data-types"
+  ],
+  "faq": [
+    {
+      "question": "Are these values suitable for password-reset tokens?",
+      "answer": "No. The current implementation uses Math.random rather than a cryptographic random source. Use an appropriate security-token implementation."
+    },
+    {
+      "question": "Does generation guarantee global uniqueness?",
+      "answer": "No. The page does not reserve values or check other systems. Enforce required uniqueness in the application."
+    },
+    {
+      "question": "How many values can I generate at once?",
+      "answer": "The supported count is a whole number from 1 to 100. Copy All returns them separated by newlines."
+    }
+  ],
+  "wordCount": 461
+}, content: () => import("./blogPosts/uuid-shaped-identifiers-for-test-records.js").then(m => m.default)},
   {...{
   "id": 89,
   "date": "2026-09-08",
