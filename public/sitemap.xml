@@ -119,12 +119,25 @@
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/rotate-flip-image-without-confusion</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/json-to-csv-flat-data</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/format-javascript-without-executing</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/age-from-a-birth-date-calendar-caveats</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/area-conversion-square-units-acres-hectares</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/base64-encode-decode-utf8-text</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/monthly-budget-income-expenses-and-remainder</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/character-count-spaces-emoji-and-lines</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/flat-rate-commission-and-base-pay</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/compound-interest-frequency-and-assumptions</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/choose-a-five-field-cron-schedule</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/format-css-for-a-readable-review</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/minify-simple-css-and-check-behaviour</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/csv-rows-to-json-objects</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/fixed-rate-currency-conversion-example</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/discount-amount-final-price-and-stacked-offers</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/great-circle-distance-from-coordinates</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/emi-from-a-month-based-repayment-term</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/energy-units-joules-kwh-and-calories</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/factorials-products-growth-and-number-limits</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/credit-weighted-gpa-on-a-simple-four-point-scale</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/weighted-course-grade-and-assessment-weights</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/html-entities-for-text-not-sanitization</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/inspect-html-indentation-without-changing-intent</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/conservative-html-minification-preserving-text</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -132,20 +145,37 @@
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/format-json-and-check-data-types</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/json-to-xml-elements-root-and-arrays</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/inspect-jwt-claims-without-trusting-them</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/convert-length-without-scaling-the-wrong-dimension</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/loan-payment-estimate-and-term-tradeoffs</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/lorem-ipsum-for-layout-testing</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/markup-on-cost-versus-sales-margin</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/draft-and-verify-page-meta-tags</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/turn-text-into-written-morse-code</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/mortgage-principal-interest-and-home-costs</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/running-pace-from-distance-and-elapsed-time</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/password-checklist-score-is-not-a-security-verdict</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/percentage-base-increase-and-decrease</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/test-javascript-regex-with-counterexamples</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/retirement-savings-scenario-with-monthly-deposits</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/draft-robots-txt-without-blocking-content</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/roi-with-extra-costs-and-a-clear-denominator</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/simple-interest-principal-rate-and-time</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/speed-units-metres-per-second-and-kilometres-per-hour</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/format-simple-sql-for-review</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/celsius-fahrenheit-kelvin-values-and-differences</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/change-text-case-with-editorial-review</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/compare-text-at-matching-line-positions</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/reverse-characters-words-or-lines</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/elapsed-time-between-two-date-values</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/calculate-a-tip-and-split-the-total</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/choose-compatible-units-before-converting</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/unix-seconds-milliseconds-and-timezones</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/percent-encode-a-url-component</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/read-url-host-query-and-fragment</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/create-a-readable-url-slug</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/add-vat-to-a-net-amount</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/volume-units-cups-gallons-and-cubic-measures</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/mass-conversion-kilograms-pounds-and-tons</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/count-words-for-a-writing-limit</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/format-xml-and-check-structure</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ai-tools-by-huzaifa.vercel.app/blog/xml-to-json-mapping-and-information-loss</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
