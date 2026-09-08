@@ -1,6 +1,8 @@
+import expandedGuides from './expandedToolGuides.js';
 import toolGuides from './toolGuideSeries.js';
 const blogs = [
   ...toolGuides,
+  ...expandedGuides,
   {
   "id": 21,
   "title": "The Complete Huzaifa Tools Guide: Free Online Utilities for Work, Study, and Development",

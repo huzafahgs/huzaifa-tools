@@ -1,5 +1,6 @@
+import { expandedGuideTopics } from './expandedToolGuides.js';
 import { toolGuideTopics } from './toolGuideSeries.js';
-const guidesByTool = Object.fromEntries(toolGuideTopics.map(topic => [topic.toolSlug, topic]));
+const guidesByTool = Object.fromEntries([...toolGuideTopics, ...expandedGuideTopics].map(topic => [topic.toolSlug, topic]));
 const help = {
  "md5-hash": { steps: ["Enter the exact text, including any intended whitespace.", "Generate the digest and compare or copy the 32-character hexadecimal output."], note: "Empty input is supported. This hashes UTF-8 text locally, not file bytes. MD5 is unsuitable for passwords and collision-resistant security checks." },
  "sha256-hash": { steps: ["Enter the exact text to hash.", "Generate and copy the 64-character hexadecimal digest."], note: "Uses Web Crypto over UTF-8 text locally. Whitespace matters and empty input is supported. A plain digest does not authenticate a sender and is not a password-storage scheme." },
