@@ -187,7 +187,7 @@ export const expandedGuideTopics = [
   "articleSlug": "bmi-metric-calculation-and-screening-limits",
   "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
   "metaTitle": "BMI: Use the Metric Calculation and Understand Screening Limits | Huzaifa Tools",
-  "metaDescription": "Check the metric BMI formula with kilograms and centimetres. Read the current imperial-mode warning and understand why a screening number is not a diagnosis.",
+  "metaDescription": "Check metric and imperial BMI formulas with worked examples, positive input validation and the limits of an adult screening estimate.",
   "primaryKeyword": "bmi calculator",
   "searchIntent": "Explain metric BMI arithmetic with current implementation and screening limitations",
   "secondaryTopics": [
@@ -195,7 +195,7 @@ export const expandedGuideTopics = [
     "Length Converter"
   ],
   "longTailQuestions": [
-    "Is the current imperial result reliable?",
+    "How is imperial BMI calculated?",
     "Should I enter metres in metric mode?",
     "Does the BMI category diagnose my health?"
   ],
@@ -211,8 +211,8 @@ export const expandedGuideTopics = [
   ],
   "faq": [
     {
-      "question": "Is the current imperial result reliable?",
-      "answer": "No. The implementation mixes feet conversion with the pounds-and-inches factor. Use a verified alternative and do not rely on that branch."
+      "question": "How is imperial BMI calculated?",
+      "answer": "Weight in pounds is divided by height in inches squared and multiplied by 703. The calculator keeps inches intact; it does not convert them to feet."
     },
     {
       "question": "Should I enter metres in metric mode?",
@@ -223,7 +223,8 @@ export const expandedGuideTopics = [
       "answer": "No. It is a limited screening classification. Individual interpretation requires broader information and appropriate clinical assessment."
     }
   ],
-  "wordCount": 534
+  "wordCount": 533,
+  "updated": "2026-09-08"
 }, content: () => import("./blogPosts/bmi-metric-calculation-and-screening-limits.js").then(m => m.default)},
   {...{
   "id": 94,
@@ -990,7 +991,8 @@ export const expandedGuideTopics = [
       "answer": "No. The formula assumes equal payments amortising the principal. A residual or balloon balance requires a different model."
     }
   ],
-  "wordCount": 595
+  "wordCount": 586,
+  "updated": "2026-09-08"
 }, content: () => import("./blogPosts/emi-from-a-month-based-repayment-term.js").then(m => m.default)},
   {...{
   "id": 71,
@@ -1905,7 +1907,7 @@ export const expandedGuideTopics = [
   "articleSlug": "loan-payment-estimate-and-term-tradeoffs",
   "title": "Loan Payment Estimates: Compare Term and Total Interest Together",
   "metaTitle": "Loan Payment Estimates: Compare Term and Total Interest Together | Huzaifa Tools",
-  "metaDescription": "Model a fixed-rate loan with a term in years. Check monthly payment, total interest and omitted costs, including the current zero-rate limitation.",
+  "metaDescription": "Model a fixed-rate loan with a term in years. Compare monthly payment, total interest, zero-interest arithmetic and costs omitted from the estimate.",
   "primaryKeyword": "loan calculator",
   "searchIntent": "Compare fixed-rate loan terms in years using monthly payment and total interest",
   "secondaryTopics": [
@@ -1934,14 +1936,15 @@ export const expandedGuideTopics = [
     },
     {
       "question": "Can I use the tool for a zero-interest loan?",
-      "answer": "The current zero-rate formula path is undefined. Do not rely on that output; the simple zero-rate payment is principal divided by a positive payment count."
+      "answer": "Yes. At zero interest, the monthly estimate is principal divided by the number of payments. Fees and contractual adjustments are still excluded."
     },
     {
       "question": "Does Total Interest include fees and insurance?",
       "answer": "No. It is the model's total payments minus principal. Additional borrowing costs and actual contract rules are not included."
     }
   ],
-  "wordCount": 574
+  "wordCount": 565,
+  "updated": "2026-09-08"
 }, content: () => import("./blogPosts/loan-payment-estimate-and-term-tradeoffs.js").then(m => m.default)},
   {...{
   "id": 45,
@@ -2580,7 +2583,7 @@ export const expandedGuideTopics = [
   "articleSlug": "retirement-savings-scenario-with-monthly-deposits",
   "title": "Retirement Savings Scenarios with Monthly Deposits and Explicit Limits",
   "metaTitle": "Retirement Savings Scenarios with Monthly Deposits and Explicit Limits | Huzaifa Tools",
-  "metaDescription": "Explore a constant-rate savings model with monthly contributions. Separate deposits from growth, note the zero-return bug and avoid treating a scenario as a retirement plan.",
+  "metaDescription": "Explore a constant-rate savings model with monthly contributions. Separate deposits from growth, check a zero-return baseline and understand planning limitations.",
   "primaryKeyword": "retirement calculator",
   "searchIntent": "Inspect conditional savings growth from a balance and regular monthly contributions",
   "secondaryTopics": [
@@ -2589,7 +2592,7 @@ export const expandedGuideTopics = [
   ],
   "longTailQuestions": [
     "Is the estimated growth guaranteed?",
-    "Does the current zero-rate result include all deposits correctly?",
+    "Does the zero-rate result include monthly deposits?",
     "Does the tool tell me whether I can retire?"
   ],
   "category": "Finance Guides",
@@ -2608,15 +2611,16 @@ export const expandedGuideTopics = [
       "answer": "No. It follows a constant assumed rate. The model does not predict markets or account for the full range of real outcomes."
     },
     {
-      "question": "Does the current zero-rate result include all deposits correctly?",
-      "answer": "No. The contribution formula has a zero-rate limitation. Use starting balance plus total deposits as the separate no-growth calculation."
+      "question": "Does the zero-rate result include monthly deposits?",
+      "answer": "Yes. At zero return it adds the starting balance and all monthly deposits, with no model growth."
     },
     {
       "question": "Does the tool tell me whether I can retire?",
       "answer": "No. It models accumulation only and omits withdrawals, inflation, taxes, fees and personal circumstances."
     }
   ],
-  "wordCount": 598
+  "wordCount": 577,
+  "updated": "2026-09-08"
 }, content: () => import("./blogPosts/retirement-savings-scenario-with-monthly-deposits.js").then(m => m.default)},
   {...{
   "id": 112,
@@ -3527,7 +3531,7 @@ export const expandedGuideTopics = [
   "articleSlug": "uptime-duration-totals-and-availability-denominator",
   "title": "Uptime Duration Totals and the Missing Availability Denominator",
   "metaTitle": "Uptime Duration Totals and the Missing Availability Denominator | Huzaifa Tools",
-  "metaDescription": "Convert entered uptime days, hours and minutes into totals. Understand why the current percentage is not a valid availability metric and what a real monitoring calculation needs.",
+  "metaDescription": "Convert uptime into duration totals and calculate availability from an explicit observation window, with validation and practical monitoring limitations.",
   "primaryKeyword": "uptime calculator",
   "searchIntent": "Use duration totals while explaining why availability needs a defined observation window",
   "secondaryTopics": [
@@ -3535,9 +3539,9 @@ export const expandedGuideTopics = [
     "Percentage Calculator"
   ],
   "longTailQuestions": [
-    "Does the page monitor my website automatically?",
-    "Is the displayed percentage suitable for an SLA report?",
-    "Can I enter fractional minutes?"
+    "What happens if I leave the observation window blank?",
+    "Can uptime be longer than the observation window?",
+    "Does the tool monitor my website?"
   ],
   "category": "Utility Guides",
   "relatedTools": [
@@ -3551,19 +3555,20 @@ export const expandedGuideTopics = [
   ],
   "faq": [
     {
-      "question": "Does the page monitor my website automatically?",
-      "answer": "No. It only calculates from entered duration components. There is no host check or monitoring history."
+      "question": "What happens if I leave the observation window blank?",
+      "answer": "The tool shows duration totals only. It does not infer an availability percentage from an arbitrary year length."
     },
     {
-      "question": "Is the displayed percentage suitable for an SLA report?",
-      "answer": "No. The current formula lacks a valid observation-window model. Use an appropriate monitoring calculation instead."
+      "question": "Can uptime be longer than the observation window?",
+      "answer": "No. The calculation rejects that combination because the available time must fit inside the observation period."
     },
     {
-      "question": "Can I enter fractional minutes?",
-      "answer": "The parser uses integer components. Preserve finer precision in another duration workflow if it is relevant."
+      "question": "Does the tool monitor my website?",
+      "answer": "No. It calculates from values you supply and does not collect outage records or verify a service-level agreement."
     }
   ],
-  "wordCount": 516
+  "wordCount": 507,
+  "updated": "2026-09-08"
 }, content: () => import("./blogPosts/uptime-duration-totals-and-availability-denominator.js").then(m => m.default)},
   {...{
   "id": 56,

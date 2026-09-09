@@ -16,19 +16,34 @@ export default function LoanCalculator() {
     const p = parseFloat(principal);
     const r = parseFloat(rate);
     const t = parseFloat(time);
+    if (![p, r, t].every(Number.isFinite) || p <= 0 || r < 0 || t <= 0) {
+      setResult(null);
+      alert(
+        "Use a positive principal and term, and a nonnegative annual rate.",
+      );
+      return;
+    }
 
     const monthlyRate = r / 100 / 12;
     const numberOfPayments = t * 12;
-    
-    const monthlyPayment = (p * monthlyRate * Math.pow(1 + monthlyRate, numberOfPayments)) / 
-                           (Math.pow(1 + monthlyRate, numberOfPayments) - 1);
+
+    const monthlyPayment =
+      r === 0
+        ? p / numberOfPayments
+        : (p * monthlyRate * Math.pow(1 + monthlyRate, numberOfPayments)) /
+          (Math.pow(1 + monthlyRate, numberOfPayments) - 1);
     const totalPayment = monthlyPayment * numberOfPayments;
     const totalInterest = totalPayment - p;
+    if (!Number.isFinite(totalPayment)) {
+      setResult(null);
+      alert("These values exceed the supported calculation range.");
+      return;
+    }
 
     setResult({
       monthlyPayment: monthlyPayment.toFixed(2),
       totalPayment: totalPayment.toFixed(2),
-      totalInterest: totalInterest.toFixed(2)
+      totalInterest: totalInterest.toFixed(2),
     });
   };
 
@@ -41,36 +56,52 @@ export default function LoanCalculator() {
 
       <div className="form-grid">
         <div className="form-group">
-          <label>Loan Amount ($)</label>
+          <label htmlFor="loancalculator-1">Loan Amount ($)</label>
           <input
+            id="loancalculator-1"
             type="number"
             value={principal}
-            onChange={(e) => setPrincipal(e.target.value)}
+            onChange={(e) => {
+              setPrincipal(e.target.value);
+              setResult(null);
+            }}
             placeholder="Enter loan amount"
           />
         </div>
         <div className="form-group">
-          <label>Interest Rate (%) Per Year</label>
+          <label htmlFor="loancalculator-2">Interest Rate (%) Per Year</label>
           <input
+            id="loancalculator-2"
             type="number"
             value={rate}
-            onChange={(e) => setRate(e.target.value)}
+            onChange={(e) => {
+              setRate(e.target.value);
+              setResult(null);
+            }}
             placeholder="Enter interest rate"
             step="0.01"
           />
         </div>
         <div className="form-group">
-          <label>Loan Period (Years)</label>
+          <label htmlFor="loancalculator-3">Loan Period (Years)</label>
           <input
+            id="loancalculator-3"
             type="number"
             value={time}
-            onChange={(e) => setTime(e.target.value)}
+            onChange={(e) => {
+              setTime(e.target.value);
+              setResult(null);
+            }}
             placeholder="Enter loan period"
           />
         </div>
       </div>
 
-      <button className="tool-button" onClick={calculate} style={{width: "100%", marginBottom: "30px"}}>
+      <button
+        className="tool-button"
+        onClick={calculate}
+        style={{ width: "100%", marginBottom: "30px" }}
+      >
         Calculate Loan
       </button>
 

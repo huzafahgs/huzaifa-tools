@@ -16,15 +16,34 @@ export default function EMICalculator() {
     const p = parseFloat(principal);
     const r = parseFloat(rate) / 100 / 12;
     const n = parseFloat(months);
+    if (
+      ![p, r, n].every(Number.isFinite) ||
+      p <= 0 ||
+      r < 0 ||
+      !Number.isInteger(n) ||
+      n <= 0
+    ) {
+      setResult(null);
+      alert(
+        "Use a positive principal, nonnegative annual rate and positive whole months.",
+      );
+      return;
+    }
 
-    const emi = (p * r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
+    const emi =
+      r === 0 ? p / n : (p * r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
     const totalPayment = emi * n;
     const totalInterest = totalPayment - p;
+    if (!Number.isFinite(totalPayment)) {
+      setResult(null);
+      alert("These values exceed the supported calculation range.");
+      return;
+    }
 
     setResult({
       emi: emi.toFixed(2),
       totalPayment: totalPayment.toFixed(2),
-      totalInterest: totalInterest.toFixed(2)
+      totalInterest: totalInterest.toFixed(2),
     });
   };
 
@@ -37,36 +56,52 @@ export default function EMICalculator() {
 
       <div className="form-grid">
         <div className="form-group">
-          <label>Loan Amount ($)</label>
+          <label htmlFor="emicalculator-1">Loan Amount ($)</label>
           <input
+            id="emicalculator-1"
             type="number"
             value={principal}
-            onChange={(e) => setPrincipal(e.target.value)}
+            onChange={(e) => {
+              setPrincipal(e.target.value);
+              setResult(null);
+            }}
             placeholder="Enter amount"
           />
         </div>
         <div className="form-group">
-          <label>Interest Rate (%) Per Year</label>
+          <label htmlFor="emicalculator-2">Interest Rate (%) Per Year</label>
           <input
+            id="emicalculator-2"
             type="number"
             value={rate}
-            onChange={(e) => setRate(e.target.value)}
+            onChange={(e) => {
+              setRate(e.target.value);
+              setResult(null);
+            }}
             placeholder="Enter rate"
             step="0.01"
           />
         </div>
         <div className="form-group">
-          <label>Duration (Months)</label>
+          <label htmlFor="emicalculator-3">Duration (Months)</label>
           <input
+            id="emicalculator-3"
             type="number"
             value={months}
-            onChange={(e) => setMonths(e.target.value)}
+            onChange={(e) => {
+              setMonths(e.target.value);
+              setResult(null);
+            }}
             placeholder="Enter months"
           />
         </div>
       </div>
 
-      <button className="tool-button" onClick={calculate} style={{width: "100%", marginBottom: "30px"}}>
+      <button
+        className="tool-button"
+        onClick={calculate}
+        style={{ width: "100%", marginBottom: "30px" }}
+      >
         Calculate EMI
       </button>
 

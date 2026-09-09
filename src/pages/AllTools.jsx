@@ -2,14 +2,19 @@ import Layout from "../components/Layout";
 import ToolCard from "../components/ToolCard";
 import tools from "../toolsData";
 import { useMemo, useState } from "react";
+import { useSearchParams } from "react-router-dom";
 
 function AllTools() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategory, setSelectedCategory] = useState("All");
+  const [params] = useSearchParams();
+  const initialCategory = params.get("category");
+  const [selectedCategory, setSelectedCategory] = useState(
+    tools.some((t) => t.category === initialCategory) ? initialCategory : "All",
+  );
 
   const categories = useMemo(
     () => ["All", ...new Set(tools.map((tool) => tool.category))],
-    []
+    [],
   );
 
   const trimmedSearch = searchQuery.trim().toLowerCase();
@@ -29,6 +34,9 @@ function AllTools() {
     <Layout title="All Tools">
       <section className="page-shell">
         <header className="page-header">
+          <span className="eyebrow">
+            THE TOOL LIBRARY / {tools.length} UTILITIES
+          </span>
           <h1>All Tools</h1>
           <p>
             Explore {tools.length} free browser-based tools from Huzaifa Tools.
@@ -50,7 +58,11 @@ function AllTools() {
           />
         </div>
 
-        <div className="category-filter" role="group" aria-label="Filter by category">
+        <div
+          className="category-filter"
+          role="group"
+          aria-label="Filter by category"
+        >
           {categories.map((category) => (
             <button
               key={category}
@@ -69,7 +81,7 @@ function AllTools() {
           ))}
         </div>
 
-        <h2 className="section-title">
+        <h2 className="section-title" aria-live="polite" aria-atomic="true">
           {selectedCategory === "All" ? "Catalog" : selectedCategory}
           <span className="section-count"> ({filteredTools.length})</span>
         </h2>

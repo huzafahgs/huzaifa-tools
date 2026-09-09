@@ -20,6 +20,12 @@ export default function SiteFooter() {
       </p>
 
       <nav className="site-footer__nav" aria-label="Footer">
+        <Link to="/all-tools" className="site-footer__link">
+          Explore tools ↗
+        </Link>
+        <Link to="/blog" className="site-footer__link">
+          Read the guides ↗
+        </Link>
         {footerLinks.map((item) => (
           <Link key={item.to} to={item.to} className="site-footer__link">
             {item.label}
@@ -29,10 +35,7 @@ export default function SiteFooter() {
 
       <p className="site-footer__contact">
         Contact:{" "}
-        <a
-          className="site-footer__email"
-          href={`mailto:${CONTACT_EMAIL}`}
-        >
+        <a className="site-footer__email" href={`mailto:${CONTACT_EMAIL}`}>
           {CONTACT_EMAIL}
         </a>
       </p>

@@ -10,9 +10,9 @@ function Blog() {
   const blogs = useMemo(
     () =>
       [...getAllBlogs()].sort(
-        (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+        (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
       ),
-    []
+    [],
   );
 
   const categories = useMemo(() => getBlogCategories(), []);
@@ -23,22 +23,24 @@ function Blog() {
         counts[blog.category] = (counts[blog.category] || 0) + 1;
         return counts;
       }, {}),
-    [blogs]
+    [blogs],
   );
 
   const normalizedSearch = search.trim().toLowerCase();
   const filteredBlogs = useMemo(
     () =>
       blogs.filter((blog) => {
-        const matchesCategory = category === "All" || blog.category === category;
-        const contentSearch = `${blog.title} ${blog.metaDescription} ${blog.category} ${blog.tags.join(" ")}`.toLowerCase();
+        const matchesCategory =
+          category === "All" || blog.category === category;
+        const contentSearch =
+          `${blog.title} ${blog.metaDescription} ${blog.category} ${blog.tags.join(" ")}`.toLowerCase();
         const matchesQuery = normalizedSearch
           ? contentSearch.includes(normalizedSearch)
           : true;
 
         return matchesCategory && matchesQuery;
       }),
-    [blogs, category, normalizedSearch]
+    [blogs, category, normalizedSearch],
   );
 
   return (
@@ -48,11 +50,27 @@ function Blog() {
           <span className="eyebrow">Huzaifa Tools Blog</span>
           <h1>Practical guides for everyday tools</h1>
           <p>
-            Learn how to work with PDFs, prepare images, and review data and code.
-            Clear workflows, useful examples, and the limits that matter.
+            Learn how to work with PDFs, prepare images, and review data and
+            code. Clear workflows, useful examples, and the limits that matter.
           </p>
         </div>
 
+        <section
+          className="blog-featured"
+          aria-labelledby="featured-guide-title"
+        >
+          <div>
+            <span className="eyebrow">THE HGS FIELD GUIDE</span>
+            <h2 id="featured-guide-title">Get to know your entire toolkit.</h2>
+            <p>
+              Our complete guide to the platform: real workflows, useful
+              examples and the limitations worth understanding.
+            </p>
+          </div>
+          <Link className="btn-primary" to="/blog/huzaifa-tools-guide">
+            Read the complete guide ↗
+          </Link>
+        </section>
         <div className="blog-actions">
           <label htmlFor="blog-search" className="search-wrap">
             <span className="search-label">Search blog posts</span>
@@ -67,7 +85,11 @@ function Blog() {
             />
           </label>
 
-          <div className="category-filter" role="group" aria-label="Blog categories">
+          <div
+            className="category-filter"
+            role="group"
+            aria-label="Blog categories"
+          >
             {categories.map((categoryName) => (
               <button
                 key={categoryName}
@@ -77,20 +99,28 @@ function Blog() {
                 aria-pressed={categoryName === category}
               >
                 {categoryName}
-                <span className="category-count">{categoryName === "All" ? blogs.length : categoryCounts[categoryName] || 0}</span>
+                <span className="category-count">
+                  {categoryName === "All"
+                    ? blogs.length
+                    : categoryCounts[categoryName] || 0}
+                </span>
               </button>
             ))}
           </div>
         </div>
 
-        <p className="blog-results" role="status">{filteredBlogs.length} article{filteredBlogs.length === 1 ? "" : "s"} found</p>
+        <p className="blog-results" role="status">
+          {filteredBlogs.length} article{filteredBlogs.length === 1 ? "" : "s"}{" "}
+          found
+        </p>
         <div className="blog-grid">
           {filteredBlogs.map((blog) => (
             <article key={blog.slug} className="blog-card">
               <img
                 src={blog.featuredImage}
                 alt=""
-                width="320" height="160"
+                width="320"
+                height="160"
                 className="blog-card-image"
                 loading="lazy"
               />
@@ -101,7 +131,9 @@ function Blog() {
                   <span>{blog.readingTime}</span>
                 </div>
 
-                <h2><Link to={`/blog/${blog.slug}`}>{blog.title}</Link></h2>
+                <h2>
+                  <Link to={`/blog/${blog.slug}`}>{blog.title}</Link>
+                </h2>
                 <p>{blog.metaDescription}</p>
 
                 <div className="blog-card-footer">

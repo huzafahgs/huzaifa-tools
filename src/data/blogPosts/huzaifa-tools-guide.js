@@ -242,7 +242,7 @@ For an illustrative loan of 1,200 at twelve percent annual interest over twelve 
 
 Before comparing offers, check whether the actual agreement includes fees, insurance, variable rates, taxes, payment timing differences, or an initial grace period. These calculators do not model an entire contract. A displayed dollar symbol does not turn the result into a current currency quote; use consistent units throughout the example.
 
-The current Loan and EMI formulas do not handle zero interest correctly as a separate case. For a zero-interest illustration, principal divided by the number of payments is the appropriate simple check, before considering any fees. If the interface produces a non-number or an implausible result, do not copy it into a decision document. Mortgage calculations likewise need comparison with the lender's full schedule and charges.
+Loan and EMI now handle zero interest as a separate case: principal divided by the number of payments, before considering any fees. If the interface produces a non-number or an implausible result, do not copy it into a decision document. Mortgage calculations likewise need comparison with the lender's full schedule and charges.
 
 ### Simple and compound interest
 

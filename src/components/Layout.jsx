@@ -1,17 +1,18 @@
-import { Link, NavLink } from "react-router-dom";
-import { useState } from "react";
+import { Link, NavLink, useLocation } from "react-router-dom";
+import { useEffect, useRef, useState } from "react";
 import "../App.css";
 import logo from "../assets/logo.png";
 import LiveWallpaper from "./LiveWallpaper";
 import SiteFooter from "./SiteFooter";
+import "../styles/design-v2.css";
 
 const navItems = [
-  { to: "/", label: "Home", icon: "🏠", end: true },
-  { to: "/all-tools", label: "All Tools", icon: "🧰" },
-  { to: "/blog", label: "Blog", icon: "📰" },
-  { to: "/pricing", label: "Pricing", icon: "💰" },
-  { to: "/about-us", label: "About", icon: "ℹ️" },
-  { to: "/contact", label: "Contact", icon: "📞" },
+  { to: "/", label: "Home", icon: "⌂", end: true },
+  { to: "/all-tools", label: "All Tools", icon: "▦" },
+  { to: "/blog", label: "Blog", icon: "▤" },
+  { to: "/pricing", label: "Free access", icon: "◇" },
+  { to: "/about-us", label: "About", icon: "◎" },
+  { to: "/contact", label: "Contact", icon: "↗" },
 ];
 
 const legalLinks = [
@@ -24,15 +25,64 @@ const legalLinks = [
 
 function Layout({ children }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const sidebar = useRef(null);
+  const toggle = useRef(null);
+  const location = useLocation();
+  useEffect(() => {
+    if (!location.hash) window.scrollTo({ top: 0, behavior: "instant" });
+  }, [location.pathname, location.hash]);
+  useEffect(() => {
+    if (!menuOpen) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    sidebar.current?.querySelector("a")?.focus();
+    const onKey = (event) => {
+      if (event.key === "Escape") {
+        setMenuOpen(false);
+        toggle.current?.focus();
+      }
+      if (event.key === "Tab") {
+        const items = [
+          toggle.current,
+          ...sidebar.current.querySelectorAll("a,button"),
+        ];
+        const index = items.indexOf(document.activeElement);
+        if (event.shiftKey && index <= 0) {
+          event.preventDefault();
+          items.at(-1).focus();
+        } else if (
+          !event.shiftKey &&
+          (index === items.length - 1 || index === -1)
+        ) {
+          event.preventDefault();
+          items[0].focus();
+        }
+      }
+    };
+    const desktop = matchMedia("(min-width: 769px)");
+    const resize = () => {
+      if (desktop.matches) setMenuOpen(false);
+    };
+    desktop.addEventListener("change", resize);
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener("keydown", onKey);
+      desktop.removeEventListener("change", resize);
+    };
+  }, [menuOpen]);
 
   const closeMenu = () => setMenuOpen(false);
 
   return (
-    <div className="container">
+    <div className="container design-v2">
       <LiveWallpaper />
-      <a className="skip-link" href="#main-content">Skip to content</a>
+      <a className="skip-link" href="#main-content">
+        Skip to content
+      </a>
 
       <button
+        ref={toggle}
         type="button"
         className="nav-toggle"
         aria-expanded={menuOpen}
@@ -48,7 +98,11 @@ function Layout({ children }) {
         aria-hidden="true"
       />
 
-      <aside id="sidebar-nav" className={`sidebar${menuOpen ? " is-open" : ""}`}>
+      <aside
+        ref={sidebar}
+        id="sidebar-nav"
+        className={`sidebar${menuOpen ? " is-open" : ""}`}
+      >
         <Link to="/" className="sidebar-brand" onClick={closeMenu}>
           <img
             src={logo}
@@ -96,7 +150,15 @@ function Layout({ children }) {
         </div>
       </aside>
 
-      <div className="main-column">
+      <div className="main-column" inert={menuOpen ? true : undefined}>
+        <div className="workspace-bar">
+          <Link to="/">
+            HGS <span>/</span> HUZAIFA TOOLS
+          </Link>
+          <Link to="/all-tools">
+            Your next task, simplified <span aria-hidden="true">↗</span>
+          </Link>
+        </div>
         <main className="main" id="main-content" tabIndex={-1}>
           {children}
         </main>
