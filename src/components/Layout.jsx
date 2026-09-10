@@ -5,6 +5,8 @@ import logo from "../assets/logo.png";
 import LiveWallpaper from "./LiveWallpaper";
 import SiteFooter from "./SiteFooter";
 import "../styles/design-v2.css";
+import "../styles/accounts.css";
+import { useAuth } from "../accounts/AuthProvider";
 
 const navItems = [
   { to: "/", label: "Home", icon: "⌂", end: true },
@@ -24,6 +26,7 @@ const legalLinks = [
 ];
 
 function Layout({ children }) {
+  const { user, status } = useAuth();
   const [menuOpen, setMenuOpen] = useState(false);
   const sidebar = useRef(null);
   const toggle = useRef(null);
@@ -119,7 +122,21 @@ function Layout({ children }) {
 
         <nav aria-label="Main navigation">
           <ul className="menu">
-            {navItems.map(({ to, label, icon, end }) => (
+            {[
+              ...navItems,
+              {
+                to: user ? "/account" : "/login",
+                label:
+                  status === "loading"
+                    ? "Account"
+                    : user
+                      ? "My account"
+                      : "Sign in",
+                icon: "○",
+              },
+              { to: "/favorites", label: "Favorites", icon: "☆" },
+              { to: "/history", label: "History", icon: "◷" },
+            ].map(({ to, label, icon, end }) => (
               <li key={to}>
                 <NavLink
                   to={to}

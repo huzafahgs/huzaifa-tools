@@ -10,7 +10,9 @@ const DEFAULT_IMAGE = new URL(logoAsset, SITE_URL).href;
 const INDEXABLE_ROBOTS = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
 const NOINDEX_ROBOTS = "noindex, follow";
 
+const ACCOUNT_PATHS = ["/login", "/signup", "/forgot-password", "/reset-password", "/account", "/auth/callback"];
 const ROUTE_META = {
+  ...Object.fromEntries(ACCOUNT_PATHS.map(path => [path, { title: "Huzaifa Accounts | Huzaifa Tools", description: "Manage your Huzaifa Tools account, favorites and recently opened tools." }])),
   "/": {
     title: DEFAULT_TITLE,
     description: DEFAULT_DESCRIPTION,
@@ -116,7 +118,7 @@ export function getPageSeoData(pathname, fallbackTitle) {
   const pageDescription = description;
   const ogType = blog ? "article" : tool ? "website" : "website";
   const ogImage = new URL(blog?.featuredImage || DEFAULT_IMAGE, SITE_URL).href;
-  const noindex = isMissingPage || ["/favorites", "/history", "/chat"].includes(normalizedPath);
+  const noindex = isMissingPage || [...ACCOUNT_PATHS, "/favorites", "/history", "/chat"].includes(normalizedPath);
   const robots = isMissingPage ? "noindex, nofollow" : noindex ? NOINDEX_ROBOTS : INDEXABLE_ROBOTS;
 
   const breadcrumbItems = isMissingPage

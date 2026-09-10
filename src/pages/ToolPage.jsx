@@ -8,6 +8,7 @@ import { Suspense, useMemo } from "react";
 import { getToolComponent } from "../toolRegistry";
 import { getCategoryDesign } from "../design/categories";
 
+import ToolSave from "../accounts/ToolSave";
 function ToolPage() {
   const { slug } = useParams();
   const tool = tools.find((entry) => entry.slug === slug);
@@ -46,6 +47,7 @@ function ToolPage() {
           <span>HUZAIFA WORKSPACE</span>
         </div>
 
+        <ToolSave slug={slug} />
         <Suspense
           fallback={
             <div className="tool-container">
