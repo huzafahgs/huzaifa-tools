@@ -5,7 +5,7 @@ import logoAsset from "../assets/logo.png";
 const SITE_URL = import.meta.env.VITE_SITE_URL || "https://ai-tools-by-huzaifa.vercel.app";
 const TOOL_COUNT = tools.length;
 const DEFAULT_TITLE = `Huzaifa Tools – Free Online Utilities`;
-const DEFAULT_DESCRIPTION = `Huzaifa Tools offers ${TOOL_COUNT} free browser utilities for text processing, calculations, conversions, and productivity.`;
+const DEFAULT_DESCRIPTION = `Explore ${TOOL_COUNT} Huzaifa Tools for documents, text, calculations and AI writing. AI generation requires sign-in and service availability.`;
 const DEFAULT_IMAGE = new URL(logoAsset, SITE_URL).href;
 const INDEXABLE_ROBOTS = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
 const NOINDEX_ROBOTS = "noindex, follow";
@@ -35,7 +35,7 @@ const ROUTE_META = {
   },
   "/pricing": {
     title: "Pricing | Huzaifa Tools",
-    description: "Use the current Huzaifa Tools catalog for free without an account or subscription. Review tool limits and data handling.",
+    description: "Explore free Huzaifa Tools utilities and account-based AI generation. Review service availability, request limits and data handling.",
   },
   "/contact": {
     title: "Contact | Huzaifa Tools",
@@ -172,11 +172,12 @@ export function getPageSeoData(pathname, fallbackTitle) {
       }
     : null;
 
-  const faqSchema = blog?.faq?.length
+  const faqItems = blog?.faq || tool?.faq;
+  const faqSchema = faqItems?.length
     ? {
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        mainEntity: blog.faq.map((item) => ({
+        mainEntity: faqItems.map((item) => ({
           "@type": "Question",
           name: item.question,
           acceptedAnswer: {

@@ -2,6 +2,12 @@ import { lazy } from "react";
 import { registerTool } from "../toolRegistry";
 
 const lazyTool = (loader) => lazy(loader);
+const aiWorkspace = lazyTool(() => import('./ai/AIWorkspace'));
+registerTool("ai-text-summarizer", aiWorkspace);
+registerTool("ai-writing-assistant", aiWorkspace);
+registerTool("ai-grammar-rewrite", aiWorkspace);
+registerTool("ai-email-generator", aiWorkspace);
+registerTool("ai-prompt-generator", aiWorkspace);
 
 registerTool("pdf-merger", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFMerger }))));
 registerTool("pdf-splitter", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFSplitter }))));

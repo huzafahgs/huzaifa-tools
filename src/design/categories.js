@@ -1,5 +1,6 @@
 // Extend the visual registry for future areas without adding empty routes.
 export const categoryDesign = {
+  AI: { tone: "general", mark: "✦", label: "AI studio" },
   PDF: { tone: "document", mark: "▤", label: "Document desk" },
   Image: { tone: "canvas", mark: "◈", label: "Image studio" },
   Developer: { tone: "code", mark: "{ }", label: "Developer bench" },

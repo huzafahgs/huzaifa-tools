@@ -17,7 +17,7 @@ const featured = [
   "password-generator",
   "percentage-calculator",
 ].map((s) => tools.find((t) => t.slug === s));
-const areas = ["PDF", "Image", "Developer", "Text", "Security", "Calculator"];
+const areas = ["PDF", "Image", "Developer", "Text", "Security", "Calculator", "AI"];
 export default function App() {
   const [query, setQuery] = useState("");
   const matches = tools.filter((t) =>
@@ -53,7 +53,7 @@ export default function App() {
             <span>
               <b>{tools.length}</b> real utilities
             </span>
-            <span>No account required</span>
+            <span>AI generation requires sign-in</span>
             <Link to="/pricing">Free to use</Link>
           </div>
         </div>
@@ -175,8 +175,8 @@ export default function App() {
             <span>01</span>
             <h3>Start in your browser</h3>
             <p>
-              No account setup for the current catalog. Each tool explains what
-              it accepts and produces.
+              Everyday utilities need no account. AI generation requires a
+              confirmed account and service availability.
             </p>
           </article>
           <article>

@@ -39,7 +39,8 @@ function AllTools() {
           </span>
           <h1>All Tools</h1>
           <p>
-            Explore {tools.length} free browser-based tools from Huzaifa Tools.
+            Explore {tools.length} tools from Huzaifa Tools. AI generation requires
+            a confirmed account and service availability.
           </p>
         </header>
 
