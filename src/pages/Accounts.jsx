@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
 import Layout from "../components/Layout";
 import { useAuth } from "../accounts/AuthProvider";
@@ -34,9 +34,12 @@ export default function Accounts() {
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
+  const [signupPending, setSignupPending] = useState(false);
+  const submitting = useRef(false);
   useEffect(() => {
     setMessage("");
     setError("");
+    setSignupPending(false);
   }, [pathname]);
   useEffect(() => {
     if (pathname !== "/auth/callback" || status !== "ready" || !user) return;
@@ -65,9 +68,12 @@ export default function Accounts() {
   const unavailable = status === "unconfigured" || status === "error";
   const submit = async (event) => {
     event.preventDefault();
+    if (submitting.current || (signup && signupPending)) return;
+    // Capture the form before awaiting the provider; never reuse the event later.
+    const form = event.currentTarget;
     setError("");
     setMessage("");
-    const values = new FormData(event.currentTarget);
+    const values = new FormData(form);
     const email = String(values.get("email") || "").trim();
     const password = String(values.get("password") || "");
     if ((signup || reset) && password !== values.get("confirm")) {
@@ -80,10 +86,11 @@ export default function Accounts() {
       );
       return;
     }
+    submitting.current = true;
     setBusy(true);
+    let result;
     try {
       const client = await getClient();
-      let result;
       if (signup)
         result = await client.auth.signUp({
           email,
@@ -97,19 +104,6 @@ export default function Accounts() {
       else if (reset) result = await client.auth.updateUser({ password });
       else result = await client.auth.signInWithPassword({ email, password });
       if (result.error) throw result.error;
-      event.target.reset();
-      if (signup)
-        setMessage(
-          "If registration can proceed, a confirmation email will arrive. Open it in this browser. Already registered? Sign in or reset your password.",
-        );
-      else if (forgot)
-        setMessage(
-          "If an account matches that address, a reset link will arrive. Open it in this browser.",
-        );
-      else if (reset) {
-        setMessage("Password updated.");
-        navigate("/account", { replace: true });
-      } else navigate("/account", { replace: true });
     } catch {
       setError(
         forgot
@@ -120,9 +114,28 @@ export default function Accounts() {
               ? "The password could not be updated. Request a fresh reset link and try again."
               : "Unable to sign in. Check your email and password, confirm your email, or try again later.",
       );
+      return;
     } finally {
+      submitting.current = false;
       setBusy(false);
     }
+    // A successful signUp can return user + session:null while confirmation is pending.
+    // Keep UI cleanup outside the provider error handler so it cannot report signup failure.
+    HTMLFormElement.prototype.reset.call(form);
+    if (signup) {
+      setSignupPending(true);
+      setMessage(
+        result.data?.user?.identities?.length
+          ? "Account created. Check your email to confirm your account before signing in."
+          : "Signup request accepted. Check your email to confirm your account before signing in. If you already have an account, sign in or reset your password.",
+      );
+    } else if (forgot) {
+      setMessage(
+        "If an account matches that address, a reset link will arrive. Open it in this browser.",
+      );
+    } else if (reset) {
+      navigate("/account", { replace: true });
+    } else navigate("/account", { replace: true });
   };
   return (
     <AccountFrame title={title}>
@@ -144,7 +157,12 @@ export default function Accounts() {
               without an account.
             </p>
           )}
-          {reset && !user ? (
+          {signup && signupPending ? (
+            <p>
+              Open the confirmation link in the same browser where you signed
+              up. You do not need to submit the signup form again.
+            </p>
+          ) : reset && !user ? (
             <p>
               Open a valid password-reset email in this browser first.{" "}
               <Link to="/forgot-password">Request a new link</Link>.
