@@ -149,3 +149,78 @@
     flex-direction: column;
   }
 }
+.header-account-access {
+  position: relative;
+  z-index: 20;
+  font-size: 14px;
+  letter-spacing: normal;
+}
+.workspace-bar .account-nav-trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 10px 20px;
+  border: 1px solid #dfbd70;
+  border-radius: 12px;
+  background: #e7c875;
+  color: #10131c;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+  list-style: none;
+}
+.account-nav-trigger::-webkit-details-marker {
+  display: none;
+}
+.workspace-bar .account-nav-trigger span {
+  color: inherit;
+  margin: 0 0 0 8px;
+}
+.account-nav-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 10px);
+  width: 210px;
+  max-width: calc(100vw - 36px);
+  padding: 8px;
+  border: 1px solid #dfbd7060;
+  border-radius: 14px;
+  background: #0d1422;
+  box-shadow: 0 16px 40px #0008;
+}
+.workspace-bar .account-nav-panel a,
+.account-nav-panel button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 12px;
+  min-height: 44px;
+  color: #f4f2ea;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+.account-nav-panel :is(a, button):hover {
+  background: #e7c87518;
+}
+.header-account-access :is(a, button, summary):focus-visible {
+  outline: 3px solid #f3d994;
+  outline-offset: 3px;
+}
+.account-nav-panel p {
+  color: #ffc5c5;
+  padding: 8px;
+  line-height: 1.5;
+}
+.account-nav-panel button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+.workspace-bar .account-nav-loading {
+  margin: 0;
+  color: #c6cedd;
+  font-size: 12px;
+}

@@ -7,6 +7,7 @@ import SiteFooter from "./SiteFooter";
 import "../styles/design-v2.css";
 import "../styles/accounts.css";
 import { useAuth } from "../accounts/AuthProvider";
+import AccountNavigation from "./AccountNavigation";
 
 const navItems = [
   { to: "/", label: "Home", icon: "⌂", end: true },
@@ -123,7 +124,6 @@ function Layout({ children }) {
         <nav aria-label="Main navigation">
           <ul className="menu">
             {[
-              ...navItems,
               {
                 to: user ? "/account" : "/login",
                 label:
@@ -131,9 +131,10 @@ function Layout({ children }) {
                     ? "Account"
                     : user
                       ? "My account"
-                      : "Sign in",
+                      : "Sign In",
                 icon: "○",
               },
+              ...navItems,
               { to: "/favorites", label: "Favorites", icon: "☆" },
               { to: "/history", label: "History", icon: "◷" },
             ].map(({ to, label, icon, end }) => (
@@ -172,9 +173,9 @@ function Layout({ children }) {
           <Link to="/">
             HGS <span>/</span> HUZAIFA TOOLS
           </Link>
-          <Link to="/all-tools">
-            Your next task, simplified <span aria-hidden="true">↗</span>
-          </Link>
+          <div className="header-account-access">
+            <AccountNavigation />
+          </div>
         </div>
         <main className="main" id="main-content" tabIndex={-1}>
           {children}
