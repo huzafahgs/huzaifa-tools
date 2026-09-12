@@ -18,6 +18,7 @@ function ToolPage() {
 
   const relatedTools = useMemo(() => {
     if (!tool) return [];
+    if (tool.related) return tool.related.map(slug => tools.find(entry => entry.slug === slug)).filter(Boolean);
     return tools
       .filter(
         (entry) => entry.category === tool.category && entry.slug !== tool.slug,
@@ -48,7 +49,7 @@ function ToolPage() {
           <span>HUZAIFA WORKSPACE</span>
         </div>
 
-        {tool.ai ? <AIToolSave slug={slug} /> : <ToolSave slug={slug} />}
+        {tool.ai ? <AIToolSave slug={slug} batch={tool.batch} /> : <ToolSave slug={slug} />}
         <Suspense
           fallback={
             <div className="tool-container">

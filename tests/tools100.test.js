@@ -17,9 +17,9 @@ async function fixture(widths, name='source.pdf') {
 }
 async function widths(blob) { return (await PDFDocument.load(await blob.arrayBuffer())).getPages().map(page => page.getWidth()); }
 
-test('100 existing tools plus 5 AI tools, 14 original additions and matching lazy registrations', () => {
-  assert.equal(tools.filter(t => !t.ai).length,100); assert.equal(tools.filter(t => t.ai).length,5);
-  assert.equal(tools.length,105); assert.equal(new Set(tools.map(t => t.slug)).size,105); assert.equal(additions.length,14);
+test('100 existing tools plus 15 AI tools, 14 original additions and matching lazy registrations', () => {
+  assert.equal(tools.filter(t => !t.ai).length,100); assert.equal(tools.filter(t => t.ai).length,15);
+  assert.equal(tools.length,115); assert.equal(new Set(tools.map(t => t.slug)).size,115); assert.equal(additions.length,14);
   const registry = readFileSync(new URL('../src/tools/index.js',import.meta.url),'utf8');
   for (const tool of tools) assert.ok(registry.includes(`registerTool("${tool.slug}"`),tool.slug);
   assert.ok(tools.every(tool => !/placeholder|coming soon/i.test(tool.name + tool.category)));

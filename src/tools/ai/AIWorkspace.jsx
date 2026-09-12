@@ -8,6 +8,7 @@ import "./ai.css";
 const LIMIT = 12000;
 const defaults = (tool) =>
   Object.fromEntries(tool.fields.map((f) => [f.key, f.values[0]]));
+const emptyDetails = tool => Object.fromEntries((tool.textFields || []).map(f => [f.key, '']));
 export default function AIWorkspace() {
   const { slug } = useParams();
   const { user } = useAuth();
@@ -15,7 +16,10 @@ export default function AIWorkspace() {
   return <Workspace key={`${slug}:${user?.id || 'guest'}`} user={user} tool={aiTools.find((t) => t.slug === slug)} />;
 }
 function Workspace({ tool, user }) {
+  const limit = tool.maxInput || LIMIT;
+  const minimum = tool.minInput || 20;
   const [text, setText] = useState("");
+  const [details, setDetails] = useState(() => emptyDetails(tool));
   const [options, setOptions] = useState(() => defaults(tool));
   const [output, setOutput] = useState("");
   const [busy, setBusy] = useState(false);
@@ -31,7 +35,7 @@ function Workspace({ tool, user }) {
     fetch("/api/ai", { signal: controller.signal, cache: "no-store" })
       .then((r) => (r.ok ? r.json() : Promise.reject()))
       .then((data) =>
-        setAvailability(data.configured ? "ready" : "unavailable"),
+        setAvailability(data.configured && (tool.batch !== 2 || data.batch2Ready) ? "ready" : "unavailable"),
       )
       .catch(() => {
         if (!controller.signal.aborted) setAvailability("unavailable");
@@ -41,7 +45,7 @@ function Workspace({ tool, user }) {
       active.current?.abort();
       active.current = null;
     };
-  }, []);
+  }, [tool.batch]);
   const clear = () => {
     active.current?.abort();
     active.current = null;
@@ -51,6 +55,7 @@ function Workspace({ tool, user }) {
     setError("");
     setNotice("");
     setOptions(defaults(tool));
+    setDetails(emptyDetails(tool));
     editor.current?.focus();
   };
   const generate = async (event) => {
@@ -58,13 +63,15 @@ function Workspace({ tool, user }) {
     if (active.current) return;
     setError("");
     setNotice("");
-    if (text.trim().length < 20 || text.length > LIMIT) {
+    if (text.trim().length < minimum || text.length > limit) {
       setError(
-        "Enter 20–12,000 characters with enough context for a useful result.",
+        `Enter ${minimum}–${limit.toLocaleString()} characters with enough context for a useful result.`,
       );
       editor.current?.focus();
       return;
     }
+    const invalidField = (tool.textFields || []).find(f => (f.required && !details[f.key]?.trim()) || details[f.key]?.length > f.maxLength);
+    if (invalidField) { setError(`Check ${invalidField.label.toLowerCase()} (maximum ${invalidField.maxLength} characters).`); document.getElementById(`ai-detail-${invalidField.key}`)?.focus(); return; }
     if (!user) {
       setError("Sign in with a confirmed account to generate.");
       return;
@@ -91,7 +98,7 @@ function Workspace({ tool, user }) {
           "Content-Type": "application/json",
           Authorization: `Bearer ${data.session.access_token}`,
         },
-        body: JSON.stringify({ tool: tool.slug, text, options }),
+        body: JSON.stringify({ tool: tool.slug, text, options, ...(tool.textFields ? { details } : {}) }),
         signal: controller.signal,
       });
       const dataOut = await response.json();
@@ -152,7 +159,7 @@ function Workspace({ tool, user }) {
     <section className="ai-workspace" aria-labelledby="ai-title">
       <header className="ai-hero">
         <div className="ai-orbit" aria-hidden="true">
-          <span>✦</span>
+          <span>{tool.icon}</span>
         </div>
         <p className="ai-eyebrow">HUZAIFA AI STUDIO · WORDS WITH PURPOSE</p>
         <h1 id="ai-title">{tool.name}</h1>
@@ -185,6 +192,7 @@ function Workspace({ tool, user }) {
               type="button"
               onClick={() => {
                 setText(tool.example);
+                setDetails({ ...emptyDetails(tool), ...tool.exampleDetails });
                 setNotice(
                   "Example loaded into the editor. Nothing has been sent.",
                 );
@@ -195,13 +203,19 @@ function Workspace({ tool, user }) {
               Try an example
             </button>
           </div>
+          {(tool.textFields || []).map(field => <label className="ai-detail" key={field.key} htmlFor={`ai-detail-${field.key}`}>
+            {field.label}{field.required ? ' *' : ''}
+            <input id={`ai-detail-${field.key}`} value={details[field.key]} disabled={busy} maxLength={field.maxLength} aria-required={field.required || undefined} aria-describedby={`ai-detail-help-${field.key} ai-privacy`} placeholder={field.placeholder || field.label} autoComplete="off" onChange={e => setDetails({ ...details, [field.key]: e.target.value })} />
+            <span className="ai-fineprint" id={`ai-detail-help-${field.key}`}>{field.required ? 'Required' : 'Optional'} · {details[field.key].length}/{field.maxLength} characters</span>
+          </label>)}
           <label htmlFor="ai-input">{tool.inputLabel}</label>
           <textarea
             ref={editor}
             id="ai-input"
             value={text}
             onChange={(e) => setText(e.target.value)}
-            maxLength={LIMIT}
+            maxLength={limit}
+            className={tool.code ? 'ai-code-input' : undefined}
             placeholder={tool.placeholder}
             aria-describedby="ai-input-count ai-privacy"
             disabled={busy}
@@ -209,7 +223,7 @@ function Workspace({ tool, user }) {
             spellCheck="false"
           />
           <p id="ai-input-count" className="ai-counter">
-            {text.length.toLocaleString()} / 12,000 characters · Minimum 20
+            {text.length.toLocaleString()} / {limit.toLocaleString()} characters · Minimum {minimum}
           </p>
           <div className="ai-options">
             {tool.fields.map((field) => (
@@ -244,7 +258,7 @@ function Workspace({ tool, user }) {
           </div>
           <p id="ai-privacy" className="ai-fineprint">
             Generating sends your text to our server and OpenAI. Do not include
-            passwords, tokens or confidential information. Prompts and results
+            passwords, tokens, private resume details or confidential code. Prompts and results
             are not saved in account history.{" "}
             <Link to="/privacy-policy">Data handling</Link>
           </p>
@@ -274,7 +288,7 @@ function Workspace({ tool, user }) {
                 <button
                   type="button"
                   onClick={() => {
-                    if (output.length > LIMIT - 100) {
+                    if (output.length > limit - 100) {
                       setNotice(
                         "This result is too long to refine here. Copy a shorter passage into the editor.",
                       );

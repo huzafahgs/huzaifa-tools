@@ -1,3 +1,4 @@
+import aiBatch2 from './aiBatch2.js';
 const tone = {
   key: "tone",
   label: "Tone",
@@ -207,6 +208,7 @@ const aiTools = [
       },
     ],
   },
+  ...aiBatch2,
 ].map((tool) => ({
   ...tool,
   category: "AI",

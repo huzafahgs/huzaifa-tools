@@ -3,21 +3,21 @@ import ToolSave from "./ToolSave";
 
 // The additive catalog migration can be applied independently of the web release.
 // Avoid failed cloud writes until this new slug exists; existing tools are untouched.
-export default function AIToolSave({ slug }) {
-  const [available, setAvailable] = useState(false);
+export default function AIToolSave({ slug, batch }) {
+  const [available, setAvailable] = useState(null);
   useEffect(() => {
     let active = true;
     fetch("/api/ai", { cache: "no-store" })
       .then((r) => (r.ok ? r.json() : null))
       .then((data) => {
-        if (active) setAvailable(data?.catalogReady === true);
+        if (active) setAvailable(data);
       })
       .catch(() => {});
     return () => {
       active = false;
     };
   }, []);
-  if (!available)
+  if (!(batch === 2 ? available?.batch2Ready : available?.catalogReady))
     return (
       <p className="tool-save">
         Saving and visit history for this new tool will be available when its

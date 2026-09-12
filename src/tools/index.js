@@ -8,6 +8,16 @@ registerTool("ai-writing-assistant", aiWorkspace);
 registerTool("ai-grammar-rewrite", aiWorkspace);
 registerTool("ai-email-generator", aiWorkspace);
 registerTool("ai-prompt-generator", aiWorkspace);
+registerTool("ai-paraphraser", aiWorkspace);
+registerTool("ai-blog-outline-generator", aiWorkspace);
+registerTool("ai-title-generator", aiWorkspace);
+registerTool("ai-social-caption-generator", aiWorkspace);
+registerTool("ai-product-description-generator", aiWorkspace);
+registerTool("ai-resume-bullet-generator", aiWorkspace);
+registerTool("ai-cover-letter-assistant", aiWorkspace);
+registerTool("ai-study-notes-generator", aiWorkspace);
+registerTool("ai-faq-generator", aiWorkspace);
+registerTool("ai-code-explainer", aiWorkspace);
 
 registerTool("pdf-merger", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFMerger }))));
 registerTool("pdf-splitter", lazyTool(() => import('./batch/PdfTools').then(m => ({ default:m.PDFSplitter }))));

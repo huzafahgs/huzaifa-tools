@@ -115,6 +115,7 @@
   color: #e7eaf1;
   margin: 0 0 9px;
 }
+.ai-workspace input,
 .ai-workspace textarea,
 .ai-workspace select {
   box-sizing: border-box;
@@ -138,6 +139,10 @@
   color: #9faabd;
   opacity: 1;
 }
+.ai-workspace .ai-detail { margin-bottom: 18px; }
+.ai-detail input { display: block; min-height: 44px; margin-top: 8px; font-size: 1rem; }
+.ai-detail .ai-fineprint { display: block; margin: 5px 0 0; }
+.ai-workspace .ai-code-input { font-family: ui-monospace, Consolas, monospace; tab-size: 2; }
 .ai-workspace select {
   margin-top: 8px;
   min-height: 46px;
@@ -171,7 +176,7 @@
   opacity: 0.55;
   cursor: not-allowed;
 }
-.ai-workspace :is(button, textarea, select, summary, a):focus-visible {
+.ai-workspace :is(button, input, textarea, select, summary, a):focus-visible {
   outline: 3px solid #f6d58a;
   outline-offset: 4px;
 }

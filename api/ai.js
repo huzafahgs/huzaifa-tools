@@ -9,7 +9,7 @@ export const config = { maxDuration: 60 };
 const ORIGIN = "https://ai-tools-by-huzaifa.vercel.app";
 const messages = {
   unavailable: "AI generation is not available yet. Please try again later.",
-  invalid: "Enter 20–12,000 characters and choose the available options.",
+  invalid: "Check the input length, required fields and available options.",
   auth: "Please sign in with a confirmed account to generate.",
   limited:
     "Request limit reached. Wait at least 30 seconds; daily limits reset at midnight UTC.",
@@ -40,7 +40,7 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
       key?.startsWith("sb_publishable_"),
     );
     if (req.method === "GET") {
-      let catalogReady = false;
+      let catalogReady = false, batch2Ready = false;
       if (
         /^https:\/\/[a-z0-9]+\.supabase\.co$/.test(url || "") &&
         key?.startsWith("sb_publishable_")
@@ -53,6 +53,12 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
             signal: AbortSignal.timeout(8000),
           });
           catalogReady = ready.ok && (await ready.json()) === true;
+          if (catalogReady) {
+            const batch2 = await request(`${url}/rest/v1/rpc/ai_batch2_ready`, {
+              method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body: '{}', signal: AbortSignal.timeout(3000),
+            });
+            batch2Ready = batch2.ok && (await batch2.json()) === true;
+          }
         } catch {
           /* Remain unavailable until configuration is healthy. */
         }
@@ -62,6 +68,7 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         .json({
           configured: configured && catalogReady,
           catalogReady,
+          batch2Ready,
           requiresSignIn: true,
         });
     }
@@ -111,6 +118,12 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
     };
     try {
       // Server verification, not a decoded or client-supplied user ID.
+      if (input.tool.batch === 2) {
+        const ready = await request(`${url}/rest/v1/rpc/ai_batch2_ready`, {
+          method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body: '{}', signal: AbortSignal.timeout(3000),
+        });
+        if (!ready.ok || await ready.json() !== true) return send(503, 'unavailable');
+      }
       const auth = await request(`${url}/auth/v1/user`, {
         headers,
         signal: AbortSignal.timeout(8000),
