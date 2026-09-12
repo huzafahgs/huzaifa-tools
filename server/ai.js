@@ -50,7 +50,7 @@ export function validateInput(body) {
   const fields = tool.textFields || [];
   if (typeof details !== 'object' || Array.isArray(details) || Object.keys(details).some(k => !fields.some(f => f.key === k))) return null;
   if (fields.some(f => (f.required && (typeof details[f.key] !== 'string' || !details[f.key].trim())) || (details[f.key] !== undefined && (typeof details[f.key] !== 'string' || details[f.key].length > f.maxLength)))) return null;
-  return { tool, text: body.text.trim(), options, details };
+  return { tool, text: tool.code ? body.text : body.text.trim(), options, details };
 }
 
 export function providerRequest({ tool, text, options, details = {} }) {

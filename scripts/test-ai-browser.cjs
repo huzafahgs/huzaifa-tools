@@ -6,6 +6,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { pathToFileURL } = require('node:url');
 const base = process.env.AI_TEST_BASE || 'http://127.0.0.1:4182';
+const viewports = process.env.AI_TEST_READINESS_ONLY ? [375] : [1440,375,320];
 (async () => {
  const { default: tools } = await import(pathToFileURL(path.join(__dirname,'../src/data/aiTools.js')));
  const { createHandler } = await import(pathToFileURL(path.join(__dirname,'../api/ai.js')));
@@ -15,7 +16,7 @@ const base = process.env.AI_TEST_BASE || 'http://127.0.0.1:4182';
  const jwt=[{alg:'HS256',typ:'JWT'},{sub:user.id,aud:'authenticated',exp:Math.floor(Date.now()/1000)+3600},'signature'].map(x=>Buffer.from(JSON.stringify(x)).toString('base64url')).join('.');
  const fixtureOutput='A clear fixture result for reviewing the user interface.\n<script>window.aiUnsafe=true</script>';
  const assertOK=(value,label)=>{assert.ok(value,label);checks++;};
- for (const width of (process.env.AI_TEST_READINESS_ONLY ? [375] : [1440,375,320])) {
+ for (const width of viewports) {
   const context=await browser.newContext({viewport:{width,height:950},reducedMotion:'reduce',permissions:['clipboard-read','clipboard-write']});
   const page=await context.newPage(); page.on('pageerror',e=>errors.push(e.message));
   let mode='success',calls=0, cloudWrites=[],favorites=[],history=[],lastPayload;
@@ -95,6 +96,6 @@ const base = process.env.AI_TEST_BASE || 'http://127.0.0.1:4182';
  const guest=await browser.newPage();await guest.route('**/api/ai',r=>r.fulfill({json:{configured:true,catalogReady:true}}));await guest.goto(base+'/ai-email-generator');await guest.getByRole('button',{name:'Draft email'}).waitFor();assertOK(await guest.getByRole('button',{name:'Draft email'}).isDisabled(),'guest cannot generate');
  await guest.goto(base+'/account');await guest.waitForURL('**/login');checks++;
  await guest.close();assert.deepEqual(errors,[]);await browser.close();
- fs.writeFileSync(path.join(process.env.AI_QA_OUTPUT||process.cwd(),'ai-browser-results.json'),JSON.stringify({checks,errors,viewports:[1440,375,320],provider:'fixture only; no live AI credential'},null,2));
+ fs.writeFileSync(path.join(process.env.AI_QA_OUTPUT||process.cwd(),'ai-browser-results.json'),JSON.stringify({checks,errors,viewports,provider:'fixture only; no live AI credential'},null,2));
  console.log(`PASS ${checks} browser checks; no uncaught errors. Provider/auth responses are isolated fixtures.`);
 })().catch(e=>{console.error(e);process.exit(1)});

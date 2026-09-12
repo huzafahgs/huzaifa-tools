@@ -7,6 +7,12 @@ import tools from '../src/data/aiTools.js';
 const env = { NODE_ENV: 'production', OPENAI_API_KEY: 'test-only-not-a-credential', VITE_SUPABASE_URL: 'https://test.supabase.co', VITE_SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_test' };
 const bodyFor = t => ({ tool: t.slug, text: t.example, options: Object.fromEntries(t.fields.map(f => [f.key, f.values[0]])), ...(t.textFields ? { details: t.exampleDetails } : {}) });
 const reqFor = () => ({ method: 'POST', headers: { origin: 'https://ai-tools-by-huzaifa.vercel.app', 'content-type': 'application/json', authorization: `Bearer ${'a'.repeat(40)}` }, body: bodyFor(tools[0]) });
+test('code explanation preserves leading indentation, newlines and trailing whitespace', () => {
+ const tool=tools.find(t=>t.slug==='ai-code-explainer');
+ const text='    if ready:\n        print("ready")\n\n';
+ const valid=validateInput({...bodyFor(tool),text});
+ assert.equal(providerRequest(valid).input[0].content[0].text,text);
+});
 const success = { status: 'completed', output: [{ type: 'message', content: [{ type: 'output_text', text: 'A reviewed test result.' }] }] };
 const reply = (status, data) => ({ ok: status < 300, status, json: async () => data });
 async function run(req = reqFor(), responses, override = env) {
