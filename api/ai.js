@@ -158,8 +158,23 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         signal: AbortSignal.timeout(35000),
       });
       if (!response.ok) {
-        // Status only: never log credentials, request content or provider bodies.
-        console.warn("AI provider HTTP failure", response.status);
+        // Sanitized category only: never log credentials, request content or provider bodies.
+        let category = "provider_error";
+        try {
+          const failure = await response.json();
+          const status = /^[A-Z_]{2,40}$/.test(failure?.error?.status || "")
+            ? failure.error.status
+            : "UNKNOWN";
+          const detail = String(failure?.error?.message || "").toLowerCase();
+          if (detail.includes("model") && detail.includes("not found"))
+            category = "model_not_found";
+          else if (detail.includes("api key")) category = "credential_rejected";
+          else if (detail.includes("not found")) category = "endpoint_not_found";
+          else category = status;
+        } catch {
+          /* Non-JSON failures remain a generic provider_error. */
+        }
+        console.warn("AI provider HTTP failure", response.status, category);
         return send(response.status === 429 ? 429 : 502, "provider");
       }
       const output = extractOutput(await response.json());
