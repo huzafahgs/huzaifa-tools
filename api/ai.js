@@ -156,10 +156,10 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         res.setHeader("Retry-After", "30");
         return send(429, "limited");
       }
-      const response = await request("https://generativelanguage.googleapis.com/v1beta/openai/chat/completions", {
+      const response = await request("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent", {
         method: "POST",
         headers: {
-          Authorization: `Bearer ${env.GEMINI_API_KEY}`,
+          "x-goog-api-key": env.GEMINI_API_KEY,
           "Content-Type": "application/json",
         },
         body: JSON.stringify(providerRequest(input)),

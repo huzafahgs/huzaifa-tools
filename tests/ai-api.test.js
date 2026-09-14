@@ -11,9 +11,9 @@ test('code explanation preserves leading indentation, newlines and trailing whit
  const tool=tools.find(t=>t.slug==='ai-code-explainer');
  const text='    if ready:\n        print("ready")\n\n';
  const valid=validateInput({...bodyFor(tool),text});
- assert.equal(providerRequest(valid).messages[1].content,text);
+ assert.equal(providerRequest(valid).contents[0].parts[0].text,text);
 });
-const success = { choices: [{ finish_reason: 'stop', message: { role: 'assistant', content: 'A reviewed test result.' } }] };
+const success = { candidates: [{ finishReason: 'STOP', content: { role: 'model', parts: [{ text: 'A reviewed test result.' }] } }] };
 const reply = (status, data) => ({ ok: status < 300, status, json: async () => data });
 async function run(req = reqFor(), responses, override = env) {
   responses ??= [...(tools.find(t=>t.slug===req.body?.tool)?.batch===2 ? [reply(200,true)] : []), reply(200, { id: 'verified', email_confirmed_at: '2026-01-01' }), reply(200, true), reply(200, success)];
@@ -28,10 +28,10 @@ test('fifteen allowlisted tools validate all supported options and use bounded n
       const body = bodyFor(tool); body.options[field.key] = value;
       const valid = validateInput(body); assert.ok(valid);
       const request = providerRequest(valid);
-      assert.equal(request.store, undefined); assert.equal(request.max_tokens, 2200); assert.equal(request.reasoning_effort, 'none');
-      assert.equal(request.model, 'gemini-2.5-flash-lite'); assert.ok(request.messages[1].content.startsWith(tool.example));
-      assert.ok(!request.messages[0].content.includes('undefined')); assert.ok(request.messages[0].content.includes(JSON.stringify(body.options)));
-      for(const value of Object.values(body.details || {})) assert.ok(request.messages[1].content.includes(value));
+      assert.equal(request.generationConfig.maxOutputTokens, 2200); assert.equal(request.generationConfig.thinkingConfig.thinkingBudget, 0);
+      assert.ok(request.contents[0].parts[0].text.startsWith(tool.example));
+      assert.ok(!request.systemInstruction.parts[0].text.includes('undefined')); assert.ok(request.systemInstruction.parts[0].text.includes(JSON.stringify(body.options)));
+      for(const value of Object.values(body.details || {})) assert.ok(request.contents[0].parts[0].text.includes(value));
     }
   }
 });
@@ -61,7 +61,7 @@ test('verified confirmed user and atomic quota precede fixed provider request', 
     assert.equal(out.statusCode, 200); assert.equal(out.body.output, 'A reviewed test result.');
     const offset=tool.batch===2?1:0;
     assert.ok(out.calls[offset].url.endsWith('/auth/v1/user')); assert.ok(out.calls[offset+1].url.endsWith('/consume_ai_quota'));
-    assert.equal(out.calls[offset+2].url, 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions');
+    assert.equal(out.calls[offset+2].url, 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent');
     assert.equal(out.calls[offset+1].options.body, '{}'); assert.equal(out.headers['Cache-Control'], 'no-store');
     assert.ok(!JSON.stringify(out.body).includes(env.GEMINI_API_KEY));
   }
@@ -83,14 +83,14 @@ test('unconfirmed users, auth failures, quota failures and outages never call pr
     [[reply(401,{})],401], [[reply(200,{id:'a'})],401], [[reply(200,{id:'a',email_confirmed_at:'yes',is_anonymous:true})],401],
     [[reply(200,{id:'a',email_confirmed_at:'yes'}),reply(200,false)],429],
     [[reply(200,{id:'a',email_confirmed_at:'yes'}),reply(404,{})],503], [[new Error('private error')],503],
-  ]) { const out=await run(reqFor(),responses); assert.equal(out.statusCode,status); assert.ok(out.calls.every(c=>!c.url.includes('openai'))); assert.ok(!JSON.stringify(out.body).includes('private error')); }
+  ]) { const out=await run(reqFor(),responses); assert.equal(out.statusCode,status); assert.ok(out.calls.every(c=>!c.url.includes(':generateContent'))); assert.ok(!JSON.stringify(out.body).includes('private error')); }
 });
 test('provider errors, truncated, refused and empty responses are safe failures', async () => {
-  for (const provider of [reply(429,{message:'raw secret'}),reply(500,{message:'raw secret'}),reply(200,{choices:[{finish_reason:'length',message:{role:'assistant',content:'partial'}}]}),reply(200,{choices:[]}),reply(200,{choices:[{finish_reason:'content_filter',message:{role:'assistant',content:''}}]})]) {
+  for (const provider of [reply(429,{message:'raw secret'}),reply(500,{message:'raw secret'}),reply(200,{candidates:[{finishReason:'MAX_TOKENS',content:{role:'model',parts:[{text:'partial'}]}}]}),reply(200,{candidates:[]}),reply(200,{promptFeedback:{blockReason:'SAFETY'}})]) {
     const out=await run(reqFor(),[reply(200,{id:'a',email_confirmed_at:'yes'}),reply(200,true),provider]);
     assert.ok(out.statusCode>=400); assert.ok(!JSON.stringify(out.body).includes('raw secret'));
   }
-  assert.equal(extractOutput({choices:[{finish_reason:'stop',message:{role:'assistant',content:'x'.repeat(20001)}}]}),null);
+  assert.equal(extractOutput({candidates:[{finishReason:'STOP',content:{role:'model',parts:[{text:'x'.repeat(20001)}]}}]}),null);
 });
 test('every Batch 2 tool shares auth, quota and safe provider failure rules', async () => {
  for(const tool of tools.filter(t=>t.batch===2)) {
@@ -104,9 +104,9 @@ test('every Batch 2 tool shares auth, quota and safe provider failure rules', as
 });
 
 test('Gemini parser rejects malformed, tool-call and non-final choices', () => {
- for (const data of [null, {}, {choices:{}}, {choices:[null]}, {choices:[{},{}]},
-  ...['length','content_filter','tool_calls',null].map(finish_reason=>({choices:[{finish_reason,message:{role:'assistant',content:'partial'}}]})),
-  ...[{role:'user',content:'bad'}, {role:'assistant',content:[]}, {role:'assistant',content:' '}, {role:'assistant',content:'text',refusal:'blocked'}, {role:'assistant',content:'text',tool_calls:[{}]}].map(message=>({choices:[{finish_reason:'stop',message}]}))
+ for (const data of [null, {}, {candidates:{}}, {candidates:[null]}, {candidates:[{},{}]},
+  ...['MAX_TOKENS','SAFETY','OTHER',null].map(finishReason=>({candidates:[{finishReason,content:{role:'model',parts:[{text:'partial'}]}}]})),
+  ...[{role:'user',parts:[{text:'bad'}]}, {role:'model',parts:[]}, {role:'model',parts:[{text:' '}]}, {role:'model',parts:[{text:'text',functionCall:{}}]}].map(content=>({candidates:[{finishReason:'STOP',content}]}))
  ]) assert.equal(extractOutput(data), null);
 });
 test('OpenAI key alone cannot enable Gemini; Gemini key only goes to fixed Google endpoint', async () => {
@@ -114,7 +114,8 @@ test('OpenAI key alone cannot enable Gemini; Gemini key only goes to fixed Googl
  assert.equal(disabled.statusCode,503); assert.equal(disabled.calls.length,0);
  const out=await run();
  const provider=out.calls.at(-1);
- assert.equal(provider.options.headers.Authorization,'Bearer '+env.GEMINI_API_KEY);
+ assert.equal(provider.options.headers['x-goog-api-key'],env.GEMINI_API_KEY);
+ assert.equal(provider.options.headers.Authorization,undefined);
  assert.ok(out.calls.slice(0,-1).every(c=>!JSON.stringify(c.options).includes(env.GEMINI_API_KEY)));
- assert.equal(JSON.parse(provider.options.body).messages.length,2);
+ assert.equal(JSON.parse(provider.options.body).contents.length,1);
 });

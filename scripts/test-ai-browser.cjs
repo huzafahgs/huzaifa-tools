@@ -42,7 +42,7 @@ const viewports = process.env.AI_TEST_READINESS_ONLY ? [375] : [1440,375,320];
     if(url.endsWith('/user'))return{ok:true,json:async()=>user};
     if(url.includes('consume_ai_quota'))return{ok:true,json:async()=>mode!=='limited'};
     if(mode==='error')return{ok:false,status:500,json:async()=>({error:'PRIVATE PROVIDER DETAIL'})};
-    return{ok:true,json:async()=>({choices:[{finish_reason:'stop',message:{role:'assistant',content:fixtureOutput}}]})};
+    return{ok:true,json:async()=>({candidates:[{finishReason:'STOP',content:{role:'model',parts:[{text:fixtureOutput}]}}]})};
    }});
    const res={headers:{},setHeader(k,v){this.headers[k]=v},status(v){this.statusCode=v;return this},json(v){this.body=v;return this}};
    await handler({method:request.method(),headers:request.headers(),body:request.postData()},res);
