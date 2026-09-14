@@ -174,8 +174,14 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
             ? failure.error.status
             : "UNKNOWN";
           const detail = String(failure?.error?.message || "").toLowerCase();
-          if (detail.includes("model") && detail.includes("not found"))
-            category = "model_not_found";
+          if (
+            detail.includes("model") &&
+            (detail.includes("not found") ||
+              detail.includes("does not exist") ||
+              detail.includes("not supported") ||
+              detail.includes("unsupported"))
+          )
+            category = "model_unavailable";
           else if (detail.includes("api key")) category = "credential_rejected";
           else if (detail.includes("not found")) category = "endpoint_not_found";
           else category = status;
