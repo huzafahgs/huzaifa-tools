@@ -42,7 +42,7 @@ To disable generation, remove `GEMINI_API_KEY` from Production and redeploy. Lea
 
 The existing implementation used native fetch with the OpenAI Responses API, not an SDK. Google's OpenAI-compatible Chat Completions endpoint was evaluated first, but returned an empty HTTP 404 in live production for this project. The native GenerateContent REST endpoint is the smaller reliable adapter for a fetch-based implementation. Only the provider request/response adapter and secret name change; all fifteen task instructions, auth, quotas, timeouts and routes stay shared. No SDK or dependency added; no OpenAI fallback or caller-controlled provider/model/URL.
 
-Exact model: **gemini-3.5-flash-lite**. Thinking is disabled with `thinkingBudget: 0`; output is capped with `maxOutputTokens: 2200`. Accept only one model text candidate ending with `STOP`; reject blocked, incomplete, function-call, executable-code, empty or oversized results. No search or code execution is enabled.
+Exact model: **gemini-3.5-flash-lite**. Thinking uses the model's lowest supported setting, `thinkingLevel: "minimal"`; output is capped with `maxOutputTokens: 2200`. Accept only one model text candidate ending with `STOP`; reject blocked, incomplete, function-call, executable-code, empty or oversized results. No search or code execution is enabled.
 
 Google lists a free tier and low-cost paid tier for this model. Actual project availability and provider rate limits must be verified in Google AI Studio; free service is not guaranteed. Application quotas remain 10/account/day, 30 seconds between requests and 200/day globally. Google limits can be lower. Paid usage follows the Google project's billing configuration; this migration does not enable billing or buy anything.
 

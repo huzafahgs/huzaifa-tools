@@ -63,7 +63,7 @@ export function providerRequest({ tool, text, options, details = {} }) {
     contents: [{ role: "user", parts: [{ text: userText }] }],
     generationConfig: {
       maxOutputTokens: 2200,
-      thinkingConfig: { thinkingBudget: 0 },
+      thinkingConfig: { thinkingLevel: "minimal" },
     },
   };
 }

@@ -28,7 +28,7 @@ test('fifteen allowlisted tools validate all supported options and use bounded n
       const body = bodyFor(tool); body.options[field.key] = value;
       const valid = validateInput(body); assert.ok(valid);
       const request = providerRequest(valid);
-      assert.equal(request.generationConfig.maxOutputTokens, 2200); assert.equal(request.generationConfig.thinkingConfig.thinkingBudget, 0);
+      assert.equal(request.generationConfig.maxOutputTokens, 2200); assert.equal(request.generationConfig.thinkingConfig.thinkingLevel, 'minimal');
       assert.ok(request.contents[0].parts[0].text.startsWith(tool.example));
       assert.ok(!request.systemInstruction.parts[0].text.includes('undefined')); assert.ok(request.systemInstruction.parts[0].text.includes(JSON.stringify(body.options)));
       for(const value of Object.values(body.details || {})) assert.ok(request.contents[0].parts[0].text.includes(value));
