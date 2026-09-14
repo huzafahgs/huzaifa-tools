@@ -35,7 +35,7 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
     const url = env.VITE_SUPABASE_URL;
     const key = env.VITE_SUPABASE_PUBLISHABLE_KEY;
     const configured = Boolean(
-      env.OPENAI_API_KEY &&
+      env.GEMINI_API_KEY &&
       /^https:\/\/[a-z0-9]+\.supabase\.co$/.test(url || "") &&
       key?.startsWith("sb_publishable_"),
     );
@@ -148,10 +148,10 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         res.setHeader("Retry-After", "30");
         return send(429, "limited");
       }
-      const response = await request("https://api.openai.com/v1/responses", {
+      const response = await request("https://generativelanguage.googleapis.com/v1beta/openai/chat/completions", {
         method: "POST",
         headers: {
-          Authorization: `Bearer ${env.OPENAI_API_KEY}`,
+          Authorization: `Bearer ${env.GEMINI_API_KEY}`,
           "Content-Type": "application/json",
         },
         body: JSON.stringify(providerRequest(input)),

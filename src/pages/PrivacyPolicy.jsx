@@ -6,7 +6,7 @@ export default function PrivacyPolicy() {
       <section className="trust-page">
         <header className="page-header">
           <h1>Privacy policy</h1>
-          <p>Updated September 11, 2026</p>
+          <p>Updated September 13, 2026</p>
         </header>
         <div className="trust-panel">
           <p>
@@ -25,12 +25,14 @@ export default function PrivacyPolicy() {
           <h2>AI generation</h2>
           <p>
             When available, AI writing tools send the text and options you submit
-            through our Vercel server to OpenAI. Drafts and results stay in the
+            through our Vercel server to Google’s Gemini API. Drafts and results stay in the
             editor's memory and are not saved in account history or local draft
             storage. We do not log prompt or result content in the application.
-            We request no stored Responses API state using store: false; this
-            does not eliminate provider security or abuse-monitoring retention.
-            See <a href="https://platform.openai.com/docs/guides/your-data">OpenAI's API data controls</a>.
+            Google processes submitted content under its Gemini API terms.
+            Free-tier content may be used to improve Google products; paid-tier
+            data handling differs. Provider retention and abuse monitoring can
+            still apply; we do not promise zero retention.
+            See <a href="https://ai.google.dev/gemini-api/terms">Google’s Gemini API terms</a>.
             Do not submit confidential information, passwords or private tokens.
           </p>
           <p>

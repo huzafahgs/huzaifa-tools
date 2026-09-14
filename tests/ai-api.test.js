@@ -4,16 +4,16 @@ import { createHandler } from '../api/ai.js';
 import { validateInput, providerRequest, extractOutput } from '../server/ai.js';
 import tools from '../src/data/aiTools.js';
 
-const env = { NODE_ENV: 'production', OPENAI_API_KEY: 'test-only-not-a-credential', VITE_SUPABASE_URL: 'https://test.supabase.co', VITE_SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_test' };
+const env = { NODE_ENV: 'production', GEMINI_API_KEY: 'test-only-not-a-credential', VITE_SUPABASE_URL: 'https://test.supabase.co', VITE_SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_test' };
 const bodyFor = t => ({ tool: t.slug, text: t.example, options: Object.fromEntries(t.fields.map(f => [f.key, f.values[0]])), ...(t.textFields ? { details: t.exampleDetails } : {}) });
 const reqFor = () => ({ method: 'POST', headers: { origin: 'https://ai-tools-by-huzaifa.vercel.app', 'content-type': 'application/json', authorization: `Bearer ${'a'.repeat(40)}` }, body: bodyFor(tools[0]) });
 test('code explanation preserves leading indentation, newlines and trailing whitespace', () => {
  const tool=tools.find(t=>t.slug==='ai-code-explainer');
  const text='    if ready:\n        print("ready")\n\n';
  const valid=validateInput({...bodyFor(tool),text});
- assert.equal(providerRequest(valid).input[0].content[0].text,text);
+ assert.equal(providerRequest(valid).messages[1].content,text);
 });
-const success = { status: 'completed', output: [{ type: 'message', content: [{ type: 'output_text', text: 'A reviewed test result.' }] }] };
+const success = { choices: [{ finish_reason: 'stop', message: { role: 'assistant', content: 'A reviewed test result.' } }] };
 const reply = (status, data) => ({ ok: status < 300, status, json: async () => data });
 async function run(req = reqFor(), responses, override = env) {
   responses ??= [...(tools.find(t=>t.slug===req.body?.tool)?.batch===2 ? [reply(200,true)] : []), reply(200, { id: 'verified', email_confirmed_at: '2026-01-01' }), reply(200, true), reply(200, success)];
@@ -28,10 +28,10 @@ test('fifteen allowlisted tools validate all supported options and use bounded n
       const body = bodyFor(tool); body.options[field.key] = value;
       const valid = validateInput(body); assert.ok(valid);
       const request = providerRequest(valid);
-      assert.equal(request.store, false); assert.equal(request.max_output_tokens, 2200);
-      assert.equal(request.model, 'gpt-4.1-mini'); assert.ok(request.input[0].content[0].text.startsWith(tool.example));
-      assert.ok(!request.instructions.includes('undefined')); assert.ok(request.instructions.includes(JSON.stringify(body.options)));
-      for(const value of Object.values(body.details || {})) assert.ok(request.input[0].content[0].text.includes(value));
+      assert.equal(request.store, undefined); assert.equal(request.max_tokens, 2200); assert.equal(request.reasoning_effort, 'none');
+      assert.equal(request.model, 'gemini-2.5-flash-lite'); assert.ok(request.messages[1].content.startsWith(tool.example));
+      assert.ok(!request.messages[0].content.includes('undefined')); assert.ok(request.messages[0].content.includes(JSON.stringify(body.options)));
+      for(const value of Object.values(body.details || {})) assert.ok(request.messages[1].content.includes(value));
     }
   }
 });
@@ -51,7 +51,7 @@ test('no configuration and missing migration fail closed', async () => {
   const out = await run(reqFor(), [], {}); assert.equal(out.statusCode, 503); assert.equal(out.calls.length, 0);
   const check = await run({ method: 'GET', headers: {} }, [reply(404, {})]); assert.equal(check.body.configured, false);
   const ready = await run({ method: 'GET', headers: {} }, [reply(200, true),reply(200,true)]); assert.equal(ready.body.configured, true); assert.equal(ready.body.catalogReady, true); assert.equal(ready.body.batch2Ready,true);
-  const noKey = await run({ method: 'GET', headers: {} }, [reply(200, true),reply(404,{})], { ...env, OPENAI_API_KEY: '' }); assert.equal(noKey.body.configured, false); assert.equal(noKey.body.catalogReady, true); assert.equal(noKey.body.batch2Ready,false);
+  const noKey = await run({ method: 'GET', headers: {} }, [reply(200, true),reply(404,{})], { ...env, GEMINI_API_KEY: '' }); assert.equal(noKey.body.configured, false); assert.equal(noKey.body.catalogReady, true); assert.equal(noKey.body.batch2Ready,false);
   const partial = await run({ method:'GET', headers:{} },[reply(200,true),new Error('offline')]); assert.equal(partial.body.configured,true); assert.equal(partial.body.batch2Ready,false);
   const req=reqFor(); req.body=bodyFor(tools.find(t=>t.batch===2)); const missing=await run(req,[reply(404,{})]); assert.equal(missing.statusCode,503); assert.equal(missing.calls.length,1);
 });
@@ -61,9 +61,9 @@ test('verified confirmed user and atomic quota precede fixed provider request', 
     assert.equal(out.statusCode, 200); assert.equal(out.body.output, 'A reviewed test result.');
     const offset=tool.batch===2?1:0;
     assert.ok(out.calls[offset].url.endsWith('/auth/v1/user')); assert.ok(out.calls[offset+1].url.endsWith('/consume_ai_quota'));
-    assert.equal(out.calls[offset+2].url, 'https://api.openai.com/v1/responses');
+    assert.equal(out.calls[offset+2].url, 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions');
     assert.equal(out.calls[offset+1].options.body, '{}'); assert.equal(out.headers['Cache-Control'], 'no-store');
-    assert.ok(!JSON.stringify(out.body).includes(env.OPENAI_API_KEY));
+    assert.ok(!JSON.stringify(out.body).includes(env.GEMINI_API_KEY));
   }
 });
 test('per-tool limits, required context, types and unknown fields are enforced before upstream calls', async () => {
@@ -86,11 +86,11 @@ test('unconfirmed users, auth failures, quota failures and outages never call pr
   ]) { const out=await run(reqFor(),responses); assert.equal(out.statusCode,status); assert.ok(out.calls.every(c=>!c.url.includes('openai'))); assert.ok(!JSON.stringify(out.body).includes('private error')); }
 });
 test('provider errors, truncated, refused and empty responses are safe failures', async () => {
-  for (const provider of [reply(429,{message:'raw secret'}),reply(500,{message:'raw secret'}),reply(200,{...success,status:'incomplete'}),reply(200,{status:'completed',output:[]}),reply(200,{status:'completed',output:[{type:'message',content:[{type:'refusal',refusal:'no'}]}]})]) {
+  for (const provider of [reply(429,{message:'raw secret'}),reply(500,{message:'raw secret'}),reply(200,{choices:[{finish_reason:'length',message:{role:'assistant',content:'partial'}}]}),reply(200,{choices:[]}),reply(200,{choices:[{finish_reason:'content_filter',message:{role:'assistant',content:''}}]})]) {
     const out=await run(reqFor(),[reply(200,{id:'a',email_confirmed_at:'yes'}),reply(200,true),provider]);
     assert.ok(out.statusCode>=400); assert.ok(!JSON.stringify(out.body).includes('raw secret'));
   }
-  assert.equal(extractOutput({ ...success, output:[{type:'message',content:[{type:'output_text',text:'x'.repeat(20001)}]}] }),null);
+  assert.equal(extractOutput({choices:[{finish_reason:'stop',message:{role:'assistant',content:'x'.repeat(20001)}}]}),null);
 });
 test('every Batch 2 tool shares auth, quota and safe provider failure rules', async () => {
  for(const tool of tools.filter(t=>t.batch===2)) {
@@ -101,4 +101,20 @@ test('every Batch 2 tool shares auth, quota and safe provider failure rules', as
     [[reply(200,true),reply(200,{id:'a',email_confirmed_at:'yes'}),reply(200,true),reply(500,{message:'PRIVATE'})],502,4],
   ]){const out=await run(req,responses);assert.equal(out.statusCode,status);assert.equal(out.calls.length,expectedCalls);assert.ok(!JSON.stringify(out.body).includes('PRIVATE'));}
  }
+});
+
+test('Gemini parser rejects malformed, tool-call and non-final choices', () => {
+ for (const data of [null, {}, {choices:{}}, {choices:[null]}, {choices:[{},{}]},
+  ...['length','content_filter','tool_calls',null].map(finish_reason=>({choices:[{finish_reason,message:{role:'assistant',content:'partial'}}]})),
+  ...[{role:'user',content:'bad'}, {role:'assistant',content:[]}, {role:'assistant',content:' '}, {role:'assistant',content:'text',refusal:'blocked'}, {role:'assistant',content:'text',tool_calls:[{}]}].map(message=>({choices:[{finish_reason:'stop',message}]}))
+ ]) assert.equal(extractOutput(data), null);
+});
+test('OpenAI key alone cannot enable Gemini; Gemini key only goes to fixed Google endpoint', async () => {
+ const disabled=await run(reqFor(),[],{...env,GEMINI_API_KEY:'',OPENAI_API_KEY:'unused-old-key'});
+ assert.equal(disabled.statusCode,503); assert.equal(disabled.calls.length,0);
+ const out=await run();
+ const provider=out.calls.at(-1);
+ assert.equal(provider.options.headers.Authorization,'Bearer '+env.GEMINI_API_KEY);
+ assert.ok(out.calls.slice(0,-1).every(c=>!JSON.stringify(c.options).includes(env.GEMINI_API_KEY)));
+ assert.equal(JSON.parse(provider.options.body).messages.length,2);
 });
