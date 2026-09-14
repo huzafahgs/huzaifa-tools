@@ -122,17 +122,22 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         const ready = await request(`${url}/rest/v1/rpc/ai_batch2_ready`, {
           method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body: '{}', signal: AbortSignal.timeout(3000),
         });
-        if (!ready.ok || await ready.json() !== true) return send(503, 'unavailable');
+        if (!ready.ok || await ready.json() !== true) {
+          console.warn("AI Batch 2 readiness failure", ready.status);
+          return send(503, 'unavailable');
+        }
       }
       const auth = await request(`${url}/auth/v1/user`, {
         headers,
         signal: AbortSignal.timeout(8000),
       });
-      if (!auth.ok)
+      if (!auth.ok) {
+        console.warn("AI account verification failure", auth.status);
         return send(
           auth.status >= 500 ? 503 : 401,
           auth.status >= 500 ? "unavailable" : "auth",
         );
+      }
       const user = await auth.json();
       if (!user.id || !user.email_confirmed_at || user.is_anonymous)
         return send(401, "auth");
@@ -143,7 +148,10 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         body: "{}",
         signal: AbortSignal.timeout(8000),
       });
-      if (!quota.ok) return send(503, "unavailable");
+      if (!quota.ok) {
+        console.warn("AI quota service failure", quota.status);
+        return send(503, "unavailable");
+      }
       if ((await quota.json()) !== true) {
         res.setHeader("Retry-After", "30");
         return send(429, "limited");
