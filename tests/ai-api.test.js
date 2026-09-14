@@ -61,7 +61,7 @@ test('verified confirmed user and atomic quota precede fixed provider request', 
     assert.equal(out.statusCode, 200); assert.equal(out.body.output, 'A reviewed test result.');
     const offset=tool.batch===2?1:0;
     assert.ok(out.calls[offset].url.endsWith('/auth/v1/user')); assert.ok(out.calls[offset+1].url.endsWith('/consume_ai_quota'));
-    assert.equal(out.calls[offset+2].url, 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent');
+    assert.equal(out.calls[offset+2].url, 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent');
     assert.equal(out.calls[offset+1].options.body, '{}'); assert.equal(out.headers['Cache-Control'], 'no-store');
     assert.ok(!JSON.stringify(out.body).includes(env.GEMINI_API_KEY));
   }
