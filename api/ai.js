@@ -157,10 +157,16 @@ export function createHandler({ env = process.env, request = fetch } = {}) {
         body: JSON.stringify(providerRequest(input)),
         signal: AbortSignal.timeout(35000),
       });
-      if (!response.ok)
+      if (!response.ok) {
+        // Status only: never log credentials, request content or provider bodies.
+        console.warn("AI provider HTTP failure", response.status);
         return send(response.status === 429 ? 429 : 502, "provider");
+      }
       const output = extractOutput(await response.json());
-      if (!output) return send(502, "incomplete");
+      if (!output) {
+        console.warn("AI provider returned no complete text result");
+        return send(502, "incomplete");
+      }
       return res.status(200).json({ output });
     } catch {
       // Never log the request, provider response, credentials or generated content.
