@@ -146,9 +146,9 @@ export const toolGuideTopics = [
   {
     toolSlug: 'image-rotate-flip', articleSlug: 'rotate-flip-image-without-confusion',
     wordCount: 1356,
-    title: 'Rotate or Flip an Image: Choose the Correct Orientation',
-    metaTitle: 'Rotate or Flip an Image: Orientation Guide | Huzaifa Tools',
-    metaDescription: 'Fix sideways or mirrored images with quarter turns and flips. Understand operation order, swapped dimensions, output formats and orientation metadata.',
+    title: 'Rotate or Flip an Image Online: Fix Sideways and Mirrored Photos',
+    metaTitle: 'Rotate or Flip an Image Online | Huzaifa Tools',
+    metaDescription: 'Rotate an image 90, 180 or 270 degrees, or flip it horizontally or vertically. Learn which correction fixes sideways, upside-down or mirrored photos.',
     primaryKeyword: 'rotate or flip an image',
     searchIntent: 'Correct sideways, upside-down or mirrored image orientation with predictable transforms.',
     secondaryTopics: ['clockwise image rotation', 'horizontal mirror image', 'flip before rotation', 'image orientation EXIF'],

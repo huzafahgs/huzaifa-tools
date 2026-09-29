@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.webp";
 export default function HeroOrbit() {
   return (
     <div className="hero-orbit" aria-label="Explore a few useful tools">

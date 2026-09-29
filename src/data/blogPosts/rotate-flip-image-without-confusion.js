@@ -1,4 +1,4 @@
-export default `A sideways scan and a mirrored photograph can look equally wrong, but they need different corrections. Rotation turns the image around its center. A flip reflects it across an axis. Applying the wrong operation can make a page upright while leaving its text backward.
+export default `To fix a sideways or upside-down image, rotate it. To fix a mirrored image with backward text, flip it. Rotation turns the image around its center, while a flip reflects it across an axis. Applying the wrong operation can make a page upright while leaving its text backward.
 
 [Image Rotate & Flip](/image-rotate-flip) provides clockwise quarter-turn rotations and horizontal or vertical flips. It creates a new image with a preview and download. The goal is a predictable orientation change, not automatic detection of how a camera or scanner intended the image to look.
 

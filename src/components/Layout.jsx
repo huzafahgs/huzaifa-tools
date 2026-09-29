@@ -1,7 +1,7 @@
 import { Link, NavLink, useLocation } from "react-router-dom";
 import { useEffect, useRef, useState } from "react";
 import "../App.css";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.webp";
 import LiveWallpaper from "./LiveWallpaper";
 import SiteFooter from "./SiteFooter";
 import "../styles/design-v2.css";
