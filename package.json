@@ -8,6 +8,7 @@
     "dev": "vite",
     "prebuild": "node scripts/generate-sitemap.cjs",
     "build": "vite build",
+    "postbuild": "node scripts/generate-static-meta.cjs",
     "lint": "oxlint",
     "preview": "vite preview"
   },

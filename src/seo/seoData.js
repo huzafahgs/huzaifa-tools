@@ -1,12 +1,14 @@
-import tools from "../toolsData";
-import { getBlogBySlug } from "../data/blogs";
-import logoAsset from "../assets/logo.png";
+import tools from "../toolsData.js";
+import { getBlogBySlug } from "../data/blogs.js";
 
-const SITE_URL = import.meta.env.VITE_SITE_URL || "https://ai-tools-by-huzaifa.vercel.app";
+const SITE_URL =
+  import.meta.env?.VITE_SITE_URL ||
+  (typeof process !== "undefined" ? process.env.VITE_SITE_URL : "") ||
+  "https://ai-tools-by-huzaifa.vercel.app";
 const TOOL_COUNT = tools.length;
 const DEFAULT_TITLE = `Huzaifa Tools – Free Online Utilities`;
 const DEFAULT_DESCRIPTION = `Explore ${TOOL_COUNT} Huzaifa Tools for documents, text, calculations and AI writing. AI generation requires sign-in and service availability.`;
-const DEFAULT_IMAGE = new URL(logoAsset, SITE_URL).href;
+const DEFAULT_IMAGE = `${SITE_URL}/logo.png`;
 const INDEXABLE_ROBOTS = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
 const NOINDEX_ROBOTS = "noindex, follow";
 

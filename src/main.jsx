@@ -5,12 +5,12 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./index.css";
 import App from "./App.jsx";
 import ToolPage from "./pages/ToolPage.jsx";
-import Blog from "./pages/Blog.jsx";
-import BlogPost from "./pages/BlogPost.jsx";
 import AuthProvider from "./accounts/AuthProvider";
 import LibraryProvider from "./accounts/LibraryProvider";
 const Accounts = lazy(() => import("./pages/Accounts"));
 const SavedTools = lazy(() => import("./pages/SavedTools"));
+const Blog = lazy(() => import("./pages/Blog"));
+const BlogPost = lazy(() => import("./pages/BlogPost"));
 
 import Pricing from "./pages/Pricing.jsx";
 import Contact from "./pages/Contact.jsx";

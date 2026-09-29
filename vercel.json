@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "cleanUrls": true,
     "builds": [
         {
             "src": "api/ai.js",
@@ -20,10 +21,6 @@
         },
         {
             "handle": "filesystem"
-        },
-        {
-            "src": "/(.*)",
-            "dest": "/index.html"
         }
     ]
 }
