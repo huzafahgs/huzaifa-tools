@@ -18,6 +18,8 @@ Avoid delivering larger images than necessary. Resizing images to the screen siz
 
 Use the browser network panel to sort requests by transferred size. Identify whether a slow first view is waiting on an image, font, script, or server response. Start with a single high-impact asset, keep test conditions similar, and repeat the measurement. If the image is already small, further compression may have little effect. Reserve its layout space and avoid loading several hidden carousel images at high priority. Record what changed so you can undo a visually poor optimization.
 
+For mobile, compare the largest visible image at the narrow viewport rather than assuming the desktop export is appropriate. Keep the original dimensions and the exported byte size in your notes, then recheck the real page after deployment. A good result is one that remains readable while transferring no more pixels or bytes than the layout needs. Test a representative page on a throttled connection and watch for layout shifts, but treat one laboratory score as evidence for that test—not a guarantee of search ranking or every visitor's experience.
+
 ## Continue the workflow
 
 For a complete export-and-check process, see the [practical compression guide](/blog/image-compression-guide-2026).

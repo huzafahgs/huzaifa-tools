@@ -20,7 +20,11 @@ For an illustrative calculation, replacing a 900 KB image with a 300 KB image sa
 
 Use descriptive filenames and alt text that explains the image in its context. Avoid lists of keywords. Put relevant explanatory copy near the image, and use a caption when it adds information that the picture cannot communicate alone.
 
-Follow the [image SEO checklist](/blog/image-seo-guide) for editorial checks. Internal links should help readers complete the next task; unrelated links inserted solely for SEO make an article harder to use.
+For an informative image, describe the subject and the detail that matters to the surrounding text. For an image that acts as a link, describe the destination or action. Decorative images normally need empty alt text so screen readers do not hear repeated filler. If an image contains a chart or important words, put the essential meaning in nearby text as well; alt text should not be a hidden keyword list.
+
+Check the published page at the intended viewport. The image should have a stable display area, a useful source URL, and a size appropriate for the largest expected rendering. Responsive markup can prevent a phone from downloading a desktop-sized asset, but it does not fix a slow script, font, server response, or third-party request.
+
+Internal links should help readers complete the next task; unrelated links inserted solely for SEO make an article harder to use.
 
 ## Common mistakes
 

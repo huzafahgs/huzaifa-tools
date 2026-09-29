@@ -1,6 +1,6 @@
 import expandedGuides from './expandedToolGuides.js';
 import toolGuides from './toolGuideSeries.js';
-const blogs = [
+const allBlogs = [
   ...toolGuides,
   ...expandedGuides,
   {
@@ -523,6 +523,14 @@ const blogs = [
     faq: [],
   },
 ];
+
+const RETIRED_BLOG_SLUGS = new Set([
+  "image-optimization-for-google",
+  "image-seo-guide",
+  "reduce-website-loading-time",
+]);
+
+const blogs = allBlogs.filter((blog) => !RETIRED_BLOG_SLUGS.has(blog.slug));
 
 export function getBlogBySlug(slug) {
   return blogs.find((blog) => blog.slug === slug);
