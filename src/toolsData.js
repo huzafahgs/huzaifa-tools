@@ -617,6 +617,14 @@ const tools = [
     icon: "🏃",
     description: "Calculate running pace, time, and speed.",
     category: "Health"
+  },
+  {
+    name: "Zakat Calculator",
+    slug: "zakat-calculator",
+    icon: "☾",
+    description: "Estimate Zakat with a selectable gold or silver nisab and transparent 2.5% method.",
+    category: "Islamic",
+    related: ["percentage-calculator", "currency-converter", "budget-calculator"]
   }
 ];
 

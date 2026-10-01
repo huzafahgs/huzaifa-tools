@@ -10,7 +10,8 @@ const help = {
  "qr-code-generator": { steps: ["Enter the text or destination URL.", "Generate the code, then scan it with another device to verify the result."], note: "Generation sends your input to api.qrserver.com. Avoid sensitive information. Your browser may open the image instead of saving it because it is hosted on another domain." },
  "jwt-decoder": { steps: ["Paste a token only if it is safe to inspect on this device.", "Review decoded claims and expiry fields."], note: "Decoding is not signature verification and does not prove that a token is authentic." },
  "currency-converter": { steps: ["Enter an amount and select the source and destination currencies.", "Review the displayed rate and converted amount."], note: "Verify rates with your provider before a transaction. Fees, spreads, and rate updates can change the amount you receive." },
- "password-generator": { steps: ["Choose length and the character options required by the destination service.", "Generate a password and store it in a password manager."], note: "Use a unique password for each account. Avoid sharing generated passwords in screenshots or messages." }
+ "password-generator": { steps: ["Choose length and the character options required by the destination service.", "Generate a password and store it in a password manager."], note: "Use a unique password for each account. Avoid sharing generated passwords in screenshots or messages." },
+ "zakat-calculator": { steps: ["Choose a gold or silver nisab and enter a current, verified per-gram price.", "Enter zakatable assets and only liabilities your trusted method permits you to deduct.", "Confirm the lunar-year condition when it applies, then review the transparent threshold and estimate."], note: "This is an educational estimate, not a religious ruling. Standards differ on nisab choice, jewellery, debts, investments, and other details; consult a qualified scholar for your circumstances." }
 };
 const categories = {
  Text: "Check how whitespace, punctuation, and non-Latin characters are handled before using the output in another application.",
@@ -20,7 +21,8 @@ const categories = {
  Security: "Understand what the output verifies before relying on it. Avoid entering live secrets on shared devices.",
  Developer: "Validate the output against a small known example and keep the original before using it in a project.",
  Calculator: "Check units, input ranges, and rounding against a known example before relying on a result.",
- SEO: "Review generated output against your actual pages and settings. Metadata alone cannot guarantee indexing or rankings."
+ SEO: "Review generated output against your actual pages and settings. Metadata alone cannot guarantee indexing or rankings.",
+ Islamic: "Review the stated method and assumptions. Religious rulings and circumstances can differ, so use qualified guidance for decisions."
 };
 export function getToolHelp(tool) {
  const content = tool.help || help[tool.slug] || { note: categories[tool.category] || "Check the options and review the output against your intended use before saving it." };

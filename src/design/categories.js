@@ -11,6 +11,7 @@ export const categoryDesign = {
   Finance: { tone: "precision", mark: "%", label: "Financial estimates" },
   Business: { tone: "precision", mark: "↗", label: "Business calculations" },
   Health: { tone: "canvas", mark: "+", label: "Health estimates" },
+  Islamic: { tone: "secure", mark: "☾", label: "Islamic tools" },
 };
 export const getCategoryDesign = (category) =>
   categoryDesign[category] || {

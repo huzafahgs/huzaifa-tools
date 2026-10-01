@@ -151,6 +151,52 @@
   box-shadow: 0 0 0 3px rgba(255, 215, 0, 0.14);
 }
 
+.tool-guidance {
+  color: #b8bfd0;
+  line-height: 1.65;
+  margin: -6px 0 22px;
+}
+
+.tool-check-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 10px 0 24px;
+  padding: 16px;
+  border: 1px solid #26304a;
+  border-radius: 10px;
+  background: #0c1022;
+  color: #e7e9ef;
+  line-height: 1.5;
+}
+
+.tool-check-row input {
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+  accent-color: gold;
+  flex: 0 0 auto;
+}
+
+.tool-method-note {
+  margin-top: 28px;
+  padding: 22px;
+  border-left: 3px solid gold;
+  border-radius: 8px;
+  background: rgba(255, 215, 0, 0.055);
+  color: #c8cedc;
+  line-height: 1.7;
+}
+
+.tool-method-note h2 {
+  color: white;
+  margin-top: 0;
+}
+
+.tool-method-note a {
+  color: gold;
+}
+
 /* Buttons */
 .tool-button {
   padding: 15px 30px;
