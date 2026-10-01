@@ -1,0 +1,109 @@
+name: HGS Social Agent
+
+on:
+  schedule:
+    # 18:00 Pakistan time (UTC+5). GitHub may delay scheduled runs during load.
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: hgs-social-agent-daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  distribute:
+    if: github.repository == 'huzafahgs/huzaifa-tools' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      SOCIAL_STATE_DIR: social-state
+      SOCIAL_SITE_URL: https://ai-tools-by-huzaifa.vercel.app
+      SOCIAL_IMAGE_BASE_URL: ${{ vars.SOCIAL_IMAGE_BASE_URL || format('https://raw.githubusercontent.com/{0}/social-agent-ledger/assets', github.repository) }}
+      SOCIAL_PUBLISHING_ENABLED: ${{ vars.SOCIAL_PUBLISHING_ENABLED || 'false' }}
+      META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+      META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+      META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+      META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+      META_IG_ACCESS_TOKEN: ${{ secrets.META_IG_ACCESS_TOKEN }}
+    steps:
+      - name: Check out Huzaifa Tools
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Restore the separate audit ledger branch
+        run: |
+          mkdir -p "$SOCIAL_STATE_DIR"
+          if git fetch --no-tags origin social-agent-ledger; then
+            for file in state.json history.jsonl today.json today.md latest-report.md latest-result.json; do
+              git show origin/social-agent-ledger:data/social-agent/$file > "$SOCIAL_STATE_DIR/$file" 2>/dev/null || true
+            done
+            mkdir -p "$SOCIAL_STATE_DIR/assets"
+            git archive origin/social-agent-ledger data/social-agent/assets 2>/dev/null | tar -x -C "$RUNNER_TEMP" || true
+            if [ -d "$RUNNER_TEMP/data/social-agent/assets" ]; then cp -a "$RUNNER_TEMP/data/social-agent/assets/." "$SOCIAL_STATE_DIR/assets/"; fi
+          fi
+          test -s "$SOCIAL_STATE_DIR/state.json" || printf '{"nextIndex":0,"lastReservedDate":null}\n' > "$SOCIAL_STATE_DIR/state.json"
+          test -f "$SOCIAL_STATE_DIR/history.jsonl" || : > "$SOCIAL_STATE_DIR/history.jsonl"
+
+      - name: Collect available metrics from the previous publication
+        run: node scripts/social-agent.mjs metrics
+
+      - name: Select a new real Huzaifa Tools topic
+        run: node scripts/social-agent.mjs plan
+
+      - name: Create the post image
+        run: |
+          if ! python3 -c 'from PIL import Image' >/dev/null 2>&1; then
+            python3 -m venv "$RUNNER_TEMP/social-venv"
+            "$RUNNER_TEMP/social-venv/bin/pip" install Pillow
+            "$RUNNER_TEMP/social-venv/bin/python" scripts/social-agent-card.py "$SOCIAL_STATE_DIR"
+          else
+            python3 scripts/social-agent-card.py "$SOCIAL_STATE_DIR"
+          fi
+
+      - name: Save the daily reservation before any platform call
+        run: bash scripts/social-agent-persist.sh "$SOCIAL_STATE_DIR"
+
+      - name: Record a one-time publishing intent
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        run: node scripts/social-agent.mjs begin
+
+      - name: Persist the one-time intent before publishing
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        run: bash scripts/social-agent-persist.sh "$SOCIAL_STATE_DIR"
+
+      - name: Publish through authorized official APIs
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        continue-on-error: true
+        run: node scripts/social-agent.mjs publish
+
+      - name: Record result and metrics
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        run: bash scripts/social-agent-persist.sh "$SOCIAL_STATE_DIR"
+
+      - name: Publish concise status to this workflow run
+        if: always()
+        run: |
+          if [ "$SOCIAL_PUBLISHING_ENABLED" = "true" ] && [ -f "$SOCIAL_STATE_DIR/latest-report.md" ]; then
+            cat "$SOCIAL_STATE_DIR/latest-report.md" >> "$GITHUB_STEP_SUMMARY"
+          elif [ -f "$SOCIAL_STATE_DIR/today.md" ]; then
+            cat "$SOCIAL_STATE_DIR/today.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Keep a downloadable run snapshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hgs-social-agent-${{ github.run_id }}
+          path: |
+            social-state/today.md
+            social-state/today.json
+            social-state/latest-report.md
+            social-state/latest-result.json
+            social-state/assets/*.jpg
+          if-no-files-found: ignore
+          retention-days: 90
