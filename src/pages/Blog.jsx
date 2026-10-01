@@ -3,6 +3,9 @@ import { Link } from "react-router-dom";
 import Layout from "../components/Layout";
 import { getAllBlogs, getBlogCategories } from "../data/blogs";
 
+const displayImage = (image) =>
+  image === "/logo.png" ? "/logo-display.webp" : image;
+
 function Blog() {
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState("All");
@@ -117,7 +120,7 @@ function Blog() {
           {filteredBlogs.map((blog) => (
             <article key={blog.slug} className="blog-card">
               <img
-                src={blog.featuredImage}
+                src={displayImage(blog.featuredImage)}
                 alt=""
                 width="320"
                 height="160"

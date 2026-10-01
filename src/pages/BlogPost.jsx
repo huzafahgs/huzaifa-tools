@@ -9,6 +9,9 @@ import Layout from "../components/Layout";
 import { getAllBlogs, getBlogBySlug } from "../data/blogs";
 import ReadingProgress from "../components/ReadingProgress";
 
+const displayImage = (image) =>
+  image === "/logo.png" ? "/logo-display.webp" : image;
+
 function BlogPost() {
   const { slug } = useParams();
   const blog = useMemo(() => getBlogBySlug(slug), [slug]);
@@ -143,7 +146,7 @@ function BlogPost() {
           </div>
 
           <img
-            src={blog.featuredImage}
+            src={displayImage(blog.featuredImage)}
             alt=""
             width="800"
             height="200"
@@ -278,7 +281,7 @@ function BlogPost() {
               {relatedPosts.map((item) => (
                 <article key={item.slug} className="blog-card">
                   <img
-                    src={item.featuredImage}
+                    src={displayImage(item.featuredImage)}
                     alt=""
                     width="320"
                     height="160"
