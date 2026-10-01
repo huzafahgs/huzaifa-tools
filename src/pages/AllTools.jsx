@@ -6,11 +6,13 @@ import { useSearchParams } from "react-router-dom";
 
 function AllTools() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [params] = useSearchParams();
-  const initialCategory = params.get("category");
-  const [selectedCategory, setSelectedCategory] = useState(
-    tools.some((t) => t.category === initialCategory) ? initialCategory : "All",
-  );
+  const [params, setParams] = useSearchParams();
+  const requestedCategory = params.get("category");
+  const selectedCategory = tools.some(
+    (tool) => tool.category === requestedCategory,
+  )
+    ? requestedCategory
+    : "All";
 
   const categories = useMemo(
     () => ["All", ...new Set(tools.map((tool) => tool.category))],
@@ -70,7 +72,9 @@ function AllTools() {
               type="button"
               className={`category-pill${selectedCategory === category ? " category-pill--active" : ""}`}
               aria-pressed={selectedCategory === category}
-              onClick={() => setSelectedCategory(category)}
+              onClick={() =>
+                setParams(category === "All" ? {} : { category })
+              }
             >
               <span>{category}</span>
               <span className="category-count">
@@ -104,7 +108,7 @@ function AllTools() {
               className="empty-state-action"
               onClick={() => {
                 setSearchQuery("");
-                setSelectedCategory("All");
+                setParams({});
               }}
             >
               Reset filters

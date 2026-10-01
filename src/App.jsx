@@ -11,13 +11,26 @@ import { getAllBlogs } from "./data/blogs";
 
 const featured = [
   "pdf-merger",
+  "pdf-splitter",
+  "image-compressor",
   "image-resizer",
   "json-formatter",
   "word-counter",
-  "password-generator",
   "percentage-calculator",
+  "emi-calculator",
+  "qr-code-generator",
 ].map((s) => tools.find((t) => t.slug === s));
-const areas = ["PDF", "Image", "Developer", "Text", "Security", "Calculator", "AI"];
+const areas = [
+  "PDF",
+  "Image",
+  "Developer",
+  "Text",
+  "Calculator",
+  "Converter",
+  "Generator",
+  "Security",
+  "AI",
+];
 export default function App() {
   const [query, setQuery] = useState("");
   const matches = tools.filter((t) =>
