@@ -215,7 +215,7 @@ const aiTools = [
   ai: true,
   help: {
     steps: tool.tips,
-    note: "AI can make mistakes. Inputs are sent through our server to OpenAI when you generate; they are not saved in account history. Never submit secrets or confidential material.",
+    note: "AI can make mistakes. Inputs are sent through our server to Google Gemini when you generate; they are not saved in account history. Never submit secrets or confidential material.",
   },
 }));
 

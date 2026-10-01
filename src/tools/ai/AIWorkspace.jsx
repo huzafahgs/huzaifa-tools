@@ -257,7 +257,7 @@ function Workspace({ tool, user }) {
             </button>
           </div>
           <p id="ai-privacy" className="ai-fineprint">
-            Generating sends your text to our server and OpenAI. Do not include
+            Generating sends your text to our server and Google Gemini. Do not include
             passwords, tokens, private resume details or confidential code. Prompts and results
             are not saved in account history.{" "}
             <Link to="/privacy-policy">Data handling</Link>
@@ -336,8 +336,8 @@ function Workspace({ tool, user }) {
           <p>
             The editor keeps drafts in memory, not saved browser history or
             account history. When you generate, your text goes through our
-            server to OpenAI. We request no stored Responses API state; provider
-            security retention may still apply. Usage protection stores your
+            server to Google Gemini. We request no provider conversation state;
+            provider retention and abuse-monitoring policies may still apply. Usage protection stores your
             account ID, request count and timestamps, never your text. Clearing
             the editor cannot retract a request already sent.
           </p>
