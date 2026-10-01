@@ -19,6 +19,8 @@ const lessonDetails = {
     hook: 'Writing to a word limit?',
     problem: 'Check a draft against a word limit',
     action: 'Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking.',
+    demoVoiceover: 'Paste a short draft into Word Counter.',
+    checkVoiceover: 'Compare the count with your limit. Check what the form includes.',
     takeaway: 'Check whether your form counts headings, notes, or references too.',
     title: "Check a Draft's Word Count | Word Counter #Shorts",
   },
@@ -26,6 +28,8 @@ const lessonDetails = {
     hook: 'Checking a character limit?',
     problem: 'Check a caption or message against a character limit',
     action: 'Paste a short, non-private sample into Character Counter and compare the displayed totals with the limit you need to meet.',
+    demoVoiceover: 'Paste a short sample to see its character totals.',
+    checkVoiceover: 'Check whether spaces and line breaks count.',
     takeaway: 'Check whether the destination counts spaces and line breaks.',
     title: 'Check a Character Limit | Character Counter #Shorts',
   },
@@ -33,6 +37,8 @@ const lessonDetails = {
     hook: 'Need consistent heading capitalization?',
     problem: 'Convert a heading without retyping it',
     action: 'Paste a short sample heading into Text Case Converter and choose the case that matches your style guide.',
+    demoVoiceover: 'Choose the case your style guide asks for.',
+    checkVoiceover: 'Review names and acronyms after converting.',
     takeaway: 'Review names and acronyms because a converter cannot know your preferred styling.',
     title: 'Convert Heading Case | Text Case Converter #Shorts',
   },
@@ -40,18 +46,12 @@ const lessonDetails = {
     hook: 'Hard to scan a compact JSON snippet?',
     problem: 'Format a small JSON sample so its structure is easier to inspect',
     action: 'Paste a harmless sample into JSON Formatter and run it; show the tool’s real formatted output and validation feedback.',
+    demoVoiceover: 'Run a harmless JSON sample through the formatter.',
+    checkVoiceover: 'Inspect the real formatting and validation feedback.',
     takeaway: 'Formatting helps inspection; it does not confirm that data is correct for your application.',
     title: 'Format a JSON Snippet | JSON Formatter #Shorts',
   },
 };
-const intros = [
-  (tool) => `Need to ${tool.description.replace(/\.$/, '').toLowerCase()}?`,
-  (tool) => `A small task can still interrupt your workflow: ${tool.description.replace(/\.$/, '').toLowerCase()}.`,
-  (tool) => `Quick, practical tip: ${tool.description.replace(/\.$/, '').toLowerCase()}.`,
-  (tool) => `Try this workflow when you need to ${tool.description.replace(/\.$/, '').toLowerCase()}.`,
-  (tool) => `Working with text, files, or numbers? ${tool.description.replace(/\.$/, '').toLowerCase()}.`,
-];
-
 function ensureState() {
   fs.mkdirSync(stateDir, { recursive: true });
   if (!fs.existsSync(statePath)) fs.writeFileSync(statePath, JSON.stringify({ nextIndex: 0, lastReservedDate: null }, null, 2) + '\n');
@@ -73,14 +73,7 @@ function utmLink(tool, day, source = 'social') {
   return url.toString();
 }
 
-function stableChoice(seed, index, max) {
-  let hash = 2166136261;
-  for (const char of seed) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
-  return Math.abs((hash + index * 31) >>> 0) % max;
-}
-
-function buildPlan(tool, rotationIndex) {
-  const intro = intros[stableChoice(`${today}:${tool.slug}`, rotationIndex, intros.length)](tool);
+function buildPlan(tool) {
   const link = utmLink(tool, today);
   const facebookLink = utmLink(tool, today, 'facebook');
   const instagramLink = utmLink(tool, today, 'instagram');
@@ -100,18 +93,19 @@ function buildPlan(tool, rotationIndex) {
     hook: `Need to ${task}?`,
     problem: task,
     action: `Open ${tool.name}, try a small, harmless example, and watch the real result on screen.`,
+    demoVoiceover: `Try one small example in ${tool.name}.`,
+    checkVoiceover: 'Pause on its actual output and review it before use.',
     takeaway: usefulNote,
   };
-  const body = `${intro}\n\n${lesson.action} ${lesson.takeaway}`;
   const facebookMessage = `Quick walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry it: ${facebookLink}\n\nWhich everyday tool task should we explain next?\n\n${facebookTags.join(' ')}`;
   const instagramCaption = `A quick, practical walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry the tool: ${instagramLink}\n\nFollow for more short, useful tool lessons. ${instagramTags.join(' ')}`;
   const youtubeTitle = (lesson.title || `${tool.name}: how to ${task} #Shorts`).slice(0, 95);
   const youtubeDescription = `A quick walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry it: ${youtubeLink}\n\nFollow for more practical tool walkthroughs.\n\n${youtubeTags.join(' ')}`;
   const shortScript = [
     { seconds: '0–3', visual: `Open with the everyday problem: “${lesson.hook}” Keep the tool name off-screen for the first beat.`, voiceover: `${lesson.hook} Here is a quick walkthrough.` },
-    { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. ${lesson.action}`, voiceover: lesson.action },
-    { seconds: '8–16', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: `Pause on the actual result so viewers can follow. ${lesson.takeaway}` },
-    { seconds: '16–21', visual: 'Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.', voiceover: 'Check the result before you use it in your work.' },
+    { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. ${lesson.action}`, voiceover: lesson.demoVoiceover },
+    { seconds: '8–16', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: lesson.checkVoiceover },
+    { seconds: '16–21', visual: 'Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.', voiceover: 'Confirm the result meets your task’s requirements.' },
     { seconds: '21–25', visual: 'End card: Huzaifa Tools, the tool name, and a small “link in caption / description” note.', voiceover: 'Follow for more practical walkthroughs. The tool link is in the post.' },
   ];
   const postId = `${today}-${tool.slug}`;
@@ -235,7 +229,7 @@ function planCommand() {
   }
   const idx = Number(priorState.nextIndex || 0) % siteTools.length;
   const tool = siteTools[idx];
-  const plan = buildPlan(tool, idx);
+  const plan = buildPlan(tool);
   const reservation = { type: 'reservation', date: today, plan, platforms: ['facebook', 'instagram'], status: 'reserved' };
   logEvent(reservation);
   priorState.nextIndex = (idx + 1) % siteTools.length;
