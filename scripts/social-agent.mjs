@@ -119,6 +119,7 @@ function buildPlan(tool, rotationIndex) {
     id: postId,
     date: today,
     tool: { name: tool.name, slug: tool.slug, category: tool.category, description: tool.description },
+    lesson: { hook: lesson.hook, problem: lesson.problem, action: lesson.action, takeaway: lesson.takeaway },
     landingPage: link,
     facebook: { title: tool.name, message: facebookMessage, keywords, hashtags: facebookTags, link: facebookLink },
     instagram: { caption: instagramCaption, keywords, hashtags: instagramTags, imagePath: `assets/${postId}.jpg` },
