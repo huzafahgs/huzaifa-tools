@@ -100,7 +100,7 @@ function buildPlan(tool, rotationIndex) {
     hook: `Need to ${task}?`,
     problem: task,
     action: `Open ${tool.name}, try a small, harmless example, and watch the real result on screen.`,
-    takeaway: 'Check the output before using it for an important task.',
+    takeaway: usefulNote,
   };
   const body = `${intro}\n\n${lesson.action} ${lesson.takeaway}`;
   const facebookMessage = `Quick walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry it: ${facebookLink}\n\nWhich everyday tool task should we explain next?\n\n${facebookTags.join(' ')}`;
