@@ -55,20 +55,28 @@ function buildPlan(tool, rotationIndex) {
   const facebookLink = utmLink(tool, today, 'facebook');
   const instagramLink = utmLink(tool, today, 'instagram');
   const youtubeLink = utmLink(tool, today, 'youtube');
-  const tags = ['#HuzaifaTools', '#FreeOnlineTools', `#${tool.category?.replace(/[^a-z\d]/gi, '') || 'Productivity'}`];
+  const categoryTag = `#${tool.category?.replace(/[^a-z\d]/gi, '') || 'Productivity'}`;
+  const facebookTags = ['#HuzaifaTools', categoryTag, '#QuickTutorial'];
+  const instagramTags = ['#HuzaifaTools', categoryTag, '#PracticalTips', '#ToolTutorial'];
+  const youtubeTags = ['#Shorts', '#HuzaifaTools', categoryTag];
   const keywords = [tool.name, tool.category || 'online tools', 'Huzaifa Tools', 'how to', 'tutorial'];
   const usefulNote = tool.category === 'Security'
     ? 'Use it for ordinary work only; never paste passwords, private keys, or confidential data into tools you do not trust.'
     : tool.category === 'Calculator'
       ? 'Check the inputs and assumptions before using a result for a real financial, health, or other important decision.'
       : `Check the result before using it in a final document, project, or decision.`;
-  const body = `${intro}\n\nOpen ${tool.name}, try it with a small example, then review the output. ${usefulNote}`;
-  const caption = `${body}\n\nTry it: ${instagramLink}\n\n${tags.join(' ')}`;
+  const task = tool.description.replace(/\.$/, '').toLowerCase();
+  const body = `${intro}\\n\\nUse ${tool.name} to ${task}. Try a small example and check the real output before using it.`;
+  const facebookMessage = `Quick walkthrough: ${tool.name} can ${task}. Try a small example, then check what the tool actually returns.\\n\\nTry it: ${facebookLink}\\n\\nWhich everyday tool task should we explain next?\\n\\n${facebookTags.join(' ')}`;
+  const instagramCaption = `A quick, practical walkthrough for ${task}. Watch the real input and output, then check the result yourself.\\n\\nTry the tool: ${instagramLink}\\n\\nFollow for more short, useful tool lessons. ${instagramTags.join(' ')}`;
+  const youtubeTitle = `${tool.name}: how to ${task} #Shorts`.slice(0, 95);
+  const youtubeDescription = `A quick walkthrough of ${tool.name}: ${task}. The demo should show a real input and the tool's actual output.\\n\\nTry it: ${youtubeLink}\\n\\nFollow for more practical tool walkthroughs.\\n\\n${youtubeTags.join(' ')}`;
   const shortScript = [
-    { seconds: '0–3', visual: `On-screen question: “Need to ${tool.description.replace(/\.$/, '').toLowerCase()}?”`, voiceover: 'Here is a quick way to get started.' },
-    { seconds: '3–9', visual: `Show the Huzaifa Tools ${tool.name} page and enter a harmless sample.`, voiceover: `Open ${tool.name} on Huzaifa Tools and enter a small example.` },
-    { seconds: '9–15', visual: 'Show the result, then pause so the viewer can read it.', voiceover: `${tool.description} Check the output before relying on it.` },
-    { seconds: '15–20', visual: 'End card with the tool name and the tracked landing-page URL.', voiceover: 'Find the link in this post.' },
+    { seconds: '0–3', visual: `Open with the everyday problem: “Need to ${task}?” Keep the tool name off-screen for the first beat.`, voiceover: `Need to ${task}? Here is a quick walkthrough.` },
+    { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. Enter a small, harmless example that fits the tool.`, voiceover: `Start with a small example in ${tool.name}.` },
+    { seconds: '8–16', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: `The tool is for ${task}. Pause on the actual result so viewers can follow.` },
+    { seconds: '16–21', visual: 'Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.', voiceover: 'Check the result before you use it in your work.' },
+    { seconds: '21–25', visual: 'End card: Huzaifa Tools, the tool name, and a small “link in caption / description” note.', voiceover: 'Follow for more practical walkthroughs. The tool link is in the post.' },
   ];
   const postId = `${today}-${tool.slug}`;
   return {
@@ -76,12 +84,12 @@ function buildPlan(tool, rotationIndex) {
     date: today,
     tool: { name: tool.name, slug: tool.slug, category: tool.category, description: tool.description },
     landingPage: link,
-    facebook: { title: tool.name, message: `${body}\n\nTry it: ${facebookLink}\n\n${tags.join(' ')}`, keywords, hashtags: tags, link: facebookLink },
-    instagram: { caption, keywords, hashtags: tags, imagePath: `assets/${postId}.jpg` },
+    facebook: { title: tool.name, message: facebookMessage, keywords, hashtags: facebookTags, link: facebookLink },
+    instagram: { caption: instagramCaption, keywords, hashtags: instagramTags, imagePath: `assets/${postId}.jpg` },
     youtube: {
       status: 'script_only',
-      title: `${tool.name}: a quick practical walkthrough #Shorts`,
-      description: `${body}\n\n${youtubeLink}\n\n${tags.join(' ')}`,
+      title: youtubeTitle,
+      description: youtubeDescription,
       keywords,
       shortVideoScript: shortScript,
     },
@@ -202,8 +210,8 @@ function planCommand() {
 
 async function publishCommand() {
   ensureState();
-  if (process.env.SOCIAL_PUBLISHING_ENABLED !== 'true') {
-    console.log('Publishing is disabled (SOCIAL_PUBLISHING_ENABLED is not true).');
+  if (process.env.SOCIAL_PUBLISHING_ENABLED !== 'true' || process.env.SOCIAL_PREVIEW_REVIEWED !== 'true') {
+    console.log('Publishing remains locked until both SOCIAL_PUBLISHING_ENABLED and SOCIAL_PREVIEW_REVIEWED are true.');
     logEvent({ type: 'run', date: today, status: 'dry_run', reason: 'Publishing kill switch is off.' });
     return;
   }
@@ -235,8 +243,8 @@ async function publishCommand() {
 
 function beginCommand() {
   ensureState();
-  if (process.env.SOCIAL_PUBLISHING_ENABLED !== 'true') {
-    console.log('Publishing disabled; leaving today as a preview only.');
+  if (process.env.SOCIAL_PUBLISHING_ENABLED !== 'true' || process.env.SOCIAL_PREVIEW_REVIEWED !== 'true') {
+    console.log('Publishing remains locked; leaving today as a preview only.');
     return;
   }
   const history = readHistory();
