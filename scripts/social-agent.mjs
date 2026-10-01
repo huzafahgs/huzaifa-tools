@@ -66,11 +66,11 @@ function buildPlan(tool, rotationIndex) {
       ? 'Check the inputs and assumptions before using a result for a real financial, health, or other important decision.'
       : `Check the result before using it in a final document, project, or decision.`;
   const task = tool.description.replace(/\.$/, '').toLowerCase();
-  const body = `${intro}\\n\\nUse ${tool.name} to ${task}. Try a small example and check the real output before using it.`;
-  const facebookMessage = `Quick walkthrough: ${tool.name} can ${task}. Try a small example, then check what the tool actually returns.\\n\\nTry it: ${facebookLink}\\n\\nWhich everyday tool task should we explain next?\\n\\n${facebookTags.join(' ')}`;
-  const instagramCaption = `A quick, practical walkthrough for ${task}. Watch the real input and output, then check the result yourself.\\n\\nTry the tool: ${instagramLink}\\n\\nFollow for more short, useful tool lessons. ${instagramTags.join(' ')}`;
+  const body = `${intro}\n\nUse ${tool.name} to ${task}. Try a small example and check the real output before using it.`;
+  const facebookMessage = `Quick walkthrough: ${tool.name} can ${task}. Try a small example, then check what the tool actually returns.\n\nTry it: ${facebookLink}\n\nWhich everyday tool task should we explain next?\n\n${facebookTags.join(' ')}`;
+  const instagramCaption = `A quick, practical walkthrough for ${task}. Watch the real input and output, then check the result yourself.\n\nTry the tool: ${instagramLink}\n\nFollow for more short, useful tool lessons. ${instagramTags.join(' ')}`;
   const youtubeTitle = `${tool.name}: how to ${task} #Shorts`.slice(0, 95);
-  const youtubeDescription = `A quick walkthrough of ${tool.name}: ${task}. The demo should show a real input and the tool's actual output.\\n\\nTry it: ${youtubeLink}\\n\\nFollow for more practical tool walkthroughs.\\n\\n${youtubeTags.join(' ')}`;
+  const youtubeDescription = `A quick walkthrough of ${tool.name}: ${task}. The demo should show a real input and the tool's actual output.\n\nTry it: ${youtubeLink}\n\nFollow for more practical tool walkthroughs.\n\n${youtubeTags.join(' ')}`;
   const shortScript = [
     { seconds: '0–3', visual: `Open with the everyday problem: “Need to ${task}?” Keep the tool name off-screen for the first beat.`, voiceover: `Need to ${task}? Here is a quick walkthrough.` },
     { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. Enter a small, harmless example that fits the tool.`, voiceover: `Start with a small example in ${tool.name}.` },
