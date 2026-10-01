@@ -45,19 +45,31 @@ def wrap(text, font, max_width):
         lines.append(current)
     return lines
 
+lesson = plan.get("lesson", {})
+draw.text((104, 258), "A QUICK, PRACTICAL WALKTHROUGH", fill=gold, font=ImageFont.truetype(body_path, 25))
 y = 350
 for line in wrap(tool["name"], title_font, 850):
     draw.text((104, y), line, font=title_font, fill=white)
     y += 86
-y += 35
-for line in wrap(tool["description"], body_font, 820):
+y += 24
+for line in wrap(lesson.get("problem", tool["description"]), body_font, 820):
     draw.text((104, y), line, font=body_font, fill=muted)
     y += 53
 
-draw.rounded_rectangle((104, 900, W - 104, 1010), radius=22, fill="#241D0F", outline=gold, width=2)
-draw.text((145, 931), "Try a small example. Review the result.", font=small_font, fill=white)
-draw.text((104, 1116), "Free utilities for work, study & development", font=small_font, fill=muted)
-draw.text((104, 1178), "ai-tools-by-huzaifa.vercel.app", font=small_font, fill=gold)
-draw.text((104, 1254), "Check the output before relying on it.", font=small_font, fill="#8E897F")
+y += 48
+draw.text((104, y), "TRY THIS", fill=gold, font=ImageFont.truetype(body_path, 25))
+y += 46
+for line in wrap(lesson.get("action", "Try a small, harmless example and review the result."), small_font, 820):
+    draw.text((104, y), line, font=small_font, fill=white)
+    y += 39
+y += 12
+for line in wrap(lesson.get("takeaway", "Check the output before using it."), small_font, 820):
+    draw.text((104, y), line, font=small_font, fill=muted)
+    y += 39
+
+cta_y = max(y + 28, 1015)
+draw.rounded_rectangle((104, cta_y, W - 104, cta_y + 92), radius=22, fill="#241D0F", outline=gold, width=2)
+draw.text((145, cta_y + 31), "Open the tool from the caption or description", font=small_font, fill=white)
+draw.text((104, 1190), "Huzaifa Tools · ai-tools-by-huzaifa.vercel.app", font=small_font, fill=gold)
 image.save(out, format="JPEG", quality=90, optimize=True, progressive=True)
 print(f"Created {out} ({out.stat().st_size} bytes)")
