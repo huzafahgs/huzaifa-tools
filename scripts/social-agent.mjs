@@ -14,6 +14,36 @@ const registrationSource = fs.readFileSync(new URL('../src/tools/index.js', impo
 const registeredSlugs = new Set([...registrationSource.matchAll(/registerTool\("([^"]+)"/g)].map((match) => match[1]));
 const siteTools = tools.filter((tool) => tool?.slug && tool?.name && tool?.description && registeredSlugs.has(tool.slug));
 
+const lessonDetails = {
+  'word-counter': {
+    hook: 'Writing to a word limit?',
+    problem: 'Check a draft against a word limit',
+    action: 'Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking.',
+    takeaway: 'Check whether your form counts headings, notes, or references too.',
+    title: "Check a Draft's Word Count | Word Counter #Shorts",
+  },
+  'character-counter': {
+    hook: 'Checking a character limit?',
+    problem: 'Check a caption or message against a character limit',
+    action: 'Paste a short, non-private sample into Character Counter and compare the displayed totals with the limit you need to meet.',
+    takeaway: 'Check whether the destination counts spaces and line breaks.',
+    title: 'Check a Character Limit | Character Counter #Shorts',
+  },
+  'text-case-converter': {
+    hook: 'Need consistent heading capitalization?',
+    problem: 'Convert a heading without retyping it',
+    action: 'Paste a short sample heading into Text Case Converter and choose the case that matches your style guide.',
+    takeaway: 'Review names and acronyms because a converter cannot know your preferred styling.',
+    title: 'Convert Heading Case | Text Case Converter #Shorts',
+  },
+  'json-formatter': {
+    hook: 'Hard to scan a compact JSON snippet?',
+    problem: 'Format a small JSON sample so its structure is easier to inspect',
+    action: 'Paste a harmless sample into JSON Formatter and run it; show the tool’s real formatted output and validation feedback.',
+    takeaway: 'Formatting helps inspection; it does not confirm that data is correct for your application.',
+    title: 'Format a JSON Snippet | JSON Formatter #Shorts',
+  },
+};
 const intros = [
   (tool) => `Need to ${tool.description.replace(/\.$/, '').toLowerCase()}?`,
   (tool) => `A small task can still interrupt your workflow: ${tool.description.replace(/\.$/, '').toLowerCase()}.`,
@@ -66,15 +96,21 @@ function buildPlan(tool, rotationIndex) {
       ? 'Check the inputs and assumptions before using a result for a real financial, health, or other important decision.'
       : `Check the result before using it in a final document, project, or decision.`;
   const task = tool.description.replace(/\.$/, '').toLowerCase();
-  const body = `${intro}\n\nUse ${tool.name} to ${task}. Try a small example and check the real output before using it.`;
-  const facebookMessage = `Quick walkthrough: ${tool.name} can ${task}. Try a small example, then check what the tool actually returns.\n\nTry it: ${facebookLink}\n\nWhich everyday tool task should we explain next?\n\n${facebookTags.join(' ')}`;
-  const instagramCaption = `A quick, practical walkthrough for ${task}. Watch the real input and output, then check the result yourself.\n\nTry the tool: ${instagramLink}\n\nFollow for more short, useful tool lessons. ${instagramTags.join(' ')}`;
-  const youtubeTitle = `${tool.name}: how to ${task} #Shorts`.slice(0, 95);
-  const youtubeDescription = `A quick walkthrough of ${tool.name}: ${task}. The demo should show a real input and the tool's actual output.\n\nTry it: ${youtubeLink}\n\nFollow for more practical tool walkthroughs.\n\n${youtubeTags.join(' ')}`;
+  const lesson = lessonDetails[tool.slug] || {
+    hook: `Need to ${task}?`,
+    problem: task,
+    action: `Open ${tool.name}, try a small, harmless example, and watch the real result on screen.`,
+    takeaway: 'Check the output before using it for an important task.',
+  };
+  const body = `${intro}\n\n${lesson.action} ${lesson.takeaway}`;
+  const facebookMessage = `Quick walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry it: ${facebookLink}\n\nWhich everyday tool task should we explain next?\n\n${facebookTags.join(' ')}`;
+  const instagramCaption = `A quick, practical walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry the tool: ${instagramLink}\n\nFollow for more short, useful tool lessons. ${instagramTags.join(' ')}`;
+  const youtubeTitle = (lesson.title || `${tool.name}: how to ${task} #Shorts`).slice(0, 95);
+  const youtubeDescription = `A quick walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry it: ${youtubeLink}\n\nFollow for more practical tool walkthroughs.\n\n${youtubeTags.join(' ')}`;
   const shortScript = [
-    { seconds: '0–3', visual: `Open with the everyday problem: “Need to ${task}?” Keep the tool name off-screen for the first beat.`, voiceover: `Need to ${task}? Here is a quick walkthrough.` },
-    { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. Enter a small, harmless example that fits the tool.`, voiceover: `Start with a small example in ${tool.name}.` },
-    { seconds: '8–16', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: `The tool is for ${task}. Pause on the actual result so viewers can follow.` },
+    { seconds: '0–3', visual: `Open with the everyday problem: “${lesson.hook}” Keep the tool name off-screen for the first beat.`, voiceover: `${lesson.hook} Here is a quick walkthrough.` },
+    { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. ${lesson.action}`, voiceover: lesson.action },
+    { seconds: '8–16', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: `Pause on the actual result so viewers can follow. ${lesson.takeaway}` },
     { seconds: '16–21', visual: 'Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.', voiceover: 'Check the result before you use it in your work.' },
     { seconds: '21–25', visual: 'End card: Huzaifa Tools, the tool name, and a small “link in caption / description” note.', voiceover: 'Follow for more practical walkthroughs. The tool link is in the post.' },
   ];
