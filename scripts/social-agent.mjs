@@ -103,10 +103,10 @@ function buildPlan(tool) {
   const youtubeDescription = `A quick walkthrough: ${lesson.problem}. ${lesson.action} ${lesson.takeaway}\n\nTry it: ${youtubeLink}\n\nFollow for more practical tool walkthroughs.\n\n${youtubeTags.join(' ')}`;
   const shortScript = [
     { seconds: '0–3', visual: `Open with the everyday problem: “${lesson.hook}” Keep the tool name off-screen for the first beat.`, voiceover: `${lesson.hook} Here is a quick walkthrough.` },
-    { seconds: '3–8', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. ${lesson.action}`, voiceover: lesson.demoVoiceover },
-    { seconds: '8–16', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: lesson.checkVoiceover },
-    { seconds: '16–21', visual: 'Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.', voiceover: 'Confirm the result meets your task’s requirements.' },
-    { seconds: '21–25', visual: 'End card: Huzaifa Tools, the tool name, and a small “link in caption / description” note.', voiceover: 'Follow for more practical walkthroughs. The tool link is in the post.' },
+    { seconds: '3–7', visual: `Screen-record the real Huzaifa Tools ${tool.name} page. ${lesson.action}`, voiceover: lesson.demoVoiceover },
+    { seconds: '7–13', visual: 'Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.', voiceover: lesson.checkVoiceover },
+    { seconds: '13–17', visual: 'Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.', voiceover: 'Confirm the result meets your task’s requirements.' },
+    { seconds: '17–20', visual: 'End card: Huzaifa Tools, the tool name, and a small “link in caption / description” note.', voiceover: 'Follow for more practical walkthroughs.' },
   ];
   const postId = `${today}-${tool.slug}`;
   return {
