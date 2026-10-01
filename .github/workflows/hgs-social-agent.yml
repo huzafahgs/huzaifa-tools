@@ -23,6 +23,7 @@ jobs:
       SOCIAL_SITE_URL: https://ai-tools-by-huzaifa.vercel.app
       SOCIAL_IMAGE_BASE_URL: ${{ vars.SOCIAL_IMAGE_BASE_URL || format('https://raw.githubusercontent.com/{0}/social-agent-ledger/assets', github.repository) }}
       SOCIAL_PUBLISHING_ENABLED: ${{ vars.SOCIAL_PUBLISHING_ENABLED || 'false' }}
+      SOCIAL_PREVIEW_REVIEWED: ${{ vars.SOCIAL_PREVIEW_REVIEWED || 'false' }}
       META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
       META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
       META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
@@ -69,26 +70,26 @@ jobs:
         run: bash scripts/social-agent-persist.sh "$SOCIAL_STATE_DIR"
 
       - name: Record a one-time publishing intent
-        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true' && env.SOCIAL_PREVIEW_REVIEWED == 'true'
         run: node scripts/social-agent.mjs begin
 
       - name: Persist the one-time intent before publishing
-        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true' && env.SOCIAL_PREVIEW_REVIEWED == 'true'
         run: bash scripts/social-agent-persist.sh "$SOCIAL_STATE_DIR"
 
       - name: Publish through authorized official APIs
-        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true' && env.SOCIAL_PREVIEW_REVIEWED == 'true'
         continue-on-error: true
         run: node scripts/social-agent.mjs publish
 
       - name: Record result and metrics
-        if: env.SOCIAL_PUBLISHING_ENABLED == 'true'
+        if: env.SOCIAL_PUBLISHING_ENABLED == 'true' && env.SOCIAL_PREVIEW_REVIEWED == 'true'
         run: bash scripts/social-agent-persist.sh "$SOCIAL_STATE_DIR"
 
       - name: Publish concise status to this workflow run
         if: always()
         run: |
-          if [ "$SOCIAL_PUBLISHING_ENABLED" = "true" ] && [ -f "$SOCIAL_STATE_DIR/latest-report.md" ]; then
+          if [ "$SOCIAL_PUBLISHING_ENABLED" = "true" ] && [ "$SOCIAL_PREVIEW_REVIEWED" = "true" ] && [ -f "$SOCIAL_STATE_DIR/latest-report.md" ]; then
             cat "$SOCIAL_STATE_DIR/latest-report.md" >> "$GITHUB_STEP_SUMMARY"
           elif [ -f "$SOCIAL_STATE_DIR/today.md" ]; then
             cat "$SOCIAL_STATE_DIR/today.md" >> "$GITHUB_STEP_SUMMARY"
