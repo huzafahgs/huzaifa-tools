@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "../styles/Tool.css";
+import { convertUnit, groupForUnit, UNIT_GROUPS } from "./unitConversion";
 
 export default function UnitConverter() {
   const [value, setValue] = useState("");
@@ -7,41 +8,19 @@ export default function UnitConverter() {
   const [toUnit, setToUnit] = useState("kilometer");
   const [result, setResult] = useState("");
 
-  const conversionFactors = {
-    // Length
-    meter: 1,
-    kilometer: 0.001,
-    centimeter: 100,
-    millimeter: 1000,
-    mile: 0.000621371,
-    yard: 1.09361,
-    foot: 3.28084,
-    inch: 39.3701,
-    // Weight
-    kilogram: 1,
-    gram: 1000,
-    milligram: 1000000,
-    pound: 2.20462,
-    ounce: 35.274,
-    ton: 0.001,
-    // Volume
-    liter: 1,
-    milliliter: 1000,
-    gallon: 0.264172,
-    quart: 1.05669,
-    pint: 2.11338,
-    cup: 4.22675,
-  };
+  const category = groupForUnit(fromUnit);
+  const compatibleUnits = UNIT_GROUPS[category];
 
-  const groups = {
-    Length: ["meter", "kilometer", "centimeter", "millimeter", "mile", "yard", "foot", "inch"],
-    Weight: ["kilogram", "gram", "milligram", "pound", "ounce", "ton"],
-    Volume: ["liter", "milliliter", "gallon", "quart", "pint", "cup"]
+  const changeFromUnit = (nextUnit) => {
+    const nextUnits = UNIT_GROUPS[groupForUnit(nextUnit)];
+    setFromUnit(nextUnit);
+    setToUnit(nextUnits.find((unit) => unit !== nextUnit) || nextUnit);
+    setResult("");
   };
 
   const convert = () => {
-    if (!value) return;
-    const converted = (value * conversionFactors[toUnit]) / conversionFactors[fromUnit];
+    if (value === "") return;
+    const converted = convertUnit(value, fromUnit, toUnit);
     setResult(converted.toFixed(6));
   };
 
@@ -54,17 +33,19 @@ export default function UnitConverter() {
 
       <input
         type="number"
+        id="unit-value"
+        aria-label="Value to convert"
         value={value}
-        onChange={(e) => setValue(e.target.value)}
+        onChange={(e) => { setValue(e.target.value); setResult(""); }}
         placeholder="Enter value"
         className="tool-input"
       />
 
       <div className="form-grid">
         <div className="form-group">
-          <label>From</label>
-          <select value={fromUnit} onChange={(e) => setFromUnit(e.target.value)}>
-            {Object.entries(groups).map(([group, units]) => (
+          <label htmlFor="unit-from">From</label>
+          <select id="unit-from" value={fromUnit} onChange={(e) => changeFromUnit(e.target.value)}>
+            {Object.entries(UNIT_GROUPS).map(([group, units]) => (
               <optgroup label={group} key={group}>
                 {units.map(unit => <option key={unit} value={unit}>{unit.charAt(0).toUpperCase() + unit.slice(1)}</option>)}
               </optgroup>
@@ -72,13 +53,9 @@ export default function UnitConverter() {
           </select>
         </div>
         <div className="form-group">
-          <label>To</label>
-          <select value={toUnit} onChange={(e) => setToUnit(e.target.value)}>
-            {Object.entries(groups).map(([group, units]) => (
-              <optgroup label={group} key={group}>
-                {units.map(unit => <option key={unit} value={unit}>{unit.charAt(0).toUpperCase() + unit.slice(1)}</option>)}
-              </optgroup>
-            ))}
+          <label htmlFor="unit-to">To ({category})</label>
+          <select id="unit-to" value={toUnit} onChange={(e) => { setToUnit(e.target.value); setResult(""); }}>
+            {compatibleUnits.map(unit => <option key={unit} value={unit}>{unit.charAt(0).toUpperCase() + unit.slice(1)}</option>)}
           </select>
         </div>
       </div>
