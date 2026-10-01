@@ -19,9 +19,11 @@ function Chat() {
           <p style={{ fontSize: "60px", marginBottom: "20px" }}>🤖</p>
           <h1 style={{ color: "gold", fontSize: "40px", marginBottom: "20px" }}>Huzaifa AI Chat</h1>
           <p style={{ color: "#ddd", fontSize: "18px", marginBottom: "30px", maxWidth: "600px" }}>
-            AI Chat is not available yet. Browse the available tools or contact us with a product question.
+            Huzaifa AI was created by Muhammad Huzaifa Irfan under Huzaifa
+            Group of Software, with AI capabilities powered by Google Gemini.
+            Chat is not available yet; browse the available AI tools instead.
           </p>
-          <Link to="/contact" className="btn-primary">Contact us</Link>
+          <Link to="/all-tools?category=AI" className="btn-primary">Explore AI tools</Link>
         </div>
       </section>
     </Layout>

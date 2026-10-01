@@ -35,6 +35,13 @@ test('fifteen allowlisted tools validate all supported options and use bounded n
     }
   }
 });
+test('Huzaifa AI identity is accurate and preserves Gemini provider attribution', () => {
+  const instruction = providerRequest(validateInput(bodyFor(tools[0]))).systemInstruction.parts[0].text;
+  assert.match(instruction, /Huzaifa AI, created by Muhammad Huzaifa Irfan under Huzaifa Group of Software/);
+  assert.match(instruction, /powered by Google Gemini/);
+  assert.match(instruction, /never claim.*created or trained the underlying Gemini foundation model/);
+  assert.match(instruction, /only when the user asks/i);
+});
 test('invalid, oversized and proxy-like inputs cannot reach provider', async () => {
   for (const body of [null, [], {}, { ...bodyFor(tools[0]), model: 'other' }, { ...bodyFor(tools[0]), tool: 'unknown' }, { ...bodyFor(tools[0]), text: 'x'.repeat(12001) }, { ...bodyFor(tools[0]), text: '    ' }, { ...bodyFor(tools[0]), options: { length: 'wrong' } }, { ...bodyFor(tools[0]), options: { length: 'Short', url: 'https://evil.test' } }]) {
     const req = reqFor(); req.body = body; const out = await run(req, []); assert.equal(out.statusCode, 400); assert.equal(out.calls.length, 0);

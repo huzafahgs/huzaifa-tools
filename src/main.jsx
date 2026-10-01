@@ -11,13 +11,13 @@ const Accounts = lazy(() => import("./pages/Accounts"));
 const SavedTools = lazy(() => import("./pages/SavedTools"));
 const Blog = lazy(() => import("./pages/Blog"));
 const BlogPost = lazy(() => import("./pages/BlogPost"));
+const AboutUs = lazy(() => import("./pages/AboutUs"));
+const Chat = lazy(() => import("./pages/Chat"));
 
 import Pricing from "./pages/Pricing.jsx";
 import Contact from "./pages/Contact.jsx";
 import AllTools from "./pages/AllTools.jsx";
-import Chat from "./pages/Chat.jsx";
 import SeoHead from "./components/SeoHead.jsx";
-import AboutUs from "./pages/AboutUs.jsx";
 import PrivacyPolicy from "./pages/PrivacyPolicy.jsx";
 import TermsConditions from "./pages/TermsConditions.jsx";
 import Disclaimer from "./pages/Disclaimer.jsx";

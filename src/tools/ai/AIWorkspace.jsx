@@ -164,6 +164,10 @@ function Workspace({ tool, user }) {
         <p className="ai-eyebrow">HUZAIFA AI STUDIO · WORDS WITH PURPOSE</p>
         <h1 id="ai-title">{tool.name}</h1>
         <p className="ai-intro">{tool.intro}</p>
+        <p className="ai-creator">
+          Huzaifa AI was created by Muhammad Huzaifa Irfan under Huzaifa
+          Group of Software. AI capabilities are powered by Google Gemini.
+        </p>
         <div className="ai-badges">
           <span>✦ Guided generation</span>
           <span>Review before sharing</span>

@@ -36,6 +36,13 @@
   font-size: 1.06rem;
   line-height: 1.8;
 }
+.ai-creator {
+  max-width: 650px;
+  margin: 12px 0 0;
+  color: #e8d9af;
+  font-size: 0.82rem;
+  line-height: 1.65;
+}
 .ai-badges {
   display: flex;
   flex-wrap: wrap;
