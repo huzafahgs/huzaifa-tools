@@ -22,8 +22,8 @@ jobs:
       SOCIAL_STATE_DIR: social-state
       SOCIAL_SITE_URL: https://ai-tools-by-huzaifa.vercel.app
       SOCIAL_IMAGE_BASE_URL: ${{ vars.SOCIAL_IMAGE_BASE_URL || format('https://raw.githubusercontent.com/{0}/social-agent-ledger/assets', github.repository) }}
-      SOCIAL_PUBLISHING_ENABLED: ${{ vars.SOCIAL_PUBLISHING_ENABLED || 'false' }}
-      SOCIAL_PREVIEW_REVIEWED: ${{ vars.SOCIAL_PREVIEW_REVIEWED || 'false' }}
+      SOCIAL_PUBLISHING_ENABLED: 'false'
+      SOCIAL_PREVIEW_REVIEWED: 'false'
       META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
       META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
       META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
@@ -40,7 +40,7 @@ jobs:
         run: |
           mkdir -p "$SOCIAL_STATE_DIR"
           if git fetch --no-tags origin social-agent-ledger; then
-            for file in state.json history.jsonl today.json today.md latest-report.md latest-result.json; do
+            for file in state.json history.jsonl today.json today.md queue.json queue.md search-console.json latest-report.md latest-result.json; do
               git show origin/social-agent-ledger:data/social-agent/$file > "$SOCIAL_STATE_DIR/$file" 2>/dev/null || true
             done
             mkdir -p "$SOCIAL_STATE_DIR/assets"
@@ -50,20 +50,23 @@ jobs:
           test -s "$SOCIAL_STATE_DIR/state.json" || printf '{"nextIndex":0,"lastReservedDate":null}\n' > "$SOCIAL_STATE_DIR/state.json"
           test -f "$SOCIAL_STATE_DIR/history.jsonl" || : > "$SOCIAL_STATE_DIR/history.jsonl"
 
+      - name: Validate the 30-day Social Agent content system
+        run: node tests/social-agent-content-v2.test.js
+
       - name: Collect available metrics from the previous publication
         run: node scripts/social-agent.mjs metrics
 
-      - name: Select a new real Huzaifa Tools topic
+      - name: Select today's topic and refresh the 30-day queue
         run: node scripts/social-agent.mjs plan
 
-      - name: Create the post image
+      - name: Create and validate today's branded JPEG
         run: |
           if ! python3 -c 'from PIL import Image' >/dev/null 2>&1; then
             python3 -m venv "$RUNNER_TEMP/social-venv"
             "$RUNNER_TEMP/social-venv/bin/pip" install Pillow
-            "$RUNNER_TEMP/social-venv/bin/python" scripts/social-agent-card.py "$SOCIAL_STATE_DIR"
+            "$RUNNER_TEMP/social-venv/bin/python" scripts/social-agent-card-batch.py "$SOCIAL_STATE_DIR"
           else
-            python3 scripts/social-agent-card.py "$SOCIAL_STATE_DIR"
+            python3 scripts/social-agent-card-batch.py "$SOCIAL_STATE_DIR"
           fi
 
       - name: Save the daily reservation before any platform call
@@ -103,8 +106,11 @@ jobs:
           path: |
             social-state/today.md
             social-state/today.json
+            social-state/queue.json
+            social-state/queue.md
             social-state/latest-report.md
             social-state/latest-result.json
             social-state/assets/*.jpg
           if-no-files-found: ignore
           retention-days: 90
+

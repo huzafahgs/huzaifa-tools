@@ -1,18 +1,18 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import tools from '../src/toolsData.js';
+import { registeredTools as siteTools, generatePipeline, validateSocialPlan, renderPipelineMarkdown, loadOptionalEvidence } from './social-agent-content-v2.mjs';
 
 const stateDir = path.resolve(process.env.SOCIAL_STATE_DIR || 'data/social-agent');
 const historyPath = path.join(stateDir, 'history.jsonl');
 const statePath = path.join(stateDir, 'state.json');
 const planPath = path.join(stateDir, 'today.json');
+const queuePath = path.join(stateDir, 'queue.json');
+const queueMarkdownPath = path.join(stateDir, 'queue.md');
 const siteUrl = (process.env.SOCIAL_SITE_URL || 'https://ai-tools-by-huzaifa.vercel.app').replace(/\/$/, '');
 const today = new Intl.DateTimeFormat('en-CA', {
   timeZone: 'Asia/Karachi', year: 'numeric', month: '2-digit', day: '2-digit',
 }).format(new Date());
-const registrationSource = fs.readFileSync(new URL('../src/tools/index.js', import.meta.url), 'utf8');
-const registeredSlugs = new Set([...registrationSource.matchAll(/registerTool\("([^"]+)"/g)].map((match) => match[1]));
-const siteTools = tools.filter((tool) => tool?.slug && tool?.name && tool?.description && registeredSlugs.has(tool.slug));
+const gscEvidencePath = process.env.SOCIAL_GSC_EVIDENCE_FILE || path.join(stateDir, 'search-console.json');
 
 const lessonDetails = {
   'word-counter': {
@@ -217,26 +217,65 @@ async function collectMetrics(entry) {
   }
 }
 
+function shiftDate(iso, offset) {
+  const [year, month, day] = iso.split('-').map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day + offset));
+  return [date.getUTCFullYear(), String(date.getUTCMonth() + 1).padStart(2, '0'), String(date.getUTCDate()).padStart(2, '0')].join('-');
+}
+
 function planCommand() {
   ensureState();
   const priorState = JSON.parse(fs.readFileSync(statePath, 'utf8'));
   const history = readHistory();
   const existing = history.find((item) => item.date === today && item.type === 'reservation');
+  const startDate = existing ? shiftDate(today, 1) : today;
+  const days = existing ? 29 : 30;
+  const futureQueue = generatePipeline({
+    tools: siteTools,
+    startDate,
+    days,
+    history,
+    gscEvidence: loadOptionalEvidence(gscEvidencePath),
+    performance: history,
+    startingIndex: Number(priorState.nextIndex || 0),
+    siteUrl,
+  });
+  let queue = futureQueue;
   if (existing) {
-    console.log(`A publication slot is already reserved for ${today}; refusing a second plan.`);
+    queue = {
+      ...futureQueue,
+      window: { start: today, end: futureQueue.window.end, days: 30 },
+      items: [existing.plan, ...futureQueue.items],
+    };
+    if (!existing.plan.score) existing.plan.score = { basis: 'Existing reserved preview; reused without content changes', signals: {} };
     savePlan(existing.plan);
-    return;
+  } else {
+    const plan = futureQueue.items[0];
+    validateSocialPlan(plan, siteUrl);
+    const reservation = { type: 'reservation', date: today, plan, platforms: ['facebook', 'instagram'], status: 'reserved' };
+    logEvent(reservation);
+    const selectedIndex = siteTools.findIndex((tool) => tool.slug === plan.tool.slug);
+    priorState.nextIndex = selectedIndex < 0 ? Number(priorState.nextIndex || 0) : (selectedIndex + 1) % siteTools.length;
+    priorState.lastReservedDate = today;
+    fs.writeFileSync(statePath, JSON.stringify(priorState, null, 2) + '\n');
+    savePlan(plan);
   }
-  const idx = Number(priorState.nextIndex || 0) % siteTools.length;
-  const tool = siteTools[idx];
-  const plan = buildPlan(tool);
-  const reservation = { type: 'reservation', date: today, plan, platforms: ['facebook', 'instagram'], status: 'reserved' };
-  logEvent(reservation);
-  priorState.nextIndex = (idx + 1) % siteTools.length;
-  priorState.lastReservedDate = today;
-  fs.writeFileSync(statePath, JSON.stringify(priorState, null, 2) + '\n');
-  savePlan(plan);
-  console.log(`Reserved ${tool.slug} for ${today}; ${siteTools.length} catalog tools are available.`);
+  fs.writeFileSync(queuePath, JSON.stringify(queue, null, 2) + '\n');
+  fs.writeFileSync(queueMarkdownPath, renderPipelineMarkdown(queue));
+  console.log(existing
+    ? `Today's reservation remains ${existing.plan.tool.slug}; refreshed the next 29 days from actual history and available metrics.`
+    : `Reserved ${queue.items[0].tool.slug} for ${today}; generated ${queue.items.length} validated days from ${siteTools.length} registered tools.`);
+}
+function validatePublishAsset(plan) {
+  const relative = plan?.asset?.imagePath;
+  if (typeof relative !== 'string' || !relative.startsWith('assets/') || relative.includes('..')) throw new Error('The planned JPEG path is missing or unsafe.');
+  const file = path.resolve(stateDir, relative);
+  const root = path.resolve(stateDir, 'assets') + path.sep;
+  if (!file.startsWith(root)) throw new Error('The planned JPEG path escapes the audit asset directory.');
+  const bytes = fs.readFileSync(file);
+  if (bytes.length < 1000 || bytes[0] !== 0xff || bytes[1] !== 0xd8 || bytes[bytes.length - 2] !== 0xff || bytes[bytes.length - 1] !== 0xd9) {
+    throw new Error('The planned JPEG asset is missing, too small, or invalid.');
+  }
 }
 
 async function publishCommand() {
@@ -246,7 +285,6 @@ async function publishCommand() {
     logEvent({ type: 'run', date: today, status: 'dry_run', reason: 'Publishing kill switch is off.' });
     return;
   }
-  const plan = JSON.parse(fs.readFileSync(planPath, 'utf8'));
   const history = readHistory();
   const runIdentity = `${process.env.GITHUB_RUN_ID || 'local'}:${process.env.GITHUB_RUN_ATTEMPT || '1'}`;
   const attempt = [...history].reverse().find((item) => item.date === today && item.type === 'attempt');
@@ -256,6 +294,19 @@ async function publishCommand() {
   }
   if (history.some((item) => item.date === today && item.type === 'publication') || attempt.runIdentity !== runIdentity) {
     console.log(`A prior publish attempt or result exists for ${today}; refusing to retry.`);
+    return;
+  }
+  const plan = JSON.parse(fs.readFileSync(planPath, 'utf8'));
+  try {
+    validateSocialPlan(plan, siteUrl);
+    validatePublishAsset(plan);
+  } catch (error) {
+    const blocked = { type: 'publication', date: today, postId: plan.id, tool: plan.tool, facebook: { status: 'blocked', error: error.message }, instagram: { status: 'blocked', error: error.message }, youtube: { status: 'script_only' } };
+    logEvent(blocked);
+    fs.writeFileSync(path.join(stateDir, 'latest-report.md'), reportMarkdown(blocked));
+    fs.writeFileSync(path.join(stateDir, 'latest-result.json'), JSON.stringify(blocked, null, 2) + '\n');
+    console.error(`Publishing blocked before any API request: ${error.message}`);
+    process.exitCode = 1;
     return;
   }
   // The workflow persists the attempt record before this command makes platform API calls.
@@ -335,3 +386,4 @@ else if (command === 'publish') await publishCommand();
 else if (command === 'metrics') await metricsCommand();
 else if (command === 'catalog-count') console.log(siteTools.length);
 else throw new Error(`Unknown command: ${command}`);
+
