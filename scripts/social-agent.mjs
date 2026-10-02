@@ -312,7 +312,18 @@ async function metricsCommand() {
   const latest = [...history].reverse().find((item) => item.type === 'publication');
   if (!latest) { console.log('No successful or attempted publication is in the audit ledger yet.'); return; }
   await collectMetrics(latest);
-  logEvent({ type: 'metrics_snapshot', date: today, postId: latest.postId, facebook: latest.facebook?.metrics || null, instagram: latest.instagram?.metrics || null });
+  logEvent({
+    type: 'metrics_snapshot',
+    date: today,
+    postId: latest.postId,
+    fetchedAt: new Date().toISOString(),
+    facebook: latest.facebook?.metrics || null,
+    instagram: latest.instagram?.metrics || null,
+    errors: {
+      facebook: latest.facebook?.metricsError || null,
+      instagram: latest.instagram?.metricsError || null,
+    },
+  });
   fs.writeFileSync(path.join(stateDir, 'latest-report.md'), reportMarkdown(latest));
   console.log(reportMarkdown(latest));
 }
