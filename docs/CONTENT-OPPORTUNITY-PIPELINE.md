@@ -35,7 +35,7 @@ Updated: 2026-10-02
 | 9 | New guide | Platform-specific social captions without duplicate posting | Caption Generator, Title Generator | Distinct platform and claims-review workflow | Approved candidate |
 | 10 | New guide | Blog outline from search intent without filler sections | Blog Outline Generator, Title Generator | Useful editorial planning; must not become scaled SEO guidance | Approved candidate |
 | 11 | Improve existing | Rotate versus flip: mirrored text and EXIF orientation | Image Rotate/Flip | Phase 2 impressions and position 6.3; improve the proven page before adding another | Priority update |
-| 12 | Improve existing | Simple interest: years, months and rate-unit checks | Simple Interest | Phase 2: 21 impressions, position 9.0 | Priority update |
+| 12 | Improve existing | Simple interest: years, months and rate-unit checks | Simple Interest | Phase 2: 21 impressions, position 9.0 | Refreshed in third batch |
 | 13 | Improve existing | Running pace: distance units, elapsed time and treadmill checks | Pace Calculator | Relevant queries near positions 9–11 | Priority update |
 | 14 | Improve existing | URL parts: origin, path, query, fragment and encoding | URL Parser | Phase 2 position 8.9 | Priority update |
 | 15 | Improve links | Add contextual incoming links to orphan calculator guides | Tip, mortgage, ideal weight, uptime | Existing useful pages lack related-article discovery | Approved maintenance |
