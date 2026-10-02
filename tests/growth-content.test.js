@@ -14,6 +14,7 @@ test("growth guides have unique routes and valid tool relationships", async () =
 
   for (const guide of growthContentGuideTopics) {
     assert.ok(toolSlugs.has(guide.toolSlug));
+    assert.ok((guide.guideToolSlugs || []).every((slug) => toolSlugs.has(slug)));
     assert.ok(guide.relatedTools.every((slug) => toolSlugs.has(slug)));
     assert.ok(guide.relatedArticles.every((slug) => blogSlugs.has(slug)));
     assert.ok(guide.metaTitle.length <= 65);
@@ -23,6 +24,9 @@ test("growth guides have unique routes and valid tool relationships", async () =
 
     const article = await guide.content();
     assert.ok(article.split(/\s+/).length >= 1000);
-    assert.match(article, new RegExp(`\\[Zakat Calculator\\]\\(/${guide.toolSlug}\\)`));
+    assert.match(article, new RegExp(`\\(/${guide.toolSlug}\\)`));
+    for (const slug of guide.guideToolSlugs || []) {
+      assert.match(article, new RegExp(`\\(/${slug}\\)`));
+    }
   }
 });

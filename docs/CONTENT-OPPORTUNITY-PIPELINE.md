@@ -26,7 +26,7 @@ Updated: 2026-10-02
 | ---: | --- | --- | --- | --- | --- |
 | 1 | New guide | Calculate Zakat with gold or silver nisab | Zakat Calculator | New useful tool had no guide; method and ruling differences need transparent explanation | Published in first batch |
 | 2 | Improve existing | Flat JSON to CSV: nested-data rejection and spreadsheet checks | JSON to CSV | Only crawled-not-indexed URL; existing guide should be monitored and improved only from evidence | Monitor first |
-| 3 | New guide | Verify an AI summary against its source | AI Text Summarizer, Study Notes | Distinct safety workflow; research shows factual consistency and omission risks | Approved candidate |
+| 3 | New guide | Verify an AI summary against its source | AI Text Summarizer, Study Notes | Distinct safety workflow; research shows factual consistency and omission risks | Published in second batch |
 | 4 | New guide | Rewrite text without changing claims, numbers or citations | AI Grammar/Rewrite, Paraphraser | Distinct verification task shared by two tools | Approved candidate |
 | 5 | New guide | Draft an email brief: purpose, context, tone and privacy | AI Email Generator, Writing Assistant | Practical workflow; avoids two overlapping product pages | Approved candidate |
 | 6 | New guide | Build prompts with context, constraints and acceptance checks | AI Prompt Generator, Code Explainer | Supports verification rather than generic “prompt tips” | Approved candidate |

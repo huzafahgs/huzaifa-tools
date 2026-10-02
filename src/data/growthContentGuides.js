@@ -21,6 +21,7 @@ export const growthContentGuideTopics = [
       "Does personal jewellery count toward Zakat?",
     ],
     category: "Islamic Guides",
+    tags: ["zakat-calculator", "zakat", "nisab", "Islamic finance"],
     relatedTools: [
       "zakat-calculator",
       "percentage-calculator",
@@ -55,6 +56,63 @@ export const growthContentGuideTopics = [
         (module) => module.default,
       ),
   },
+  {
+    toolSlug: "ai-text-summarizer",
+    guideToolSlugs: ["ai-study-notes-generator"],
+    articleSlug: "verify-ai-summary-against-source",
+    wordCount: 1280,
+    title: "How to Verify an AI Summary Against the Original Source",
+    metaTitle: "How to Verify an AI Summary Against Its Source",
+    metaDescription: "Check an AI summary for unsupported claims, changed numbers, missing exceptions and misleading emphasis with a practical source-to-summary review workflow.",
+    primaryKeyword: "how to verify an AI summary",
+    searchIntent: "Review an AI-generated summary or set of study notes against the supplied source before relying on or sharing it.",
+    secondaryTopics: [
+      "AI summary fact checking",
+      "check AI study notes",
+      "summary hallucination checklist",
+      "verify names dates and numbers",
+    ],
+    longTailQuestions: [
+      "How do I check whether an AI summary is accurate?",
+      "What facts should I compare with the original source?",
+      "Can a fluent summary leave out an important exception?",
+    ],
+    category: "AI Guides",
+    tags: ["AI summarization", "fact checking", "study notes", "AI safety"],
+    relatedTools: [
+      "ai-text-summarizer",
+      "ai-study-notes-generator",
+      "text-diff-checker",
+      "word-counter",
+    ],
+    relatedArticles: [
+      "compare-text-at-matching-line-positions",
+      "count-words-for-a-writing-limit",
+      "character-count-spaces-emoji-and-lines",
+    ],
+    faq: [
+      {
+        question: "Does a clear, fluent summary mean it is accurate?",
+        answer: "No. Fluency is a presentation quality, not evidence that each claim follows from the source. Check claims, entities, numbers, relationships, uncertainty and omissions against the original text.",
+      },
+      {
+        question: "Can I ask the same AI to fact-check its own summary?",
+        answer: "A second AI pass can help identify review candidates, but it is not independent proof. The decisive comparison is still between each important summary claim and the original source or an authoritative reference.",
+      },
+      {
+        question: "What should I do when the source itself may be wrong?",
+        answer: "Separate faithfulness from truth. First record whether the summary represents the source accurately. Then verify the source's important claims with suitable primary or authoritative evidence before relying on them.",
+      },
+      {
+        question: "Are AI-generated study notes safe to use for an exam?",
+        answer: "Treat them as a draft revision aid. Compare definitions, formulas, exceptions and required terminology with your course material, and follow your institution's rules on permitted AI use.",
+      },
+    ],
+    content: () =>
+      import("./blogPosts/verify-ai-summary-against-source.js").then(
+        (module) => module.default,
+      ),
+  },
 ];
 
 export default growthContentGuideTopics.map((topic, index) => ({
@@ -64,7 +122,7 @@ export default growthContentGuideTopics.map((topic, index) => ({
   author: "Huzaifa Group of Software",
   date: "2026-10-02",
   updated: "2026-10-02",
-  tags: [topic.toolSlug, "zakat", "nisab", "Islamic finance"],
+  tags: topic.tags || [topic.toolSlug, "practical guide", topic.category],
   keywords: [topic.primaryKeyword, ...topic.secondaryTopics],
   ogTitle: topic.title,
   ogDescription: topic.metaDescription,
