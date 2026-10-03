@@ -2228,18 +2228,20 @@ export const expandedGuideTopics = [
   "searchIntent": "Compute average pace and speed from a supplied distance and elapsed time",
   "secondaryTopics": [
     "Speed Converter",
-    "Distance Calculator"
+    "Distance Calculator",
+    "Length Converter"
   ],
   "longTailQuestions": [
     "Does changing km to mi convert my entered distance?",
     "Is 5.30 minutes the same as five minutes thirty seconds?",
-    "Why can the display show 60 seconds in a pace?"
+    "How are pace seconds rounded?"
   ],
   "category": "Calculator Guides",
   "relatedTools": [
     "pace-calculator",
     "speed-converter",
-    "distance-calculator"
+    "distance-calculator",
+    "length-converter"
   ],
   "relatedArticles": [
     "speed-units-metres-per-second-and-kilometres-per-hour",
@@ -2255,11 +2257,11 @@ export const expandedGuideTopics = [
       "answer": "No. Five minutes thirty seconds is 5.5 minutes. Decimal minutes are fractions of a minute, not a seconds field."
     },
     {
-      "question": "Why can the display show 60 seconds in a pace?",
-      "answer": "The current display rounds seconds without carrying into the minutes component. Check that boundary independently before reusing the label."
+      "question": "How are pace seconds rounded?",
+      "answer": "The pace is rounded to a whole number of seconds, then split into minutes and seconds. A boundary value carries into the next minute instead of displaying 60 seconds."
     }
   ],
-  "wordCount": 585
+  "wordCount": 759
 }, content: () => import("./blogPosts/running-pace-from-distance-and-elapsed-time.js").then(m => m.default)},
   {...{
   "id": 108,
