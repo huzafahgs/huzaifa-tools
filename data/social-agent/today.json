@@ -1,95 +1,375 @@
 {
-  "id": "2026-10-01-word-counter",
-  "date": "2026-10-01",
+  "id": "2026-10-03-pdf-merger",
+  "date": "2026-10-03",
+  "version": 2,
   "tool": {
-    "name": "Word Counter",
-    "slug": "word-counter",
-    "category": "Text",
-    "description": "Count words, characters, and sentences instantly."
+    "name": "PDF Merger",
+    "slug": "pdf-merger",
+    "category": "PDF",
+    "description": "Combine multiple PDF files in a chosen order and download one merged document. Processing stays in your browser."
   },
   "lesson": {
-    "hook": "Writing to a word limit?",
-    "problem": "Check a draft against a word limit",
-    "action": "Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking.",
-    "takeaway": "Check whether your form counts headings, notes, or references too."
+    "hook": "Need to work with a PDF?",
+    "problem": "Prepare a PDF task and verify the downloaded pages",
+    "action": "Choose two or more PDFs (up to 20 files)",
+    "check": "Use the up/down controls to arrange the file order",
+    "takeaway": "Create the PDF output, download it and check the page order",
+    "factualBasis": [
+      "Combine multiple PDF files in a chosen order and download one merged document. Processing stays in your browser.",
+      "Choose two or more PDFs (up to 20 files).",
+      "Use the up/down controls to arrange the file order.",
+      "Create the PDF output, download it and check the page order."
+    ]
   },
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/word-counter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_20261001&utm_content=word-counter",
+  "score": {
+    "total": 15.91,
+    "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+    "signals": {
+      "catalogUtility": 16,
+      "searchConsole": null,
+      "searchConsoleBoost": 0,
+      "socialMetrics": null,
+      "socialMetricsBoost": 0,
+      "articleCoverage": {
+        "relatedArticleCount": 3,
+        "editorialGapBoost": 0
+      },
+      "categoryBalancePenalty": 0
+    }
+  },
+  "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+  "articleReferences": [
+    {
+      "title": "Merge PDF Files in the Right Order: A Practical Assembly Guide",
+      "slug": "merge-pdf-files-in-order",
+      "primaryKeyword": "merge PDF files in order"
+    },
+    {
+      "title": "Split a PDF by Page Ranges: Plan and Check Separate Documents",
+      "slug": "split-pdf-by-page-ranges",
+      "primaryKeyword": "split PDF by page ranges"
+    },
+    {
+      "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
+      "slug": "images-to-a4-pdf",
+      "primaryKeyword": "images to A4 PDF"
+    }
+  ],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_social",
   "facebook": {
-    "title": "Word Counter",
-    "message": "Quick walkthrough: Check a draft against a word limit. Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking. Check whether your form counts headings, notes, or references too.\n\nTry it: https://ai-tools-by-huzaifa.vercel.app/word-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_20261001&utm_content=word-counter\n\nWhich everyday tool task should we explain next?\n\n#HuzaifaTools #Text #QuickTutorial",
+    "title": "Prepare a PDF task and verify the downloaded pages: PDF Merger",
+    "hook": "Need to work with a PDF?",
+    "message": "QUICK WALKTHROUGH · PDF Merger\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "caption": "QUICK WALKTHROUGH · PDF Merger\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
     "keywords": [
-      "Word Counter",
-      "Text",
+      "PDF Merger",
+      "PDF tool",
       "Huzaifa Tools",
-      "how to",
-      "tutorial"
+      "pdf",
+      "merger",
+      "step by step",
+      "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#Text",
-      "#QuickTutorial"
+      "#PDFTools"
     ],
-    "link": "https://ai-tools-by-huzaifa.vercel.app/word-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_20261001&utm_content=word-counter"
-  },
-  "instagram": {
-    "caption": "A quick, practical walkthrough: Check a draft against a word limit. Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking. Check whether your form counts headings, notes, or references too.\n\nTry the tool: https://ai-tools-by-huzaifa.vercel.app/word-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_20261001&utm_content=word-counter\n\nFollow for more short, useful tool lessons. #HuzaifaTools #Text #PracticalTips #ToolTutorial",
-    "keywords": [
-      "Word Counter",
-      "Text",
-      "Huzaifa Tools",
-      "how to",
-      "tutorial"
-    ],
-    "hashtags": [
-      "#HuzaifaTools",
-      "#Text",
-      "#PracticalTips",
-      "#ToolTutorial"
-    ],
-    "imagePath": "assets/2026-10-01-word-counter.jpg"
-  },
-  "youtube": {
-    "status": "script_only",
-    "title": "Check a Draft's Word Count | Word Counter #Shorts",
-    "description": "A quick walkthrough: Check a draft against a word limit. Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking. Check whether your form counts headings, notes, or references too.\n\nTry it: https://ai-tools-by-huzaifa.vercel.app/word-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_20261001&utm_content=word-counter\n\nFollow for more practical tool walkthroughs.\n\n#Shorts #HuzaifaTools #Text",
-    "keywords": [
-      "Word Counter",
-      "Text",
-      "Huzaifa Tools",
-      "how to",
-      "tutorial"
-    ],
-    "shortVideoScript": [
+    "cta": "Try one small example and tell us which everyday tool task to explain next.",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_facebook",
+    "linkPlacement": "Facebook Page link attachment",
+    "reelScript": [
       {
         "seconds": "0–3",
-        "visual": "Open with the everyday problem: “Writing to a word limit?” Keep the tool name off-screen for the first beat.",
-        "voiceover": "Writing to a word limit? Here is a quick walkthrough."
+        "goal": "Retention hook",
+        "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+        "voiceover": "Need to work with a PDF?"
       },
       {
-        "seconds": "3–8",
-        "visual": "Screen-record the real Huzaifa Tools Word Counter page. Paste a short, non-private draft into Word Counter, then compare the count on screen with the limit you are checking.",
-        "voiceover": "Paste a short draft into Word Counter."
+        "seconds": "3–7",
+        "goal": "Orient",
+        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Merger."
       },
       {
-        "seconds": "8–16",
-        "visual": "Run the tool on camera. Show only the real input and output from the live page; do not insert made-up results.",
-        "voiceover": "Compare the count with your limit. Check what the form includes."
+        "seconds": "7–14",
+        "goal": "Demonstrate",
+        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose two or more PDFs (up to 20 files)"
       },
       {
-        "seconds": "16–21",
-        "visual": "Point out one useful detail in the live interface, then remind viewers to verify the result for their own task.",
-        "voiceover": "Confirm the result meets your task’s requirements."
+        "seconds": "14–20",
+        "goal": "Teach a check",
+        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the up/down controls to arrange the file order"
       },
       {
-        "seconds": "21–25",
-        "visual": "End card: Huzaifa Tools, the tool name, and a small “link in caption / description” note.",
-        "voiceover": "Follow for more practical walkthroughs. The tool link is in the post."
+        "seconds": "20–25",
+        "goal": "Useful CTA",
+        "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+        "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
       }
     ]
   },
-  "asset": {
-    "imagePath": "assets/2026-10-01-word-counter.jpg",
-    "alt": "Word Counter educational post card for Huzaifa Tools"
+  "instagram": {
+    "title": "Need to work with a PDF · PDF Merger",
+    "hook": "Need to work with a PDF?",
+    "caption": "Need to work with a PDF? Here is a short, practical demo of PDF Merger.\n\nChoose two or more PDFs (up to 20 files) Create the PDF output, download it and check the page order\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
+    "keywords": [
+      "PDF Merger",
+      "PDF tool",
+      "Huzaifa Tools",
+      "pdf",
+      "merger",
+      "quick tutorial",
+      "practical tip"
+    ],
+    "hashtags": [
+      "#HuzaifaTools",
+      "#PDFTools",
+      "#QuickTutorial"
+    ],
+    "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_instagram",
+    "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+    "reelScript": [
+      {
+        "seconds": "0–3",
+        "goal": "Retention hook",
+        "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+        "voiceover": "Need to work with a PDF?"
+      },
+      {
+        "seconds": "3–7",
+        "goal": "Orient",
+        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Merger."
+      },
+      {
+        "seconds": "7–14",
+        "goal": "Demonstrate",
+        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose two or more PDFs (up to 20 files)"
+      },
+      {
+        "seconds": "14–20",
+        "goal": "Teach a check",
+        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the up/down controls to arrange the file order"
+      },
+      {
+        "seconds": "20–25",
+        "goal": "Useful CTA",
+        "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+        "voiceover": "Save this Reel and follow for more practical walkthroughs."
+      }
+    ],
+    "imagePath": "assets/2026-10-03-pdf-merger.jpg"
   },
-  "createdAt": "2026-10-01T18:39:23.318Z"
+  "youtube": {
+    "status": "script_only",
+    "title": "Need to work with a PDF | PDF Merger #Shorts",
+    "hook": "Need to work with a PDF?",
+    "description": "Prepare a PDF task and verify the downloaded pages. Choose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
+    "keywords": [
+      "PDF Merger",
+      "PDF tool",
+      "Huzaifa Tools",
+      "pdf",
+      "merger",
+      "how to",
+      "short tutorial"
+    ],
+    "hashtags": [
+      "#Shorts",
+      "#HuzaifaTools",
+      "#PDFTools"
+    ],
+    "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_youtube",
+    "shortVideoScript": [
+      {
+        "seconds": "0–3",
+        "goal": "Retention hook",
+        "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+        "voiceover": "Need to work with a PDF?"
+      },
+      {
+        "seconds": "3–7",
+        "goal": "Orient",
+        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Merger."
+      },
+      {
+        "seconds": "7–14",
+        "goal": "Demonstrate",
+        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose two or more PDFs (up to 20 files)"
+      },
+      {
+        "seconds": "14–20",
+        "goal": "Teach a check",
+        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the up/down controls to arrange the file order"
+      },
+      {
+        "seconds": "20–25",
+        "goal": "Useful CTA",
+        "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+        "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+      }
+    ]
+  },
+  "video": {
+    "status": "storyboard_only",
+    "durationSeconds": 25,
+    "targetFormats": [
+      "YouTube Shorts",
+      "Instagram Reels",
+      "Facebook Reels"
+    ],
+    "provider": {
+      "id": null,
+      "configured": false
+    },
+    "storyboard": [
+      {
+        "seconds": "0–3",
+        "goal": "Retention hook",
+        "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+        "voiceover": "Need to work with a PDF?"
+      },
+      {
+        "seconds": "3–7",
+        "goal": "Orient",
+        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Merger."
+      },
+      {
+        "seconds": "7–14",
+        "goal": "Demonstrate",
+        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose two or more PDFs (up to 20 files)"
+      },
+      {
+        "seconds": "14–20",
+        "goal": "Teach a check",
+        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the up/down controls to arrange the file order"
+      },
+      {
+        "seconds": "20–25",
+        "goal": "Useful CTA",
+        "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+        "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+      }
+    ],
+    "platformScripts": {
+      "facebook": [
+        {
+          "seconds": "0–3",
+          "goal": "Retention hook",
+          "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+          "voiceover": "Need to work with a PDF?"
+        },
+        {
+          "seconds": "3–7",
+          "goal": "Orient",
+          "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Merger."
+        },
+        {
+          "seconds": "7–14",
+          "goal": "Demonstrate",
+          "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose two or more PDFs (up to 20 files)"
+        },
+        {
+          "seconds": "14–20",
+          "goal": "Teach a check",
+          "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+          "voiceover": "Use the up/down controls to arrange the file order"
+        },
+        {
+          "seconds": "20–25",
+          "goal": "Useful CTA",
+          "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+          "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+        }
+      ],
+      "instagram": [
+        {
+          "seconds": "0–3",
+          "goal": "Retention hook",
+          "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+          "voiceover": "Need to work with a PDF?"
+        },
+        {
+          "seconds": "3–7",
+          "goal": "Orient",
+          "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Merger."
+        },
+        {
+          "seconds": "7–14",
+          "goal": "Demonstrate",
+          "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose two or more PDFs (up to 20 files)"
+        },
+        {
+          "seconds": "14–20",
+          "goal": "Teach a check",
+          "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+          "voiceover": "Use the up/down controls to arrange the file order"
+        },
+        {
+          "seconds": "20–25",
+          "goal": "Useful CTA",
+          "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+          "voiceover": "Save this Reel and follow for more practical walkthroughs."
+        }
+      ],
+      "youtube": [
+        {
+          "seconds": "0–3",
+          "goal": "Retention hook",
+          "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+          "voiceover": "Need to work with a PDF?"
+        },
+        {
+          "seconds": "3–7",
+          "goal": "Orient",
+          "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Merger."
+        },
+        {
+          "seconds": "7–14",
+          "goal": "Demonstrate",
+          "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose two or more PDFs (up to 20 files)"
+        },
+        {
+          "seconds": "14–20",
+          "goal": "Teach a check",
+          "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
+          "voiceover": "Use the up/down controls to arrange the file order"
+        },
+        {
+          "seconds": "20–25",
+          "goal": "Useful CTA",
+          "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+          "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+        }
+      ]
+    }
+  },
+  "asset": {
+    "imagePath": "assets/2026-10-03-pdf-merger.jpg",
+    "alt": "PDF Merger practical walkthrough card for Huzaifa Tools"
+  },
+  "createdAt": "2026-10-03T16:55:40.782Z",
+  "contentHashes": {
+    "facebook": "35302a28",
+    "instagram": "286ffce2",
+    "youtube": "4161e2bc"
+  }
 }
