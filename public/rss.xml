@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Huzaifa Tools Blog</title>
+    <link>https://ai-tools-by-huzaifa.vercel.app/blog</link>
+    <description>Practical guides for Huzaifa Tools, including calculators, converters, document, image, developer and AI workflows.</description>
+    <language>en</language>
+    <atom:link href="https://ai-tools-by-huzaifa.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
+    <image><url>https://ai-tools-by-huzaifa.vercel.app/logo.png</url><title>Huzaifa Tools Blog</title><link>https://ai-tools-by-huzaifa.vercel.app/blog</link></image>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Calculate Zakat with Gold or Silver Nisab: A Transparent Worksheet</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/calculate-zakat-gold-silver-nisab</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/calculate-zakat-gold-silver-nisab</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Build a transparent Zakat estimate from assets, permitted liabilities, gold or silver nisab and a verified metal price, with method differences clearly identified.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>How to Verify an AI Summary Against the Original Source</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/verify-ai-summary-against-source</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/verify-ai-summary-against-source</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Check an AI summary for unsupported claims, changed numbers, missing exceptions and misleading emphasis with a practical source-to-summary review workflow.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Age from a Birth Date: Calendar Years and Elapsed-Time Caveats</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/age-from-a-birth-date-calendar-caveats</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/age-from-a-birth-date-calendar-caveats</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Estimate age from a birth date and understand the difference between calendar components and elapsed days. Check timezone and month-end limitations before relying on a result.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Area Conversion: Square Units, Acres and Hectares</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/area-conversion-square-units-acres-hectares</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/area-conversion-square-units-acres-hectares</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert an already known area and understand squared scale factors. Check hectares, acres and rounding without treating the output as a survey or material estimate.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Binary to Decimal: Digits, Sign and Safe Range</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/binary-to-decimal-digits-sign-and-range</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/binary-to-decimal-digits-sign-and-range</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Read a base-two integer as decimal, verify a bit-place example and distinguish an explicit minus sign from a fixed-width signed bit pattern.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>BMI: Use the Metric Calculation and Understand Screening Limits</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/bmi-metric-calculation-and-screening-limits</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/bmi-metric-calculation-and-screening-limits</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Check metric and imperial BMI formulas with worked examples, positive input validation and the limits of an adult screening estimate.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>BMR Formula Estimates Are Different from Total Daily Energy Use</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/bmr-formula-estimate-versus-daily-energy</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/bmr-formula-estimate-versus-daily-energy</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Understand the calculator&apos;s height, weight, age and formula coefficient. Follow a worked calculation and distinguish estimated resting energy from a personal intake target.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>A Monthly Budget: Separate Entered Expenses from the Remaining Balance</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/monthly-budget-income-expenses-and-remainder</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/monthly-budget-income-expenses-and-remainder</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Compare monthly income with four expense groups, check the remaining amount and percentage, and account for irregular bills without mistaking a draft for tracked spending.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Calorie Estimates: Activity Factors and Fixed Offsets Explained</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/calorie-estimates-activity-factors-and-fixed-offsets</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/calorie-estimates-activity-factors-and-fixed-offsets</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Inspect how the calculator multiplies a resting estimate and applies fixed offsets. Understand uncertainty and why the displayed loss/gain figures are not personalised recommendations.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Check Text Colour Contrast Against a Solid Background</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/check-text-colour-contrast-against-a-background</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/check-text-colour-contrast-against-a-background</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Test a foreground and background pair, interpret normal and large-text contrast thresholds, and understand the limits of a two-colour accessibility check.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Choose a Colour and Read Its HEX, RGB and HSL Values</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/choose-a-colour-and-read-hex-rgb-hsl</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/choose-a-colour-and-read-hex-rgb-hsl</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Inspect a selected colour in three representations, understand rounded HSL values and distinguish a colour choice from a complete accessible palette.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Flat-Rate Commission and Base Pay: Define Eligible Sales First</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/flat-rate-commission-and-base-pay</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/flat-rate-commission-and-base-pay</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate commission from an entered sales amount and rate, then add base pay. Check period alignment, returns and the limits around tiered compensation plans.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Compound Interest: Compare Frequency Without Inventing a Forecast</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/compound-interest-frequency-and-assumptions</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/compound-interest-frequency-and-assumptions</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Explore a lump sum under a constant-rate compound model. Follow annual and monthly examples, distinguish contributions from growth and keep forecasts conditional.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Fixed-Rate Currency Conversion: A Worked Example, Not a Live Quote</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/fixed-rate-currency-conversion-example</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/fixed-rate-currency-conversion-example</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Understand the converter&apos;s fixed rate table and cross-rate arithmetic. Check supported currencies and why fees, spreads and current provider quotes need separate verification.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Decimal Integers to Binary Without an Implied Bit Width</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/decimal-integers-to-binary-without-bit-width</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/decimal-integers-to-binary-without-bit-width</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a safe whole decimal number to base two, verify place values and understand why negative output is not automatically a two&apos;s-complement machine encoding.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Discount Amount and Final Price: Check What the Offer Applies To</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/discount-amount-final-price-and-stacked-offers</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/discount-amount-final-price-and-stacked-offers</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate a single percentage reduction and compare sequential discounts. Keep shipping, tax and eligibility separate from the advertised saving.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Great-Circle Distance from Coordinates Is Not a Road Route</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/great-circle-distance-from-coordinates</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/great-circle-distance-from-coordinates</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Estimate spherical distance from two latitude-longitude pairs. Check coordinate order, signs and model limits before comparing the result with driving distance.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Calculate an EMI from a Month-Based Repayment Term</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/emi-from-a-month-based-repayment-term</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/emi-from-a-month-based-repayment-term</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use principal, annual rate and number of months to estimate equal instalments. Check input units, rounding and the limits of the current payment model.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Energy Units: Joules, Kilowatt-Hours and Calories</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/energy-units-joules-kwh-and-calories</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/energy-units-joules-kwh-and-calories</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a known energy quantity and distinguish energy from power. Check calorie versus kilocalorie, rounded factors and tiny values hidden by fixed-decimal output.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Factorials: Repeated Products, Rapid Growth and Number Limits</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/factorials-products-growth-and-number-limits</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/factorials-products-growth-and-number-limits</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate small nonnegative integer factorials and understand zero factorial. Check the 170 limit, integer input and floating-point precision before using large results.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Fibonacci Sequences: Starting Values, Term Count and Precision</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/fibonacci-sequence-start-index-and-precision</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/fibonacci-sequence-start-index-and-precision</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Generate a sequence beginning with zero and one, check the recurrence and distinguish term count from index. Understand the 100-term cap and large-number approximation.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Credit-Weighted GPA on a Simple Four-Point Scale</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/credit-weighted-gpa-on-a-simple-four-point-scale</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/credit-weighted-gpa-on-a-simple-four-point-scale</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate a GPA from course grades and credits, compare weighted and unweighted averages, and check which institutional grading rules this simple scale omits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Weighted Course Grades: Check Scores and Assessment Weights Separately</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/weighted-course-grade-and-assessment-weights</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/weighted-course-grade-and-assessment-weights</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Combine assignment, midterm and final-exam percentages using relative weights. Follow an example and distinguish this tool&apos;s letter bands from institutional policy.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Two-Colour CSS Gradients with Readable Content Above Them</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/two-colour-css-gradients-with-readable-content</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/two-colour-css-gradients-with-readable-content</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Create a linear or circular radial background, understand the angle control and check contrast across the gradient before placing text over it.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Hexadecimal to Decimal with Place Values and Safe Integer Limits</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/hexadecimal-to-decimal-place-values</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/hexadecimal-to-decimal-place-values</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Interpret hexadecimal digits, check an optional prefix and verify a small example. Understand signed input and why oversized integers are rejected.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Hex Colours to RGB: Read the Three Channel Values</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/hex-colours-to-rgb-channel-values</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/hex-colours-to-rgb-channel-values</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a six-digit colour selection into RGB channels, understand the hexadecimal pairs and copy a CSS colour without confusing opacity or contrast.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>HMAC: Agree on the Message, Key Encoding and Algorithm</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/hmac-message-key-and-encoding-agreement</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/hmac-message-key-and-encoding-agreement</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Generate a keyed message-authentication value with Web Crypto. Check exact UTF-8 input, hexadecimal output and why protocol-specific signing rules still matter.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Height-Based Weight Formulas Are Not a Personal Ideal</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/height-based-weight-formulas-and-their-limits</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/height-based-weight-formulas-and-their-limits</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Understand the displayed height-based estimate and BMI-derived interval. Check the below-five-feet clamp and why a formula cannot define an individual&apos;s healthy target.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Convert Images to JPEG, PNG or WebP and Check the Result</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/convert-images-to-jpeg-png-or-webp</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/convert-images-to-jpeg-png-or-webp</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Create a genuine JPEG, PNG or WebP export, understand transparency and quality tradeoffs, and verify browser format support before sharing the file.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Resize Image Pixel Dimensions with Aspect Ratio in Mind</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/resize-image-pixel-dimensions-with-aspect-ratio</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/resize-image-pixel-dimensions-with-aspect-ratio</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Resize an image to a usable pixel size, preserve its proportions, choose an output format and verify the downloaded result within browser processing limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Convert Length and Keep It Separate from Area and Volume</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/convert-length-without-scaling-the-wrong-dimension</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/convert-length-without-scaling-the-wrong-dimension</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Change supported length units with a clear example. Check mixed feet-and-inches input, nautical miles and why squared or cubed quantities need different factors.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Loan Payment Estimates: Compare Term and Total Interest Together</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/loan-payment-estimate-and-term-tradeoffs</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/loan-payment-estimate-and-term-tradeoffs</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Model a fixed-rate loan with a term in years. Compare monthly payment, total interest, zero-interest arithmetic and costs omitted from the estimate.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Markup on Cost Is Different from Margin on Sales</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/markup-on-cost-versus-sales-margin</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/markup-on-cost-versus-sales-margin</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate a cost-based markup and selling price with a clear example. Distinguish the displayed gross difference from margin, overhead and net profit.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>MD5 Text Digests for Legacy Comparisons, with Security Limits</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/md5-text-digest-for-legacy-comparisons</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/md5-text-digest-for-legacy-comparisons</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Generate a genuine MD5 digest of exact UTF-8 text, check a known example and understand why collisions, file bytes and password storage need different treatment.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Mortgage Principal and Interest Are Only Part of Home Costs</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/mortgage-principal-interest-and-home-costs</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/mortgage-principal-interest-and-home-costs</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Estimate a home-loan payment after a down payment. Check the financed balance and distinguish principal-and-interest totals from taxes, insurance and closing costs.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Running Pace Calculator: Distance and Elapsed Time</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/running-pace-from-distance-and-elapsed-time</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/running-pace-from-distance-and-elapsed-time</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate average running pace and speed from distance and elapsed time. See what elapsed pace means, check km versus miles and avoid time-entry mistakes.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Generate a Random Password and Keep the Account Workflow Complete</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/generate-a-random-password-and-store-it-safely</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/generate-a-random-password-and-store-it-safely</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Choose length and character pools, understand secure random sampling and check service requirements. Store the result appropriately without treating generation as account protection by itself.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Percentages: Choose the Base Before Increasing or Decreasing It</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/percentage-base-increase-and-decrease</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/percentage-base-increase-and-decrease</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Work out a percentage, a revised total or one value&apos;s share of another. Follow clear examples and avoid confusing percentage changes with percentage points.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Check Small Primes with Divisibility Reasoning</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/check-small-primes-with-divisibility-reasoning</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/check-small-primes-with-divisibility-reasoning</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Test an ordinary whole number for primality and understand the square-root boundary. Check integer parsing and avoid using the browser routine for cryptographic-size inputs.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Create a QR Code and Verify the Destination Before Sharing</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/create-a-qr-code-and-verify-its-destination</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/create-a-qr-code-and-verify-its-destination</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Generate a simple QR image from text or a URL, understand the external-service request and test the final code at its actual display size before publication.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Scan a QR Code and Review the Decoded Text Before Acting</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/scan-a-qr-code-and-review-the-decoded-text</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/scan-a-qr-code-and-review-the-decoded-text</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use the browser scanner with permission, improve framing and inspect the decoded value. Understand why recognising a code is different from trusting its destination.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Retirement Savings Scenarios with Monthly Deposits and Explicit Limits</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/retirement-savings-scenario-with-monthly-deposits</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/retirement-savings-scenario-with-monthly-deposits</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Explore a constant-rate savings model with monthly contributions. Separate deposits from growth, check a zero-return baseline and understand planning limitations.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>RGB to Hex: Convert Channels Without Losing Their Meaning</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/rgb-channels-to-six-digit-hex-colours</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/rgb-channels-to-six-digit-hex-colours</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Turn red, green and blue integers into a six-digit hex colour, check channel rounding and understand what the converter does with out-of-range input.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>ROI with Extra Costs: Define the Denominator Before Comparing</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/roi-with-extra-costs-and-a-clear-denominator</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/roi-with-extra-costs-and-a-clear-denominator</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate net profit and simple ROI using initial investment plus extra costs. Follow a worked example and avoid comparing different time periods as equivalent returns.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Decimal to Roman Numerals from 1 to 3999</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/decimal-to-roman-numerals-one-to-3999</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/decimal-to-roman-numerals-one-to-3999</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a positive integer using subtractive Roman notation, follow a worked example and understand the one-way range and integer-input limitations.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Read Browser Viewport Size and Device Pixel Ratio</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/read-browser-viewport-size-and-pixel-ratio</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/read-browser-viewport-size-and-pixel-ratio</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Interpret the screen tester&apos;s viewport width, height and pixel ratio for responsive checks without mistaking them for your monitor&apos;s physical resolution.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>SHA-256 of Exact UTF-8 Text: Reproduce a Digest and Understand Its Scope</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/sha256-exact-utf8-text-and-integrity</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/sha256-exact-utf8-text-and-integrity</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Hash exact text with Web Crypto, verify a known SHA-256 value and diagnose whitespace differences. Separate a plain digest from file hashing and sender authentication.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Simple Interest Calculator: Formula, Rate and Time Example</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/simple-interest-principal-rate-and-time</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/simple-interest-principal-rate-and-time</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Calculate simple interest with I = P × R × T. Follow a worked example, convert months to years and distinguish simple interest from compound interest.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Speed Units: Metres per Second, Kilometres per Hour and Knots</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/speed-units-metres-per-second-and-kilometres-per-hour</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/speed-units-metres-per-second-and-kilometres-per-hour</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a known speed with fixed factors and check the time denominator. Distinguish speed from pace and avoid interpreting unit conversion as a motion measurement.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Browser Stopwatch Laps and the Limits of Interval Timing</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/browser-stopwatch-laps-and-timing-drift</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/browser-stopwatch-laps-and-timing-drift</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Start, stop and record cumulative laps for a short session. Understand hundredths display, background-tab drift and why this stopwatch is not precision timing equipment.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Celsius, Fahrenheit and Kelvin: Values Are Different from Changes</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/celsius-fahrenheit-kelvin-values-and-differences</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/celsius-fahrenheit-kelvin-values-and-differences</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a temperature among three scales and check the offset. Distinguish an absolute reading from a temperature difference and recognise input-domain limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Listen to a Draft with Browser Text to Speech</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/listen-to-a-draft-with-browser-text-to-speech</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/listen-to-a-draft-with-browser-text-to-speech</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use browser speech playback to review a draft, select an available voice and adjust pace while understanding voice availability, privacy and export limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Elapsed Time Between Two Date Values: Absolute Difference and Calendar Limits</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/elapsed-time-between-two-date-values</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/elapsed-time-between-two-date-values</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Compare two date-time inputs and read days plus remaining hours and minutes. Understand absolute differences, timezone effects and the absence of business-day rules.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Set a Browser Countdown and Keep Its Timing Limits in View</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/set-a-browser-countdown-and-check-its-limits</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/set-a-browser-countdown-and-check-its-limits</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Set minutes and seconds, start or pause the countdown and understand the completion alert. Avoid relying on background browser timing for consequential reminders.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Calculate a Tip and Split the Total Without Losing the Remainder</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/calculate-a-tip-and-split-the-total</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/calculate-a-tip-and-split-the-total</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Work out a chosen tip and an equal per-person share. Check the bill base, service charges and rounding before using the numbers to settle a payment.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Choose Compatible Units Before Converting a Measurement</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/choose-compatible-units-before-converting</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/choose-compatible-units-before-converting</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use the general converter for same-category length, mass or volume values. Understand why a numeric result cannot make metres-to-kilograms a valid conversion.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Uptime Duration Totals and the Missing Availability Denominator</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/uptime-duration-totals-and-availability-denominator</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/uptime-duration-totals-and-availability-denominator</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert uptime into duration totals and calculate availability from an explicit observation window, with validation and practical monitoring limitations.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>UUID-Shaped Identifiers for Test Records and Ordinary Labels</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/uuid-shaped-identifiers-for-test-records</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/uuid-shaped-identifiers-for-test-records</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Generate up to 100 UUID-shaped values, copy individual or grouped results and understand the current Math.random implementation&apos;s limits for security-sensitive identifiers.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Add an Entered VAT Rate to a Net Amount</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/add-vat-to-a-net-amount</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/add-vat-to-a-net-amount</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Check the arithmetic of adding VAT to a net price. Distinguish net from gross, understand why reverse extraction is different and verify the applicable rate separately.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Volume Units: Check Cups, Gallons and Cubic Measures</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/volume-units-cups-gallons-and-cubic-measures</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/volume-units-cups-gallons-and-cubic-measures</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert supported liquid and cubic volume units. Identify the US-style factors, distinguish volume from mass and review rounding for small quantities.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Convert Kilograms, Pounds and Tons with the Right Definition</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/mass-conversion-kilograms-pounds-and-tons</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/mass-conversion-kilograms-pounds-and-tons</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert supported mass units using fixed factors. Check metric ton versus other tons, decimal pounds versus mixed units and the precision of the source measurement.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Merge PDF Files in the Right Order: A Practical Assembly Guide</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/merge-pdf-files-in-order</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/merge-pdf-files-in-order</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Assemble PDFs in the right order with a worked ten-page example. Check page boundaries, file limits, signatures and the actual merged download.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Split a PDF by Page Ranges: Plan and Check Separate Documents</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/split-pdf-by-page-ranges</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/split-pdf-by-page-ranges</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use page groups to split one PDF into separate documents. Learn comma and semicolon syntax, check page counts and understand size and document limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Extract Selected PDF Pages into One Useful Document</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/extract-selected-pdf-pages</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/extract-selected-pdf-pages</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Create one PDF from selected pages or nonconsecutive ranges. Follow a worked example, distinguish page labels from positions and review the excerpt.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Turn Images into an A4 PDF: Ordering, Layout, and Readability</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/images-to-a4-pdf</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/images-to-a4-pdf</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Build an ordered A4 PDF from images. Understand margins, JPEG re-encoding, readable source dimensions, supported formats and the lack of OCR.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Convert PDF Pages to PNG Images: Resolution and Download Guide</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/pdf-pages-to-png-images</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/pdf-pages-to-png-images</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Render selected PDF pages as PNG images. Learn page selection, output resolution, download checks and when keeping a PDF is the better choice.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Crop an Image by Pixel Coordinates: Exact Framing Without Stretching</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/crop-image-by-pixel-coordinates</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/crop-image-by-pixel-coordinates</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Choose an exact image crop with X, Y, width and height. Work through a centered square, avoid bounds errors and verify the downloaded framing.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/read-image-metadata-exif</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/read-image-metadata-exif</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Inspect image dimensions, file size and available EXIF. Understand missing fields, capture-time ambiguity, location privacy and authenticity limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Rotate or Flip an Image Online: Fix Sideways and Mirrored Photos</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/rotate-flip-image-without-confusion</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/rotate-flip-image-without-confusion</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Rotate an image 90, 180 or 270 degrees, or flip it horizontally or vertically. Learn which correction fixes sideways, upside-down or mirrored photos.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Convert Flat JSON to CSV: Columns, Quoting, and Spreadsheet Checks</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/json-to-csv-flat-data</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/json-to-csv-flat-data</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a flat JSON array into CSV with a worked example. Check columns, missing values, quoting, formula-like strings and spreadsheet import types.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Format JavaScript Without Executing It: A Practical Review Workflow</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/format-javascript-without-executing</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/format-javascript-without-executing</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Make JavaScript and JSX readable without executing the source. Follow a worked example and distinguish formatting, syntax feedback, linting and tests.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Base64 for UTF-8 Text: Encode, Decode and Avoid False Security</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/base64-encode-decode-utf8-text</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/base64-encode-decode-utf8-text</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert UTF-8 text to Base64 and back with a clear example. Distinguish text from binary files, standard Base64 from URL-safe variants, and encoding from secrecy.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Character Counts: Spaces, Emoji and the Limit That Actually Applies</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/character-count-spaces-emoji-and-lines</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/character-count-spaces-emoji-and-lines</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Measure text length with and without whitespace. Learn why emoji and line breaks affect counts, then check the final text in its destination field.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Choose a Five-Field Cron Schedule and Verify the Scheduler</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/choose-a-five-field-cron-schedule</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/choose-a-five-field-cron-schedule</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use common cron presets, read the five fields and check timezone and scheduler support. Understand why this generator&apos;s field-count check is not full validation.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Format CSS for a Readable Review, Then Check the Cascade</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/format-css-for-a-readable-review</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/format-css-for-a-readable-review</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Use parser-based CSS formatting to inspect declarations and selectors. Follow a small example, understand worker limits and separate syntax from browser compatibility.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Minify Simple CSS and Check What the Shorter Output Changes</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/minify-simple-css-and-check-behaviour</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/minify-simple-css-and-check-behaviour</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Inspect lightweight CSS whitespace reduction with a small rule. Learn why strings, calc expressions and comments require care before production use.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>CSV Rows to JSON Objects: Headers, Quotes and Type Checks</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/csv-rows-to-json-objects</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/csv-rows-to-json-objects</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert simple comma-separated records into JSON objects. Check headers, quoted commas, missing cells and string types before using the output in an application.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>HTML Entities for Displayed Text: Encoding Is Not Sanitisation</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/html-entities-for-text-not-sanitization</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/html-entities-for-text-not-sanitization</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Encode markup characters for text examples and decode entities for inspection. Understand double encoding and why escaping must match the output context.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Inspect HTML Indentation Without Confusing Formatting with Validation</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/inspect-html-indentation-without-changing-intent</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/inspect-html-indentation-without-changing-intent</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Make a simple HTML fragment easier to scan, then check whitespace, void elements and raw text. Understand the formatter&apos;s heuristic approach and limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Conservative HTML Minification That Keeps Text Spacing in View</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/conservative-html-minification-preserving-text</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/conservative-html-minification-preserving-text</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Reduce ordinary comments and tag whitespace while reviewing preserved text. Learn the worker limits, syntax feedback and boundaries around templates, scripts and styles.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>JavaScript Minification: Inspect Simple Snippets Before Reusing Them</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/javascript-minification-snippet-limitations</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/javascript-minification-snippet-limitations</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Understand the lightweight JavaScript minifier, test a simple example and recognise risks around strings, comments, operators and automatic semicolon insertion.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Format JSON and Check the Data Behind the Indentation</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/format-json-and-check-data-types</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/format-json-and-check-data-types</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Make JSON readable, diagnose syntax errors and inspect data types. Understand duplicate keys, large-number precision and what formatting cannot validate.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>JSON to XML: Choose a Root and Check Names, Arrays and Nulls</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/json-to-xml-elements-root-and-arrays</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/json-to-xml-elements-root-and-arrays</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a simple JSON object into XML elements. Inspect root structure, repeated array elements, escaped values and invalid key names before integration.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Inspect JWT Claims Without Mistaking Decoding for Trust</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/inspect-jwt-claims-without-trusting-them</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/inspect-jwt-claims-without-trusting-them</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Read a JWT header and payload, interpret time claims carefully and separate inspection from signature verification, issuer checks and application authorisation.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Use Lorem Ipsum to Test Layout, Then Replace It with Real Copy</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/lorem-ipsum-for-layout-testing</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/lorem-ipsum-for-layout-testing</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Generate bounded sample paragraphs for mockups, compare text density across layouts and recognise what placeholder prose cannot test before publication.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Draft Page Meta Tags, Then Verify the Rendered Head</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/draft-and-verify-page-meta-tags</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/draft-and-verify-page-meta-tags</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Prepare title, description, canonical and social metadata. Review escaping, absolute URLs and duplicate tags before installing the generated draft in a real page.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Turn Text into Written Morse Code and Check the Separators</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/turn-text-into-written-morse-code</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/turn-text-into-written-morse-code</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert a short message to dots and dashes, understand letter and word separators, and recognise the converter&apos;s unsupported characters and text-only limits.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>A Password Checklist Score Is Not a Security Verdict</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/password-checklist-score-is-not-a-security-verdict</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/password-checklist-score-is-not-a-security-verdict</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Understand the checker&apos;s six local rules, why a predictable password can score well, and what it cannot tell you about reuse, breaches or cracking time.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Test a JavaScript Regex with Matches and Counterexamples</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/test-javascript-regex-with-counterexamples</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/test-javascript-regex-with-counterexamples</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Build a small regex test set, choose flags and inspect match boundaries. Understand global matching, omitted empty matches and patterns that can stall a browser.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Draft robots.txt Rules Without Accidentally Blocking Useful Content</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/draft-robots-txt-without-blocking-content</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/draft-robots-txt-without-blocking-content</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Build a reviewable robots.txt draft with agent, path and sitemap fields. Distinguish crawl rules from access control and verify the deployed file before relying on it.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Format Simple SQL for Review Without Rewriting Its Meaning</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/format-simple-sql-for-review</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/format-simple-sql-for-review</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Inspect clause boundaries in a small SQL query. Learn why quoted strings, comments, dialects and query correctness need checks beyond this lightweight formatter.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Change Text Case While Preserving Names, Acronyms and Meaning</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/change-text-case-with-editorial-review</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/change-text-case-with-editorial-review</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Choose uppercase, lowercase, word capitals or sentence-style conversion. Understand the actual rules and review names, acronyms and multilingual text.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Compare Text at Matching Line Positions and Interpret the Differences</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/compare-text-at-matching-line-positions</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/compare-text-at-matching-line-positions</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Review two aligned text versions, understand the changed-line count and recognise why an inserted line can make many later lines appear different.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Reverse Characters, Words or Lines: Three Different Text Operations</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/reverse-characters-words-or-lines</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/reverse-characters-words-or-lines</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Choose the right reversal for a text sample. Compare character, space-separated word and line order, with Unicode and whitespace limitations explained.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Unix Timestamps: Separate Seconds, Milliseconds and Timezones</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/unix-seconds-milliseconds-and-timezones</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/unix-seconds-milliseconds-and-timezones</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Convert supported epoch values to readable dates and back. Check unit length, UTC versus local time, and the date-input limitations before debugging a timestamp.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Percent-Encode a URL Component Without Breaking the Whole Address</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/percent-encode-a-url-component</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/percent-encode-a-url-component</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Encode query values containing spaces, ampersands and Unicode. Learn component boundaries, double encoding and why a plus sign is not decoded as a space here.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>URL Parser: Check the Host, Query String and Fragment</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/read-url-host-query-and-fragment</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/read-url-host-query-and-fragment</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Parse an absolute URL without visiting it. Check the hostname, port, path, query parameters and fragment, including repeated and encoded values.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Create a Readable URL Slug and Plan for Its Future</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/create-a-readable-url-slug</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/create-a-readable-url-slug</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Turn a title into a simple path label, review removed characters and preserve a stable URL. Understand ASCII limitations, collisions and redirect planning.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Count Words for a Writing Limit Without Losing the Point</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/count-words-for-a-writing-limit</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/count-words-for-a-writing-limit</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Check a draft against a word limit, understand whitespace counting and reading-time estimates, and make edits that preserve the information readers need.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Format XML for Inspection Without Assuming Schema Validity</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/format-xml-and-check-structure</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/format-xml-and-check-structure</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Make simple XML readable, diagnose parse errors and distinguish well-formed structure from schema validity. Review mixed content before using reformatted output.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>XML to JSON: Inspect the Mapping Before Trusting the Conversion</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/xml-to-json-mapping-and-information-loss</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/xml-to-json-mapping-and-information-loss</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Follow repeated XML elements into JSON, check attribute loss and mixed content, and decide when a custom data mapping is needed instead of a generic conversion.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>The Complete Huzaifa Tools Guide: Free Online Utilities for Work, Study, and Development</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/huzaifa-tools-guide</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/huzaifa-tools-guide</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description>A practical guide to Huzaifa Tools for developers, students, creators, and businesses, with examples, privacy details, and honest tool limitations.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Image Compression Guide: Compare JPEG Quality and File Size</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-guide-2026</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-guide-2026</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Use the JPEG compressor with a repeatable quality comparison, understand transparency and size limits, and verify the downloaded image before publishing.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>WebP vs AVIF: Which Image Format Wins in 2026?</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/webp-vs-avif</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/webp-vs-avif</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Compare WebP and AVIF for modern web projects and choose the best format for speed, quality, and browser compatibility.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Image Compression and SEO: What to Measure</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-and-seo</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-and-seo</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Learn what image compression can improve, how to measure loading changes, and why smaller images do not guarantee search rankings.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Best Image Formats for Web in 2026</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/best-image-formats</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/best-image-formats</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Find the best image formats for websites, mobile, and SEO in 2026, with real-world recommendations for developers and marketers.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Reduce Image Size Without Quality Loss</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/reduce-image-size-without-quality-loss</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/reduce-image-size-without-quality-loss</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Learn how to shrink image file size while keeping crisp detail for faster page load times and better user experience.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>JPEG vs PNG vs WebP: Choosing the Right Format</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/jpeg-vs-png-vs-webp</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/jpeg-vs-png-vs-webp</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Compare JPEG, PNG, and WebP for photographs, graphics, and responsive images to choose the best web format.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Website Speed Optimization: Image Strategies That Work</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/website-speed-optimization</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/website-speed-optimization</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Explore practical image optimization strategies that lower load time, improve user experience, and support fast SEO-friendly websites.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Mobile Image Optimization: Faster Loads on Every Device</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/mobile-image-optimization</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/mobile-image-optimization</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Optimize images for mobile devices with responsive sizes, lazy loading, and the right image formats for quick rendering.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Convert Images to AVIF: A Practical Guide</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/convert-images-to-avif</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/convert-images-to-avif</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Learn how to convert images to AVIF, when to use it, and how this format improves loading time across modern browsers.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Best Image Dimensions for Web and Mobile</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/best-image-dimensions</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/best-image-dimensions</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Choose the right image dimensions for web and mobile to balance quality, file size, and responsive design.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Image Compression Tools Comparison: What to Use</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-tools-comparison</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/image-compression-tools-comparison</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Compare image compression tools by ease, features, and output quality so you can pick the best workflow for your website.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>WordPress Image Optimization: Speed Tips for 2026</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/wordpress-image-optimization</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/wordpress-image-optimization</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Optimize your WordPress images with compression, lazy loading, and modern formats to improve site speed and SEO.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Free Image Compression Guide for Better Web Performance</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/free-image-compression-guide</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/free-image-compression-guide</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A practical free guide to compressing images for the web, with tools, workflow tips, and quality-first recommendations.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Beginner Image Optimization Tutorial for Web Designers</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/beginner-image-optimization-tutorial</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/beginner-image-optimization-tutorial</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A beginner-friendly tutorial on optimizing images for websites, including format selection, compression, and delivery best practices.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Compress Images for WordPress Without Plugins</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/compress-images-for-wordpress</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/compress-images-for-wordpress</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A plugin-free guide to compressing WordPress images before upload, improving load speed and preserving image quality.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>Modern Web Image Formats Explained</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/modern-web-image-formats</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/modern-web-image-formats</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Understand format and encoder differences, output verification, transparency, and compatibility before choosing web image files.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+    <item>
+      <title>The Future of Image Optimization for the Web</title>
+      <link>https://ai-tools-by-huzaifa.vercel.app/blog/future-of-image-optimization</link>
+      <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/future-of-image-optimization</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Evaluate new image encoders and automated delivery with a controlled trial, clear acceptance criteria, and a reversible rollout.</description>
+      <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
+      <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
+    </item>
+  </channel>
+</rss>
