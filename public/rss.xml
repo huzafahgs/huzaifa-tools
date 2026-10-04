@@ -877,7 +877,7 @@
       <link>https://ai-tools-by-huzaifa.vercel.app/blog/read-url-host-query-and-fragment</link>
       <guid isPermaLink="true">https://ai-tools-by-huzaifa.vercel.app/blog/read-url-host-query-and-fragment</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Parse an absolute URL without visiting it. Check the hostname, port, path, query parameters and fragment, including repeated and encoded values.</description>
+      <description>Parse an HTTP or HTTPS URL without visiting it. Check its origin, hostname, port, path, repeated parameters, fragment and credential warning.</description>
       <enclosure url="https://ai-tools-by-huzaifa.vercel.app/logo.png" type="image/png" />
       <media:content url="https://ai-tools-by-huzaifa.vercel.app/logo.png" medium="image" />
     </item>

@@ -517,7 +517,7 @@ const tools = [
     name: "URL Parser",
     slug: "url-parser",
     icon: "🔎",
-    description: "Parse URLs into protocol, host, path, and parameters.",
+    description: "Inspect a web URL's origin, hostname, path, parameters, fragment, and credential warning.",
     category: "Developer"
   },
   {

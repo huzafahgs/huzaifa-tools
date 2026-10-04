@@ -3624,27 +3624,31 @@ export const expandedGuideTopics = [
   "articleSlug": "read-url-host-query-and-fragment",
   "title": "URL Parser: Check the Host, Query String and Fragment",
   "metaTitle": "URL Parser: Host, Query String & Fragment | Huzaifa Tools",
-  "metaDescription": "Parse an absolute URL without visiting it. Check the hostname, port, path, query parameters and fragment, including repeated and encoded values.",
+  "metaDescription": "Parse an HTTP or HTTPS URL without visiting it. Check its origin, hostname, port, path, repeated parameters, fragment and credential warning.",
   "primaryKeyword": "url parser",
   "searchIntent": "Inspect the structure of an absolute URL without fetching its destination",
   "secondaryTopics": [
     "URL Encoder/Decoder",
-    "QR Code Generator"
+    "QR Code Generator",
+    "QR Code Scanner"
   ],
   "longTailQuestions": [
     "Does parsing open the website?",
     "Can I paste only a relative path?",
-    "Does a valid parsed URL mean the link is safe?"
+    "Does a valid parsed URL mean the link is safe?",
+    "What happens when a URL contains credentials?"
   ],
   "category": "Developer Guides",
   "relatedTools": [
     "url-parser",
     "url-encoder",
-    "qr-code-generator"
+    "qr-code-generator",
+    "qr-code-scanner"
   ],
   "relatedArticles": [
     "percent-encode-a-url-component",
-    "create-a-qr-code-and-verify-its-destination"
+    "create-a-qr-code-and-verify-its-destination",
+    "scan-a-qr-code-and-review-the-decoded-text"
   ],
   "faq": [
     {
@@ -3658,9 +3662,13 @@ export const expandedGuideTopics = [
     {
       "question": "Does a valid parsed URL mean the link is safe?",
       "answer": "No. Parsing checks structure, not reputation, ownership or content. Treat those as separate questions."
+    },
+    {
+      "question": "What happens when a URL contains credentials?",
+      "answer": "The result warns that credentials are present without repeating their values. Remove embedded credentials before sharing the address, and rotate any real secret that was exposed."
     }
   ],
-  "wordCount": 657
+  "wordCount": 900
 }, content: () => import("./blogPosts/read-url-host-query-and-fragment.js").then(m => m.default)},
   {...{
   "id": 58,

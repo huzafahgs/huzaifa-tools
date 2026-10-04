@@ -37,7 +37,7 @@ Updated: 2026-10-02
 | 11 | Improve existing | Rotate versus flip: mirrored text and EXIF orientation | Image Rotate/Flip | Phase 2 impressions and position 6.3; improve the proven page before adding another | Priority update |
 | 12 | Improve existing | Simple interest: years, months and rate-unit checks | Simple Interest | Phase 2: 21 impressions, position 9.0 | Refreshed in third batch |
 | 13 | Improve existing | Running pace: distance units, elapsed time and treadmill checks | Pace Calculator | Relevant queries near positions 9–11 | Priority update |
-| 14 | Improve existing | URL parts: origin, path, query, fragment and encoding | URL Parser | Phase 2 position 8.9 | Priority update |
+| 14 | Improve existing | URL parts: origin, path, query, fragment and encoding | URL Parser | Phase 2 position 8.9 | Refreshed with parser-quality fixes |
 | 15 | Improve links | Add contextual incoming links to orphan calculator guides | Tip, mortgage, ideal weight, uptime | Existing useful pages lack related-article discovery | Approved maintenance |
 | 16 | Improve links | Connect orphan developer guides to adjacent workflows | Cron, CSV/JSON, regex, SQL, minifier | Existing content before new pages | Approved maintenance |
 | 17 | Consolidate/refresh | Modern image formats cluster | Image Converter, Compressor | Several legacy articles overlap WebP/AVIF/format-choice intent | Research before changes |
