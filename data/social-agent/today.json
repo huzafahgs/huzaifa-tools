@@ -1,31 +1,31 @@
 {
-  "id": "2026-10-03-pdf-merger",
-  "date": "2026-10-03",
+  "id": "2026-10-04-image-resizer",
+  "date": "2026-10-04",
   "version": 2,
   "tool": {
-    "name": "PDF Merger",
-    "slug": "pdf-merger",
-    "category": "PDF",
-    "description": "Combine multiple PDF files in a chosen order and download one merged document. Processing stays in your browser."
+    "name": "Image Resizer",
+    "slug": "image-resizer",
+    "category": "Image",
+    "description": "Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser."
   },
   "lesson": {
-    "hook": "Need to work with a PDF?",
-    "problem": "Prepare a PDF task and verify the downloaded pages",
-    "action": "Choose two or more PDFs (up to 20 files)",
-    "check": "Use the up/down controls to arrange the file order",
-    "takeaway": "Create the PDF output, download it and check the page order",
+    "hook": "Need to adjust an image?",
+    "problem": "Adjust an image and inspect the exported file",
+    "action": "Choose a supported image",
+    "check": "Set width or height; keep aspect ratio enabled to retain proportions",
+    "takeaway": "Create a preview and download the result",
     "factualBasis": [
-      "Combine multiple PDF files in a chosen order and download one merged document. Processing stays in your browser.",
-      "Choose two or more PDFs (up to 20 files).",
-      "Use the up/down controls to arrange the file order.",
-      "Create the PDF output, download it and check the page order."
+      "Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser.",
+      "Choose a supported image.",
+      "Set width or height; keep aspect ratio enabled to retain proportions.",
+      "Create a preview and download the result."
     ]
   },
   "score": {
-    "total": 15.91,
+    "total": 15,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 16,
+      "catalogUtility": 15,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
@@ -40,67 +40,67 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Merge PDF Files in the Right Order: A Practical Assembly Guide",
-      "slug": "merge-pdf-files-in-order",
-      "primaryKeyword": "merge PDF files in order"
+      "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
+      "slug": "crop-image-by-pixel-coordinates",
+      "primaryKeyword": "crop image by pixel coordinates"
     },
     {
-      "title": "Split a PDF by Page Ranges: Plan and Check Separate Documents",
-      "slug": "split-pdf-by-page-ranges",
-      "primaryKeyword": "split PDF by page ranges"
+      "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
+      "slug": "convert-images-to-jpeg-png-or-webp",
+      "primaryKeyword": "image converter"
     },
     {
-      "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
-      "slug": "images-to-a4-pdf",
-      "primaryKeyword": "images to A4 PDF"
+      "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
+      "slug": "resize-image-pixel-dimensions-with-aspect-ratio",
+      "primaryKeyword": "image resizer"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_social",
   "facebook": {
-    "title": "Prepare a PDF task and verify the downloaded pages: PDF Merger",
-    "hook": "Need to work with a PDF?",
-    "message": "QUICK WALKTHROUGH · PDF Merger\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
-    "caption": "QUICK WALKTHROUGH · PDF Merger\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "title": "Adjust an image and inspect the exported file: Image Resizer",
+    "hook": "Need to adjust an image?",
+    "message": "QUICK WALKTHROUGH · Image Resizer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "caption": "QUICK WALKTHROUGH · Image Resizer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
     "keywords": [
-      "PDF Merger",
-      "PDF tool",
+      "Image Resizer",
+      "Image tool",
       "Huzaifa Tools",
-      "pdf",
-      "merger",
+      "image",
+      "resizer",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools"
+      "#ImageTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Merger."
+        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Resizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose two or more PDFs (up to 20 files)"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-        "voiceover": "Use the up/down controls to arrange the file order"
+        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
       },
       {
         "seconds": "20–25",
@@ -111,50 +111,50 @@
     ]
   },
   "instagram": {
-    "title": "Need to work with a PDF · PDF Merger",
-    "hook": "Need to work with a PDF?",
-    "caption": "Need to work with a PDF? Here is a short, practical demo of PDF Merger.\n\nChoose two or more PDFs (up to 20 files) Create the PDF output, download it and check the page order\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
+    "title": "Need to adjust an image · Image Resizer",
+    "hook": "Need to adjust an image?",
+    "caption": "Need to adjust an image? Here is a short, practical demo of Image Resizer.\n\nChoose a supported image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
     "keywords": [
-      "PDF Merger",
-      "PDF tool",
+      "Image Resizer",
+      "Image tool",
       "Huzaifa Tools",
-      "pdf",
-      "merger",
+      "image",
+      "resizer",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools",
+      "#ImageTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Merger."
+        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Resizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose two or more PDFs (up to 20 files)"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-        "voiceover": "Use the up/down controls to arrange the file order"
+        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
       },
       {
         "seconds": "20–25",
@@ -163,53 +163,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-03-pdf-merger.jpg"
+    "imagePath": "assets/2026-10-04-image-resizer.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to work with a PDF | PDF Merger #Shorts",
-    "hook": "Need to work with a PDF?",
-    "description": "Prepare a PDF task and verify the downloaded pages. Choose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
+    "title": "Need to adjust an image | Image Resizer #Shorts",
+    "hook": "Need to adjust an image?",
+    "description": "Adjust an image and inspect the exported file. Choose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
     "keywords": [
-      "PDF Merger",
-      "PDF tool",
+      "Image Resizer",
+      "Image tool",
       "Huzaifa Tools",
-      "pdf",
-      "merger",
+      "image",
+      "resizer",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#PDFTools"
+      "#ImageTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Merger."
+        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Resizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose two or more PDFs (up to 20 files)"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-        "voiceover": "Use the up/down controls to arrange the file order"
+        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
       },
       {
         "seconds": "20–25",
@@ -236,25 +236,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Merger."
+        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Resizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose two or more PDFs (up to 20 files)"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-        "voiceover": "Use the up/down controls to arrange the file order"
+        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
       },
       {
         "seconds": "20–25",
@@ -269,25 +269,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF Merger."
+          "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Resizer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose two or more PDFs (up to 20 files)"
+          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a supported image"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-          "voiceover": "Use the up/down controls to arrange the file order"
+          "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+          "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
         },
         {
           "seconds": "20–25",
@@ -301,25 +301,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF Merger."
+          "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Resizer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose two or more PDFs (up to 20 files)"
+          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a supported image"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-          "voiceover": "Use the up/down controls to arrange the file order"
+          "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+          "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
         },
         {
           "seconds": "20–25",
@@ -333,25 +333,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF Merger."
+          "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Resizer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose two or more PDFs (up to 20 files)"
+          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a supported image"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-          "voiceover": "Use the up/down controls to arrange the file order"
+          "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
+          "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
         },
         {
           "seconds": "20–25",
@@ -363,13 +363,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-03-pdf-merger.jpg",
-    "alt": "PDF Merger practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-04-image-resizer.jpg",
+    "alt": "Image Resizer practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-03T16:55:40.782Z",
+  "createdAt": "2026-10-04T17:13:41.586Z",
   "contentHashes": {
-    "facebook": "35302a28",
-    "instagram": "286ffce2",
-    "youtube": "4161e2bc"
+    "facebook": "4f9351b5",
+    "instagram": "26dae5d3",
+    "youtube": "40fff7b"
   }
 }

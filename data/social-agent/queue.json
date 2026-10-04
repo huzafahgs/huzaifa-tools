@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-03T16:55:40.815Z",
+  "generatedAt": "2026-10-04T17:13:41.637Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-03",
-    "end": "2026-11-01",
+    "start": "2026-10-04",
+    "end": "2026-11-02",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,393 +13,18 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "PDF": 4,
     "Image": 4,
     "Text": 4,
     "Calculator": 4,
     "Converter": 4,
     "Developer": 4,
-    "AI": 3,
+    "AI": 4,
     "Islamic": 1,
+    "PDF": 3,
     "Security": 1,
     "Generator": 1
   },
   "items": [
-    {
-      "id": "2026-10-03-pdf-merger",
-      "date": "2026-10-03",
-      "version": 2,
-      "tool": {
-        "name": "PDF Merger",
-        "slug": "pdf-merger",
-        "category": "PDF",
-        "description": "Combine multiple PDF files in a chosen order and download one merged document. Processing stays in your browser."
-      },
-      "lesson": {
-        "hook": "Need to work with a PDF?",
-        "problem": "Prepare a PDF task and verify the downloaded pages",
-        "action": "Choose two or more PDFs (up to 20 files)",
-        "check": "Use the up/down controls to arrange the file order",
-        "takeaway": "Create the PDF output, download it and check the page order",
-        "factualBasis": [
-          "Combine multiple PDF files in a chosen order and download one merged document. Processing stays in your browser.",
-          "Choose two or more PDFs (up to 20 files).",
-          "Use the up/down controls to arrange the file order.",
-          "Create the PDF output, download it and check the page order."
-        ]
-      },
-      "score": {
-        "total": 15.91,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 16,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Merge PDF Files in the Right Order: A Practical Assembly Guide",
-          "slug": "merge-pdf-files-in-order",
-          "primaryKeyword": "merge PDF files in order"
-        },
-        {
-          "title": "Split a PDF by Page Ranges: Plan and Check Separate Documents",
-          "slug": "split-pdf-by-page-ranges",
-          "primaryKeyword": "split PDF by page ranges"
-        },
-        {
-          "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
-          "slug": "images-to-a4-pdf",
-          "primaryKeyword": "images to A4 PDF"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_social",
-      "facebook": {
-        "title": "Prepare a PDF task and verify the downloaded pages: PDF Merger",
-        "hook": "Need to work with a PDF?",
-        "message": "QUICK WALKTHROUGH · PDF Merger\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
-        "caption": "QUICK WALKTHROUGH · PDF Merger\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
-        "keywords": [
-          "PDF Merger",
-          "PDF tool",
-          "Huzaifa Tools",
-          "pdf",
-          "merger",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#PDFTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to work with a PDF?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using PDF Merger."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose two or more PDFs (up to 20 files)"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the up/down controls to arrange the file order"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to work with a PDF · PDF Merger",
-        "hook": "Need to work with a PDF?",
-        "caption": "Need to work with a PDF? Here is a short, practical demo of PDF Merger.\n\nChoose two or more PDFs (up to 20 files) Create the PDF output, download it and check the page order\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
-        "keywords": [
-          "PDF Merger",
-          "PDF tool",
-          "Huzaifa Tools",
-          "pdf",
-          "merger",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#PDFTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to work with a PDF?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using PDF Merger."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose two or more PDFs (up to 20 files)"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the up/down controls to arrange the file order"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-03-pdf-merger.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to work with a PDF | PDF Merger #Shorts",
-        "hook": "Need to work with a PDF?",
-        "description": "Prepare a PDF task and verify the downloaded pages. Choose two or more PDFs (up to 20 files)\n\nUse the up/down controls to arrange the file order\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
-        "keywords": [
-          "PDF Merger",
-          "PDF tool",
-          "Huzaifa Tools",
-          "pdf",
-          "merger",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#PDFTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-merger?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261003&utm_content=pdf-merger_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to work with a PDF?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using PDF Merger."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose two or more PDFs (up to 20 files)"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the up/down controls to arrange the file order"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to work with a PDF?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using PDF Merger."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose two or more PDFs (up to 20 files)"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the up/down controls to arrange the file order"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to work with a PDF?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using PDF Merger."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose two or more PDFs (up to 20 files)"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-              "voiceover": "Use the up/down controls to arrange the file order"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to work with a PDF?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using PDF Merger."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose two or more PDFs (up to 20 files)"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-              "voiceover": "Use the up/down controls to arrange the file order"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to work with a PDF?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for PDF Merger and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using PDF Merger."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose two or more PDFs (up to 20 files) Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose two or more PDFs (up to 20 files)"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use the up/down controls to arrange the file order Pause long enough for viewers to read the real result.",
-              "voiceover": "Use the up/down controls to arrange the file order"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-03-pdf-merger.jpg",
-        "alt": "PDF Merger practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-03T16:55:40.782Z",
-      "contentHashes": {
-        "facebook": "35302a28",
-        "instagram": "286ffce2",
-        "youtube": "4161e2bc"
-      }
-    },
     {
       "id": "2026-10-04-image-resizer",
       "date": "2026-10-04",
@@ -768,7 +393,7 @@
         "imagePath": "assets/2026-10-04-image-resizer.jpg",
         "alt": "Image Resizer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.785Z",
+      "createdAt": "2026-10-04T17:13:41.586Z",
       "contentHashes": {
         "facebook": "4f9351b5",
         "instagram": "26dae5d3",
@@ -1140,7 +765,7 @@
         "imagePath": "assets/2026-10-05-character-counter.jpg",
         "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.786Z",
+      "createdAt": "2026-10-04T17:13:41.589Z",
       "contentHashes": {
         "facebook": "3b3dad75",
         "instagram": "fd2cc1e1",
@@ -1507,7 +1132,7 @@
         "imagePath": "assets/2026-10-06-bmi-calculator.jpg",
         "alt": "BMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.787Z",
+      "createdAt": "2026-10-04T17:13:41.591Z",
       "contentHashes": {
         "facebook": "4f04db23",
         "instagram": "bd6bea1e",
@@ -1879,7 +1504,7 @@
         "imagePath": "assets/2026-10-07-unit-converter.jpg",
         "alt": "Unit Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.788Z",
+      "createdAt": "2026-10-04T17:13:41.593Z",
       "contentHashes": {
         "facebook": "408eade5",
         "instagram": "ca84c632",
@@ -2257,7 +1882,7 @@
         "imagePath": "assets/2026-10-08-json-to-csv.jpg",
         "alt": "JSON to CSV practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.789Z",
+      "createdAt": "2026-10-04T17:13:41.594Z",
       "contentHashes": {
         "facebook": "626f56f8",
         "instagram": "a0ff3e09",
@@ -2619,7 +2244,7 @@
         "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg",
         "alt": "AI Writing Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.790Z",
+      "createdAt": "2026-10-04T17:13:41.596Z",
       "contentHashes": {
         "facebook": "8dcae0dc",
         "instagram": "be2357f8",
@@ -2981,7 +2606,7 @@
         "imagePath": "assets/2026-10-10-zakat-calculator.jpg",
         "alt": "Zakat Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.792Z",
+      "createdAt": "2026-10-04T17:13:41.599Z",
       "contentHashes": {
         "facebook": "fe4455e",
         "instagram": "3c0eb9b2",
@@ -3012,7 +2637,7 @@
         ]
       },
       "score": {
-        "total": -18,
+        "total": 16,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 16,
@@ -3024,7 +2649,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3356,7 +2981,7 @@
         "imagePath": "assets/2026-10-11-pdf-splitter.jpg",
         "alt": "PDF Splitter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.793Z",
+      "createdAt": "2026-10-04T17:13:41.600Z",
       "contentHashes": {
         "facebook": "56ef1b1f",
         "instagram": "8f4c4cb3",
@@ -3731,7 +3356,7 @@
         "imagePath": "assets/2026-10-12-image-cropper.jpg",
         "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.794Z",
+      "createdAt": "2026-10-04T17:13:41.602Z",
       "contentHashes": {
         "facebook": "4b4b8434",
         "instagram": "718fd180",
@@ -4106,7 +3731,7 @@
         "imagePath": "assets/2026-10-13-text-case-converter.jpg",
         "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.794Z",
+      "createdAt": "2026-10-04T17:13:41.603Z",
       "contentHashes": {
         "facebook": "76653787",
         "instagram": "81ccd5d2",
@@ -4473,7 +4098,7 @@
         "imagePath": "assets/2026-10-14-age-calculator.jpg",
         "alt": "Age Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.795Z",
+      "createdAt": "2026-10-04T17:13:41.605Z",
       "contentHashes": {
         "facebook": "bd26afc4",
         "instagram": "1e724be8",
@@ -4840,7 +4465,7 @@
         "imagePath": "assets/2026-10-15-temperature-converter.jpg",
         "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.797Z",
+      "createdAt": "2026-10-04T17:13:41.606Z",
       "contentHashes": {
         "facebook": "c4daf77f",
         "instagram": "3aed805f",
@@ -5210,7 +4835,7 @@
         "imagePath": "assets/2026-10-16-html-minifier.jpg",
         "alt": "HTML Minifier practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.797Z",
+      "createdAt": "2026-10-04T17:13:41.608Z",
       "contentHashes": {
         "facebook": "91944507",
         "instagram": "623b9d5f",
@@ -5572,7 +5197,7 @@
         "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
         "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.798Z",
+      "createdAt": "2026-10-04T17:13:41.610Z",
       "contentHashes": {
         "facebook": "4a60873",
         "instagram": "8046b99f",
@@ -5944,7 +5569,7 @@
         "imagePath": "assets/2026-10-18-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.800Z",
+      "createdAt": "2026-10-04T17:13:41.612Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "c94adc3",
@@ -5975,7 +5600,7 @@
         ]
       },
       "score": {
-        "total": -52.08,
+        "total": -18.08,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 16,
@@ -5987,7 +5612,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6322,7 +5947,7 @@
         "imagePath": "assets/2026-10-19-pdf-page-extractor.jpg",
         "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.800Z",
+      "createdAt": "2026-10-04T17:13:41.613Z",
       "contentHashes": {
         "facebook": "19420176",
         "instagram": "61946824",
@@ -6697,7 +6322,7 @@
         "imagePath": "assets/2026-10-20-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.801Z",
+      "createdAt": "2026-10-04T17:13:41.614Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "c8b5a048",
@@ -7064,7 +6689,7 @@
         "imagePath": "assets/2026-10-21-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.802Z",
+      "createdAt": "2026-10-04T17:13:41.616Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "368c7115",
@@ -7436,7 +7061,7 @@
         "imagePath": "assets/2026-10-22-loan-calculator.jpg",
         "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.803Z",
+      "createdAt": "2026-10-04T17:13:41.617Z",
       "contentHashes": {
         "facebook": "e9ad2513",
         "instagram": "e45dcce4",
@@ -7808,7 +7433,7 @@
         "imagePath": "assets/2026-10-23-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.803Z",
+      "createdAt": "2026-10-04T17:13:41.618Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "bc135266",
@@ -8183,7 +7808,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.804Z",
+      "createdAt": "2026-10-04T17:13:41.619Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -8545,7 +8170,7 @@
         "imagePath": "assets/2026-10-25-ai-email-generator.jpg",
         "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.805Z",
+      "createdAt": "2026-10-04T17:13:41.620Z",
       "contentHashes": {
         "facebook": "337bb2c",
         "instagram": "aa174f48",
@@ -8920,7 +8545,7 @@
         "imagePath": "assets/2026-10-26-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.807Z",
+      "createdAt": "2026-10-04T17:13:41.622Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "3602a75c",
@@ -8951,7 +8576,7 @@
         ]
       },
       "score": {
-        "total": -86.08,
+        "total": -52.08,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 16,
@@ -8963,7 +8588,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9293,7 +8918,7 @@
         "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.808Z",
+      "createdAt": "2026-10-04T17:13:41.624Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "a2166a04",
@@ -9666,7 +9291,7 @@
         "imagePath": "assets/2026-10-28-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.809Z",
+      "createdAt": "2026-10-04T17:13:41.626Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "2564f1bd",
@@ -10038,7 +9663,7 @@
         "imagePath": "assets/2026-10-29-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.811Z",
+      "createdAt": "2026-10-04T17:13:41.628Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "516a0aac",
@@ -10405,7 +10030,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.812Z",
+      "createdAt": "2026-10-04T17:13:41.631Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -10777,7 +10402,7 @@
         "imagePath": "assets/2026-10-31-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.814Z",
+      "createdAt": "2026-10-04T17:13:41.633Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "36e1ffc1",
@@ -11152,11 +10777,373 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-03T16:55:40.815Z",
+      "createdAt": "2026-10-04T17:13:41.635Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
         "youtube": "e3139fa9"
+      }
+    },
+    {
+      "id": "2026-11-02-ai-prompt-generator",
+      "date": "2026-11-02",
+      "version": 2,
+      "tool": {
+        "name": "AI Prompt Generator & Improver",
+        "slug": "ai-prompt-generator",
+        "category": "AI",
+        "description": "Turn a rough goal into a structured prompt with context and constraints. AI generation requires sign-in and service availability."
+      },
+      "lesson": {
+        "hook": "Want a draft you can actually review?",
+        "problem": "Turn a clear brief into a draft that you can review",
+        "action": "Give the actual goal rather than asking the model to act as an impressive expert",
+        "check": "Name the output format and constraints you can verify",
+        "takeaway": "Use the result as a brief in your preferred assistant. Different models and available features can produce different answers",
+        "factualBasis": [
+          "Turn a rough goal into a structured prompt with context and constraints. AI generation requires sign-in and service availability.",
+          "Give the actual goal rather than asking the model to act as an impressive expert.",
+          "Name the output format and constraints you can verify.",
+          "Use the result as a brief in your preferred assistant. Different models and available features can produce different answers."
+        ]
+      },
+      "score": {
+        "total": -86,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 13,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 0,
+            "editorialGapBoost": 3
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261102&utm_content=ai-prompt-generator_social",
+      "facebook": {
+        "title": "Turn a clear brief into a draft that you can review: AI Prompt Generator & Improver",
+        "hook": "Want a draft you can actually review?",
+        "message": "QUICK WALKTHROUGH · AI Prompt Generator & Improver\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "caption": "QUICK WALKTHROUGH · AI Prompt Generator & Improver\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "keywords": [
+          "AI Prompt Generator & Improver",
+          "AI tool",
+          "Huzaifa Tools",
+          "ai",
+          "prompt",
+          "generator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#AITools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261102&utm_content=ai-prompt-generator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+            "voiceover": "Name the output format and constraints you can verify"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Want a draft you can actually review · AI Prompt Generator & Improver",
+        "hook": "Want a draft you can actually review?",
+        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Prompt Generator & Improver.\n\nGive the actual goal rather than asking the model to act as an impressive expert Use the result as a brief in your preferred assistant. Different models and available features can produce different answers\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261102&utm_content=ai-prompt-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+        "keywords": [
+          "AI Prompt Generator & Improver",
+          "AI tool",
+          "Huzaifa Tools",
+          "ai",
+          "prompt",
+          "generator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#AITools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261102&utm_content=ai-prompt-generator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+            "voiceover": "Name the output format and constraints you can verify"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Want a draft you can actually review | AI Prompt Generator & Improver #Shorts",
+        "hook": "Want a draft you can actually review?",
+        "description": "Turn a clear brief into a draft that you can review. Give the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261102&utm_content=ai-prompt-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+        "keywords": [
+          "AI Prompt Generator & Improver",
+          "AI tool",
+          "Huzaifa Tools",
+          "ai",
+          "prompt",
+          "generator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#AITools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261102&utm_content=ai-prompt-generator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+            "voiceover": "Name the output format and constraints you can verify"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+            "voiceover": "Name the output format and constraints you can verify"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Want a draft you can actually review?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+              "voiceover": "Name the output format and constraints you can verify"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Want a draft you can actually review?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+              "voiceover": "Name the output format and constraints you can verify"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Want a draft you can actually review?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+              "voiceover": "Name the output format and constraints you can verify"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg",
+        "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-04T17:13:41.637Z",
+      "contentHashes": {
+        "facebook": "91562e62",
+        "instagram": "38b241d",
+        "youtube": "c2a009ef"
       }
     }
   ]
