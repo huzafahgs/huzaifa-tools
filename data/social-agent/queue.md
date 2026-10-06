@@ -1,13 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-04 to 2026-11-02 (Asia/Karachi)
+Window: 2026-10-06 to 2026-11-04 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-04 | Image Resizer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-05 | Character Counter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-06 | BMI Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-07 | Unit Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-08 | JSON to CSV | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -15,7 +13,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-10-10 | Zakat Calculator | Islamic | Checking a Zakat estimate? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-11 | PDF Splitter | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-12 | Image Cropper | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-13 | Text Case Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-13 | Character Counter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-14 | Age Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-15 | Temperature Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-16 | HTML Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -23,7 +21,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-10-18 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-19 | PDF Page Extractor | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-20 | Image Converter | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-21 | Text Reverser | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-21 | Text Case Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-22 | Loan Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-23 | Weight Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-24 | CSS Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -31,211 +29,13 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-10-26 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-27 | Images to PDF | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-28 | Image Metadata Viewer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-29 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-29 | Text Reverser | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-30 | EMI Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-31 | Length Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-01 | JavaScript Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-02 | AI Prompt Generator & Improver | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-04 · Image Resizer
-
-**Category:** Image · **Tool:** Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser.
-
-**Hook:** Need to adjust an image?
-
-**Useful action:** Choose a supported image
-
-**Check:** Set width or height; keep aspect ratio enabled to retain proportions
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Adjust an image and inspect the exported file: Image Resizer
-
-QUICK WALKTHROUGH · Image Resizer
-
-Adjust an image and inspect the exported file.
-
-Choose a supported image
-
-Set width or height; keep aspect ratio enabled to retain proportions
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #ImageTools
-
-**Keywords:** Image Resizer, Image tool, Huzaifa Tools, image, resizer, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_facebook
-
-### Instagram Reels
-
-**Title:** Need to adjust an image · Image Resizer
-
-Need to adjust an image? Here is a short, practical demo of Image Resizer.
-
-Choose a supported image Create a preview and download the result
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #ImageTools #QuickTutorial
-
-**Keywords:** Image Resizer, Image tool, Huzaifa Tools, image, resizer, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to adjust an image | Image Resizer #Shorts
-
-Adjust an image and inspect the exported file. Choose a supported image
-
-Set width or height; keep aspect ratio enabled to retain proportions
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #ImageTools
-
-**Keywords:** Image Resizer, Image tool, Huzaifa Tools, image, resizer, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Resizer and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Resizer.”
-- **7–14s · Demonstrate:** Choose a supported image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a supported image”
-- **14–20s · Teach a check:** Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result. Voiceover: “Set width or height; keep aspect ratio enabled to retain proportions”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Resizer and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Resizer.”
-- **7–14s · Demonstrate:** Choose a supported image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a supported image”
-- **14–20s · Teach a check:** Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result. Voiceover: “Set width or height; keep aspect ratio enabled to retain proportions”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Resizer and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Resizer.”
-- **7–14s · Demonstrate:** Choose a supported image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a supported image”
-- **14–20s · Teach a check:** Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result. Voiceover: “Set width or height; keep aspect ratio enabled to retain proportions”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-04-image-resizer.jpg
-
----
-
-## 2026-10-05 · Character Counter
-
-**Category:** Text · **Tool:** Count characters with and without spaces.
-
-**Hook:** Working through a text task?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Work through a small text task and check the result: Character Counter
-
-QUICK WALKTHROUGH · Character Counter
-
-Work through a small text task and check the result.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #TextTools
-
-**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_facebook
-
-### Instagram Reels
-
-**Title:** Working through a text task · Character Counter
-
-Working through a text task? Here is a short, practical demo of Character Counter.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #TextTools #QuickTutorial
-
-**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Working through a text task | Character Counter #Shorts
-
-Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #TextTools
-
-**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-05-character-counter.jpg
-
----
+| 2026-11-03 | Stopwatch | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-04 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-06 · BMI Calculator
 
@@ -937,9 +737,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-13 · Text Case Converter
+## 2026-10-13 · Character Counter
 
-**Category:** Text · **Tool:** Convert text between different cases.
+**Category:** Text · **Tool:** Count characters with and without spaces.
 
 **Hook:** Working through a text task?
 
@@ -951,9 +751,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: Text Case Converter
+**Title:** Work through a small text task and check the result: Character Counter
 
-QUICK WALKTHROUGH · Text Case Converter
+QUICK WALKTHROUGH · Character Counter
 
 Work through a small text task and check the result.
 
@@ -965,54 +765,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** Text Case Converter, Text tool, Huzaifa Tools, text, case, converter, step by step, online utility
+**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · Text Case Converter
+**Title:** Working through a text task · Character Counter
 
-Working through a text task? Here is a short, practical demo of Text Case Converter.
+Working through a text task? Here is a short, practical demo of Character Counter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** Text Case Converter, Text tool, Huzaifa Tools, text, case, converter, quick tutorial, practical tip
+**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | Text Case Converter #Shorts
+**Title:** Working through a text task | Character Counter #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** Text Case Converter, Text tool, Huzaifa Tools, text, case, converter, how to, short tutorial
+**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Case Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Case Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1020,7 +820,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Case Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Case Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1028,12 +828,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Case Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Case Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-13-text-case-converter.jpg
+**JPEG preview:** assets/2026-10-13-character-counter.jpg
 
 ---
 
@@ -1737,9 +1537,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-21 · Text Reverser
+## 2026-10-21 · Text Case Converter
 
-**Category:** Text · **Tool:** Reverse text instantly.
+**Category:** Text · **Tool:** Convert text between different cases.
 
 **Hook:** Working through a text task?
 
@@ -1751,9 +1551,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: Text Reverser
+**Title:** Work through a small text task and check the result: Text Case Converter
 
-QUICK WALKTHROUGH · Text Reverser
+QUICK WALKTHROUGH · Text Case Converter
 
 Work through a small text task and check the result.
 
@@ -1765,54 +1565,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, step by step, online utility
+**Keywords:** Text Case Converter, Text tool, Huzaifa Tools, text, case, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · Text Reverser
+**Title:** Working through a text task · Text Case Converter
 
-Working through a text task? Here is a short, practical demo of Text Reverser.
+Working through a text task? Here is a short, practical demo of Text Case Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, quick tutorial, practical tip
+**Keywords:** Text Case Converter, Text tool, Huzaifa Tools, text, case, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | Text Reverser #Shorts
+**Title:** Working through a text task | Text Case Converter #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, how to, short tutorial
+**Keywords:** Text Case Converter, Text tool, Huzaifa Tools, text, case, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Case Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Case Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1820,7 +1620,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Case Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Case Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1828,12 +1628,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Case Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Case Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-21-text-reverser.jpg
+**JPEG preview:** assets/2026-10-21-text-case-converter.jpg
 
 ---
 
@@ -2537,9 +2337,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-29 · JSON Formatter
+## 2026-10-29 · Text Reverser
 
-**Category:** Text · **Tool:** Format and validate JSON code.
+**Category:** Text · **Tool:** Reverse text instantly.
 
 **Hook:** Working through a text task?
 
@@ -2551,9 +2351,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: JSON Formatter
+**Title:** Work through a small text task and check the result: Text Reverser
 
-QUICK WALKTHROUGH · JSON Formatter
+QUICK WALKTHROUGH · Text Reverser
 
 Work through a small text task and check the result.
 
@@ -2565,54 +2365,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** JSON Formatter, Text tool, Huzaifa Tools, json, formatter, step by step, online utility
+**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · JSON Formatter
+**Title:** Working through a text task · Text Reverser
 
-Working through a text task? Here is a short, practical demo of JSON Formatter.
+Working through a text task? Here is a short, practical demo of Text Reverser.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** JSON Formatter, Text tool, Huzaifa Tools, json, formatter, quick tutorial, practical tip
+**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | JSON Formatter #Shorts
+**Title:** Working through a text task | Text Reverser #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** JSON Formatter, Text tool, Huzaifa Tools, json, formatter, how to, short tutorial
+**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON Formatter and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON Formatter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -2620,7 +2420,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON Formatter and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON Formatter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -2628,12 +2428,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON Formatter and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON Formatter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-29-json-formatter.jpg
+**JPEG preview:** assets/2026-10-29-text-reverser.jpg
 
 ---
 
@@ -3034,5 +2834,205 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-02-ai-prompt-generator.jpg
+
+---
+
+## 2026-11-03 · Stopwatch
+
+**Category:** Time · **Tool:** A simple stopwatch timer.
+
+**Hook:** Need to convert a value?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Convert a value and confirm the output units or format: Stopwatch
+
+QUICK WALKTHROUGH · Stopwatch
+
+Convert a value and confirm the output units or format.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #TimeTools
+
+**Keywords:** Stopwatch, Time tool, Huzaifa Tools, stopwatch, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_facebook
+
+### Instagram Reels
+
+**Title:** Need to convert a value · Stopwatch
+
+Need to convert a value? Here is a short, practical demo of Stopwatch.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #TimeTools #QuickTutorial
+
+**Keywords:** Stopwatch, Time tool, Huzaifa Tools, stopwatch, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to convert a value | Stopwatch #Shorts
+
+Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #TimeTools
+
+**Keywords:** Stopwatch, Time tool, Huzaifa Tools, stopwatch, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Stopwatch and show its actual controls. Voiceover: “Here is a quick walkthrough using Stopwatch.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Stopwatch and show its actual controls. Voiceover: “Here is a quick walkthrough using Stopwatch.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Stopwatch and show its actual controls. Voiceover: “Here is a quick walkthrough using Stopwatch.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-03-stopwatch.jpg
+
+---
+
+## 2026-11-04 · PDF to Images
+
+**Category:** PDF · **Tool:** Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload.
+
+**Hook:** Need to work with a PDF?
+
+**Useful action:** Choose an unencrypted PDF
+
+**Check:** Select up to 10 pages, for example 1-3
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Prepare a PDF task and verify the downloaded pages: PDF to Images
+
+QUICK WALKTHROUGH · PDF to Images
+
+Prepare a PDF task and verify the downloaded pages.
+
+Choose an unencrypted PDF
+
+Select up to 10 pages, for example 1-3
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #PDFTools
+
+**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_facebook
+
+### Instagram Reels
+
+**Title:** Need to work with a PDF · PDF to Images
+
+Need to work with a PDF? Here is a short, practical demo of PDF to Images.
+
+Choose an unencrypted PDF Create images, inspect the previews and download each PNG
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #PDFTools #QuickTutorial
+
+**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to work with a PDF | PDF to Images #Shorts
+
+Prepare a PDF task and verify the downloaded pages. Choose an unencrypted PDF
+
+Select up to 10 pages, for example 1-3
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #PDFTools
+
+**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
+- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
+- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
+- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
+- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
+- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
+- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-04-pdf-to-images.jpg
 
 ---

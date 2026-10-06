@@ -1,37 +1,34 @@
 {
-  "id": "2026-10-04-image-resizer",
-  "date": "2026-10-04",
+  "id": "2026-10-06-bmi-calculator",
+  "date": "2026-10-06",
   "version": 2,
   "tool": {
-    "name": "Image Resizer",
-    "slug": "image-resizer",
-    "category": "Image",
-    "description": "Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser."
+    "name": "BMI Calculator",
+    "slug": "bmi-calculator",
+    "category": "Calculator",
+    "description": "Calculate BMI instantly."
   },
   "lesson": {
-    "hook": "Need to adjust an image?",
-    "problem": "Adjust an image and inspect the exported file",
-    "action": "Choose a supported image",
-    "check": "Set width or height; keep aspect ratio enabled to retain proportions",
-    "takeaway": "Create a preview and download the result",
+    "hook": "Checking a calculation before you use it?",
+    "problem": "Estimate a result from your own inputs and check the assumptions",
+    "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+    "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+    "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
     "factualBasis": [
-      "Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser.",
-      "Choose a supported image.",
-      "Set width or height; keep aspect ratio enabled to retain proportions.",
-      "Create a preview and download the result."
+      "Calculate BMI instantly."
     ]
   },
   "score": {
-    "total": 15,
+    "total": 7.96,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 15,
+      "catalogUtility": 8,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
+        "relatedArticleCount": 2,
         "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
@@ -40,67 +37,62 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
-      "slug": "crop-image-by-pixel-coordinates",
-      "primaryKeyword": "crop image by pixel coordinates"
+      "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
+      "slug": "bmi-metric-calculation-and-screening-limits",
+      "primaryKeyword": "bmi calculator"
     },
     {
-      "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
-      "slug": "convert-images-to-jpeg-png-or-webp",
-      "primaryKeyword": "image converter"
-    },
-    {
-      "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
-      "slug": "resize-image-pixel-dimensions-with-aspect-ratio",
-      "primaryKeyword": "image resizer"
+      "title": "Height-Based Weight Formulas Are Not a Personal Ideal",
+      "slug": "height-based-weight-formulas-and-their-limits",
+      "primaryKeyword": "ideal weight calculator"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_social",
   "facebook": {
-    "title": "Adjust an image and inspect the exported file: Image Resizer",
-    "hook": "Need to adjust an image?",
-    "message": "QUICK WALKTHROUGH · Image Resizer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-    "caption": "QUICK WALKTHROUGH · Image Resizer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "title": "Estimate a result from your own inputs and check the assumptions: BMI Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "message": "QUICK WALKTHROUGH · BMI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+    "caption": "QUICK WALKTHROUGH · BMI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
     "keywords": [
-      "Image Resizer",
-      "Image tool",
+      "BMI Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "image",
-      "resizer",
+      "bmi",
+      "calculator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools"
+      "#Calculators"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Resizer."
+        "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using BMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose a supported image"
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -111,50 +103,50 @@
     ]
   },
   "instagram": {
-    "title": "Need to adjust an image · Image Resizer",
-    "hook": "Need to adjust an image?",
-    "caption": "Need to adjust an image? Here is a short, practical demo of Image Resizer.\n\nChoose a supported image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+    "title": "Checking a calculation before you use it · BMI Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "caption": "Checking a calculation before you use it? Here is a short, practical demo of BMI Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
     "keywords": [
-      "Image Resizer",
-      "Image tool",
+      "BMI Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "image",
-      "resizer",
+      "bmi",
+      "calculator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools",
+      "#Calculators",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Resizer."
+        "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using BMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose a supported image"
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -163,53 +155,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-04-image-resizer.jpg"
+    "imagePath": "assets/2026-10-06-bmi-calculator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to adjust an image | Image Resizer #Shorts",
-    "hook": "Need to adjust an image?",
-    "description": "Adjust an image and inspect the exported file. Choose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+    "title": "Checking a calculation before you use it | BMI Calculator #Shorts",
+    "hook": "Checking a calculation before you use it?",
+    "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
     "keywords": [
-      "Image Resizer",
-      "Image tool",
+      "BMI Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "image",
-      "resizer",
+      "bmi",
+      "calculator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#ImageTools"
+      "#Calculators"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Resizer."
+        "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using BMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose a supported image"
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -236,25 +228,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Resizer."
+        "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using BMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose a supported image"
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-        "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -269,25 +261,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Resizer."
+          "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using BMI Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose a supported image"
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-          "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -301,25 +293,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Resizer."
+          "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using BMI Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose a supported image"
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-          "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -333,25 +325,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Resizer."
+          "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using BMI Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose a supported image"
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-          "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -363,13 +355,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-04-image-resizer.jpg",
-    "alt": "Image Resizer practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-06-bmi-calculator.jpg",
+    "alt": "BMI Calculator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-04T17:13:41.586Z",
+  "createdAt": "2026-10-06T18:43:35.990Z",
   "contentHashes": {
-    "facebook": "4f9351b5",
-    "instagram": "26dae5d3",
-    "youtube": "40fff7b"
+    "facebook": "4f04db23",
+    "instagram": "bd6bea1e",
+    "youtube": "7e039342"
   }
 }

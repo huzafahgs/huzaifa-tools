@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-04T17:13:41.637Z",
+  "generatedAt": "2026-10-06T18:43:36.021Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-04",
-    "end": "2026-11-02",
+    "start": "2026-10-06",
+    "end": "2026-11-04",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,765 +13,19 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Image": 4,
-    "Text": 4,
     "Calculator": 4,
     "Converter": 4,
     "Developer": 4,
     "AI": 4,
     "Islamic": 1,
-    "PDF": 3,
+    "PDF": 4,
+    "Image": 3,
+    "Text": 3,
     "Security": 1,
-    "Generator": 1
+    "Generator": 1,
+    "Time": 1
   },
   "items": [
-    {
-      "id": "2026-10-04-image-resizer",
-      "date": "2026-10-04",
-      "version": 2,
-      "tool": {
-        "name": "Image Resizer",
-        "slug": "image-resizer",
-        "category": "Image",
-        "description": "Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser."
-      },
-      "lesson": {
-        "hook": "Need to adjust an image?",
-        "problem": "Adjust an image and inspect the exported file",
-        "action": "Choose a supported image",
-        "check": "Set width or height; keep aspect ratio enabled to retain proportions",
-        "takeaway": "Create a preview and download the result",
-        "factualBasis": [
-          "Resize an image to exact pixel dimensions, preserve its aspect ratio and download a PNG, JPEG or WebP in your browser.",
-          "Choose a supported image.",
-          "Set width or height; keep aspect ratio enabled to retain proportions.",
-          "Create a preview and download the result."
-        ]
-      },
-      "score": {
-        "total": 15,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 15,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
-          "slug": "crop-image-by-pixel-coordinates",
-          "primaryKeyword": "crop image by pixel coordinates"
-        },
-        {
-          "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
-          "slug": "convert-images-to-jpeg-png-or-webp",
-          "primaryKeyword": "image converter"
-        },
-        {
-          "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
-          "slug": "resize-image-pixel-dimensions-with-aspect-ratio",
-          "primaryKeyword": "image resizer"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_social",
-      "facebook": {
-        "title": "Adjust an image and inspect the exported file: Image Resizer",
-        "hook": "Need to adjust an image?",
-        "message": "QUICK WALKTHROUGH · Image Resizer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "caption": "QUICK WALKTHROUGH · Image Resizer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Resizer",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "resizer",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Resizer."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose a supported image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-            "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to adjust an image · Image Resizer",
-        "hook": "Need to adjust an image?",
-        "caption": "Need to adjust an image? Here is a short, practical demo of Image Resizer.\n\nChoose a supported image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
-        "keywords": [
-          "Image Resizer",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "resizer",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Resizer."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose a supported image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-            "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-04-image-resizer.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to adjust an image | Image Resizer #Shorts",
-        "hook": "Need to adjust an image?",
-        "description": "Adjust an image and inspect the exported file. Choose a supported image\n\nSet width or height; keep aspect ratio enabled to retain proportions\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Resizer",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "resizer",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-resizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261004&utm_content=image-resizer_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Resizer."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose a supported image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-            "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Resizer."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose a supported image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-            "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Resizer."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose a supported image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-              "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Resizer."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose a supported image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-              "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Resizer and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Resizer."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose a supported image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Set width or height; keep aspect ratio enabled to retain proportions Pause long enough for viewers to read the real result.",
-              "voiceover": "Set width or height; keep aspect ratio enabled to retain proportions"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-04-image-resizer.jpg",
-        "alt": "Image Resizer practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-04T17:13:41.586Z",
-      "contentHashes": {
-        "facebook": "4f9351b5",
-        "instagram": "26dae5d3",
-        "youtube": "40fff7b"
-      }
-    },
-    {
-      "id": "2026-10-05-character-counter",
-      "date": "2026-10-05",
-      "version": 2,
-      "tool": {
-        "name": "Character Counter",
-        "slug": "character-counter",
-        "category": "Text",
-        "description": "Count characters with and without spaces."
-      },
-      "lesson": {
-        "hook": "Working through a text task?",
-        "problem": "Work through a small text task and check the result",
-        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-        "check": "Check the result against the requirements of your task.",
-        "takeaway": "Check the result against the requirements of your task.",
-        "factualBasis": [
-          "Count characters with and without spaces."
-        ]
-      },
-      "score": {
-        "total": 7.98,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Character Counts: Spaces, Emoji and the Limit That Actually Applies",
-          "slug": "character-count-spaces-emoji-and-lines",
-          "primaryKeyword": "character counter"
-        },
-        {
-          "title": "Use Lorem Ipsum to Test Layout, Then Replace It with Real Copy",
-          "slug": "lorem-ipsum-for-layout-testing",
-          "primaryKeyword": "lorem ipsum generator"
-        },
-        {
-          "title": "Turn Text into Written Morse Code and Check the Separators",
-          "slug": "turn-text-into-written-morse-code",
-          "primaryKeyword": "morse code converter"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_social",
-      "facebook": {
-        "title": "Work through a small text task and check the result: Character Counter",
-        "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "keywords": [
-          "Character Counter",
-          "Text tool",
-          "Huzaifa Tools",
-          "character",
-          "counter",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#TextTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Working through a text task · Character Counter",
-        "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of Character Counter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
-        "keywords": [
-          "Character Counter",
-          "Text tool",
-          "Huzaifa Tools",
-          "character",
-          "counter",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#TextTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-05-character-counter.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Working through a text task | Character Counter #Shorts",
-        "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
-        "keywords": [
-          "Character Counter",
-          "Text tool",
-          "Huzaifa Tools",
-          "character",
-          "counter",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#TextTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261005&utm_content=character-counter_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Character Counter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Character Counter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Character Counter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-05-character-counter.jpg",
-        "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-04T17:13:41.589Z",
-      "contentHashes": {
-        "facebook": "3b3dad75",
-        "instagram": "fd2cc1e1",
-        "youtube": "610bd548"
-      }
-    },
     {
       "id": "2026-10-06-bmi-calculator",
       "date": "2026-10-06",
@@ -793,7 +47,7 @@
         ]
       },
       "score": {
-        "total": 7.98,
+        "total": 7.96,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -1132,7 +386,7 @@
         "imagePath": "assets/2026-10-06-bmi-calculator.jpg",
         "alt": "BMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.591Z",
+      "createdAt": "2026-10-06T18:43:35.990Z",
       "contentHashes": {
         "facebook": "4f04db23",
         "instagram": "bd6bea1e",
@@ -1504,7 +758,7 @@
         "imagePath": "assets/2026-10-07-unit-converter.jpg",
         "alt": "Unit Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.593Z",
+      "createdAt": "2026-10-06T18:43:35.992Z",
       "contentHashes": {
         "facebook": "408eade5",
         "instagram": "ca84c632",
@@ -1882,7 +1136,7 @@
         "imagePath": "assets/2026-10-08-json-to-csv.jpg",
         "alt": "JSON to CSV practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.594Z",
+      "createdAt": "2026-10-06T18:43:35.993Z",
       "contentHashes": {
         "facebook": "626f56f8",
         "instagram": "a0ff3e09",
@@ -2244,7 +1498,7 @@
         "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg",
         "alt": "AI Writing Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.596Z",
+      "createdAt": "2026-10-06T18:43:35.994Z",
       "contentHashes": {
         "facebook": "8dcae0dc",
         "instagram": "be2357f8",
@@ -2606,7 +1860,7 @@
         "imagePath": "assets/2026-10-10-zakat-calculator.jpg",
         "alt": "Zakat Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.599Z",
+      "createdAt": "2026-10-06T18:43:35.995Z",
       "contentHashes": {
         "facebook": "fe4455e",
         "instagram": "3c0eb9b2",
@@ -2981,7 +2235,7 @@
         "imagePath": "assets/2026-10-11-pdf-splitter.jpg",
         "alt": "PDF Splitter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.600Z",
+      "createdAt": "2026-10-06T18:43:35.996Z",
       "contentHashes": {
         "facebook": "56ef1b1f",
         "instagram": "8f4c4cb3",
@@ -3012,7 +2266,7 @@
         ]
       },
       "score": {
-        "total": -19,
+        "total": 15,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 15,
@@ -3024,7 +2278,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3356,7 +2610,7 @@
         "imagePath": "assets/2026-10-12-image-cropper.jpg",
         "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.602Z",
+      "createdAt": "2026-10-06T18:43:35.997Z",
       "contentHashes": {
         "facebook": "4b4b8434",
         "instagram": "718fd180",
@@ -3364,14 +2618,14 @@
       }
     },
     {
-      "id": "2026-10-13-text-case-converter",
+      "id": "2026-10-13-character-counter",
       "date": "2026-10-13",
       "version": 2,
       "tool": {
-        "name": "Text Case Converter",
-        "slug": "text-case-converter",
+        "name": "Character Counter",
+        "slug": "character-counter",
         "category": "Text",
-        "description": "Convert text between different cases."
+        "description": "Count characters with and without spaces."
       },
       "lesson": {
         "hook": "Working through a text task?",
@@ -3380,11 +2634,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Convert text between different cases."
+          "Count characters with and without spaces."
         ]
       },
       "score": {
-        "total": -26.02,
+        "total": 7.98,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3396,40 +2650,39 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Change Text Case While Preserving Names, Acronyms and Meaning",
-          "slug": "change-text-case-with-editorial-review",
-          "primaryKeyword": "text case converter"
+          "title": "Character Counts: Spaces, Emoji and the Limit That Actually Applies",
+          "slug": "character-count-spaces-emoji-and-lines",
+          "primaryKeyword": "character counter"
         },
         {
-          "title": "Compare Text at Matching Line Positions and Interpret the Differences",
-          "slug": "compare-text-at-matching-line-positions",
-          "primaryKeyword": "text diff checker"
+          "title": "Use Lorem Ipsum to Test Layout, Then Replace It with Real Copy",
+          "slug": "lorem-ipsum-for-layout-testing",
+          "primaryKeyword": "lorem ipsum generator"
         },
         {
-          "title": "Listen to a Draft with Browser Text to Speech",
-          "slug": "listen-to-a-draft-with-browser-text-to-speech",
-          "primaryKeyword": "text to speech"
+          "title": "Turn Text into Written Morse Code and Check the Separators",
+          "slug": "turn-text-into-written-morse-code",
+          "primaryKeyword": "morse code converter"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_social",
       "facebook": {
-        "title": "Work through a small text task and check the result: Text Case Converter",
+        "title": "Work through a small text task and check the result: Character Counter",
         "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "message": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
         "keywords": [
-          "Text Case Converter",
+          "Character Counter",
           "Text tool",
           "Huzaifa Tools",
-          "text",
-          "case",
-          "converter",
+          "character",
+          "counter",
           "step by step",
           "online utility"
         ],
@@ -3438,7 +2691,7 @@
           "#TextTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -3450,8 +2703,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Case Converter."
+            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Character Counter."
           },
           {
             "seconds": "7–14",
@@ -3474,16 +2727,15 @@
         ]
       },
       "instagram": {
-        "title": "Working through a text task · Text Case Converter",
+        "title": "Working through a text task · Character Counter",
         "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of Text Case Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "caption": "Working through a text task? Here is a short, practical demo of Character Counter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
         "keywords": [
-          "Text Case Converter",
+          "Character Counter",
           "Text tool",
           "Huzaifa Tools",
-          "text",
-          "case",
-          "converter",
+          "character",
+          "counter",
           "quick tutorial",
           "practical tip"
         ],
@@ -3493,7 +2745,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -3505,8 +2757,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Case Converter."
+            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Character Counter."
           },
           {
             "seconds": "7–14",
@@ -3527,20 +2779,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-10-13-text-case-converter.jpg"
+        "imagePath": "assets/2026-10-13-character-counter.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Working through a text task | Text Case Converter #Shorts",
+        "title": "Working through a text task | Character Counter #Shorts",
         "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
         "keywords": [
-          "Text Case Converter",
+          "Character Counter",
           "Text tool",
           "Huzaifa Tools",
-          "text",
-          "case",
-          "converter",
+          "character",
+          "counter",
           "how to",
           "short tutorial"
         ],
@@ -3550,7 +2801,7 @@
           "#TextTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=text-case-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -3561,8 +2812,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Case Converter."
+            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Character Counter."
           },
           {
             "seconds": "7–14",
@@ -3606,8 +2857,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Case Converter."
+            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Character Counter."
           },
           {
             "seconds": "7–14",
@@ -3639,8 +2890,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Text Case Converter."
+              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Character Counter."
             },
             {
               "seconds": "7–14",
@@ -3671,8 +2922,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Text Case Converter."
+              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Character Counter."
             },
             {
               "seconds": "7–14",
@@ -3703,8 +2954,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Text Case Converter."
+              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Character Counter."
             },
             {
               "seconds": "7–14",
@@ -3728,14 +2979,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-10-13-text-case-converter.jpg",
-        "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-10-13-character-counter.jpg",
+        "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.603Z",
+      "createdAt": "2026-10-06T18:43:35.998Z",
       "contentHashes": {
-        "facebook": "76653787",
-        "instagram": "81ccd5d2",
-        "youtube": "6a0abd3b"
+        "facebook": "3b3dad75",
+        "instagram": "598dd89e",
+        "youtube": "9ea40dd1"
       }
     },
     {
@@ -4098,7 +3349,7 @@
         "imagePath": "assets/2026-10-14-age-calculator.jpg",
         "alt": "Age Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.605Z",
+      "createdAt": "2026-10-06T18:43:35.999Z",
       "contentHashes": {
         "facebook": "bd26afc4",
         "instagram": "1e724be8",
@@ -4465,7 +3716,7 @@
         "imagePath": "assets/2026-10-15-temperature-converter.jpg",
         "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.606Z",
+      "createdAt": "2026-10-06T18:43:36.000Z",
       "contentHashes": {
         "facebook": "c4daf77f",
         "instagram": "3aed805f",
@@ -4835,7 +4086,7 @@
         "imagePath": "assets/2026-10-16-html-minifier.jpg",
         "alt": "HTML Minifier practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.608Z",
+      "createdAt": "2026-10-06T18:43:36.001Z",
       "contentHashes": {
         "facebook": "91944507",
         "instagram": "623b9d5f",
@@ -5197,7 +4448,7 @@
         "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
         "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.610Z",
+      "createdAt": "2026-10-06T18:43:36.002Z",
       "contentHashes": {
         "facebook": "4a60873",
         "instagram": "8046b99f",
@@ -5569,7 +4820,7 @@
         "imagePath": "assets/2026-10-18-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.612Z",
+      "createdAt": "2026-10-06T18:43:36.003Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "c94adc3",
@@ -5947,7 +5198,7 @@
         "imagePath": "assets/2026-10-19-pdf-page-extractor.jpg",
         "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.613Z",
+      "createdAt": "2026-10-06T18:43:36.004Z",
       "contentHashes": {
         "facebook": "19420176",
         "instagram": "61946824",
@@ -5978,7 +5229,7 @@
         ]
       },
       "score": {
-        "total": -53,
+        "total": -19,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 15,
@@ -5990,7 +5241,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6322,7 +5573,7 @@
         "imagePath": "assets/2026-10-20-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.614Z",
+      "createdAt": "2026-10-06T18:43:36.005Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "c8b5a048",
@@ -6330,14 +5581,14 @@
       }
     },
     {
-      "id": "2026-10-21-text-reverser",
+      "id": "2026-10-21-text-case-converter",
       "date": "2026-10-21",
       "version": 2,
       "tool": {
-        "name": "Text Reverser",
-        "slug": "text-reverser",
+        "name": "Text Case Converter",
+        "slug": "text-case-converter",
         "category": "Text",
-        "description": "Reverse text instantly."
+        "description": "Convert text between different cases."
       },
       "lesson": {
         "hook": "Working through a text task?",
@@ -6346,11 +5597,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Reverse text instantly."
+          "Convert text between different cases."
         ]
       },
       "score": {
-        "total": -60.02,
+        "total": -26.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -6359,37 +5610,43 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 2,
+            "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Turn Text into Written Morse Code and Check the Separators",
-          "slug": "turn-text-into-written-morse-code",
-          "primaryKeyword": "morse code converter"
+          "title": "Change Text Case While Preserving Names, Acronyms and Meaning",
+          "slug": "change-text-case-with-editorial-review",
+          "primaryKeyword": "text case converter"
         },
         {
-          "title": "Reverse Characters, Words or Lines: Three Different Text Operations",
-          "slug": "reverse-characters-words-or-lines",
-          "primaryKeyword": "text reverser"
+          "title": "Compare Text at Matching Line Positions and Interpret the Differences",
+          "slug": "compare-text-at-matching-line-positions",
+          "primaryKeyword": "text diff checker"
+        },
+        {
+          "title": "Listen to a Draft with Browser Text to Speech",
+          "slug": "listen-to-a-draft-with-browser-text-to-speech",
+          "primaryKeyword": "text to speech"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_social",
       "facebook": {
-        "title": "Work through a small text task and check the result: Text Reverser",
+        "title": "Work through a small text task and check the result: Text Case Converter",
         "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "message": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
         "keywords": [
-          "Text Reverser",
+          "Text Case Converter",
           "Text tool",
           "Huzaifa Tools",
           "text",
-          "reverser",
+          "case",
+          "converter",
           "step by step",
           "online utility"
         ],
@@ -6398,7 +5655,7 @@
           "#TextTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -6410,8 +5667,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Reverser."
+            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Case Converter."
           },
           {
             "seconds": "7–14",
@@ -6434,15 +5691,16 @@
         ]
       },
       "instagram": {
-        "title": "Working through a text task · Text Reverser",
+        "title": "Working through a text task · Text Case Converter",
         "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of Text Reverser.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "caption": "Working through a text task? Here is a short, practical demo of Text Case Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
         "keywords": [
-          "Text Reverser",
+          "Text Case Converter",
           "Text tool",
           "Huzaifa Tools",
           "text",
-          "reverser",
+          "case",
+          "converter",
           "quick tutorial",
           "practical tip"
         ],
@@ -6452,7 +5710,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -6464,8 +5722,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Reverser."
+            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Case Converter."
           },
           {
             "seconds": "7–14",
@@ -6486,19 +5744,20 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-10-21-text-reverser.jpg"
+        "imagePath": "assets/2026-10-21-text-case-converter.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Working through a text task | Text Reverser #Shorts",
+        "title": "Working through a text task | Text Case Converter #Shorts",
         "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
         "keywords": [
-          "Text Reverser",
+          "Text Case Converter",
           "Text tool",
           "Huzaifa Tools",
           "text",
-          "reverser",
+          "case",
+          "converter",
           "how to",
           "short tutorial"
         ],
@@ -6508,7 +5767,7 @@
           "#TextTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-reverser_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -6519,8 +5778,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Reverser."
+            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Case Converter."
           },
           {
             "seconds": "7–14",
@@ -6564,8 +5823,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Text Reverser."
+            "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Case Converter."
           },
           {
             "seconds": "7–14",
@@ -6597,8 +5856,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Text Reverser."
+              "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Text Case Converter."
             },
             {
               "seconds": "7–14",
@@ -6629,8 +5888,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Text Reverser."
+              "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Text Case Converter."
             },
             {
               "seconds": "7–14",
@@ -6661,8 +5920,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Text Reverser."
+              "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Text Case Converter."
             },
             {
               "seconds": "7–14",
@@ -6686,14 +5945,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-10-21-text-reverser.jpg",
-        "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-10-21-text-case-converter.jpg",
+        "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.616Z",
+      "createdAt": "2026-10-06T18:43:36.006Z",
       "contentHashes": {
-        "facebook": "f2a62d47",
-        "instagram": "368c7115",
-        "youtube": "40a3492"
+        "facebook": "76653787",
+        "instagram": "ef0f431f",
+        "youtube": "ab896428"
       }
     },
     {
@@ -7061,7 +6320,7 @@
         "imagePath": "assets/2026-10-22-loan-calculator.jpg",
         "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.617Z",
+      "createdAt": "2026-10-06T18:43:36.006Z",
       "contentHashes": {
         "facebook": "e9ad2513",
         "instagram": "e45dcce4",
@@ -7433,7 +6692,7 @@
         "imagePath": "assets/2026-10-23-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.618Z",
+      "createdAt": "2026-10-06T18:43:36.007Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "bc135266",
@@ -7808,7 +7067,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.619Z",
+      "createdAt": "2026-10-06T18:43:36.008Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -8170,7 +7429,7 @@
         "imagePath": "assets/2026-10-25-ai-email-generator.jpg",
         "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.620Z",
+      "createdAt": "2026-10-06T18:43:36.008Z",
       "contentHashes": {
         "facebook": "337bb2c",
         "instagram": "aa174f48",
@@ -8545,7 +7804,7 @@
         "imagePath": "assets/2026-10-26-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.622Z",
+      "createdAt": "2026-10-06T18:43:36.010Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "3602a75c",
@@ -8918,7 +8177,7 @@
         "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.624Z",
+      "createdAt": "2026-10-06T18:43:36.010Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "a2166a04",
@@ -8949,7 +8208,7 @@
         ]
       },
       "score": {
-        "total": -87,
+        "total": -53,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 15,
@@ -8961,7 +8220,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9291,7 +8550,7 @@
         "imagePath": "assets/2026-10-28-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.626Z",
+      "createdAt": "2026-10-06T18:43:36.011Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "2564f1bd",
@@ -9299,14 +8558,14 @@
       }
     },
     {
-      "id": "2026-10-29-json-formatter",
+      "id": "2026-10-29-text-reverser",
       "date": "2026-10-29",
       "version": 2,
       "tool": {
-        "name": "JSON Formatter",
-        "slug": "json-formatter",
+        "name": "Text Reverser",
+        "slug": "text-reverser",
         "category": "Text",
-        "description": "Format and validate JSON code."
+        "description": "Reverse text instantly."
       },
       "lesson": {
         "hook": "Working through a text task?",
@@ -9315,11 +8574,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Format and validate JSON code."
+          "Reverse text instantly."
         ]
       },
       "score": {
-        "total": -94.02,
+        "total": -60.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -9328,42 +8587,37 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 3,
+            "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Convert Flat JSON to CSV: Columns, Quoting, and Spreadsheet Checks",
-          "slug": "json-to-csv-flat-data",
-          "primaryKeyword": "convert flat JSON to CSV"
+          "title": "Turn Text into Written Morse Code and Check the Separators",
+          "slug": "turn-text-into-written-morse-code",
+          "primaryKeyword": "morse code converter"
         },
         {
-          "title": "Format JavaScript Without Executing It: A Practical Review Workflow",
-          "slug": "format-javascript-without-executing",
-          "primaryKeyword": "format JavaScript without executing it"
-        },
-        {
-          "title": "CSV Rows to JSON Objects: Headers, Quotes and Type Checks",
-          "slug": "csv-rows-to-json-objects",
-          "primaryKeyword": "csv to json"
+          "title": "Reverse Characters, Words or Lines: Three Different Text Operations",
+          "slug": "reverse-characters-words-or-lines",
+          "primaryKeyword": "text reverser"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_social",
       "facebook": {
-        "title": "Work through a small text task and check the result: JSON Formatter",
+        "title": "Work through a small text task and check the result: Text Reverser",
         "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · JSON Formatter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · JSON Formatter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "message": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
         "keywords": [
-          "JSON Formatter",
+          "Text Reverser",
           "Text tool",
           "Huzaifa Tools",
-          "json",
-          "formatter",
+          "text",
+          "reverser",
           "step by step",
           "online utility"
         ],
@@ -9372,7 +8626,7 @@
           "#TextTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -9384,8 +8638,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Reverser."
           },
           {
             "seconds": "7–14",
@@ -9408,15 +8662,15 @@
         ]
       },
       "instagram": {
-        "title": "Working through a text task · JSON Formatter",
+        "title": "Working through a text task · Text Reverser",
         "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of JSON Formatter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "caption": "Working through a text task? Here is a short, practical demo of Text Reverser.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
         "keywords": [
-          "JSON Formatter",
+          "Text Reverser",
           "Text tool",
           "Huzaifa Tools",
-          "json",
-          "formatter",
+          "text",
+          "reverser",
           "quick tutorial",
           "practical tip"
         ],
@@ -9426,7 +8680,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -9438,8 +8692,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Reverser."
           },
           {
             "seconds": "7–14",
@@ -9460,19 +8714,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-10-29-json-formatter.jpg"
+        "imagePath": "assets/2026-10-29-text-reverser.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Working through a text task | JSON Formatter #Shorts",
+        "title": "Working through a text task | Text Reverser #Shorts",
         "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
         "keywords": [
-          "JSON Formatter",
+          "Text Reverser",
           "Text tool",
           "Huzaifa Tools",
-          "json",
-          "formatter",
+          "text",
+          "reverser",
           "how to",
           "short tutorial"
         ],
@@ -9482,7 +8736,7 @@
           "#TextTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=json-formatter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -9493,8 +8747,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Reverser."
           },
           {
             "seconds": "7–14",
@@ -9538,8 +8792,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Text Reverser."
           },
           {
             "seconds": "7–14",
@@ -9571,8 +8825,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using JSON Formatter."
+              "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Text Reverser."
             },
             {
               "seconds": "7–14",
@@ -9603,8 +8857,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using JSON Formatter."
+              "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Text Reverser."
             },
             {
               "seconds": "7–14",
@@ -9635,8 +8889,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using JSON Formatter."
+              "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Text Reverser."
             },
             {
               "seconds": "7–14",
@@ -9660,14 +8914,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-10-29-json-formatter.jpg",
-        "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-10-29-text-reverser.jpg",
+        "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.628Z",
+      "createdAt": "2026-10-06T18:43:36.012Z",
       "contentHashes": {
-        "facebook": "e60b913e",
-        "instagram": "516a0aac",
-        "youtube": "5ef12086"
+        "facebook": "f2a62d47",
+        "instagram": "9a52ca0d",
+        "youtube": "5604512a"
       }
     },
     {
@@ -10030,7 +9284,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.631Z",
+      "createdAt": "2026-10-06T18:43:36.013Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -10402,7 +9656,7 @@
         "imagePath": "assets/2026-10-31-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.633Z",
+      "createdAt": "2026-10-06T18:43:36.015Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "36e1ffc1",
@@ -10777,7 +10031,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.635Z",
+      "createdAt": "2026-10-06T18:43:36.016Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -11139,11 +10393,748 @@
         "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-04T17:13:41.637Z",
+      "createdAt": "2026-10-06T18:43:36.017Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "38b241d",
         "youtube": "c2a009ef"
+      }
+    },
+    {
+      "id": "2026-11-03-stopwatch",
+      "date": "2026-11-03",
+      "version": 2,
+      "tool": {
+        "name": "Stopwatch",
+        "slug": "stopwatch",
+        "category": "Time",
+        "description": "A simple stopwatch timer."
+      },
+      "lesson": {
+        "hook": "Need to convert a value?",
+        "problem": "Convert a value and confirm the output units or format",
+        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+        "check": "Check the result against the requirements of your task.",
+        "takeaway": "Check the result against the requirements of your task.",
+        "factualBasis": [
+          "A simple stopwatch timer."
+        ]
+      },
+      "score": {
+        "total": 4.95,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 5,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 2,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 0
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Browser Stopwatch Laps and the Limits of Interval Timing",
+          "slug": "browser-stopwatch-laps-and-timing-drift",
+          "primaryKeyword": "stopwatch"
+        },
+        {
+          "title": "Set a Browser Countdown and Keep Its Timing Limits in View",
+          "slug": "set-a-browser-countdown-and-check-its-limits",
+          "primaryKeyword": "timer"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_social",
+      "facebook": {
+        "title": "Convert a value and confirm the output units or format: Stopwatch",
+        "hook": "Need to convert a value?",
+        "message": "QUICK WALKTHROUGH · Stopwatch\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TimeTools",
+        "caption": "QUICK WALKTHROUGH · Stopwatch\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TimeTools",
+        "keywords": [
+          "Stopwatch",
+          "Time tool",
+          "Huzaifa Tools",
+          "stopwatch",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TimeTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to convert a value?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Stopwatch."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to convert a value · Stopwatch",
+        "hook": "Need to convert a value?",
+        "caption": "Need to convert a value? Here is a short, practical demo of Stopwatch.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TimeTools #QuickTutorial",
+        "keywords": [
+          "Stopwatch",
+          "Time tool",
+          "Huzaifa Tools",
+          "stopwatch",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TimeTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to convert a value?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Stopwatch."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-03-stopwatch.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to convert a value | Stopwatch #Shorts",
+        "hook": "Need to convert a value?",
+        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TimeTools",
+        "keywords": [
+          "Stopwatch",
+          "Time tool",
+          "Huzaifa Tools",
+          "stopwatch",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#TimeTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=stopwatch_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to convert a value?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Stopwatch."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to convert a value?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Stopwatch."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to convert a value?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Stopwatch."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to convert a value?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Stopwatch."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to convert a value?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Stopwatch and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Stopwatch."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-03-stopwatch.jpg",
+        "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-06T18:43:36.019Z",
+      "contentHashes": {
+        "facebook": "ab18519f",
+        "instagram": "c92f20f5",
+        "youtube": "331da951"
+      }
+    },
+    {
+      "id": "2026-11-04-pdf-to-images",
+      "date": "2026-11-04",
+      "version": 2,
+      "tool": {
+        "name": "PDF to Images",
+        "slug": "pdf-to-images",
+        "category": "PDF",
+        "description": "Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload."
+      },
+      "lesson": {
+        "hook": "Need to work with a PDF?",
+        "problem": "Prepare a PDF task and verify the downloaded pages",
+        "action": "Choose an unencrypted PDF",
+        "check": "Select up to 10 pages, for example 1-3",
+        "takeaway": "Create images, inspect the previews and download each PNG",
+        "factualBasis": [
+          "Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload.",
+          "Choose an unencrypted PDF.",
+          "Select up to 10 pages, for example 1-3.",
+          "Create images, inspect the previews and download each PNG."
+        ]
+      },
+      "score": {
+        "total": -86.05,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 16,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 2,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Extract Selected PDF Pages into One Useful Document",
+          "slug": "extract-selected-pdf-pages",
+          "primaryKeyword": "extract selected PDF pages"
+        },
+        {
+          "title": "Convert PDF Pages to PNG Images: Resolution and Download Guide",
+          "slug": "pdf-pages-to-png-images",
+          "primaryKeyword": "convert PDF pages to PNG"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_social",
+      "facebook": {
+        "title": "Prepare a PDF task and verify the downloaded pages: PDF to Images",
+        "hook": "Need to work with a PDF?",
+        "message": "QUICK WALKTHROUGH · PDF to Images\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose an unencrypted PDF\n\nSelect up to 10 pages, for example 1-3\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+        "caption": "QUICK WALKTHROUGH · PDF to Images\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose an unencrypted PDF\n\nSelect up to 10 pages, for example 1-3\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+        "keywords": [
+          "PDF to Images",
+          "PDF tool",
+          "Huzaifa Tools",
+          "pdf",
+          "to",
+          "images",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#PDFTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to work with a PDF?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using PDF to Images."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an unencrypted PDF"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+            "voiceover": "Select up to 10 pages, for example 1-3"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to work with a PDF · PDF to Images",
+        "hook": "Need to work with a PDF?",
+        "caption": "Need to work with a PDF? Here is a short, practical demo of PDF to Images.\n\nChoose an unencrypted PDF Create images, inspect the previews and download each PNG\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
+        "keywords": [
+          "PDF to Images",
+          "PDF tool",
+          "Huzaifa Tools",
+          "pdf",
+          "to",
+          "images",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#PDFTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to work with a PDF?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using PDF to Images."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an unencrypted PDF"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+            "voiceover": "Select up to 10 pages, for example 1-3"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-04-pdf-to-images.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to work with a PDF | PDF to Images #Shorts",
+        "hook": "Need to work with a PDF?",
+        "description": "Prepare a PDF task and verify the downloaded pages. Choose an unencrypted PDF\n\nSelect up to 10 pages, for example 1-3\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
+        "keywords": [
+          "PDF to Images",
+          "PDF tool",
+          "Huzaifa Tools",
+          "pdf",
+          "to",
+          "images",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#PDFTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to work with a PDF?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using PDF to Images."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an unencrypted PDF"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+            "voiceover": "Select up to 10 pages, for example 1-3"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to work with a PDF?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using PDF to Images."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an unencrypted PDF"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+            "voiceover": "Select up to 10 pages, for example 1-3"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to work with a PDF?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using PDF to Images."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an unencrypted PDF"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+              "voiceover": "Select up to 10 pages, for example 1-3"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to work with a PDF?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using PDF to Images."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an unencrypted PDF"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+              "voiceover": "Select up to 10 pages, for example 1-3"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to work with a PDF?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using PDF to Images."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an unencrypted PDF"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
+              "voiceover": "Select up to 10 pages, for example 1-3"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-04-pdf-to-images.jpg",
+        "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-06T18:43:36.020Z",
+      "contentHashes": {
+        "facebook": "3112b533",
+        "instagram": "adc6098d",
+        "youtube": "7168741e"
       }
     }
   ]
