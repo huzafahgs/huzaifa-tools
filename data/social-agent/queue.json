@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-06T18:43:36.021Z",
+  "generatedAt": "2026-10-07T19:09:49.682Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-06",
-    "end": "2026-11-04",
+    "start": "2026-10-08",
+    "end": "2026-11-06",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,758 +13,19 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Calculator": 4,
-    "Converter": 4,
     "Developer": 4,
     "AI": 4,
     "Islamic": 1,
     "PDF": 4,
-    "Image": 3,
-    "Text": 3,
+    "Image": 4,
+    "Text": 4,
+    "Calculator": 3,
+    "Converter": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1
   },
   "items": [
-    {
-      "id": "2026-10-06-bmi-calculator",
-      "date": "2026-10-06",
-      "version": 2,
-      "tool": {
-        "name": "BMI Calculator",
-        "slug": "bmi-calculator",
-        "category": "Calculator",
-        "description": "Calculate BMI instantly."
-      },
-      "lesson": {
-        "hook": "Checking a calculation before you use it?",
-        "problem": "Estimate a result from your own inputs and check the assumptions",
-        "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
-        "check": "Check the inputs, units, rounding, and assumptions before using the result.",
-        "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
-        "factualBasis": [
-          "Calculate BMI instantly."
-        ]
-      },
-      "score": {
-        "total": 7.96,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 2,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
-          "slug": "bmi-metric-calculation-and-screening-limits",
-          "primaryKeyword": "bmi calculator"
-        },
-        {
-          "title": "Height-Based Weight Formulas Are Not a Personal Ideal",
-          "slug": "height-based-weight-formulas-and-their-limits",
-          "primaryKeyword": "ideal weight calculator"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_social",
-      "facebook": {
-        "title": "Estimate a result from your own inputs and check the assumptions: BMI Calculator",
-        "hook": "Checking a calculation before you use it?",
-        "message": "QUICK WALKTHROUGH · BMI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-        "caption": "QUICK WALKTHROUGH · BMI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-        "keywords": [
-          "BMI Calculator",
-          "Calculator tool",
-          "Huzaifa Tools",
-          "bmi",
-          "calculator",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Calculators"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using BMI Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Checking a calculation before you use it · BMI Calculator",
-        "hook": "Checking a calculation before you use it?",
-        "caption": "Checking a calculation before you use it? Here is a short, practical demo of BMI Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
-        "keywords": [
-          "BMI Calculator",
-          "Calculator tool",
-          "Huzaifa Tools",
-          "bmi",
-          "calculator",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Calculators",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using BMI Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-06-bmi-calculator.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Checking a calculation before you use it | BMI Calculator #Shorts",
-        "hook": "Checking a calculation before you use it?",
-        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
-        "keywords": [
-          "BMI Calculator",
-          "Calculator tool",
-          "Huzaifa Tools",
-          "bmi",
-          "calculator",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#Calculators"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using BMI Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using BMI Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Checking a calculation before you use it?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using BMI Calculator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Checking a calculation before you use it?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using BMI Calculator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Checking a calculation before you use it?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for BMI Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using BMI Calculator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-06-bmi-calculator.jpg",
-        "alt": "BMI Calculator practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-06T18:43:35.990Z",
-      "contentHashes": {
-        "facebook": "4f04db23",
-        "instagram": "bd6bea1e",
-        "youtube": "7e039342"
-      }
-    },
-    {
-      "id": "2026-10-07-unit-converter",
-      "date": "2026-10-07",
-      "version": 2,
-      "tool": {
-        "name": "Unit Converter",
-        "slug": "unit-converter",
-        "category": "Converter",
-        "description": "Convert units instantly."
-      },
-      "lesson": {
-        "hook": "Need to convert a value?",
-        "problem": "Convert a value and confirm the output units or format",
-        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-        "check": "Check the result against the requirements of your task.",
-        "takeaway": "Check the result against the requirements of your task.",
-        "factualBasis": [
-          "Convert units instantly."
-        ]
-      },
-      "score": {
-        "total": 7.99,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Energy Units: Joules, Kilowatt-Hours and Calories",
-          "slug": "energy-units-joules-kwh-and-calories",
-          "primaryKeyword": "energy converter"
-        },
-        {
-          "title": "Celsius, Fahrenheit and Kelvin: Values Are Different from Changes",
-          "slug": "celsius-fahrenheit-kelvin-values-and-differences",
-          "primaryKeyword": "temperature converter"
-        },
-        {
-          "title": "Choose Compatible Units Before Converting a Measurement",
-          "slug": "choose-compatible-units-before-converting",
-          "primaryKeyword": "unit converter"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_social",
-      "facebook": {
-        "title": "Convert a value and confirm the output units or format: Unit Converter",
-        "hook": "Need to convert a value?",
-        "message": "QUICK WALKTHROUGH · Unit Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "caption": "QUICK WALKTHROUGH · Unit Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "keywords": [
-          "Unit Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "unit",
-          "converter",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Converters"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unit Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to convert a value · Unit Converter",
-        "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Unit Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
-        "keywords": [
-          "Unit Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "unit",
-          "converter",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Converters",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unit Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-07-unit-converter.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to convert a value | Unit Converter #Shorts",
-        "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
-        "keywords": [
-          "Unit Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "unit",
-          "converter",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#Converters"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unit Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unit Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Unit Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Unit Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Unit Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-07-unit-converter.jpg",
-        "alt": "Unit Converter practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-06T18:43:35.992Z",
-      "contentHashes": {
-        "facebook": "408eade5",
-        "instagram": "ca84c632",
-        "youtube": "cab10197"
-      }
-    },
     {
       "id": "2026-10-08-json-to-csv",
       "date": "2026-10-08",
@@ -789,7 +50,7 @@
         ]
       },
       "score": {
-        "total": 13.94,
+        "total": 13.92,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 14,
@@ -1136,7 +397,7 @@
         "imagePath": "assets/2026-10-08-json-to-csv.jpg",
         "alt": "JSON to CSV practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.993Z",
+      "createdAt": "2026-10-07T19:09:49.631Z",
       "contentHashes": {
         "facebook": "626f56f8",
         "instagram": "a0ff3e09",
@@ -1498,7 +759,7 @@
         "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg",
         "alt": "AI Writing Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.994Z",
+      "createdAt": "2026-10-07T19:09:49.635Z",
       "contentHashes": {
         "facebook": "8dcae0dc",
         "instagram": "be2357f8",
@@ -1860,7 +1121,7 @@
         "imagePath": "assets/2026-10-10-zakat-calculator.jpg",
         "alt": "Zakat Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.995Z",
+      "createdAt": "2026-10-07T19:09:49.637Z",
       "contentHashes": {
         "facebook": "fe4455e",
         "instagram": "3c0eb9b2",
@@ -2235,7 +1496,7 @@
         "imagePath": "assets/2026-10-11-pdf-splitter.jpg",
         "alt": "PDF Splitter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.996Z",
+      "createdAt": "2026-10-07T19:09:49.639Z",
       "contentHashes": {
         "facebook": "56ef1b1f",
         "instagram": "8f4c4cb3",
@@ -2610,7 +1871,7 @@
         "imagePath": "assets/2026-10-12-image-cropper.jpg",
         "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.997Z",
+      "createdAt": "2026-10-07T19:09:49.640Z",
       "contentHashes": {
         "facebook": "4b4b8434",
         "instagram": "718fd180",
@@ -2982,7 +2243,7 @@
         "imagePath": "assets/2026-10-13-character-counter.jpg",
         "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.998Z",
+      "createdAt": "2026-10-07T19:09:49.643Z",
       "contentHashes": {
         "facebook": "3b3dad75",
         "instagram": "598dd89e",
@@ -3010,7 +2271,7 @@
         ]
       },
       "score": {
-        "total": -26.02,
+        "total": 7.98,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3022,7 +2283,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3349,7 +2610,7 @@
         "imagePath": "assets/2026-10-14-age-calculator.jpg",
         "alt": "Age Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:35.999Z",
+      "createdAt": "2026-10-07T19:09:49.646Z",
       "contentHashes": {
         "facebook": "bd26afc4",
         "instagram": "1e724be8",
@@ -3357,14 +2618,14 @@
       }
     },
     {
-      "id": "2026-10-15-temperature-converter",
+      "id": "2026-10-15-unit-converter",
       "date": "2026-10-15",
       "version": 2,
       "tool": {
-        "name": "Temperature Converter",
-        "slug": "temperature-converter",
+        "name": "Unit Converter",
+        "slug": "unit-converter",
         "category": "Converter",
-        "description": "Convert between C, F, K."
+        "description": "Convert units instantly."
       },
       "lesson": {
         "hook": "Need to convert a value?",
@@ -3373,11 +2634,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Convert between C, F, K."
+          "Convert units instantly."
         ]
       },
       "score": {
-        "total": -26.01,
+        "total": 7.99,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3386,10 +2647,10 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 2,
+            "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3403,19 +2664,24 @@
           "title": "Celsius, Fahrenheit and Kelvin: Values Are Different from Changes",
           "slug": "celsius-fahrenheit-kelvin-values-and-differences",
           "primaryKeyword": "temperature converter"
+        },
+        {
+          "title": "Choose Compatible Units Before Converting a Measurement",
+          "slug": "choose-compatible-units-before-converting",
+          "primaryKeyword": "unit converter"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_social",
       "facebook": {
-        "title": "Convert a value and confirm the output units or format: Temperature Converter",
+        "title": "Convert a value and confirm the output units or format: Unit Converter",
         "hook": "Need to convert a value?",
-        "message": "QUICK WALKTHROUGH · Temperature Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "caption": "QUICK WALKTHROUGH · Temperature Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+        "message": "QUICK WALKTHROUGH · Unit Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+        "caption": "QUICK WALKTHROUGH · Unit Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
         "keywords": [
-          "Temperature Converter",
+          "Unit Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "temperature",
+          "unit",
           "converter",
           "step by step",
           "online utility"
@@ -3425,7 +2691,7 @@
           "#Converters"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -3437,8 +2703,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
+            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unit Converter."
           },
           {
             "seconds": "7–14",
@@ -3461,14 +2727,14 @@
         ]
       },
       "instagram": {
-        "title": "Need to convert a value · Temperature Converter",
+        "title": "Need to convert a value · Unit Converter",
         "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Temperature Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
+        "caption": "Need to convert a value? Here is a short, practical demo of Unit Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
         "keywords": [
-          "Temperature Converter",
+          "Unit Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "temperature",
+          "unit",
           "converter",
           "quick tutorial",
           "practical tip"
@@ -3479,7 +2745,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -3491,8 +2757,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
+            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unit Converter."
           },
           {
             "seconds": "7–14",
@@ -3513,18 +2779,18 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-10-15-temperature-converter.jpg"
+        "imagePath": "assets/2026-10-15-unit-converter.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Need to convert a value | Temperature Converter #Shorts",
+        "title": "Need to convert a value | Unit Converter #Shorts",
         "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
+        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
         "keywords": [
-          "Temperature Converter",
+          "Unit Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "temperature",
+          "unit",
           "converter",
           "how to",
           "short tutorial"
@@ -3535,7 +2801,7 @@
           "#Converters"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -3546,8 +2812,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
+            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unit Converter."
           },
           {
             "seconds": "7–14",
@@ -3591,8 +2857,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
+            "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unit Converter."
           },
           {
             "seconds": "7–14",
@@ -3624,8 +2890,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Temperature Converter."
+              "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unit Converter."
             },
             {
               "seconds": "7–14",
@@ -3656,8 +2922,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Temperature Converter."
+              "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unit Converter."
             },
             {
               "seconds": "7–14",
@@ -3688,8 +2954,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Temperature Converter."
+              "visual": "Open the real Huzaifa Tools page for Unit Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unit Converter."
             },
             {
               "seconds": "7–14",
@@ -3713,14 +2979,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-10-15-temperature-converter.jpg",
-        "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-10-15-unit-converter.jpg",
+        "alt": "Unit Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.000Z",
+      "createdAt": "2026-10-07T19:09:49.647Z",
       "contentHashes": {
-        "facebook": "c4daf77f",
-        "instagram": "3aed805f",
-        "youtube": "9c23882a"
+        "facebook": "408eade5",
+        "instagram": "43e57d75",
+        "youtube": "9719f926"
       }
     },
     {
@@ -4086,7 +3352,7 @@
         "imagePath": "assets/2026-10-16-html-minifier.jpg",
         "alt": "HTML Minifier practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.001Z",
+      "createdAt": "2026-10-07T19:09:49.649Z",
       "contentHashes": {
         "facebook": "91944507",
         "instagram": "623b9d5f",
@@ -4448,7 +3714,7 @@
         "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
         "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.002Z",
+      "createdAt": "2026-10-07T19:09:49.650Z",
       "contentHashes": {
         "facebook": "4a60873",
         "instagram": "8046b99f",
@@ -4820,7 +4086,7 @@
         "imagePath": "assets/2026-10-18-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.003Z",
+      "createdAt": "2026-10-07T19:09:49.652Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "c94adc3",
@@ -5198,7 +4464,7 @@
         "imagePath": "assets/2026-10-19-pdf-page-extractor.jpg",
         "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.004Z",
+      "createdAt": "2026-10-07T19:09:49.654Z",
       "contentHashes": {
         "facebook": "19420176",
         "instagram": "61946824",
@@ -5573,7 +4839,7 @@
         "imagePath": "assets/2026-10-20-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.005Z",
+      "createdAt": "2026-10-07T19:09:49.656Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "c8b5a048",
@@ -5948,7 +5214,7 @@
         "imagePath": "assets/2026-10-21-text-case-converter.jpg",
         "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.006Z",
+      "createdAt": "2026-10-07T19:09:49.657Z",
       "contentHashes": {
         "facebook": "76653787",
         "instagram": "ef0f431f",
@@ -5976,7 +5242,7 @@
         ]
       },
       "score": {
-        "total": -60.02,
+        "total": -26.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -5988,7 +5254,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6320,7 +5586,7 @@
         "imagePath": "assets/2026-10-22-loan-calculator.jpg",
         "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.006Z",
+      "createdAt": "2026-10-07T19:09:49.658Z",
       "contentHashes": {
         "facebook": "e9ad2513",
         "instagram": "e45dcce4",
@@ -6328,14 +5594,14 @@
       }
     },
     {
-      "id": "2026-10-23-weight-converter",
+      "id": "2026-10-23-temperature-converter",
       "date": "2026-10-23",
       "version": 2,
       "tool": {
-        "name": "Weight Converter",
-        "slug": "weight-converter",
+        "name": "Temperature Converter",
+        "slug": "temperature-converter",
         "category": "Converter",
-        "description": "Convert between weight units."
+        "description": "Convert between C, F, K."
       },
       "lesson": {
         "hook": "Need to convert a value?",
@@ -6344,11 +5610,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Convert between weight units."
+          "Convert between C, F, K."
         ]
       },
       "score": {
-        "total": -60.01,
+        "total": -26.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -6357,41 +5623,36 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 3,
+            "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
-          "slug": "bmi-metric-calculation-and-screening-limits",
-          "primaryKeyword": "bmi calculator"
+          "title": "Energy Units: Joules, Kilowatt-Hours and Calories",
+          "slug": "energy-units-joules-kwh-and-calories",
+          "primaryKeyword": "energy converter"
         },
         {
-          "title": "Choose Compatible Units Before Converting a Measurement",
-          "slug": "choose-compatible-units-before-converting",
-          "primaryKeyword": "unit converter"
-        },
-        {
-          "title": "Volume Units: Check Cups, Gallons and Cubic Measures",
-          "slug": "volume-units-cups-gallons-and-cubic-measures",
-          "primaryKeyword": "volume converter"
+          "title": "Celsius, Fahrenheit and Kelvin: Values Are Different from Changes",
+          "slug": "celsius-fahrenheit-kelvin-values-and-differences",
+          "primaryKeyword": "temperature converter"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_social",
       "facebook": {
-        "title": "Convert a value and confirm the output units or format: Weight Converter",
+        "title": "Convert a value and confirm the output units or format: Temperature Converter",
         "hook": "Need to convert a value?",
-        "message": "QUICK WALKTHROUGH · Weight Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "caption": "QUICK WALKTHROUGH · Weight Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+        "message": "QUICK WALKTHROUGH · Temperature Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+        "caption": "QUICK WALKTHROUGH · Temperature Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
         "keywords": [
-          "Weight Converter",
+          "Temperature Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "weight",
+          "temperature",
           "converter",
           "step by step",
           "online utility"
@@ -6401,7 +5662,7 @@
           "#Converters"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -6413,8 +5674,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Weight Converter."
+            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Temperature Converter."
           },
           {
             "seconds": "7–14",
@@ -6437,14 +5698,14 @@
         ]
       },
       "instagram": {
-        "title": "Need to convert a value · Weight Converter",
+        "title": "Need to convert a value · Temperature Converter",
         "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Weight Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
+        "caption": "Need to convert a value? Here is a short, practical demo of Temperature Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
         "keywords": [
-          "Weight Converter",
+          "Temperature Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "weight",
+          "temperature",
           "converter",
           "quick tutorial",
           "practical tip"
@@ -6455,7 +5716,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -6467,8 +5728,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Weight Converter."
+            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Temperature Converter."
           },
           {
             "seconds": "7–14",
@@ -6489,18 +5750,18 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-10-23-weight-converter.jpg"
+        "imagePath": "assets/2026-10-23-temperature-converter.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Need to convert a value | Weight Converter #Shorts",
+        "title": "Need to convert a value | Temperature Converter #Shorts",
         "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
+        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
         "keywords": [
-          "Weight Converter",
+          "Temperature Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "weight",
+          "temperature",
           "converter",
           "how to",
           "short tutorial"
@@ -6511,7 +5772,7 @@
           "#Converters"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -6522,8 +5783,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Weight Converter."
+            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Temperature Converter."
           },
           {
             "seconds": "7–14",
@@ -6567,8 +5828,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Weight Converter."
+            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Temperature Converter."
           },
           {
             "seconds": "7–14",
@@ -6600,8 +5861,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Weight Converter."
+              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Temperature Converter."
             },
             {
               "seconds": "7–14",
@@ -6632,8 +5893,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Weight Converter."
+              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Temperature Converter."
             },
             {
               "seconds": "7–14",
@@ -6664,8 +5925,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Weight Converter."
+              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Temperature Converter."
             },
             {
               "seconds": "7–14",
@@ -6689,14 +5950,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-10-23-weight-converter.jpg",
-        "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-10-23-temperature-converter.jpg",
+        "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.007Z",
+      "createdAt": "2026-10-07T19:09:49.659Z",
       "contentHashes": {
-        "facebook": "ca87c833",
-        "instagram": "bc135266",
-        "youtube": "a3192d95"
+        "facebook": "c4daf77f",
+        "instagram": "99b3bfcc",
+        "youtube": "6c96c0bb"
       }
     },
     {
@@ -6723,7 +5984,7 @@
         ]
       },
       "score": {
-        "total": -54.06,
+        "total": -54.07,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 14,
@@ -7067,7 +6328,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.008Z",
+      "createdAt": "2026-10-07T19:09:49.661Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -7429,7 +6690,7 @@
         "imagePath": "assets/2026-10-25-ai-email-generator.jpg",
         "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.008Z",
+      "createdAt": "2026-10-07T19:09:49.662Z",
       "contentHashes": {
         "facebook": "337bb2c",
         "instagram": "aa174f48",
@@ -7804,7 +7065,7 @@
         "imagePath": "assets/2026-10-26-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.010Z",
+      "createdAt": "2026-10-07T19:09:49.664Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "3602a75c",
@@ -8177,7 +7438,7 @@
         "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.010Z",
+      "createdAt": "2026-10-07T19:09:49.665Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "a2166a04",
@@ -8550,7 +7811,7 @@
         "imagePath": "assets/2026-10-28-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.011Z",
+      "createdAt": "2026-10-07T19:09:49.666Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "2564f1bd",
@@ -8917,7 +8178,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.012Z",
+      "createdAt": "2026-10-07T19:09:49.667Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -8945,7 +8206,7 @@
         ]
       },
       "score": {
-        "total": -94.02,
+        "total": -60.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -8957,7 +8218,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9284,7 +8545,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.013Z",
+      "createdAt": "2026-10-07T19:09:49.668Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -9292,14 +8553,14 @@
       }
     },
     {
-      "id": "2026-10-31-length-converter",
+      "id": "2026-10-31-weight-converter",
       "date": "2026-10-31",
       "version": 2,
       "tool": {
-        "name": "Length Converter",
-        "slug": "length-converter",
+        "name": "Weight Converter",
+        "slug": "weight-converter",
         "category": "Converter",
-        "description": "Convert between length units."
+        "description": "Convert between weight units."
       },
       "lesson": {
         "hook": "Need to convert a value?",
@@ -9308,11 +8569,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Convert between length units."
+          "Convert between weight units."
         ]
       },
       "score": {
-        "total": -94.01,
+        "total": -60.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -9324,38 +8585,38 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
-        {
-          "title": "Area Conversion: Square Units, Acres and Hectares",
-          "slug": "area-conversion-square-units-acres-hectares",
-          "primaryKeyword": "area converter"
-        },
         {
           "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
           "slug": "bmi-metric-calculation-and-screening-limits",
           "primaryKeyword": "bmi calculator"
         },
         {
-          "title": "Great-Circle Distance from Coordinates Is Not a Road Route",
-          "slug": "great-circle-distance-from-coordinates",
-          "primaryKeyword": "distance calculator"
+          "title": "Choose Compatible Units Before Converting a Measurement",
+          "slug": "choose-compatible-units-before-converting",
+          "primaryKeyword": "unit converter"
+        },
+        {
+          "title": "Volume Units: Check Cups, Gallons and Cubic Measures",
+          "slug": "volume-units-cups-gallons-and-cubic-measures",
+          "primaryKeyword": "volume converter"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_social",
       "facebook": {
-        "title": "Convert a value and confirm the output units or format: Length Converter",
+        "title": "Convert a value and confirm the output units or format: Weight Converter",
         "hook": "Need to convert a value?",
-        "message": "QUICK WALKTHROUGH · Length Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "caption": "QUICK WALKTHROUGH · Length Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+        "message": "QUICK WALKTHROUGH · Weight Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+        "caption": "QUICK WALKTHROUGH · Weight Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
         "keywords": [
-          "Length Converter",
+          "Weight Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "length",
+          "weight",
           "converter",
           "step by step",
           "online utility"
@@ -9365,7 +8626,7 @@
           "#Converters"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -9377,8 +8638,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
+            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Weight Converter."
           },
           {
             "seconds": "7–14",
@@ -9401,14 +8662,14 @@
         ]
       },
       "instagram": {
-        "title": "Need to convert a value · Length Converter",
+        "title": "Need to convert a value · Weight Converter",
         "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Length Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
+        "caption": "Need to convert a value? Here is a short, practical demo of Weight Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
         "keywords": [
-          "Length Converter",
+          "Weight Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "length",
+          "weight",
           "converter",
           "quick tutorial",
           "practical tip"
@@ -9419,7 +8680,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -9431,8 +8692,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
+            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Weight Converter."
           },
           {
             "seconds": "7–14",
@@ -9453,18 +8714,18 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-10-31-length-converter.jpg"
+        "imagePath": "assets/2026-10-31-weight-converter.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Need to convert a value | Length Converter #Shorts",
+        "title": "Need to convert a value | Weight Converter #Shorts",
         "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
+        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
         "keywords": [
-          "Length Converter",
+          "Weight Converter",
           "Converter tool",
           "Huzaifa Tools",
-          "length",
+          "weight",
           "converter",
           "how to",
           "short tutorial"
@@ -9475,7 +8736,7 @@
           "#Converters"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -9486,8 +8747,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
+            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Weight Converter."
           },
           {
             "seconds": "7–14",
@@ -9531,8 +8792,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
+            "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Weight Converter."
           },
           {
             "seconds": "7–14",
@@ -9564,8 +8825,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Length Converter."
+              "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Weight Converter."
             },
             {
               "seconds": "7–14",
@@ -9596,8 +8857,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Length Converter."
+              "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Weight Converter."
             },
             {
               "seconds": "7–14",
@@ -9628,8 +8889,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Length Converter."
+              "visual": "Open the real Huzaifa Tools page for Weight Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Weight Converter."
             },
             {
               "seconds": "7–14",
@@ -9653,14 +8914,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-10-31-length-converter.jpg",
-        "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-10-31-weight-converter.jpg",
+        "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.015Z",
+      "createdAt": "2026-10-07T19:09:49.670Z",
       "contentHashes": {
-        "facebook": "77a77c77",
-        "instagram": "36e1ffc1",
-        "youtube": "71ed887c"
+        "facebook": "ca87c833",
+        "instagram": "86f5b4ad",
+        "youtube": "e3ac9ce4"
       }
     },
     {
@@ -9687,7 +8948,7 @@
         ]
       },
       "score": {
-        "total": -88.06,
+        "total": -88.07,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 14,
@@ -10031,7 +9292,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.016Z",
+      "createdAt": "2026-10-07T19:09:49.671Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -10393,7 +9654,7 @@
         "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.017Z",
+      "createdAt": "2026-10-07T19:09:49.673Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "38b241d",
@@ -10757,7 +10018,7 @@
         "imagePath": "assets/2026-11-03-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.019Z",
+      "createdAt": "2026-10-07T19:09:49.677Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "c92f20f5",
@@ -11130,11 +10391,761 @@
         "imagePath": "assets/2026-11-04-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-06T18:43:36.020Z",
+      "createdAt": "2026-10-07T19:09:49.678Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "adc6098d",
         "youtube": "7168741e"
+      }
+    },
+    {
+      "id": "2026-11-05-image-rotate-flip",
+      "date": "2026-11-05",
+      "version": 2,
+      "tool": {
+        "name": "Image Rotate & Flip",
+        "slug": "image-rotate-flip",
+        "category": "Image",
+        "description": "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image."
+      },
+      "lesson": {
+        "hook": "Need to adjust an image?",
+        "problem": "Adjust an image and inspect the exported file",
+        "action": "Choose an image",
+        "check": "Select a clockwise rotation and optional flips",
+        "takeaway": "Create a preview and download the result",
+        "factualBasis": [
+          "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.",
+          "Choose an image.",
+          "Select a clockwise rotation and optional flips.",
+          "Create a preview and download the result."
+        ]
+      },
+      "score": {
+        "total": -87,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 15,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
+          "slug": "images-to-a4-pdf",
+          "primaryKeyword": "images to A4 PDF"
+        },
+        {
+          "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
+          "slug": "crop-image-by-pixel-coordinates",
+          "primaryKeyword": "crop image by pixel coordinates"
+        },
+        {
+          "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
+          "slug": "read-image-metadata-exif",
+          "primaryKeyword": "read image metadata and EXIF"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_social",
+      "facebook": {
+        "title": "Adjust an image and inspect the exported file: Image Rotate & Flip",
+        "hook": "Need to adjust an image?",
+        "message": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+        "caption": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+        "keywords": [
+          "Image Rotate & Flip",
+          "Image tool",
+          "Huzaifa Tools",
+          "image",
+          "rotate",
+          "flip",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#ImageTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to adjust an image · Image Rotate & Flip",
+        "hook": "Need to adjust an image?",
+        "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+        "keywords": [
+          "Image Rotate & Flip",
+          "Image tool",
+          "Huzaifa Tools",
+          "image",
+          "rotate",
+          "flip",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#ImageTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-05-image-rotate-flip.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to adjust an image | Image Rotate & Flip #Shorts",
+        "hook": "Need to adjust an image?",
+        "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+        "keywords": [
+          "Image Rotate & Flip",
+          "Image tool",
+          "Huzaifa Tools",
+          "image",
+          "rotate",
+          "flip",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#ImageTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to adjust an image?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an image"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+              "voiceover": "Select a clockwise rotation and optional flips"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to adjust an image?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an image"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+              "voiceover": "Select a clockwise rotation and optional flips"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to adjust an image?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an image"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+              "voiceover": "Select a clockwise rotation and optional flips"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-05-image-rotate-flip.jpg",
+        "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-07T19:09:49.680Z",
+      "contentHashes": {
+        "facebook": "b56cdae6",
+        "instagram": "b48db475",
+        "youtube": "6f6d7e32"
+      }
+    },
+    {
+      "id": "2026-11-06-json-formatter",
+      "date": "2026-11-06",
+      "version": 2,
+      "tool": {
+        "name": "JSON Formatter",
+        "slug": "json-formatter",
+        "category": "Text",
+        "description": "Format and validate JSON code."
+      },
+      "lesson": {
+        "hook": "Working through a text task?",
+        "problem": "Work through a small text task and check the result",
+        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+        "check": "Check the result against the requirements of your task.",
+        "takeaway": "Check the result against the requirements of your task.",
+        "factualBasis": [
+          "Format and validate JSON code."
+        ]
+      },
+      "score": {
+        "total": -94.02,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Convert Flat JSON to CSV: Columns, Quoting, and Spreadsheet Checks",
+          "slug": "json-to-csv-flat-data",
+          "primaryKeyword": "convert flat JSON to CSV"
+        },
+        {
+          "title": "Format JavaScript Without Executing It: A Practical Review Workflow",
+          "slug": "format-javascript-without-executing",
+          "primaryKeyword": "format JavaScript without executing it"
+        },
+        {
+          "title": "CSV Rows to JSON Objects: Headers, Quotes and Type Checks",
+          "slug": "csv-rows-to-json-objects",
+          "primaryKeyword": "csv to json"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_social",
+      "facebook": {
+        "title": "Work through a small text task and check the result: JSON Formatter",
+        "hook": "Working through a text task?",
+        "message": "QUICK WALKTHROUGH · JSON Formatter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · JSON Formatter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "keywords": [
+          "JSON Formatter",
+          "Text tool",
+          "Huzaifa Tools",
+          "json",
+          "formatter",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TextTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Working through a text task · JSON Formatter",
+        "hook": "Working through a text task?",
+        "caption": "Working through a text task? Here is a short, practical demo of JSON Formatter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "keywords": [
+          "JSON Formatter",
+          "Text tool",
+          "Huzaifa Tools",
+          "json",
+          "formatter",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TextTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-06-json-formatter.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Working through a text task | JSON Formatter #Shorts",
+        "hook": "Working through a text task?",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "keywords": [
+          "JSON Formatter",
+          "Text tool",
+          "Huzaifa Tools",
+          "json",
+          "formatter",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#TextTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using JSON Formatter."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-06-json-formatter.jpg",
+        "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-07T19:09:49.681Z",
+      "contentHashes": {
+        "facebook": "e60b913e",
+        "instagram": "8dcd0998",
+        "youtube": "89c0728e"
       }
     }
   ]

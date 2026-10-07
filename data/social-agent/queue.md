@@ -1,13 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-06 to 2026-11-04 (Asia/Karachi)
+Window: 2026-10-08 to 2026-11-06 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-06 | BMI Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-07 | Unit Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-08 | JSON to CSV | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-09 | AI Writing Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-10 | Zakat Calculator | Islamic | Checking a Zakat estimate? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -15,7 +13,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-10-12 | Image Cropper | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-13 | Character Counter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-14 | Age Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-15 | Temperature Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-15 | Unit Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-16 | HTML Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-17 | AI Grammar & Rewrite Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-18 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -23,7 +21,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-10-20 | Image Converter | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-21 | Text Case Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-22 | Loan Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-23 | Weight Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-23 | Temperature Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-24 | CSS Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-25 | AI Email Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-26 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -31,211 +29,13 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-10-28 | Image Metadata Viewer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-29 | Text Reverser | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-30 | EMI Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-31 | Length Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-31 | Weight Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-01 | JavaScript Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-02 | AI Prompt Generator & Improver | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-03 | Stopwatch | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-04 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-06 · BMI Calculator
-
-**Category:** Calculator · **Tool:** Calculate BMI instantly.
-
-**Hook:** Checking a calculation before you use it?
-
-**Useful action:** Enter a small example using the units shown, then inspect each input and the displayed result.
-
-**Check:** Check the inputs, units, rounding, and assumptions before using the result.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Estimate a result from your own inputs and check the assumptions: BMI Calculator
-
-QUICK WALKTHROUGH · BMI Calculator
-
-Estimate a result from your own inputs and check the assumptions.
-
-Enter a small example using the units shown, then inspect each input and the displayed result.
-
-Check the inputs, units, rounding, and assumptions before using the result.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #Calculators
-
-**Keywords:** BMI Calculator, Calculator tool, Huzaifa Tools, bmi, calculator, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_facebook
-
-### Instagram Reels
-
-**Title:** Checking a calculation before you use it · BMI Calculator
-
-Checking a calculation before you use it? Here is a short, practical demo of BMI Calculator.
-
-Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #Calculators #QuickTutorial
-
-**Keywords:** BMI Calculator, Calculator tool, Huzaifa Tools, bmi, calculator, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Checking a calculation before you use it | BMI Calculator #Shorts
-
-Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
-
-Check the inputs, units, rounding, and assumptions before using the result.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #Calculators
-
-**Keywords:** BMI Calculator, Calculator tool, Huzaifa Tools, bmi, calculator, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/bmi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261006&utm_content=bmi-calculator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for BMI Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using BMI Calculator.”
-- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
-- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for BMI Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using BMI Calculator.”
-- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
-- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for BMI Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using BMI Calculator.”
-- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
-- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-06-bmi-calculator.jpg
-
----
-
-## 2026-10-07 · Unit Converter
-
-**Category:** Converter · **Tool:** Convert units instantly.
-
-**Hook:** Need to convert a value?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Convert a value and confirm the output units or format: Unit Converter
-
-QUICK WALKTHROUGH · Unit Converter
-
-Convert a value and confirm the output units or format.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #Converters
-
-**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_facebook
-
-### Instagram Reels
-
-**Title:** Need to convert a value · Unit Converter
-
-Need to convert a value? Here is a short, practical demo of Unit Converter.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #Converters #QuickTutorial
-
-**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to convert a value | Unit Converter #Shorts
-
-Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #Converters
-
-**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261007&utm_content=unit-converter_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-07-unit-converter.jpg
-
----
+| 2026-11-05 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-08 · JSON to CSV
 
@@ -937,9 +737,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-15 · Temperature Converter
+## 2026-10-15 · Unit Converter
 
-**Category:** Converter · **Tool:** Convert between C, F, K.
+**Category:** Converter · **Tool:** Convert units instantly.
 
 **Hook:** Need to convert a value?
 
@@ -951,9 +751,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Convert a value and confirm the output units or format: Temperature Converter
+**Title:** Convert a value and confirm the output units or format: Unit Converter
 
-QUICK WALKTHROUGH · Temperature Converter
+QUICK WALKTHROUGH · Unit Converter
 
 Convert a value and confirm the output units or format.
 
@@ -965,54 +765,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Converters
 
-**Keywords:** Temperature Converter, Converter tool, Huzaifa Tools, temperature, converter, step by step, online utility
+**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Need to convert a value · Temperature Converter
+**Title:** Need to convert a value · Unit Converter
 
-Need to convert a value? Here is a short, practical demo of Temperature Converter.
+Need to convert a value? Here is a short, practical demo of Unit Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Converters #QuickTutorial
 
-**Keywords:** Temperature Converter, Converter tool, Huzaifa Tools, temperature, converter, quick tutorial, practical tip
+**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Need to convert a value | Temperature Converter #Shorts
+**Title:** Need to convert a value | Unit Converter #Shorts
 
 Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Converters
 
-**Keywords:** Temperature Converter, Converter tool, Huzaifa Tools, temperature, converter, how to, short tutorial
+**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=temperature-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Temperature Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Temperature Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1020,7 +820,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Temperature Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Temperature Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1028,12 +828,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Temperature Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Temperature Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-15-temperature-converter.jpg
+**JPEG preview:** assets/2026-10-15-unit-converter.jpg
 
 ---
 
@@ -1737,9 +1537,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-23 · Weight Converter
+## 2026-10-23 · Temperature Converter
 
-**Category:** Converter · **Tool:** Convert between weight units.
+**Category:** Converter · **Tool:** Convert between C, F, K.
 
 **Hook:** Need to convert a value?
 
@@ -1751,9 +1551,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Convert a value and confirm the output units or format: Weight Converter
+**Title:** Convert a value and confirm the output units or format: Temperature Converter
 
-QUICK WALKTHROUGH · Weight Converter
+QUICK WALKTHROUGH · Temperature Converter
 
 Convert a value and confirm the output units or format.
 
@@ -1765,54 +1565,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Converters
 
-**Keywords:** Weight Converter, Converter tool, Huzaifa Tools, weight, converter, step by step, online utility
+**Keywords:** Temperature Converter, Converter tool, Huzaifa Tools, temperature, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Need to convert a value · Weight Converter
+**Title:** Need to convert a value · Temperature Converter
 
-Need to convert a value? Here is a short, practical demo of Weight Converter.
+Need to convert a value? Here is a short, practical demo of Temperature Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Converters #QuickTutorial
 
-**Keywords:** Weight Converter, Converter tool, Huzaifa Tools, weight, converter, quick tutorial, practical tip
+**Keywords:** Temperature Converter, Converter tool, Huzaifa Tools, temperature, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Need to convert a value | Weight Converter #Shorts
+**Title:** Need to convert a value | Temperature Converter #Shorts
 
 Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Converters
 
-**Keywords:** Weight Converter, Converter tool, Huzaifa Tools, weight, converter, how to, short tutorial
+**Keywords:** Temperature Converter, Converter tool, Huzaifa Tools, temperature, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=weight-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Weight Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Weight Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Temperature Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Temperature Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1820,7 +1620,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Weight Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Weight Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Temperature Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Temperature Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1828,12 +1628,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Weight Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Weight Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Temperature Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Temperature Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-23-weight-converter.jpg
+**JPEG preview:** assets/2026-10-23-temperature-converter.jpg
 
 ---
 
@@ -2537,9 +2337,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-31 · Length Converter
+## 2026-10-31 · Weight Converter
 
-**Category:** Converter · **Tool:** Convert between length units.
+**Category:** Converter · **Tool:** Convert between weight units.
 
 **Hook:** Need to convert a value?
 
@@ -2551,9 +2351,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Convert a value and confirm the output units or format: Length Converter
+**Title:** Convert a value and confirm the output units or format: Weight Converter
 
-QUICK WALKTHROUGH · Length Converter
+QUICK WALKTHROUGH · Weight Converter
 
 Convert a value and confirm the output units or format.
 
@@ -2565,54 +2365,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Converters
 
-**Keywords:** Length Converter, Converter tool, Huzaifa Tools, length, converter, step by step, online utility
+**Keywords:** Weight Converter, Converter tool, Huzaifa Tools, weight, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Need to convert a value · Length Converter
+**Title:** Need to convert a value · Weight Converter
 
-Need to convert a value? Here is a short, practical demo of Length Converter.
+Need to convert a value? Here is a short, practical demo of Weight Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Converters #QuickTutorial
 
-**Keywords:** Length Converter, Converter tool, Huzaifa Tools, length, converter, quick tutorial, practical tip
+**Keywords:** Weight Converter, Converter tool, Huzaifa Tools, weight, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Need to convert a value | Length Converter #Shorts
+**Title:** Need to convert a value | Weight Converter #Shorts
 
 Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Converters
 
-**Keywords:** Length Converter, Converter tool, Huzaifa Tools, length, converter, how to, short tutorial
+**Keywords:** Weight Converter, Converter tool, Huzaifa Tools, weight, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=length-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/weight-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261031&utm_content=weight-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Length Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Length Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Weight Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Weight Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -2620,7 +2420,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Length Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Length Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Weight Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Weight Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -2628,12 +2428,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Length Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Length Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Weight Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Weight Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-31-length-converter.jpg
+**JPEG preview:** assets/2026-10-31-weight-converter.jpg
 
 ---
 
@@ -3034,5 +2834,205 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-04-pdf-to-images.jpg
+
+---
+
+## 2026-11-05 · Image Rotate & Flip
+
+**Category:** Image · **Tool:** Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.
+
+**Hook:** Need to adjust an image?
+
+**Useful action:** Choose an image
+
+**Check:** Select a clockwise rotation and optional flips
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Adjust an image and inspect the exported file: Image Rotate & Flip
+
+QUICK WALKTHROUGH · Image Rotate & Flip
+
+Adjust an image and inspect the exported file.
+
+Choose an image
+
+Select a clockwise rotation and optional flips
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #ImageTools
+
+**Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_facebook
+
+### Instagram Reels
+
+**Title:** Need to adjust an image · Image Rotate & Flip
+
+Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.
+
+Choose an image Create a preview and download the result
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #ImageTools #QuickTutorial
+
+**Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to adjust an image | Image Rotate & Flip #Shorts
+
+Adjust an image and inspect the exported file. Choose an image
+
+Select a clockwise rotation and optional flips
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #ImageTools
+
+**Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Rotate & Flip.”
+- **7–14s · Demonstrate:** Choose an image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an image”
+- **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Rotate & Flip.”
+- **7–14s · Demonstrate:** Choose an image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an image”
+- **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Rotate & Flip.”
+- **7–14s · Demonstrate:** Choose an image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an image”
+- **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-05-image-rotate-flip.jpg
+
+---
+
+## 2026-11-06 · JSON Formatter
+
+**Category:** Text · **Tool:** Format and validate JSON code.
+
+**Hook:** Working through a text task?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Work through a small text task and check the result: JSON Formatter
+
+QUICK WALKTHROUGH · JSON Formatter
+
+Work through a small text task and check the result.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #TextTools
+
+**Keywords:** JSON Formatter, Text tool, Huzaifa Tools, json, formatter, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_facebook
+
+### Instagram Reels
+
+**Title:** Working through a text task · JSON Formatter
+
+Working through a text task? Here is a short, practical demo of JSON Formatter.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #TextTools #QuickTutorial
+
+**Keywords:** JSON Formatter, Text tool, Huzaifa Tools, json, formatter, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Working through a text task | JSON Formatter #Shorts
+
+Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #TextTools
+
+**Keywords:** JSON Formatter, Text tool, Huzaifa Tools, json, formatter, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON Formatter and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON Formatter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON Formatter and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON Formatter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON Formatter and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON Formatter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-06-json-formatter.jpg
 
 ---
