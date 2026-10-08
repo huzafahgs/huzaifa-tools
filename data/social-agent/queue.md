@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-08 to 2026-11-06 (Asia/Karachi)
+Window: 2026-10-09 to 2026-11-07 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-08 | JSON to CSV | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-09 | AI Writing Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-10 | Zakat Calculator | Islamic | Checking a Zakat estimate? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-11 | PDF Splitter | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-04 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-05 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-08 · JSON to CSV
-
-**Category:** Developer · **Tool:** Convert a flat JSON object array into quoted CSV columns, with useful validation errors and spreadsheet-safe string handling.
-
-**Hook:** Need to inspect a small sample?
-
-**Useful action:** Paste an array of flat JSON objects
-
-**Check:** Convert to CSV and review column names and values
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Inspect a small, non-sensitive sample before using the output: JSON to CSV
-
-QUICK WALKTHROUGH · JSON to CSV
-
-Inspect a small, non-sensitive sample before using the output.
-
-Paste an array of flat JSON objects
-
-Convert to CSV and review column names and values
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #DeveloperTools
-
-**Keywords:** JSON to CSV, Developer tool, Huzaifa Tools, json, to, csv, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_facebook
-
-### Instagram Reels
-
-**Title:** Need to inspect a small sample · JSON to CSV
-
-Need to inspect a small sample? Here is a short, practical demo of JSON to CSV.
-
-Paste an array of flat JSON objects Copy or download the CSV and check the spreadsheet import
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #DeveloperTools #QuickTutorial
-
-**Keywords:** JSON to CSV, Developer tool, Huzaifa Tools, json, to, csv, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to inspect a small sample | JSON to CSV #Shorts
-
-Inspect a small, non-sensitive sample before using the output. Paste an array of flat JSON objects
-
-Convert to CSV and review column names and values
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #DeveloperTools
-
-**Keywords:** JSON to CSV, Developer tool, Huzaifa Tools, json, to, csv, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON to CSV and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON to CSV.”
-- **7–14s · Demonstrate:** Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste an array of flat JSON objects”
-- **14–20s · Teach a check:** Convert to CSV and review column names and values Pause long enough for viewers to read the real result. Voiceover: “Convert to CSV and review column names and values”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON to CSV and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON to CSV.”
-- **7–14s · Demonstrate:** Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste an array of flat JSON objects”
-- **14–20s · Teach a check:** Convert to CSV and review column names and values Pause long enough for viewers to read the real result. Voiceover: “Convert to CSV and review column names and values”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for JSON to CSV and show its actual controls. Voiceover: “Here is a quick walkthrough using JSON to CSV.”
-- **7–14s · Demonstrate:** Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste an array of flat JSON objects”
-- **14–20s · Teach a check:** Convert to CSV and review column names and values Pause long enough for viewers to read the real result. Voiceover: “Convert to CSV and review column names and values”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-08-json-to-csv.jpg
-
----
+| 2026-11-07 | Percentage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-09 · AI Writing Assistant
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-06-json-formatter.jpg
+
+---
+
+## 2026-11-07 · Percentage Calculator
+
+**Category:** Calculator · **Tool:** Calculate percentages quickly.
+
+**Hook:** Checking a calculation before you use it?
+
+**Useful action:** Enter a small example using the units shown, then inspect each input and the displayed result.
+
+**Check:** Check the inputs, units, rounding, and assumptions before using the result.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Estimate a result from your own inputs and check the assumptions: Percentage Calculator
+
+QUICK WALKTHROUGH · Percentage Calculator
+
+Estimate a result from your own inputs and check the assumptions.
+
+Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #Calculators
+
+**Keywords:** Percentage Calculator, Calculator tool, Huzaifa Tools, percentage, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Checking a calculation before you use it · Percentage Calculator
+
+Checking a calculation before you use it? Here is a short, practical demo of Percentage Calculator.
+
+Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #Calculators #QuickTutorial
+
+**Keywords:** Percentage Calculator, Calculator tool, Huzaifa Tools, percentage, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Checking a calculation before you use it | Percentage Calculator #Shorts
+
+Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #Calculators
+
+**Keywords:** Percentage Calculator, Calculator tool, Huzaifa Tools, percentage, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Percentage Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Percentage Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Percentage Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-07-percentage-calculator.jpg
 
 ---

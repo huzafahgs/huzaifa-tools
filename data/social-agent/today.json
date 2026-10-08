@@ -1,107 +1,91 @@
 {
-  "id": "2026-10-08-json-to-csv",
-  "date": "2026-10-08",
+  "id": "2026-10-09-ai-writing-assistant",
+  "date": "2026-10-09",
   "version": 2,
   "tool": {
-    "name": "JSON to CSV",
-    "slug": "json-to-csv",
-    "category": "Developer",
-    "description": "Convert a flat JSON object array into quoted CSV columns, with useful validation errors and spreadsheet-safe string handling."
+    "name": "AI Writing Assistant",
+    "slug": "ai-writing-assistant",
+    "category": "AI",
+    "description": "Draft clear writing from your brief, with tone and approximate length controls. AI generation requires sign-in and service availability."
   },
   "lesson": {
-    "hook": "Need to inspect a small sample?",
-    "problem": "Inspect a small, non-sensitive sample before using the output",
-    "action": "Paste an array of flat JSON objects",
-    "check": "Convert to CSV and review column names and values",
-    "takeaway": "Copy or download the CSV and check the spreadsheet import",
+    "hook": "Want a draft you can actually review?",
+    "problem": "Turn a clear brief into a draft that you can review",
+    "action": "Tell the assistant who will read the draft and what they should understand or do",
+    "check": "Supply facts you want included. Missing dates, evidence or credentials should not be invented",
+    "takeaway": "Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request",
     "factualBasis": [
-      "Convert a flat JSON object array into quoted CSV columns, with useful validation errors and spreadsheet-safe string handling.",
-      "Paste an array of flat JSON objects.",
-      "Convert to CSV and review column names and values.",
-      "Copy or download the CSV and check the spreadsheet import."
+      "Draft clear writing from your brief, with tone and approximate length controls. AI generation requires sign-in and service availability.",
+      "Tell the assistant who will read the draft and what they should understand or do.",
+      "Supply facts you want included. Missing dates, evidence or credentials should not be invented.",
+      "Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request."
     ]
   },
   "score": {
-    "total": 13.92,
+    "total": 16,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 14,
+      "catalogUtility": 13,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
-        "editorialGapBoost": 0
+        "relatedArticleCount": 0,
+        "editorialGapBoost": 3
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [
-    {
-      "title": "Convert Flat JSON to CSV: Columns, Quoting, and Spreadsheet Checks",
-      "slug": "json-to-csv-flat-data",
-      "primaryKeyword": "convert flat JSON to CSV"
-    },
-    {
-      "title": "CSV Rows to JSON Objects: Headers, Quotes and Type Checks",
-      "slug": "csv-rows-to-json-objects",
-      "primaryKeyword": "csv to json"
-    },
-    {
-      "title": "Format JSON and Check the Data Behind the Indentation",
-      "slug": "format-json-and-check-data-types",
-      "primaryKeyword": "json formatter"
-    }
-  ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_social",
+  "articleReferences": [],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_social",
   "facebook": {
-    "title": "Inspect a small, non-sensitive sample before using the output: JSON to CSV",
-    "hook": "Need to inspect a small sample?",
-    "message": "QUICK WALKTHROUGH · JSON to CSV\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste an array of flat JSON objects\n\nConvert to CSV and review column names and values\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-    "caption": "QUICK WALKTHROUGH · JSON to CSV\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste an array of flat JSON objects\n\nConvert to CSV and review column names and values\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+    "title": "Turn a clear brief into a draft that you can review: AI Writing Assistant",
+    "hook": "Want a draft you can actually review?",
+    "message": "QUICK WALKTHROUGH · AI Writing Assistant\n\nTurn a clear brief into a draft that you can review.\n\nTell the assistant who will read the draft and what they should understand or do\n\nSupply facts you want included. Missing dates, evidence or credentials should not be invented\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Writing Assistant\n\nTurn a clear brief into a draft that you can review.\n\nTell the assistant who will read the draft and what they should understand or do\n\nSupply facts you want included. Missing dates, evidence or credentials should not be invented\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "JSON to CSV",
-      "Developer tool",
+      "AI Writing Assistant",
+      "AI tool",
       "Huzaifa Tools",
-      "json",
-      "to",
-      "csv",
+      "ai",
+      "writing",
+      "assistant",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON to CSV."
+        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste an array of flat JSON objects"
+        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-        "voiceover": "Convert to CSV and review column names and values"
+        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
       },
       {
         "seconds": "20–25",
@@ -112,51 +96,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to inspect a small sample · JSON to CSV",
-    "hook": "Need to inspect a small sample?",
-    "caption": "Need to inspect a small sample? Here is a short, practical demo of JSON to CSV.\n\nPaste an array of flat JSON objects Copy or download the CSV and check the spreadsheet import\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+    "title": "Want a draft you can actually review · AI Writing Assistant",
+    "hook": "Want a draft you can actually review?",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Writing Assistant.\n\nTell the assistant who will read the draft and what they should understand or do Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "JSON to CSV",
-      "Developer tool",
+      "AI Writing Assistant",
+      "AI tool",
       "Huzaifa Tools",
-      "json",
-      "to",
-      "csv",
+      "ai",
+      "writing",
+      "assistant",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools",
+      "#AITools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON to CSV."
+        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste an array of flat JSON objects"
+        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-        "voiceover": "Convert to CSV and review column names and values"
+        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
       },
       {
         "seconds": "20–25",
@@ -165,54 +149,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-08-json-to-csv.jpg"
+    "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to inspect a small sample | JSON to CSV #Shorts",
-    "hook": "Need to inspect a small sample?",
-    "description": "Inspect a small, non-sensitive sample before using the output. Paste an array of flat JSON objects\n\nConvert to CSV and review column names and values\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+    "title": "Want a draft you can actually review | AI Writing Assistant #Shorts",
+    "hook": "Want a draft you can actually review?",
+    "description": "Turn a clear brief into a draft that you can review. Tell the assistant who will read the draft and what they should understand or do\n\nSupply facts you want included. Missing dates, evidence or credentials should not be invented\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "JSON to CSV",
-      "Developer tool",
+      "AI Writing Assistant",
+      "AI tool",
       "Huzaifa Tools",
-      "json",
-      "to",
-      "csv",
+      "ai",
+      "writing",
+      "assistant",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/json-to-csv?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261008&utm_content=json-to-csv_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON to CSV."
+        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste an array of flat JSON objects"
+        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-        "voiceover": "Convert to CSV and review column names and values"
+        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
       },
       {
         "seconds": "20–25",
@@ -239,25 +223,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON to CSV."
+        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste an array of flat JSON objects"
+        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-        "voiceover": "Convert to CSV and review column names and values"
+        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
       },
       {
         "seconds": "20–25",
@@ -272,25 +256,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JSON to CSV."
+          "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste an array of flat JSON objects"
+          "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-          "voiceover": "Convert to CSV and review column names and values"
+          "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+          "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
         },
         {
           "seconds": "20–25",
@@ -304,25 +288,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JSON to CSV."
+          "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste an array of flat JSON objects"
+          "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-          "voiceover": "Convert to CSV and review column names and values"
+          "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+          "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
         },
         {
           "seconds": "20–25",
@@ -336,25 +320,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JSON to CSV and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JSON to CSV."
+          "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste an array of flat JSON objects Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste an array of flat JSON objects"
+          "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Convert to CSV and review column names and values Pause long enough for viewers to read the real result.",
-          "voiceover": "Convert to CSV and review column names and values"
+          "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
+          "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
         },
         {
           "seconds": "20–25",
@@ -366,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-08-json-to-csv.jpg",
-    "alt": "JSON to CSV practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg",
+    "alt": "AI Writing Assistant practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-07T19:09:49.631Z",
+  "createdAt": "2026-10-08T19:06:03.444Z",
   "contentHashes": {
-    "facebook": "626f56f8",
-    "instagram": "a0ff3e09",
-    "youtube": "77b428ee"
+    "facebook": "8dcae0dc",
+    "instagram": "be2357f8",
+    "youtube": "279e8dcc"
   }
 }
