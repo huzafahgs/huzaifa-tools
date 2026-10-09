@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-08T19:06:03.487Z",
+  "generatedAt": "2026-10-09T18:36:44.981Z",
   "timezone": "Asia/Karachi",
   "window": {
     "start": "2026-10-09",
@@ -13,7 +13,6 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "AI": 4,
     "Islamic": 1,
     "PDF": 4,
     "Image": 4,
@@ -21,6 +20,7 @@
     "Calculator": 4,
     "Converter": 3,
     "Developer": 3,
+    "AI": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1
@@ -743,7 +743,7 @@
         "imagePath": "assets/2026-10-10-zakat-calculator.jpg",
         "alt": "Zakat Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.447Z",
+      "createdAt": "2026-10-09T18:36:44.943Z",
       "contentHashes": {
         "facebook": "fe4455e",
         "instagram": "3c0eb9b2",
@@ -1118,7 +1118,7 @@
         "imagePath": "assets/2026-10-11-pdf-splitter.jpg",
         "alt": "PDF Splitter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.449Z",
+      "createdAt": "2026-10-09T18:36:44.946Z",
       "contentHashes": {
         "facebook": "56ef1b1f",
         "instagram": "8f4c4cb3",
@@ -1493,7 +1493,7 @@
         "imagePath": "assets/2026-10-12-image-cropper.jpg",
         "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.450Z",
+      "createdAt": "2026-10-09T18:36:44.947Z",
       "contentHashes": {
         "facebook": "4b4b8434",
         "instagram": "718fd180",
@@ -1865,7 +1865,7 @@
         "imagePath": "assets/2026-10-13-character-counter.jpg",
         "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.451Z",
+      "createdAt": "2026-10-09T18:36:44.948Z",
       "contentHashes": {
         "facebook": "3b3dad75",
         "instagram": "598dd89e",
@@ -2232,7 +2232,7 @@
         "imagePath": "assets/2026-10-14-age-calculator.jpg",
         "alt": "Age Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.453Z",
+      "createdAt": "2026-10-09T18:36:44.950Z",
       "contentHashes": {
         "facebook": "bd26afc4",
         "instagram": "1e724be8",
@@ -2604,7 +2604,7 @@
         "imagePath": "assets/2026-10-15-unit-converter.jpg",
         "alt": "Unit Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.455Z",
+      "createdAt": "2026-10-09T18:36:44.951Z",
       "contentHashes": {
         "facebook": "408eade5",
         "instagram": "43e57d75",
@@ -2974,7 +2974,7 @@
         "imagePath": "assets/2026-10-16-html-minifier.jpg",
         "alt": "HTML Minifier practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.456Z",
+      "createdAt": "2026-10-09T18:36:44.953Z",
       "contentHashes": {
         "facebook": "91944507",
         "instagram": "623b9d5f",
@@ -3005,7 +3005,7 @@
         ]
       },
       "score": {
-        "total": -18,
+        "total": 16,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -3017,7 +3017,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3336,7 +3336,7 @@
         "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
         "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.457Z",
+      "createdAt": "2026-10-09T18:36:44.954Z",
       "contentHashes": {
         "facebook": "4a60873",
         "instagram": "8046b99f",
@@ -3708,7 +3708,7 @@
         "imagePath": "assets/2026-10-18-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.459Z",
+      "createdAt": "2026-10-09T18:36:44.956Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "c94adc3",
@@ -4086,7 +4086,7 @@
         "imagePath": "assets/2026-10-19-pdf-page-extractor.jpg",
         "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.460Z",
+      "createdAt": "2026-10-09T18:36:44.957Z",
       "contentHashes": {
         "facebook": "19420176",
         "instagram": "61946824",
@@ -4461,7 +4461,7 @@
         "imagePath": "assets/2026-10-20-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.461Z",
+      "createdAt": "2026-10-09T18:36:44.959Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "c8b5a048",
@@ -4836,7 +4836,7 @@
         "imagePath": "assets/2026-10-21-text-case-converter.jpg",
         "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.462Z",
+      "createdAt": "2026-10-09T18:36:44.960Z",
       "contentHashes": {
         "facebook": "76653787",
         "instagram": "ef0f431f",
@@ -5208,7 +5208,7 @@
         "imagePath": "assets/2026-10-22-loan-calculator.jpg",
         "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.463Z",
+      "createdAt": "2026-10-09T18:36:44.961Z",
       "contentHashes": {
         "facebook": "e9ad2513",
         "instagram": "e45dcce4",
@@ -5575,7 +5575,7 @@
         "imagePath": "assets/2026-10-23-temperature-converter.jpg",
         "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.464Z",
+      "createdAt": "2026-10-09T18:36:44.962Z",
       "contentHashes": {
         "facebook": "c4daf77f",
         "instagram": "99b3bfcc",
@@ -5950,7 +5950,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.465Z",
+      "createdAt": "2026-10-09T18:36:44.962Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -5981,7 +5981,7 @@
         ]
       },
       "score": {
-        "total": -52,
+        "total": -18,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -5993,7 +5993,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6312,7 +6312,7 @@
         "imagePath": "assets/2026-10-25-ai-email-generator.jpg",
         "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.466Z",
+      "createdAt": "2026-10-09T18:36:44.963Z",
       "contentHashes": {
         "facebook": "337bb2c",
         "instagram": "aa174f48",
@@ -6687,7 +6687,7 @@
         "imagePath": "assets/2026-10-26-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.467Z",
+      "createdAt": "2026-10-09T18:36:44.965Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "3602a75c",
@@ -7060,7 +7060,7 @@
         "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.468Z",
+      "createdAt": "2026-10-09T18:36:44.966Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "a2166a04",
@@ -7433,7 +7433,7 @@
         "imagePath": "assets/2026-10-28-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.469Z",
+      "createdAt": "2026-10-09T18:36:44.967Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "2564f1bd",
@@ -7800,7 +7800,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.470Z",
+      "createdAt": "2026-10-09T18:36:44.968Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -8167,7 +8167,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.471Z",
+      "createdAt": "2026-10-09T18:36:44.969Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -8539,7 +8539,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.472Z",
+      "createdAt": "2026-10-09T18:36:44.970Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -8914,7 +8914,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.473Z",
+      "createdAt": "2026-10-09T18:36:44.970Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -8945,7 +8945,7 @@
         ]
       },
       "score": {
-        "total": -86,
+        "total": -52,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -8957,7 +8957,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9276,7 +9276,7 @@
         "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.475Z",
+      "createdAt": "2026-10-09T18:36:44.972Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "38b241d",
@@ -9640,7 +9640,7 @@
         "imagePath": "assets/2026-11-03-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.478Z",
+      "createdAt": "2026-10-09T18:36:44.975Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "c92f20f5",
@@ -10013,7 +10013,7 @@
         "imagePath": "assets/2026-11-04-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.480Z",
+      "createdAt": "2026-10-09T18:36:44.977Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "adc6098d",
@@ -10391,7 +10391,7 @@
         "imagePath": "assets/2026-11-05-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.484Z",
+      "createdAt": "2026-10-09T18:36:44.978Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "b48db475",
@@ -10763,7 +10763,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.486Z",
+      "createdAt": "2026-10-09T18:36:44.980Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -11135,7 +11135,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-08T19:06:03.487Z",
+      "createdAt": "2026-10-09T18:36:44.981Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
