@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-09 to 2026-11-07 (Asia/Karachi)
+Window: 2026-10-10 to 2026-11-08 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-09 | AI Writing Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-10 | Zakat Calculator | Islamic | Checking a Zakat estimate? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-11 | PDF Splitter | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-12 | Image Cropper | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-05 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-07 | Percentage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-09 · AI Writing Assistant
-
-**Category:** AI · **Tool:** Draft clear writing from your brief, with tone and approximate length controls. AI generation requires sign-in and service availability.
-
-**Hook:** Want a draft you can actually review?
-
-**Useful action:** Tell the assistant who will read the draft and what they should understand or do
-
-**Check:** Supply facts you want included. Missing dates, evidence or credentials should not be invented
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Turn a clear brief into a draft that you can review: AI Writing Assistant
-
-QUICK WALKTHROUGH · AI Writing Assistant
-
-Turn a clear brief into a draft that you can review.
-
-Tell the assistant who will read the draft and what they should understand or do
-
-Supply facts you want included. Missing dates, evidence or credentials should not be invented
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #AITools
-
-**Keywords:** AI Writing Assistant, AI tool, Huzaifa Tools, ai, writing, assistant, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_facebook
-
-### Instagram Reels
-
-**Title:** Want a draft you can actually review · AI Writing Assistant
-
-Want a draft you can actually review? Here is a short, practical demo of AI Writing Assistant.
-
-Tell the assistant who will read the draft and what they should understand or do Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #AITools #QuickTutorial
-
-**Keywords:** AI Writing Assistant, AI tool, Huzaifa Tools, ai, writing, assistant, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Want a draft you can actually review | AI Writing Assistant #Shorts
-
-Turn a clear brief into a draft that you can review. Tell the assistant who will read the draft and what they should understand or do
-
-Supply facts you want included. Missing dates, evidence or credentials should not be invented
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #AITools
-
-**Keywords:** AI Writing Assistant, AI tool, Huzaifa Tools, ai, writing, assistant, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Writing Assistant.”
-- **7–14s · Demonstrate:** Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output. Voiceover: “Tell the assistant who will read the draft and what they should understand or do”
-- **14–20s · Teach a check:** Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result. Voiceover: “Supply facts you want included. Missing dates, evidence or credentials should not be invented”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Writing Assistant.”
-- **7–14s · Demonstrate:** Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output. Voiceover: “Tell the assistant who will read the draft and what they should understand or do”
-- **14–20s · Teach a check:** Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result. Voiceover: “Supply facts you want included. Missing dates, evidence or credentials should not be invented”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Writing Assistant.”
-- **7–14s · Demonstrate:** Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output. Voiceover: “Tell the assistant who will read the draft and what they should understand or do”
-- **14–20s · Teach a check:** Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result. Voiceover: “Supply facts you want included. Missing dates, evidence or credentials should not be invented”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-09-ai-writing-assistant.jpg
-
----
+| 2026-11-08 | Length Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-10 · Zakat Calculator
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-07-percentage-calculator.jpg
+
+---
+
+## 2026-11-08 · Length Converter
+
+**Category:** Converter · **Tool:** Convert between length units.
+
+**Hook:** Need to convert a value?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Convert a value and confirm the output units or format: Length Converter
+
+QUICK WALKTHROUGH · Length Converter
+
+Convert a value and confirm the output units or format.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #Converters
+
+**Keywords:** Length Converter, Converter tool, Huzaifa Tools, length, converter, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_facebook
+
+### Instagram Reels
+
+**Title:** Need to convert a value · Length Converter
+
+Need to convert a value? Here is a short, practical demo of Length Converter.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #Converters #QuickTutorial
+
+**Keywords:** Length Converter, Converter tool, Huzaifa Tools, length, converter, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to convert a value | Length Converter #Shorts
+
+Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #Converters
+
+**Keywords:** Length Converter, Converter tool, Huzaifa Tools, length, converter, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Length Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Length Converter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Length Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Length Converter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Length Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Length Converter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-08-length-converter.jpg
 
 ---

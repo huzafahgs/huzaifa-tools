@@ -1,91 +1,93 @@
 {
-  "id": "2026-10-09-ai-writing-assistant",
-  "date": "2026-10-09",
+  "id": "2026-10-10-zakat-calculator",
+  "date": "2026-10-10",
   "version": 2,
   "tool": {
-    "name": "AI Writing Assistant",
-    "slug": "ai-writing-assistant",
-    "category": "AI",
-    "description": "Draft clear writing from your brief, with tone and approximate length controls. AI generation requires sign-in and service availability."
+    "name": "Zakat Calculator",
+    "slug": "zakat-calculator",
+    "category": "Islamic",
+    "description": "Estimate Zakat with a selectable gold or silver nisab and transparent 2.5% method."
   },
   "lesson": {
-    "hook": "Want a draft you can actually review?",
-    "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Tell the assistant who will read the draft and what they should understand or do",
-    "check": "Supply facts you want included. Missing dates, evidence or credentials should not be invented",
-    "takeaway": "Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request",
+    "hook": "Checking a Zakat estimate?",
+    "problem": "Understand a Zakat estimate and the method selected",
+    "action": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.",
+    "check": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling.",
+    "takeaway": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling.",
     "factualBasis": [
-      "Draft clear writing from your brief, with tone and approximate length controls. AI generation requires sign-in and service availability.",
-      "Tell the assistant who will read the draft and what they should understand or do.",
-      "Supply facts you want included. Missing dates, evidence or credentials should not be invented.",
-      "Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request."
+      "Estimate Zakat with a selectable gold or silver nisab and transparent 2.5% method."
     ]
   },
   "score": {
-    "total": 16,
+    "total": 6.9,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 13,
+      "catalogUtility": 7,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 0,
-        "editorialGapBoost": 3
+        "relatedArticleCount": 1,
+        "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_social",
+  "articleReferences": [
+    {
+      "title": "Calculate Zakat with Gold or Silver Nisab: A Transparent Worksheet",
+      "slug": "calculate-zakat-gold-silver-nisab",
+      "primaryKeyword": "calculate Zakat with gold or silver nisab"
+    }
+  ],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Writing Assistant",
-    "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Writing Assistant\n\nTurn a clear brief into a draft that you can review.\n\nTell the assistant who will read the draft and what they should understand or do\n\nSupply facts you want included. Missing dates, evidence or credentials should not be invented\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Writing Assistant\n\nTurn a clear brief into a draft that you can review.\n\nTell the assistant who will read the draft and what they should understand or do\n\nSupply facts you want included. Missing dates, evidence or credentials should not be invented\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "title": "Understand a Zakat estimate and the method selected: Zakat Calculator",
+    "hook": "Checking a Zakat estimate?",
+    "message": "QUICK WALKTHROUGH · Zakat Calculator\n\nUnderstand a Zakat estimate and the method selected.\n\nEnter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.\n\nShow the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #IslamicTools",
+    "caption": "QUICK WALKTHROUGH · Zakat Calculator\n\nUnderstand a Zakat estimate and the method selected.\n\nEnter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.\n\nShow the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #IslamicTools",
     "keywords": [
-      "AI Writing Assistant",
-      "AI tool",
+      "Zakat Calculator",
+      "Islamic tool",
       "Huzaifa Tools",
-      "ai",
-      "writing",
-      "assistant",
+      "zakat",
+      "calculator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools"
+      "#IslamicTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Checking a Zakat estimate?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
       },
       {
         "seconds": "20–25",
@@ -96,51 +98,50 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Writing Assistant",
-    "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Writing Assistant.\n\nTell the assistant who will read the draft and what they should understand or do Use Refine this result to bring the draft back into the editor with a new instruction. Each generation uses a request\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "title": "Checking a Zakat estimate · Zakat Calculator",
+    "hook": "Checking a Zakat estimate?",
+    "caption": "Checking a Zakat estimate? Here is a short, practical demo of Zakat Calculator.\n\nEnter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Show the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #IslamicTools #QuickTutorial",
     "keywords": [
-      "AI Writing Assistant",
-      "AI tool",
+      "Zakat Calculator",
+      "Islamic tool",
       "Huzaifa Tools",
-      "ai",
-      "writing",
-      "assistant",
+      "zakat",
+      "calculator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools",
+      "#IslamicTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Checking a Zakat estimate?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
       },
       {
         "seconds": "20–25",
@@ -149,54 +150,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg"
+    "imagePath": "assets/2026-10-10-zakat-calculator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Writing Assistant #Shorts",
-    "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Tell the assistant who will read the draft and what they should understand or do\n\nSupply facts you want included. Missing dates, evidence or credentials should not be invented\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "title": "Checking a Zakat estimate | Zakat Calculator #Shorts",
+    "hook": "Checking a Zakat estimate?",
+    "description": "Understand a Zakat estimate and the method selected. Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.\n\nShow the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #IslamicTools",
     "keywords": [
-      "AI Writing Assistant",
-      "AI tool",
+      "Zakat Calculator",
+      "Islamic tool",
       "Huzaifa Tools",
-      "ai",
-      "writing",
-      "assistant",
+      "zakat",
+      "calculator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#AITools"
+      "#IslamicTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-writing-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261009&utm_content=ai-writing-assistant_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Checking a Zakat estimate?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
       },
       {
         "seconds": "20–25",
@@ -223,25 +223,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Checking a Zakat estimate?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-        "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
       },
       {
         "seconds": "20–25",
@@ -256,25 +256,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Checking a Zakat estimate?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+          "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Zakat Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+          "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-          "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+          "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+          "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
         },
         {
           "seconds": "20–25",
@@ -288,25 +288,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Checking a Zakat estimate?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+          "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Zakat Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+          "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-          "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+          "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+          "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
         },
         {
           "seconds": "20–25",
@@ -320,25 +320,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Checking a Zakat estimate?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Writing Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Writing Assistant."
+          "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Zakat Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Tell the assistant who will read the draft and what they should understand or do Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Tell the assistant who will read the draft and what they should understand or do"
+          "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Supply facts you want included. Missing dates, evidence or credentials should not be invented Pause long enough for viewers to read the real result.",
-          "voiceover": "Supply facts you want included. Missing dates, evidence or credentials should not be invented"
+          "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
+          "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
         },
         {
           "seconds": "20–25",
@@ -350,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-09-ai-writing-assistant.jpg",
-    "alt": "AI Writing Assistant practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-10-zakat-calculator.jpg",
+    "alt": "Zakat Calculator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-08T19:06:03.444Z",
+  "createdAt": "2026-10-10T17:34:47.977Z",
   "contentHashes": {
-    "facebook": "8dcae0dc",
-    "instagram": "be2357f8",
-    "youtube": "279e8dcc"
+    "facebook": "fe4455e",
+    "instagram": "3c0eb9b2",
+    "youtube": "1fb0b785"
   }
 }
