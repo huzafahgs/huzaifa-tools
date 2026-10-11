@@ -1,34 +1,37 @@
 {
-  "id": "2026-10-10-zakat-calculator",
-  "date": "2026-10-10",
+  "id": "2026-10-11-pdf-splitter",
+  "date": "2026-10-11",
   "version": 2,
   "tool": {
-    "name": "Zakat Calculator",
-    "slug": "zakat-calculator",
-    "category": "Islamic",
-    "description": "Estimate Zakat with a selectable gold or silver nisab and transparent 2.5% method."
+    "name": "PDF Splitter",
+    "slug": "pdf-splitter",
+    "category": "PDF",
+    "description": "Split a PDF into separate downloadable documents using page groups and ranges, without uploading the source file."
   },
   "lesson": {
-    "hook": "Checking a Zakat estimate?",
-    "problem": "Understand a Zakat estimate and the method selected",
-    "action": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.",
-    "check": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling.",
-    "takeaway": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling.",
+    "hook": "Need to work with a PDF?",
+    "problem": "Prepare a PDF task and verify the downloaded pages",
+    "action": "Choose one unencrypted PDF",
+    "check": "Enter groups such as 1-2;3-5 to create two documents",
+    "takeaway": "Create the output and download each part",
     "factualBasis": [
-      "Estimate Zakat with a selectable gold or silver nisab and transparent 2.5% method."
+      "Split a PDF into separate downloadable documents using page groups and ranges, without uploading the source file.",
+      "Choose one unencrypted PDF.",
+      "Enter groups such as 1-2;3-5 to create two documents.",
+      "Create the output and download each part."
     ]
   },
   "score": {
-    "total": 6.9,
+    "total": 16,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 7,
+      "catalogUtility": 16,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 1,
+        "relatedArticleCount": 3,
         "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
@@ -37,57 +40,67 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Calculate Zakat with Gold or Silver Nisab: A Transparent Worksheet",
-      "slug": "calculate-zakat-gold-silver-nisab",
-      "primaryKeyword": "calculate Zakat with gold or silver nisab"
+      "title": "Merge PDF Files in the Right Order: A Practical Assembly Guide",
+      "slug": "merge-pdf-files-in-order",
+      "primaryKeyword": "merge PDF files in order"
+    },
+    {
+      "title": "Split a PDF by Page Ranges: Plan and Check Separate Documents",
+      "slug": "split-pdf-by-page-ranges",
+      "primaryKeyword": "split PDF by page ranges"
+    },
+    {
+      "title": "Extract Selected PDF Pages into One Useful Document",
+      "slug": "extract-selected-pdf-pages",
+      "primaryKeyword": "extract selected PDF pages"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_social",
   "facebook": {
-    "title": "Understand a Zakat estimate and the method selected: Zakat Calculator",
-    "hook": "Checking a Zakat estimate?",
-    "message": "QUICK WALKTHROUGH · Zakat Calculator\n\nUnderstand a Zakat estimate and the method selected.\n\nEnter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.\n\nShow the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #IslamicTools",
-    "caption": "QUICK WALKTHROUGH · Zakat Calculator\n\nUnderstand a Zakat estimate and the method selected.\n\nEnter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.\n\nShow the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #IslamicTools",
+    "title": "Prepare a PDF task and verify the downloaded pages: PDF Splitter",
+    "hook": "Need to work with a PDF?",
+    "message": "QUICK WALKTHROUGH · PDF Splitter\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose one unencrypted PDF\n\nEnter groups such as 1-2;3-5 to create two documents\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "caption": "QUICK WALKTHROUGH · PDF Splitter\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose one unencrypted PDF\n\nEnter groups such as 1-2;3-5 to create two documents\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
     "keywords": [
-      "Zakat Calculator",
-      "Islamic tool",
+      "PDF Splitter",
+      "PDF tool",
       "Huzaifa Tools",
-      "zakat",
-      "calculator",
+      "pdf",
+      "splitter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#IslamicTools"
+      "#PDFTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a Zakat estimate?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Splitter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose one unencrypted PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
       },
       {
         "seconds": "20–25",
@@ -98,50 +111,50 @@
     ]
   },
   "instagram": {
-    "title": "Checking a Zakat estimate · Zakat Calculator",
-    "hook": "Checking a Zakat estimate?",
-    "caption": "Checking a Zakat estimate? Here is a short, practical demo of Zakat Calculator.\n\nEnter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Show the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #IslamicTools #QuickTutorial",
+    "title": "Need to work with a PDF · PDF Splitter",
+    "hook": "Need to work with a PDF?",
+    "caption": "Need to work with a PDF? Here is a short, practical demo of PDF Splitter.\n\nChoose one unencrypted PDF Create the output and download each part\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
     "keywords": [
-      "Zakat Calculator",
-      "Islamic tool",
+      "PDF Splitter",
+      "PDF tool",
       "Huzaifa Tools",
-      "zakat",
-      "calculator",
+      "pdf",
+      "splitter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#IslamicTools",
+      "#PDFTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a Zakat estimate?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Splitter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose one unencrypted PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
       },
       {
         "seconds": "20–25",
@@ -150,53 +163,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-10-zakat-calculator.jpg"
+    "imagePath": "assets/2026-10-11-pdf-splitter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Checking a Zakat estimate | Zakat Calculator #Shorts",
-    "hook": "Checking a Zakat estimate?",
-    "description": "Understand a Zakat estimate and the method selected. Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method.\n\nShow the selected method and assumptions; treat the result as an estimate, not a religious ruling.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #IslamicTools",
+    "title": "Need to work with a PDF | PDF Splitter #Shorts",
+    "hook": "Need to work with a PDF?",
+    "description": "Prepare a PDF task and verify the downloaded pages. Choose one unencrypted PDF\n\nEnter groups such as 1-2;3-5 to create two documents\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
     "keywords": [
-      "Zakat Calculator",
-      "Islamic tool",
+      "PDF Splitter",
+      "PDF tool",
       "Huzaifa Tools",
-      "zakat",
-      "calculator",
+      "pdf",
+      "splitter",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#IslamicTools"
+      "#PDFTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/zakat-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261010&utm_content=zakat-calculator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a Zakat estimate?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Splitter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose one unencrypted PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
       },
       {
         "seconds": "20–25",
@@ -223,25 +236,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a Zakat estimate?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Splitter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose one unencrypted PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-        "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
       },
       {
         "seconds": "20–25",
@@ -256,25 +269,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Checking a Zakat estimate?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+          "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Splitter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+          "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose one unencrypted PDF"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-          "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+          "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+          "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
         },
         {
           "seconds": "20–25",
@@ -288,25 +301,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Checking a Zakat estimate?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+          "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Splitter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+          "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose one unencrypted PDF"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-          "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+          "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+          "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
         },
         {
           "seconds": "20–25",
@@ -320,25 +333,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Checking a Zakat estimate?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Zakat Calculator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Zakat Calculator."
+          "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Splitter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab method. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Enter assets and liabilities in the fields shown, then compare the displayed estimate with the selected gold or silver nisab meth…"
+          "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose one unencrypted PDF"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling. Pause long enough for viewers to read the real result.",
-          "voiceover": "Show the selected method and assumptions; treat the result as an estimate, not a religious ruling."
+          "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
+          "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
         },
         {
           "seconds": "20–25",
@@ -350,13 +363,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-10-zakat-calculator.jpg",
-    "alt": "Zakat Calculator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-11-pdf-splitter.jpg",
+    "alt": "PDF Splitter practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-10T17:34:47.977Z",
+  "createdAt": "2026-10-11T17:52:18.345Z",
   "contentHashes": {
-    "facebook": "fe4455e",
-    "instagram": "3c0eb9b2",
-    "youtube": "1fb0b785"
+    "facebook": "56ef1b1f",
+    "instagram": "8f4c4cb3",
+    "youtube": "4870fcc1"
   }
 }
