@@ -1,31 +1,28 @@
 {
-  "id": "2026-10-11-pdf-splitter",
-  "date": "2026-10-11",
+  "id": "2026-10-13-character-counter",
+  "date": "2026-10-13",
   "version": 2,
   "tool": {
-    "name": "PDF Splitter",
-    "slug": "pdf-splitter",
-    "category": "PDF",
-    "description": "Split a PDF into separate downloadable documents using page groups and ranges, without uploading the source file."
+    "name": "Character Counter",
+    "slug": "character-counter",
+    "category": "Text",
+    "description": "Count characters with and without spaces."
   },
   "lesson": {
-    "hook": "Need to work with a PDF?",
-    "problem": "Prepare a PDF task and verify the downloaded pages",
-    "action": "Choose one unencrypted PDF",
-    "check": "Enter groups such as 1-2;3-5 to create two documents",
-    "takeaway": "Create the output and download each part",
+    "hook": "Working through a text task?",
+    "problem": "Work through a small text task and check the result",
+    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+    "check": "Check the result against the requirements of your task.",
+    "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Split a PDF into separate downloadable documents using page groups and ranges, without uploading the source file.",
-      "Choose one unencrypted PDF.",
-      "Enter groups such as 1-2;3-5 to create two documents.",
-      "Create the output and download each part."
+      "Count characters with and without spaces."
     ]
   },
   "score": {
-    "total": 16,
+    "total": 7.97,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 16,
+      "catalogUtility": 8,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
@@ -40,67 +37,67 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Merge PDF Files in the Right Order: A Practical Assembly Guide",
-      "slug": "merge-pdf-files-in-order",
-      "primaryKeyword": "merge PDF files in order"
+      "title": "Character Counts: Spaces, Emoji and the Limit That Actually Applies",
+      "slug": "character-count-spaces-emoji-and-lines",
+      "primaryKeyword": "character counter"
     },
     {
-      "title": "Split a PDF by Page Ranges: Plan and Check Separate Documents",
-      "slug": "split-pdf-by-page-ranges",
-      "primaryKeyword": "split PDF by page ranges"
+      "title": "Use Lorem Ipsum to Test Layout, Then Replace It with Real Copy",
+      "slug": "lorem-ipsum-for-layout-testing",
+      "primaryKeyword": "lorem ipsum generator"
     },
     {
-      "title": "Extract Selected PDF Pages into One Useful Document",
-      "slug": "extract-selected-pdf-pages",
-      "primaryKeyword": "extract selected PDF pages"
+      "title": "Turn Text into Written Morse Code and Check the Separators",
+      "slug": "turn-text-into-written-morse-code",
+      "primaryKeyword": "morse code converter"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_social",
   "facebook": {
-    "title": "Prepare a PDF task and verify the downloaded pages: PDF Splitter",
-    "hook": "Need to work with a PDF?",
-    "message": "QUICK WALKTHROUGH · PDF Splitter\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose one unencrypted PDF\n\nEnter groups such as 1-2;3-5 to create two documents\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
-    "caption": "QUICK WALKTHROUGH · PDF Splitter\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose one unencrypted PDF\n\nEnter groups such as 1-2;3-5 to create two documents\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "title": "Work through a small text task and check the result: Character Counter",
+    "hook": "Working through a text task?",
+    "message": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "caption": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
     "keywords": [
-      "PDF Splitter",
-      "PDF tool",
+      "Character Counter",
+      "Text tool",
       "Huzaifa Tools",
-      "pdf",
-      "splitter",
+      "character",
+      "counter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools"
+      "#TextTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Splitter."
+        "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Character Counter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose one unencrypted PDF"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -111,50 +108,50 @@
     ]
   },
   "instagram": {
-    "title": "Need to work with a PDF · PDF Splitter",
-    "hook": "Need to work with a PDF?",
-    "caption": "Need to work with a PDF? Here is a short, practical demo of PDF Splitter.\n\nChoose one unencrypted PDF Create the output and download each part\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
+    "title": "Working through a text task · Character Counter",
+    "hook": "Working through a text task?",
+    "caption": "Working through a text task? Here is a short, practical demo of Character Counter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
     "keywords": [
-      "PDF Splitter",
-      "PDF tool",
+      "Character Counter",
+      "Text tool",
       "Huzaifa Tools",
-      "pdf",
-      "splitter",
+      "character",
+      "counter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools",
+      "#TextTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Splitter."
+        "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Character Counter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose one unencrypted PDF"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -163,53 +160,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-11-pdf-splitter.jpg"
+    "imagePath": "assets/2026-10-13-character-counter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to work with a PDF | PDF Splitter #Shorts",
-    "hook": "Need to work with a PDF?",
-    "description": "Prepare a PDF task and verify the downloaded pages. Choose one unencrypted PDF\n\nEnter groups such as 1-2;3-5 to create two documents\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
+    "title": "Working through a text task | Character Counter #Shorts",
+    "hook": "Working through a text task?",
+    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
     "keywords": [
-      "PDF Splitter",
-      "PDF tool",
+      "Character Counter",
+      "Text tool",
       "Huzaifa Tools",
-      "pdf",
-      "splitter",
+      "character",
+      "counter",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#PDFTools"
+      "#TextTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-splitter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261011&utm_content=pdf-splitter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Splitter."
+        "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Character Counter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose one unencrypted PDF"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -236,25 +233,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF Splitter."
+        "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Character Counter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose one unencrypted PDF"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -269,25 +266,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF Splitter."
+          "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Character Counter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose one unencrypted PDF"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-          "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -301,25 +298,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF Splitter."
+          "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Character Counter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose one unencrypted PDF"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-          "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -333,25 +330,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF Splitter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF Splitter."
+          "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Character Counter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose one unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose one unencrypted PDF"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Enter groups such as 1-2;3-5 to create two documents Pause long enough for viewers to read the real result.",
-          "voiceover": "Enter groups such as 1-2;3-5 to create two documents"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -363,13 +360,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-11-pdf-splitter.jpg",
-    "alt": "PDF Splitter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-13-character-counter.jpg",
+    "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-11T17:52:18.345Z",
+  "createdAt": "2026-10-12T21:30:05.739Z",
   "contentHashes": {
-    "facebook": "56ef1b1f",
-    "instagram": "8f4c4cb3",
-    "youtube": "4870fcc1"
+    "facebook": "3b3dad75",
+    "instagram": "598dd89e",
+    "youtube": "9ea40dd1"
   }
 }
