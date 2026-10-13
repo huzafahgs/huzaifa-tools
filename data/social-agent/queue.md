@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-13 to 2026-11-11 (Asia/Karachi)
+Window: 2026-10-14 to 2026-11-12 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-13 | Character Counter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-14 | Age Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-15 | Unit Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-16 | HTML Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-09 | Regex Tester | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-10 | AI Paraphraser | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-11 | Prime Number Checker | Number | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-13 · Character Counter
-
-**Category:** Text · **Tool:** Count characters with and without spaces.
-
-**Hook:** Working through a text task?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Work through a small text task and check the result: Character Counter
-
-QUICK WALKTHROUGH · Character Counter
-
-Work through a small text task and check the result.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #TextTools
-
-**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_facebook
-
-### Instagram Reels
-
-**Title:** Working through a text task · Character Counter
-
-Working through a text task? Here is a short, practical demo of Character Counter.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #TextTools #QuickTutorial
-
-**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Working through a text task | Character Counter #Shorts
-
-Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #TextTools
-
-**Keywords:** Character Counter, Text tool, Huzaifa Tools, character, counter, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Character Counter and show its actual controls. Voiceover: “Here is a quick walkthrough using Character Counter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-13-character-counter.jpg
-
----
+| 2026-11-12 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-14 · Age Calculator
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-11-prime-checker.jpg
+
+---
+
+## 2026-11-12 · Distance Calculator
+
+**Category:** Utility · **Tool:** Calculate distance between coordinates.
+
+**Hook:** Need a quick way to calculate distance between coordinates?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Calculate distance between coordinates: Distance Calculator
+
+QUICK WALKTHROUGH · Distance Calculator
+
+Calculate distance between coordinates.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #OnlineTools
+
+**Keywords:** Distance Calculator, Utility tool, Huzaifa Tools, distance, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Need a quick way to calculate distance between coordinates · Distance Calculator
+
+Need a quick way to calculate distance between coordinates? Here is a short, practical demo of Distance Calculator.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #OnlineTools #QuickTutorial
+
+**Keywords:** Distance Calculator, Utility tool, Huzaifa Tools, distance, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need a quick way to calculate distance between coordinates | Distance Calculator #Shorts
+
+Calculate distance between coordinates. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #OnlineTools
+
+**Keywords:** Distance Calculator, Utility tool, Huzaifa Tools, distance, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate distance between coordinates?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Distance Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Distance Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate distance between coordinates?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Distance Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Distance Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate distance between coordinates?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Distance Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Distance Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-12-distance-calculator.jpg
 
 ---

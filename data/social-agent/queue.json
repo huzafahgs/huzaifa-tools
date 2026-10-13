@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-12T21:30:05.793Z",
+  "generatedAt": "2026-10-13T19:41:32.130Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-13",
-    "end": "2026-11-11",
+    "start": "2026-10-14",
+    "end": "2026-11-12",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,391 +13,20 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Text": 4,
     "Calculator": 4,
     "Converter": 4,
     "Developer": 4,
     "AI": 4,
     "PDF": 3,
     "Image": 3,
+    "Text": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
-    "Number": 1
+    "Number": 1,
+    "Utility": 1
   },
   "items": [
-    {
-      "id": "2026-10-13-character-counter",
-      "date": "2026-10-13",
-      "version": 2,
-      "tool": {
-        "name": "Character Counter",
-        "slug": "character-counter",
-        "category": "Text",
-        "description": "Count characters with and without spaces."
-      },
-      "lesson": {
-        "hook": "Working through a text task?",
-        "problem": "Work through a small text task and check the result",
-        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-        "check": "Check the result against the requirements of your task.",
-        "takeaway": "Check the result against the requirements of your task.",
-        "factualBasis": [
-          "Count characters with and without spaces."
-        ]
-      },
-      "score": {
-        "total": 7.97,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Character Counts: Spaces, Emoji and the Limit That Actually Applies",
-          "slug": "character-count-spaces-emoji-and-lines",
-          "primaryKeyword": "character counter"
-        },
-        {
-          "title": "Use Lorem Ipsum to Test Layout, Then Replace It with Real Copy",
-          "slug": "lorem-ipsum-for-layout-testing",
-          "primaryKeyword": "lorem ipsum generator"
-        },
-        {
-          "title": "Turn Text into Written Morse Code and Check the Separators",
-          "slug": "turn-text-into-written-morse-code",
-          "primaryKeyword": "morse code converter"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_social",
-      "facebook": {
-        "title": "Work through a small text task and check the result: Character Counter",
-        "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · Character Counter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "keywords": [
-          "Character Counter",
-          "Text tool",
-          "Huzaifa Tools",
-          "character",
-          "counter",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#TextTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Working through a text task · Character Counter",
-        "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of Character Counter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
-        "keywords": [
-          "Character Counter",
-          "Text tool",
-          "Huzaifa Tools",
-          "character",
-          "counter",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#TextTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-13-character-counter.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Working through a text task | Character Counter #Shorts",
-        "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
-        "keywords": [
-          "Character Counter",
-          "Text tool",
-          "Huzaifa Tools",
-          "character",
-          "counter",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#TextTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/character-counter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261013&utm_content=character-counter_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Character Counter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Character Counter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Character Counter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Character Counter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Character Counter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-13-character-counter.jpg",
-        "alt": "Character Counter practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-12T21:30:05.739Z",
-      "contentHashes": {
-        "facebook": "3b3dad75",
-        "instagram": "598dd89e",
-        "youtube": "9ea40dd1"
-      }
-    },
     {
       "id": "2026-10-14-age-calculator",
       "date": "2026-10-14",
@@ -758,7 +387,7 @@
         "imagePath": "assets/2026-10-14-age-calculator.jpg",
         "alt": "Age Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.743Z",
+      "createdAt": "2026-10-13T19:41:32.068Z",
       "contentHashes": {
         "facebook": "bd26afc4",
         "instagram": "1e724be8",
@@ -1130,7 +759,7 @@
         "imagePath": "assets/2026-10-15-unit-converter.jpg",
         "alt": "Unit Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.744Z",
+      "createdAt": "2026-10-13T19:41:32.072Z",
       "contentHashes": {
         "facebook": "408eade5",
         "instagram": "43e57d75",
@@ -1500,7 +1129,7 @@
         "imagePath": "assets/2026-10-16-html-minifier.jpg",
         "alt": "HTML Minifier practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.746Z",
+      "createdAt": "2026-10-13T19:41:32.075Z",
       "contentHashes": {
         "facebook": "91944507",
         "instagram": "623b9d5f",
@@ -1862,7 +1491,7 @@
         "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
         "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.748Z",
+      "createdAt": "2026-10-13T19:41:32.076Z",
       "contentHashes": {
         "facebook": "4a60873",
         "instagram": "8046b99f",
@@ -2240,7 +1869,7 @@
         "imagePath": "assets/2026-10-18-pdf-page-extractor.jpg",
         "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.751Z",
+      "createdAt": "2026-10-13T19:41:32.079Z",
       "contentHashes": {
         "facebook": "19420176",
         "instagram": "fd4c0b43",
@@ -2613,7 +2242,7 @@
         "imagePath": "assets/2026-10-19-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.753Z",
+      "createdAt": "2026-10-13T19:41:32.082Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "7228b33f",
@@ -2988,7 +2617,7 @@
         "imagePath": "assets/2026-10-20-image-cropper.jpg",
         "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.754Z",
+      "createdAt": "2026-10-13T19:41:32.084Z",
       "contentHashes": {
         "facebook": "4b4b8434",
         "instagram": "fe57b4d3",
@@ -3016,7 +2645,7 @@
         ]
       },
       "score": {
-        "total": -26.02,
+        "total": 7.98,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3028,7 +2657,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3363,7 +2992,7 @@
         "imagePath": "assets/2026-10-21-text-case-converter.jpg",
         "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.756Z",
+      "createdAt": "2026-10-13T19:41:32.086Z",
       "contentHashes": {
         "facebook": "76653787",
         "instagram": "ef0f431f",
@@ -3735,7 +3364,7 @@
         "imagePath": "assets/2026-10-22-loan-calculator.jpg",
         "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.757Z",
+      "createdAt": "2026-10-13T19:41:32.087Z",
       "contentHashes": {
         "facebook": "e9ad2513",
         "instagram": "e45dcce4",
@@ -4102,7 +3731,7 @@
         "imagePath": "assets/2026-10-23-temperature-converter.jpg",
         "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.759Z",
+      "createdAt": "2026-10-13T19:41:32.089Z",
       "contentHashes": {
         "facebook": "c4daf77f",
         "instagram": "99b3bfcc",
@@ -4477,7 +4106,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.760Z",
+      "createdAt": "2026-10-13T19:41:32.090Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -4839,7 +4468,7 @@
         "imagePath": "assets/2026-10-25-ai-email-generator.jpg",
         "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.761Z",
+      "createdAt": "2026-10-13T19:41:32.092Z",
       "contentHashes": {
         "facebook": "337bb2c",
         "instagram": "aa174f48",
@@ -5211,7 +4840,7 @@
         "imagePath": "assets/2026-10-26-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.764Z",
+      "createdAt": "2026-10-13T19:41:32.094Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "73186e84",
@@ -5584,7 +5213,7 @@
         "imagePath": "assets/2026-10-27-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.765Z",
+      "createdAt": "2026-10-13T19:41:32.095Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "86dd74dd",
@@ -5959,7 +5588,7 @@
         "imagePath": "assets/2026-10-28-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.767Z",
+      "createdAt": "2026-10-13T19:41:32.097Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "80c812d0",
@@ -5987,7 +5616,7 @@
         ]
       },
       "score": {
-        "total": -60.02,
+        "total": -26.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -5999,7 +5628,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6326,7 +5955,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.768Z",
+      "createdAt": "2026-10-13T19:41:32.098Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -6693,7 +6322,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.769Z",
+      "createdAt": "2026-10-13T19:41:32.099Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -7065,7 +6694,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.770Z",
+      "createdAt": "2026-10-13T19:41:32.100Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -7440,7 +7069,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.771Z",
+      "createdAt": "2026-10-13T19:41:32.102Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -7802,7 +7431,7 @@
         "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.773Z",
+      "createdAt": "2026-10-13T19:41:32.103Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "38b241d",
@@ -8177,7 +7806,7 @@
         "imagePath": "assets/2026-11-03-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.775Z",
+      "createdAt": "2026-10-13T19:41:32.105Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "9915fd7e",
@@ -8541,7 +8170,7 @@
         "imagePath": "assets/2026-11-04-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.778Z",
+      "createdAt": "2026-10-13T19:41:32.108Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "b5b77ac0",
@@ -8914,7 +8543,7 @@
         "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.780Z",
+      "createdAt": "2026-10-13T19:41:32.110Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "71b96303",
@@ -8942,7 +8571,7 @@
         ]
       },
       "score": {
-        "total": -94.02,
+        "total": -60.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -8954,7 +8583,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9286,7 +8915,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.783Z",
+      "createdAt": "2026-10-13T19:41:32.112Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -9658,7 +9287,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.785Z",
+      "createdAt": "2026-10-13T19:41:32.116Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -10030,7 +9659,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.787Z",
+      "createdAt": "2026-10-13T19:41:32.118Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -10392,7 +10021,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.789Z",
+      "createdAt": "2026-10-13T19:41:32.120Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -10751,7 +10380,7 @@
         "imagePath": "assets/2026-11-10-ai-paraphraser.jpg",
         "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.790Z",
+      "createdAt": "2026-10-13T19:41:32.122Z",
       "contentHashes": {
         "facebook": "d0fe9bb6",
         "instagram": "fb95ef7f",
@@ -11123,11 +10752,383 @@
         "imagePath": "assets/2026-11-11-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-12T21:30:05.793Z",
+      "createdAt": "2026-10-13T19:41:32.126Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "fa2e774a",
         "youtube": "440e2624"
+      }
+    },
+    {
+      "id": "2026-11-12-distance-calculator",
+      "date": "2026-11-12",
+      "version": 2,
+      "tool": {
+        "name": "Distance Calculator",
+        "slug": "distance-calculator",
+        "category": "Utility",
+        "description": "Calculate distance between coordinates."
+      },
+      "lesson": {
+        "hook": "Need a quick way to calculate distance between coordinates?",
+        "problem": "Calculate distance between coordinates",
+        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+        "check": "Check the result against the requirements of your task.",
+        "takeaway": "Check the result against the requirements of your task.",
+        "factualBasis": [
+          "Calculate distance between coordinates."
+        ]
+      },
+      "score": {
+        "total": 4.99,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 5,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 0
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Great-Circle Distance from Coordinates Is Not a Road Route",
+          "slug": "great-circle-distance-from-coordinates",
+          "primaryKeyword": "distance calculator"
+        },
+        {
+          "title": "Convert Length and Keep It Separate from Area and Volume",
+          "slug": "convert-length-without-scaling-the-wrong-dimension",
+          "primaryKeyword": "length converter"
+        },
+        {
+          "title": "Running Pace Calculator: Distance and Elapsed Time",
+          "slug": "running-pace-from-distance-and-elapsed-time",
+          "primaryKeyword": "pace calculator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_social",
+      "facebook": {
+        "title": "Calculate distance between coordinates: Distance Calculator",
+        "hook": "Need a quick way to calculate distance between coordinates?",
+        "message": "QUICK WALKTHROUGH · Distance Calculator\n\nCalculate distance between coordinates.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #OnlineTools",
+        "caption": "QUICK WALKTHROUGH · Distance Calculator\n\nCalculate distance between coordinates.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #OnlineTools",
+        "keywords": [
+          "Distance Calculator",
+          "Utility tool",
+          "Huzaifa Tools",
+          "distance",
+          "calculator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#OnlineTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate distance between coordinates?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Distance Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need a quick way to calculate distance between coordinates · Distance Calculator",
+        "hook": "Need a quick way to calculate distance between coordinates?",
+        "caption": "Need a quick way to calculate distance between coordinates? Here is a short, practical demo of Distance Calculator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #OnlineTools #QuickTutorial",
+        "keywords": [
+          "Distance Calculator",
+          "Utility tool",
+          "Huzaifa Tools",
+          "distance",
+          "calculator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#OnlineTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate distance between coordinates?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Distance Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-12-distance-calculator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need a quick way to calculate distance between coordinates | Distance Calculator #Shorts",
+        "hook": "Need a quick way to calculate distance between coordinates?",
+        "description": "Calculate distance between coordinates. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #OnlineTools",
+        "keywords": [
+          "Distance Calculator",
+          "Utility tool",
+          "Huzaifa Tools",
+          "distance",
+          "calculator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#OnlineTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=distance-calculator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate distance between coordinates?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Distance Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate distance between coordinates?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Distance Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need a quick way to calculate distance between coordinates?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Distance Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need a quick way to calculate distance between coordinates?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Distance Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need a quick way to calculate distance between coordinates?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Distance Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Distance Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-12-distance-calculator.jpg",
+        "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-13T19:41:32.130Z",
+      "contentHashes": {
+        "facebook": "cc5f4178",
+        "instagram": "6bef2a9b",
+        "youtube": "8667d6ea"
       }
     }
   ]
