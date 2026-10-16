@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-15 to 2026-11-13 (Asia/Karachi)
+Window: 2026-10-16 to 2026-11-14 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-15 | Unit Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-16 | HTML Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-17 | AI Grammar & Rewrite Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-18 | PDF Page Extractor | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-11 | Prime Number Checker | Number | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-12 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-13 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-15 · Unit Converter
-
-**Category:** Converter · **Tool:** Convert units instantly.
-
-**Hook:** Need to convert a value?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Convert a value and confirm the output units or format: Unit Converter
-
-QUICK WALKTHROUGH · Unit Converter
-
-Convert a value and confirm the output units or format.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #Converters
-
-**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_facebook
-
-### Instagram Reels
-
-**Title:** Need to convert a value · Unit Converter
-
-Need to convert a value? Here is a short, practical demo of Unit Converter.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #Converters #QuickTutorial
-
-**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to convert a value | Unit Converter #Shorts
-
-Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #Converters
-
-**Keywords:** Unit Converter, Converter tool, Huzaifa Tools, unit, converter, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/unit-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261015&utm_content=unit-converter_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Unit Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Unit Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-15-unit-converter.jpg
-
----
+| 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-16 · HTML Minifier
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-13-image-rotate-flip.jpg
+
+---
+
+## 2026-11-14 · Base64 Encoder/Decoder
+
+**Category:** Text · **Tool:** Encode and decode Base64 strings.
+
+**Hook:** Working through a text task?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Work through a small text task and check the result: Base64 Encoder/Decoder
+
+QUICK WALKTHROUGH · Base64 Encoder/Decoder
+
+Work through a small text task and check the result.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #TextTools
+
+**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook
+
+### Instagram Reels
+
+**Title:** Working through a text task · Base64 Encoder/Decoder
+
+Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #TextTools #QuickTutorial
+
+**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Working through a text task | Base64 Encoder/Decoder #Shorts
+
+Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #TextTools
+
+**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-14-base64-converter.jpg
 
 ---
