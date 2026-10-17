@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-16 to 2026-11-14 (Asia/Karachi)
+Window: 2026-10-17 to 2026-11-15 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-16 | HTML Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-17 | AI Grammar & Rewrite Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-18 | PDF Page Extractor | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-19 | Images to PDF | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-12 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-13 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-16 · HTML Minifier
-
-**Category:** Developer · **Tool:** Minify static HTML conservatively by reducing tag whitespace and removing ordinary comments while preserving text, scripts and styles.
-
-**Hook:** Need to inspect a small sample?
-
-**Useful action:** Paste static HTML
-
-**Check:** Minify it and review the output and any syntax feedback
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Inspect a small, non-sensitive sample before using the output: HTML Minifier
-
-QUICK WALKTHROUGH · HTML Minifier
-
-Inspect a small, non-sensitive sample before using the output.
-
-Paste static HTML
-
-Minify it and review the output and any syntax feedback
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #DeveloperTools
-
-**Keywords:** HTML Minifier, Developer tool, Huzaifa Tools, html, minifier, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_facebook
-
-### Instagram Reels
-
-**Title:** Need to inspect a small sample · HTML Minifier
-
-Need to inspect a small sample? Here is a short, practical demo of HTML Minifier.
-
-Paste static HTML Copy or download the result and test it in your project
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #DeveloperTools #QuickTutorial
-
-**Keywords:** HTML Minifier, Developer tool, Huzaifa Tools, html, minifier, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to inspect a small sample | HTML Minifier #Shorts
-
-Inspect a small, non-sensitive sample before using the output. Paste static HTML
-
-Minify it and review the output and any syntax feedback
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #DeveloperTools
-
-**Keywords:** HTML Minifier, Developer tool, Huzaifa Tools, html, minifier, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Minifier and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Minifier.”
-- **7–14s · Demonstrate:** Paste static HTML Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste static HTML”
-- **14–20s · Teach a check:** Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result. Voiceover: “Minify it and review the output and any syntax feedback”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Minifier and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Minifier.”
-- **7–14s · Demonstrate:** Paste static HTML Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste static HTML”
-- **14–20s · Teach a check:** Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result. Voiceover: “Minify it and review the output and any syntax feedback”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Minifier and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Minifier.”
-- **7–14s · Demonstrate:** Paste static HTML Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste static HTML”
-- **14–20s · Teach a check:** Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result. Voiceover: “Minify it and review the output and any syntax feedback”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-16-html-minifier.jpg
-
----
+| 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-17 · AI Grammar & Rewrite Assistant
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-14-base64-converter.jpg
+
+---
+
+## 2026-11-15 · Simple Interest Calculator
+
+**Category:** Calculator · **Tool:** Calculate simple interest.
+
+**Hook:** Checking a calculation before you use it?
+
+**Useful action:** Enter a small example using the units shown, then inspect each input and the displayed result.
+
+**Check:** Check the inputs, units, rounding, and assumptions before using the result.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator
+
+QUICK WALKTHROUGH · Simple Interest Calculator
+
+Estimate a result from your own inputs and check the assumptions.
+
+Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #Calculators
+
+**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_facebook
+
+### Instagram Reels
+
+**Title:** Checking a calculation before you use it · Simple Interest Calculator
+
+Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.
+
+Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #Calculators #QuickTutorial
+
+**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Checking a calculation before you use it | Simple Interest Calculator #Shorts
+
+Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #Calculators
+
+**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-15-simple-interest.jpg
 
 ---

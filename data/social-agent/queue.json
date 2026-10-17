@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-16T17:08:01.159Z",
+  "generatedAt": "2026-10-17T16:04:16.290Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-16",
-    "end": "2026-11-14",
+    "start": "2026-10-17",
+    "end": "2026-11-15",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,13 +13,13 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Developer": 4,
     "AI": 4,
     "PDF": 3,
     "Image": 4,
     "Text": 4,
-    "Calculator": 3,
+    "Calculator": 4,
     "Converter": 3,
+    "Developer": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -27,376 +27,6 @@
     "Utility": 1
   },
   "items": [
-    {
-      "id": "2026-10-16-html-minifier",
-      "date": "2026-10-16",
-      "version": 2,
-      "tool": {
-        "name": "HTML Minifier",
-        "slug": "html-minifier",
-        "category": "Developer",
-        "description": "Minify static HTML conservatively by reducing tag whitespace and removing ordinary comments while preserving text, scripts and styles."
-      },
-      "lesson": {
-        "hook": "Need to inspect a small sample?",
-        "problem": "Inspect a small, non-sensitive sample before using the output",
-        "action": "Paste static HTML",
-        "check": "Minify it and review the output and any syntax feedback",
-        "takeaway": "Copy or download the result and test it in your project",
-        "factualBasis": [
-          "Minify static HTML conservatively by reducing tag whitespace and removing ordinary comments while preserving text, scripts and styles.",
-          "Paste static HTML.",
-          "Minify it and review the output and any syntax feedback.",
-          "Copy or download the result and test it in your project."
-        ]
-      },
-      "score": {
-        "total": 13.93,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 14,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 2,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Inspect HTML Indentation Without Confusing Formatting with Validation",
-          "slug": "inspect-html-indentation-without-changing-intent",
-          "primaryKeyword": "html formatter"
-        },
-        {
-          "title": "Conservative HTML Minification That Keeps Text Spacing in View",
-          "slug": "conservative-html-minification-preserving-text",
-          "primaryKeyword": "html minifier"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_social",
-      "facebook": {
-        "title": "Inspect a small, non-sensitive sample before using the output: HTML Minifier",
-        "hook": "Need to inspect a small sample?",
-        "message": "QUICK WALKTHROUGH · HTML Minifier\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste static HTML\n\nMinify it and review the output and any syntax feedback\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "caption": "QUICK WALKTHROUGH · HTML Minifier\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste static HTML\n\nMinify it and review the output and any syntax feedback\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "keywords": [
-          "HTML Minifier",
-          "Developer tool",
-          "Huzaifa Tools",
-          "html",
-          "minifier",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#DeveloperTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Minifier."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste static HTML"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-            "voiceover": "Minify it and review the output and any syntax feedback"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to inspect a small sample · HTML Minifier",
-        "hook": "Need to inspect a small sample?",
-        "caption": "Need to inspect a small sample? Here is a short, practical demo of HTML Minifier.\n\nPaste static HTML Copy or download the result and test it in your project\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
-        "keywords": [
-          "HTML Minifier",
-          "Developer tool",
-          "Huzaifa Tools",
-          "html",
-          "minifier",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#DeveloperTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Minifier."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste static HTML"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-            "voiceover": "Minify it and review the output and any syntax feedback"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-16-html-minifier.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to inspect a small sample | HTML Minifier #Shorts",
-        "hook": "Need to inspect a small sample?",
-        "description": "Inspect a small, non-sensitive sample before using the output. Paste static HTML\n\nMinify it and review the output and any syntax feedback\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
-        "keywords": [
-          "HTML Minifier",
-          "Developer tool",
-          "Huzaifa Tools",
-          "html",
-          "minifier",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#DeveloperTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/html-minifier?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261016&utm_content=html-minifier_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Minifier."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste static HTML"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-            "voiceover": "Minify it and review the output and any syntax feedback"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Minifier."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste static HTML"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-            "voiceover": "Minify it and review the output and any syntax feedback"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using HTML Minifier."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste static HTML"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-              "voiceover": "Minify it and review the output and any syntax feedback"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using HTML Minifier."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste static HTML"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-              "voiceover": "Minify it and review the output and any syntax feedback"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for HTML Minifier and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using HTML Minifier."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste static HTML Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste static HTML"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Minify it and review the output and any syntax feedback Pause long enough for viewers to read the real result.",
-              "voiceover": "Minify it and review the output and any syntax feedback"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-16-html-minifier.jpg",
-        "alt": "HTML Minifier practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-16T17:08:01.081Z",
-      "contentHashes": {
-        "facebook": "91944507",
-        "instagram": "623b9d5f",
-        "youtube": "1d3da48b"
-      }
-    },
     {
       "id": "2026-10-17-ai-grammar-rewrite",
       "date": "2026-10-17",
@@ -752,7 +382,7 @@
         "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
         "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.085Z",
+      "createdAt": "2026-10-17T16:04:16.230Z",
       "contentHashes": {
         "facebook": "4a60873",
         "instagram": "8046b99f",
@@ -1130,7 +760,7 @@
         "imagePath": "assets/2026-10-18-pdf-page-extractor.jpg",
         "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.088Z",
+      "createdAt": "2026-10-17T16:04:16.235Z",
       "contentHashes": {
         "facebook": "19420176",
         "instagram": "fd4c0b43",
@@ -1503,7 +1133,7 @@
         "imagePath": "assets/2026-10-19-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.089Z",
+      "createdAt": "2026-10-17T16:04:16.237Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "7228b33f",
@@ -1878,7 +1508,7 @@
         "imagePath": "assets/2026-10-20-image-cropper.jpg",
         "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.091Z",
+      "createdAt": "2026-10-17T16:04:16.239Z",
       "contentHashes": {
         "facebook": "4b4b8434",
         "instagram": "fe57b4d3",
@@ -2253,7 +1883,7 @@
         "imagePath": "assets/2026-10-21-text-case-converter.jpg",
         "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.093Z",
+      "createdAt": "2026-10-17T16:04:16.240Z",
       "contentHashes": {
         "facebook": "76653787",
         "instagram": "ef0f431f",
@@ -2625,7 +2255,7 @@
         "imagePath": "assets/2026-10-22-loan-calculator.jpg",
         "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.095Z",
+      "createdAt": "2026-10-17T16:04:16.242Z",
       "contentHashes": {
         "facebook": "e9ad2513",
         "instagram": "e45dcce4",
@@ -2992,7 +2622,7 @@
         "imagePath": "assets/2026-10-23-temperature-converter.jpg",
         "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.096Z",
+      "createdAt": "2026-10-17T16:04:16.244Z",
       "contentHashes": {
         "facebook": "c4daf77f",
         "instagram": "99b3bfcc",
@@ -3023,7 +2653,7 @@
         ]
       },
       "score": {
-        "total": -20.07,
+        "total": 13.93,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 14,
@@ -3035,7 +2665,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3367,7 +2997,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.098Z",
+      "createdAt": "2026-10-17T16:04:16.246Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -3729,7 +3359,7 @@
         "imagePath": "assets/2026-10-25-ai-email-generator.jpg",
         "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.100Z",
+      "createdAt": "2026-10-17T16:04:16.247Z",
       "contentHashes": {
         "facebook": "337bb2c",
         "instagram": "aa174f48",
@@ -4101,7 +3731,7 @@
         "imagePath": "assets/2026-10-26-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.105Z",
+      "createdAt": "2026-10-17T16:04:16.250Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "73186e84",
@@ -4474,7 +4104,7 @@
         "imagePath": "assets/2026-10-27-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.108Z",
+      "createdAt": "2026-10-17T16:04:16.252Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "86dd74dd",
@@ -4849,7 +4479,7 @@
         "imagePath": "assets/2026-10-28-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.110Z",
+      "createdAt": "2026-10-17T16:04:16.253Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "80c812d0",
@@ -5216,7 +4846,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.113Z",
+      "createdAt": "2026-10-17T16:04:16.254Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -5583,7 +5213,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.115Z",
+      "createdAt": "2026-10-17T16:04:16.256Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -5955,7 +5585,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.118Z",
+      "createdAt": "2026-10-17T16:04:16.257Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -5986,7 +5616,7 @@
         ]
       },
       "score": {
-        "total": -54.07,
+        "total": -20.07,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 14,
@@ -5998,7 +5628,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6330,7 +5960,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.120Z",
+      "createdAt": "2026-10-17T16:04:16.258Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -6692,7 +6322,7 @@
         "imagePath": "assets/2026-11-02-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.123Z",
+      "createdAt": "2026-10-17T16:04:16.259Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "38b241d",
@@ -7067,7 +6697,7 @@
         "imagePath": "assets/2026-11-03-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.127Z",
+      "createdAt": "2026-10-17T16:04:16.262Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "9915fd7e",
@@ -7431,7 +7061,7 @@
         "imagePath": "assets/2026-11-04-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.131Z",
+      "createdAt": "2026-10-17T16:04:16.264Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "b5b77ac0",
@@ -7804,7 +7434,7 @@
         "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.132Z",
+      "createdAt": "2026-10-17T16:04:16.265Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "71b96303",
@@ -8176,7 +7806,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.137Z",
+      "createdAt": "2026-10-17T16:04:16.266Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -8548,7 +8178,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.139Z",
+      "createdAt": "2026-10-17T16:04:16.268Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -8920,7 +8550,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.145Z",
+      "createdAt": "2026-10-17T16:04:16.270Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -8948,7 +8578,7 @@
         ]
       },
       "score": {
-        "total": -94.02,
+        "total": -60.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -8960,7 +8590,7 @@
             "relatedArticleCount": 1,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9282,7 +8912,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.147Z",
+      "createdAt": "2026-10-17T16:04:16.273Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -9641,7 +9271,7 @@
         "imagePath": "assets/2026-11-10-ai-paraphraser.jpg",
         "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.151Z",
+      "createdAt": "2026-10-17T16:04:16.275Z",
       "contentHashes": {
         "facebook": "d0fe9bb6",
         "instagram": "fb95ef7f",
@@ -10013,7 +9643,7 @@
         "imagePath": "assets/2026-11-11-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.154Z",
+      "createdAt": "2026-10-17T16:04:16.280Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "fa2e774a",
@@ -10385,7 +10015,7 @@
         "imagePath": "assets/2026-11-12-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.156Z",
+      "createdAt": "2026-10-17T16:04:16.283Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "6bef2a9b",
@@ -10763,7 +10393,7 @@
         "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.158Z",
+      "createdAt": "2026-10-17T16:04:16.285Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "cf748d64",
@@ -11134,11 +10764,378 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-16T17:08:01.159Z",
+      "createdAt": "2026-10-17T16:04:16.288Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
         "youtube": "f0864025"
+      }
+    },
+    {
+      "id": "2026-11-15-simple-interest",
+      "date": "2026-11-15",
+      "version": 2,
+      "tool": {
+        "name": "Simple Interest Calculator",
+        "slug": "simple-interest",
+        "category": "Calculator",
+        "description": "Calculate simple interest."
+      },
+      "lesson": {
+        "hook": "Checking a calculation before you use it?",
+        "problem": "Estimate a result from your own inputs and check the assumptions",
+        "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+        "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "factualBasis": [
+          "Calculate simple interest."
+        ]
+      },
+      "score": {
+        "total": -94.02,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 2,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Compound Interest: Compare Frequency Without Inventing a Forecast",
+          "slug": "compound-interest-frequency-and-assumptions",
+          "primaryKeyword": "compound interest calculator"
+        },
+        {
+          "title": "Simple Interest Calculator: Formula, Rate and Time Example",
+          "slug": "simple-interest-principal-rate-and-time",
+          "primaryKeyword": "simple interest calculator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_social",
+      "facebook": {
+        "title": "Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "message": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "caption": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "keywords": [
+          "Simple Interest Calculator",
+          "Calculator tool",
+          "Huzaifa Tools",
+          "simple",
+          "interest",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#Calculators"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Checking a calculation before you use it · Simple Interest Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
+        "keywords": [
+          "Simple Interest Calculator",
+          "Calculator tool",
+          "Huzaifa Tools",
+          "simple",
+          "interest",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#Calculators",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-15-simple-interest.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Checking a calculation before you use it | Simple Interest Calculator #Shorts",
+        "hook": "Checking a calculation before you use it?",
+        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
+        "keywords": [
+          "Simple Interest Calculator",
+          "Calculator tool",
+          "Huzaifa Tools",
+          "simple",
+          "interest",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#Calculators"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-15-simple-interest.jpg",
+        "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-17T16:04:16.290Z",
+      "contentHashes": {
+        "facebook": "feace183",
+        "instagram": "6300e7df",
+        "youtube": "f79b3683"
       }
     }
   ]
