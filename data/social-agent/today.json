@@ -1,24 +1,24 @@
 {
-  "id": "2026-10-17-ai-grammar-rewrite",
-  "date": "2026-10-17",
+  "id": "2026-10-18-ai-email-generator",
+  "date": "2026-10-18",
   "version": 2,
   "tool": {
-    "name": "AI Grammar & Rewrite Assistant",
-    "slug": "ai-grammar-rewrite",
+    "name": "AI Email Generator",
+    "slug": "ai-email-generator",
     "category": "AI",
-    "description": "Revise grammar, clarity or tone while aiming to preserve your meaning. AI generation requires sign-in and service availability."
+    "description": "Draft an email from your purpose and context, with tone and optional subject. AI generation requires sign-in and service availability."
   },
   "lesson": {
     "hook": "Want a draft you can actually review?",
     "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Use Fix Grammar when the voice and structure already work",
-    "check": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source",
-    "takeaway": "Compare commitments, negations and qualifications carefully: a fluent rewrite can still change meaning",
+    "action": "Describe the relationship and purpose: a colleague, customer or course tutor is enough",
+    "check": "Include the specific action you want, but leave out account numbers and confidential correspondence",
+    "takeaway": "Review recipients, dates, attachments and commitments in your email application before sending",
     "factualBasis": [
-      "Revise grammar, clarity or tone while aiming to preserve your meaning. AI generation requires sign-in and service availability.",
-      "Use Fix Grammar when the voice and structure already work.",
-      "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source.",
-      "Compare commitments, negations and qualifications carefully: a fluent rewrite can still change meaning."
+      "Draft an email from your purpose and context, with tone and optional subject. AI generation requires sign-in and service availability.",
+      "Describe the relationship and purpose: a colleague, customer or course tutor is enough.",
+      "Include the specific action you want, but leave out account numbers and confidential correspondence.",
+      "Review recipients, dates, attachments and commitments in your email application before sending."
     ]
   },
   "score": {
@@ -39,19 +39,19 @@
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-grammar-rewrite?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261017&utm_content=ai-grammar-rewrite_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Grammar & Rewrite Assistant",
+    "title": "Turn a clear brief into a draft that you can review: AI Email Generator",
     "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Grammar & Rewrite Assistant\n\nTurn a clear brief into a draft that you can review.\n\nUse Fix Grammar when the voice and structure already work\n\nUse Simplify for shorter, more familiar wording; keep essential technical terms in the source\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Grammar & Rewrite Assistant\n\nTurn a clear brief into a draft that you can review.\n\nUse Fix Grammar when the voice and structure already work\n\nUse Simplify for shorter, more familiar wording; keep essential technical terms in the source\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "message": "QUICK WALKTHROUGH · AI Email Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the relationship and purpose: a colleague, customer or course tutor is enough\n\nInclude the specific action you want, but leave out account numbers and confidential correspondence\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Email Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the relationship and purpose: a colleague, customer or course tutor is enough\n\nInclude the specific action you want, but leave out account numbers and confidential correspondence\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "AI Grammar & Rewrite Assistant",
+      "AI Email Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "grammar",
-      "rewrite",
+      "email",
+      "generator",
       "step by step",
       "online utility"
     ],
@@ -60,7 +60,7 @@
       "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-grammar-rewrite?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261017&utm_content=ai-grammar-rewrite_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
@@ -72,20 +72,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Email Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Use Fix Grammar when the voice and structure already work"
+        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
       },
       {
         "seconds": "20–25",
@@ -96,16 +96,16 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Grammar & Rewrite Assistant",
+    "title": "Want a draft you can actually review · AI Email Generator",
     "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Grammar & Rewrite Assistant.\n\nUse Fix Grammar when the voice and structure already work Compare commitments, negations and qualifications carefully: a fluent rewrite can still change meaning\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-grammar-rewrite?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261017&utm_content=ai-grammar-rewrite_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Email Generator.\n\nDescribe the relationship and purpose: a colleague, customer or course tutor is enough Review recipients, dates, attachments and commitments in your email application before sending\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "AI Grammar & Rewrite Assistant",
+      "AI Email Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "grammar",
-      "rewrite",
+      "email",
+      "generator",
       "quick tutorial",
       "practical tip"
     ],
@@ -115,7 +115,7 @@
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-grammar-rewrite?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261017&utm_content=ai-grammar-rewrite_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
@@ -127,20 +127,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Email Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Use Fix Grammar when the voice and structure already work"
+        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
       },
       {
         "seconds": "20–25",
@@ -149,20 +149,20 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg"
+    "imagePath": "assets/2026-10-18-ai-email-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Grammar & Rewrite Assistant #Shorts",
+    "title": "Want a draft you can actually review | AI Email Generator #Shorts",
     "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Use Fix Grammar when the voice and structure already work\n\nUse Simplify for shorter, more familiar wording; keep essential technical terms in the source\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-grammar-rewrite?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261017&utm_content=ai-grammar-rewrite_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "description": "Turn a clear brief into a draft that you can review. Describe the relationship and purpose: a colleague, customer or course tutor is enough\n\nInclude the specific action you want, but leave out account numbers and confidential correspondence\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "AI Grammar & Rewrite Assistant",
+      "AI Email Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "grammar",
-      "rewrite",
+      "email",
+      "generator",
       "how to",
       "short tutorial"
     ],
@@ -172,7 +172,7 @@
       "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-grammar-rewrite?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261017&utm_content=ai-grammar-rewrite_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
@@ -183,20 +183,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Email Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Use Fix Grammar when the voice and structure already work"
+        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
       },
       {
         "seconds": "20–25",
@@ -228,20 +228,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Email Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Use Fix Grammar when the voice and structure already work"
+        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
       },
       {
         "seconds": "20–25",
@@ -261,20 +261,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+          "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Email Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Use Fix Grammar when the voice and structure already work"
+          "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+          "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+          "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
         },
         {
           "seconds": "20–25",
@@ -293,20 +293,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+          "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Email Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Use Fix Grammar when the voice and structure already work"
+          "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+          "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+          "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
         },
         {
           "seconds": "20–25",
@@ -325,20 +325,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Grammar & Rewrite Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Grammar & Rewrite Assistant."
+          "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Email Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Use Fix Grammar when the voice and structure already work Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Use Fix Grammar when the voice and structure already work"
+          "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Simplify for shorter, more familiar wording; keep essential technical terms in the source"
+          "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
+          "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
         },
         {
           "seconds": "20–25",
@@ -350,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-17-ai-grammar-rewrite.jpg",
-    "alt": "AI Grammar & Rewrite Assistant practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-18-ai-email-generator.jpg",
+    "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-17T16:04:16.230Z",
+  "createdAt": "2026-10-18T16:17:56.471Z",
   "contentHashes": {
-    "facebook": "4a60873",
-    "instagram": "8046b99f",
-    "youtube": "5d79427d"
+    "facebook": "337bb2c",
+    "instagram": "fa1aede8",
+    "youtube": "4326e8f"
   }
 }
