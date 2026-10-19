@@ -1,91 +1,107 @@
 {
-  "id": "2026-10-18-ai-email-generator",
-  "date": "2026-10-18",
+  "id": "2026-10-19-pdf-page-extractor",
+  "date": "2026-10-19",
   "version": 2,
   "tool": {
-    "name": "AI Email Generator",
-    "slug": "ai-email-generator",
-    "category": "AI",
-    "description": "Draft an email from your purpose and context, with tone and optional subject. AI generation requires sign-in and service availability."
+    "name": "PDF Page Extractor",
+    "slug": "pdf-page-extractor",
+    "category": "PDF",
+    "description": "Extract selected PDF pages into one new document. Choose page numbers or ranges and process them locally in your browser."
   },
   "lesson": {
-    "hook": "Want a draft you can actually review?",
-    "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Describe the relationship and purpose: a colleague, customer or course tutor is enough",
-    "check": "Include the specific action you want, but leave out account numbers and confidential correspondence",
-    "takeaway": "Review recipients, dates, attachments and commitments in your email application before sending",
+    "hook": "Need to work with a PDF?",
+    "problem": "Prepare a PDF task and verify the downloaded pages",
+    "action": "Choose a PDF",
+    "check": "Enter pages such as 1,4-6, using page numbers starting from 1",
+    "takeaway": "Create and download the extracted PDF",
     "factualBasis": [
-      "Draft an email from your purpose and context, with tone and optional subject. AI generation requires sign-in and service availability.",
-      "Describe the relationship and purpose: a colleague, customer or course tutor is enough.",
-      "Include the specific action you want, but leave out account numbers and confidential correspondence.",
-      "Review recipients, dates, attachments and commitments in your email application before sending."
+      "Extract selected PDF pages into one new document. Choose page numbers or ranges and process them locally in your browser.",
+      "Choose a PDF.",
+      "Enter pages such as 1,4-6, using page numbers starting from 1.",
+      "Create and download the extracted PDF."
     ]
   },
   "score": {
-    "total": 16,
+    "total": 15.9,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 13,
+      "catalogUtility": 16,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 0,
-        "editorialGapBoost": 3
+        "relatedArticleCount": 3,
+        "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_social",
+  "articleReferences": [
+    {
+      "title": "Merge PDF Files in the Right Order: A Practical Assembly Guide",
+      "slug": "merge-pdf-files-in-order",
+      "primaryKeyword": "merge PDF files in order"
+    },
+    {
+      "title": "Split a PDF by Page Ranges: Plan and Check Separate Documents",
+      "slug": "split-pdf-by-page-ranges",
+      "primaryKeyword": "split PDF by page ranges"
+    },
+    {
+      "title": "Extract Selected PDF Pages into One Useful Document",
+      "slug": "extract-selected-pdf-pages",
+      "primaryKeyword": "extract selected PDF pages"
+    }
+  ],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Email Generator",
-    "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Email Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the relationship and purpose: a colleague, customer or course tutor is enough\n\nInclude the specific action you want, but leave out account numbers and confidential correspondence\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Email Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the relationship and purpose: a colleague, customer or course tutor is enough\n\nInclude the specific action you want, but leave out account numbers and confidential correspondence\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "title": "Prepare a PDF task and verify the downloaded pages: PDF Page Extractor",
+    "hook": "Need to work with a PDF?",
+    "message": "QUICK WALKTHROUGH · PDF Page Extractor\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose a PDF\n\nEnter pages such as 1,4-6, using page numbers starting from 1\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "caption": "QUICK WALKTHROUGH · PDF Page Extractor\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose a PDF\n\nEnter pages such as 1,4-6, using page numbers starting from 1\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
     "keywords": [
-      "AI Email Generator",
-      "AI tool",
+      "PDF Page Extractor",
+      "PDF tool",
       "Huzaifa Tools",
-      "ai",
-      "email",
-      "generator",
+      "pdf",
+      "page",
+      "extractor",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools"
+      "#PDFTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Email Generator."
+        "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+        "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+        "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
       },
       {
         "seconds": "20–25",
@@ -96,51 +112,51 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Email Generator",
-    "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Email Generator.\n\nDescribe the relationship and purpose: a colleague, customer or course tutor is enough Review recipients, dates, attachments and commitments in your email application before sending\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "title": "Need to work with a PDF · PDF Page Extractor",
+    "hook": "Need to work with a PDF?",
+    "caption": "Need to work with a PDF? Here is a short, practical demo of PDF Page Extractor.\n\nChoose a PDF Create and download the extracted PDF\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
     "keywords": [
-      "AI Email Generator",
-      "AI tool",
+      "PDF Page Extractor",
+      "PDF tool",
       "Huzaifa Tools",
-      "ai",
-      "email",
-      "generator",
+      "pdf",
+      "page",
+      "extractor",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools",
+      "#PDFTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Email Generator."
+        "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+        "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+        "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
       },
       {
         "seconds": "20–25",
@@ -149,54 +165,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-18-ai-email-generator.jpg"
+    "imagePath": "assets/2026-10-19-pdf-page-extractor.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Email Generator #Shorts",
-    "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Describe the relationship and purpose: a colleague, customer or course tutor is enough\n\nInclude the specific action you want, but leave out account numbers and confidential correspondence\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "title": "Need to work with a PDF | PDF Page Extractor #Shorts",
+    "hook": "Need to work with a PDF?",
+    "description": "Prepare a PDF task and verify the downloaded pages. Choose a PDF\n\nEnter pages such as 1,4-6, using page numbers starting from 1\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
     "keywords": [
-      "AI Email Generator",
-      "AI tool",
+      "PDF Page Extractor",
+      "PDF tool",
       "Huzaifa Tools",
-      "ai",
-      "email",
-      "generator",
+      "pdf",
+      "page",
+      "extractor",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#AITools"
+      "#PDFTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Email Generator."
+        "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+        "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+        "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
       },
       {
         "seconds": "20–25",
@@ -223,25 +239,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Email Generator."
+        "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+        "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a PDF"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-        "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+        "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+        "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
       },
       {
         "seconds": "20–25",
@@ -256,25 +272,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Email Generator."
+          "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+          "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a PDF"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-          "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+          "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+          "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
         },
         {
           "seconds": "20–25",
@@ -288,25 +304,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Email Generator."
+          "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+          "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a PDF"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-          "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+          "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+          "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
         },
         {
           "seconds": "20–25",
@@ -320,25 +336,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Email Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Email Generator."
+          "visual": "Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using PDF Page Extractor."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe the relationship and purpose: a colleague, customer or course tutor is enough"
+          "visual": "Choose a PDF Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a PDF"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result.",
-          "voiceover": "Include the specific action you want, but leave out account numbers and confidential correspondence"
+          "visual": "Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result.",
+          "voiceover": "Enter pages such as 1,4-6, using page numbers starting from 1"
         },
         {
           "seconds": "20–25",
@@ -350,13 +366,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-18-ai-email-generator.jpg",
-    "alt": "AI Email Generator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-19-pdf-page-extractor.jpg",
+    "alt": "PDF Page Extractor practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-18T16:17:56.471Z",
+  "createdAt": "2026-10-19T18:56:09.368Z",
   "contentHashes": {
-    "facebook": "337bb2c",
-    "instagram": "fa1aede8",
-    "youtube": "4326e8f"
+    "facebook": "19420176",
+    "instagram": "61946824",
+    "youtube": "cbbeabda"
   }
 }

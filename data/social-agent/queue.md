@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-18 to 2026-11-16 (Asia/Karachi)
+Window: 2026-10-19 to 2026-11-17 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-18 | AI Email Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-19 | PDF Page Extractor | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-20 | Image Cropper | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-21 | Text Case Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-16 | Volume Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-18 · AI Email Generator
-
-**Category:** AI · **Tool:** Draft an email from your purpose and context, with tone and optional subject. AI generation requires sign-in and service availability.
-
-**Hook:** Want a draft you can actually review?
-
-**Useful action:** Describe the relationship and purpose: a colleague, customer or course tutor is enough
-
-**Check:** Include the specific action you want, but leave out account numbers and confidential correspondence
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Turn a clear brief into a draft that you can review: AI Email Generator
-
-QUICK WALKTHROUGH · AI Email Generator
-
-Turn a clear brief into a draft that you can review.
-
-Describe the relationship and purpose: a colleague, customer or course tutor is enough
-
-Include the specific action you want, but leave out account numbers and confidential correspondence
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #AITools
-
-**Keywords:** AI Email Generator, AI tool, Huzaifa Tools, ai, email, generator, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_facebook
-
-### Instagram Reels
-
-**Title:** Want a draft you can actually review · AI Email Generator
-
-Want a draft you can actually review? Here is a short, practical demo of AI Email Generator.
-
-Describe the relationship and purpose: a colleague, customer or course tutor is enough Review recipients, dates, attachments and commitments in your email application before sending
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #AITools #QuickTutorial
-
-**Keywords:** AI Email Generator, AI tool, Huzaifa Tools, ai, email, generator, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Want a draft you can actually review | AI Email Generator #Shorts
-
-Turn a clear brief into a draft that you can review. Describe the relationship and purpose: a colleague, customer or course tutor is enough
-
-Include the specific action you want, but leave out account numbers and confidential correspondence
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #AITools
-
-**Keywords:** AI Email Generator, AI tool, Huzaifa Tools, ai, email, generator, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-email-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261018&utm_content=ai-email-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Email Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Email Generator.”
-- **7–14s · Demonstrate:** Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe the relationship and purpose: a colleague, customer or course tutor is enough”
-- **14–20s · Teach a check:** Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result. Voiceover: “Include the specific action you want, but leave out account numbers and confidential correspondence”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Email Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Email Generator.”
-- **7–14s · Demonstrate:** Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe the relationship and purpose: a colleague, customer or course tutor is enough”
-- **14–20s · Teach a check:** Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result. Voiceover: “Include the specific action you want, but leave out account numbers and confidential correspondence”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Email Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Email Generator.”
-- **7–14s · Demonstrate:** Describe the relationship and purpose: a colleague, customer or course tutor is enough Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe the relationship and purpose: a colleague, customer or course tutor is enough”
-- **14–20s · Teach a check:** Include the specific action you want, but leave out account numbers and confidential correspondence Pause long enough for viewers to read the real result. Voiceover: “Include the specific action you want, but leave out account numbers and confidential correspondence”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-18-ai-email-generator.jpg
-
----
+| 2026-11-17 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-19 · PDF Page Extractor
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-16-volume-converter.jpg
+
+---
+
+## 2026-11-17 · JWT Decoder
+
+**Category:** Developer · **Tool:** Decode JWT headers and payloads safely in your browser.
+
+**Hook:** Need to inspect a small sample?
+
+**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+**Check:** Use a small, non-sensitive sample and inspect the output before using it.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Inspect a small, non-sensitive sample before using the output: JWT Decoder
+
+QUICK WALKTHROUGH · JWT Decoder
+
+Inspect a small, non-sensitive sample before using the output.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #DeveloperTools
+
+**Keywords:** JWT Decoder, Developer tool, Huzaifa Tools, jwt, decoder, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_facebook
+
+### Instagram Reels
+
+**Title:** Need to inspect a small sample · JWT Decoder
+
+Need to inspect a small sample? Here is a short, practical demo of JWT Decoder.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #DeveloperTools #QuickTutorial
+
+**Keywords:** JWT Decoder, Developer tool, Huzaifa Tools, jwt, decoder, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to inspect a small sample | JWT Decoder #Shorts
+
+Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #DeveloperTools
+
+**Keywords:** JWT Decoder, Developer tool, Huzaifa Tools, jwt, decoder, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JWT Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using JWT Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JWT Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using JWT Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JWT Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using JWT Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-17-jwt-decoder.jpg
 
 ---
