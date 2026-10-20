@@ -1,28 +1,27 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-19 to 2026-11-17 (Asia/Karachi)
+Window: 2026-10-20 to 2026-11-18 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-19 | PDF Page Extractor | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-20 | Image Cropper | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-21 | Text Case Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-22 | Loan Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-23 | Temperature Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-24 | CSS Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-25 | AI Prompt Generator & Improver | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-26 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-10-27 | Images to PDF | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-26 | Images to PDF | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-10-27 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-28 | Image Converter | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-29 | Text Reverser | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-30 | EMI Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-31 | Weight Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-01 | JavaScript Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-02 | AI Paraphraser | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-03 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-04 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-03 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-04 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-05 | Image Metadata Viewer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-07 | Percentage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-16 | Volume Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-17 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-19 · PDF Page Extractor
-
-**Category:** PDF · **Tool:** Extract selected PDF pages into one new document. Choose page numbers or ranges and process them locally in your browser.
-
-**Hook:** Need to work with a PDF?
-
-**Useful action:** Choose a PDF
-
-**Check:** Enter pages such as 1,4-6, using page numbers starting from 1
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Prepare a PDF task and verify the downloaded pages: PDF Page Extractor
-
-QUICK WALKTHROUGH · PDF Page Extractor
-
-Prepare a PDF task and verify the downloaded pages.
-
-Choose a PDF
-
-Enter pages such as 1,4-6, using page numbers starting from 1
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #PDFTools
-
-**Keywords:** PDF Page Extractor, PDF tool, Huzaifa Tools, pdf, page, extractor, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_facebook
-
-### Instagram Reels
-
-**Title:** Need to work with a PDF · PDF Page Extractor
-
-Need to work with a PDF? Here is a short, practical demo of PDF Page Extractor.
-
-Choose a PDF Create and download the extracted PDF
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #PDFTools #QuickTutorial
-
-**Keywords:** PDF Page Extractor, PDF tool, Huzaifa Tools, pdf, page, extractor, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to work with a PDF | PDF Page Extractor #Shorts
-
-Prepare a PDF task and verify the downloaded pages. Choose a PDF
-
-Enter pages such as 1,4-6, using page numbers starting from 1
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #PDFTools
-
-**Keywords:** PDF Page Extractor, PDF tool, Huzaifa Tools, pdf, page, extractor, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-page-extractor?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261019&utm_content=pdf-page-extractor_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF Page Extractor.”
-- **7–14s · Demonstrate:** Choose a PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a PDF”
-- **14–20s · Teach a check:** Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result. Voiceover: “Enter pages such as 1,4-6, using page numbers starting from 1”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF Page Extractor.”
-- **7–14s · Demonstrate:** Choose a PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a PDF”
-- **14–20s · Teach a check:** Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result. Voiceover: “Enter pages such as 1,4-6, using page numbers starting from 1”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF Page Extractor and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF Page Extractor.”
-- **7–14s · Demonstrate:** Choose a PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a PDF”
-- **14–20s · Teach a check:** Enter pages such as 1,4-6, using page numbers starting from 1 Pause long enough for viewers to read the real result. Voiceover: “Enter pages such as 1,4-6, using page numbers starting from 1”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-19-pdf-page-extractor.jpg
-
----
+| 2026-11-18 | AI Title & Headline Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-20 · Image Cropper
 
@@ -737,107 +637,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-10-26 · Password Generator
-
-**Category:** Security · **Tool:** Generate a random password with selectable character sets.
-
-**Hook:** Need to inspect a small sample?
-
-**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-**Check:** Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Inspect a small, non-sensitive sample before using the output: Password Generator
-
-QUICK WALKTHROUGH · Password Generator
-
-Inspect a small, non-sensitive sample before using the output.
-
-Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #SecurityTools
-
-**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=password-generator_facebook
-
-### Instagram Reels
-
-**Title:** Need to inspect a small sample · Password Generator
-
-Need to inspect a small sample? Here is a short, practical demo of Password Generator.
-
-Paste a harmless sample, run the tool, and inspect the output or validation message. Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=password-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #SecurityTools #QuickTutorial
-
-**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=password-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to inspect a small sample | Password Generator #Shorts
-
-Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=password-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #SecurityTools
-
-**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=password-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-26-password-generator.jpg
-
----
-
-## 2026-10-27 · Images to PDF
+## 2026-10-26 · Images to PDF
 
 **Category:** PDF · **Tool:** Turn JPEG, PNG, WebP and other browser-supported images into an ordered A4 PDF, with one image per page and local processing.
 
@@ -867,7 +667,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** Images to PDF, PDF tool, Huzaifa Tools, images, to, pdf, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=images-to-pdf_facebook
 
 ### Instagram Reels
 
@@ -879,7 +679,7 @@ Choose up to 20 supported images Create and download the PDF
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=images-to-pdf_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -887,7 +687,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** Images to PDF, PDF tool, Huzaifa Tools, images, to, pdf, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=images-to-pdf_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -899,7 +699,7 @@ Prepare a PDF task and verify the downloaded pages. Choose up to 20 supported im
 
 Arrange the images with the ordering controls
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=images-to-pdf_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -907,7 +707,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** Images to PDF, PDF tool, Huzaifa Tools, images, to, pdf, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=images-to-pdf_youtube
 
 ### Facebook Reels storyboard
 
@@ -933,7 +733,107 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Arrange the images with the ordering controls Pause long enough for viewers to read the real result. Voiceover: “Arrange the images with the ordering controls”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-10-27-images-to-pdf.jpg
+**JPEG preview:** assets/2026-10-26-images-to-pdf.jpg
+
+---
+
+## 2026-10-27 · PDF to Images
+
+**Category:** PDF · **Tool:** Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload.
+
+**Hook:** Need to work with a PDF?
+
+**Useful action:** Choose an unencrypted PDF
+
+**Check:** Select up to 10 pages, for example 1-3
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Prepare a PDF task and verify the downloaded pages: PDF to Images
+
+QUICK WALKTHROUGH · PDF to Images
+
+Prepare a PDF task and verify the downloaded pages.
+
+Choose an unencrypted PDF
+
+Select up to 10 pages, for example 1-3
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #PDFTools
+
+**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=pdf-to-images_facebook
+
+### Instagram Reels
+
+**Title:** Need to work with a PDF · PDF to Images
+
+Need to work with a PDF? Here is a short, practical demo of PDF to Images.
+
+Choose an unencrypted PDF Create images, inspect the previews and download each PNG
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=pdf-to-images_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #PDFTools #QuickTutorial
+
+**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=pdf-to-images_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to work with a PDF | PDF to Images #Shorts
+
+Prepare a PDF task and verify the downloaded pages. Choose an unencrypted PDF
+
+Select up to 10 pages, for example 1-3
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=pdf-to-images_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #PDFTools
+
+**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=pdf-to-images_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
+- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
+- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
+- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
+- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
+- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
+- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-10-27-pdf-to-images.jpg
 
 ---
 
@@ -1537,7 +1437,107 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-03 · QR Code Generator
+## 2026-11-03 · Password Generator
+
+**Category:** Security · **Tool:** Generate a random password with selectable character sets.
+
+**Hook:** Need to inspect a small sample?
+
+**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+**Check:** Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Inspect a small, non-sensitive sample before using the output: Password Generator
+
+QUICK WALKTHROUGH · Password Generator
+
+Inspect a small, non-sensitive sample before using the output.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #SecurityTools
+
+**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=password-generator_facebook
+
+### Instagram Reels
+
+**Title:** Need to inspect a small sample · Password Generator
+
+Need to inspect a small sample? Here is a short, practical demo of Password Generator.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message. Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=password-generator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #SecurityTools #QuickTutorial
+
+**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=password-generator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to inspect a small sample | Password Generator #Shorts
+
+Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=password-generator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #SecurityTools
+
+**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=password-generator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-03-password-generator.jpg
+
+---
+
+## 2026-11-04 · QR Code Generator
 
 **Category:** Generator · **Tool:** Create QR codes instantly.
 
@@ -1567,7 +1567,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=qr-code-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=qr-code-generator_facebook
 
 ### Instagram Reels
 
@@ -1579,7 +1579,7 @@ Try a short, non-sensitive example and compare the output with what your task re
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=qr-code-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=qr-code-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -1587,7 +1587,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=qr-code-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=qr-code-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -1599,7 +1599,7 @@ Create QR codes instantly. Try a short, non-sensitive example and compare the ou
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=qr-code-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=qr-code-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -1607,7 +1607,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=qr-code-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=qr-code-generator_youtube
 
 ### Facebook Reels storyboard
 
@@ -1633,107 +1633,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-03-qr-code-generator.jpg
-
----
-
-## 2026-11-04 · PDF to Images
-
-**Category:** PDF · **Tool:** Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload.
-
-**Hook:** Need to work with a PDF?
-
-**Useful action:** Choose an unencrypted PDF
-
-**Check:** Select up to 10 pages, for example 1-3
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Prepare a PDF task and verify the downloaded pages: PDF to Images
-
-QUICK WALKTHROUGH · PDF to Images
-
-Prepare a PDF task and verify the downloaded pages.
-
-Choose an unencrypted PDF
-
-Select up to 10 pages, for example 1-3
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #PDFTools
-
-**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_facebook
-
-### Instagram Reels
-
-**Title:** Need to work with a PDF · PDF to Images
-
-Need to work with a PDF? Here is a short, practical demo of PDF to Images.
-
-Choose an unencrypted PDF Create images, inspect the previews and download each PNG
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #PDFTools #QuickTutorial
-
-**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to work with a PDF | PDF to Images #Shorts
-
-Prepare a PDF task and verify the downloaded pages. Choose an unencrypted PDF
-
-Select up to 10 pages, for example 1-3
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #PDFTools
-
-**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
-- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
-- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
-- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
-- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
-- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
-- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-04-pdf-to-images.jpg
+**JPEG preview:** assets/2026-11-04-qr-code-generator.jpg
 
 ---
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-17-jwt-decoder.jpg
+
+---
+
+## 2026-11-18 · AI Title & Headline Generator
+
+**Category:** AI · **Tool:** Create multiple honest headline options for a blog, video, product or social post. Requires sign-in and AI availability.
+
+**Hook:** Want a draft you can actually review?
+
+**Useful action:** Give the actual scope, not just a broad keyword
+
+**Check:** Compare the eight options against what the content delivers
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Turn a clear brief into a draft that you can review: AI Title & Headline Generator
+
+QUICK WALKTHROUGH · AI Title & Headline Generator
+
+Turn a clear brief into a draft that you can review.
+
+Give the actual scope, not just a broad keyword
+
+Compare the eight options against what the content delivers
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #AITools
+
+**Keywords:** AI Title & Headline Generator, AI tool, Huzaifa Tools, ai, title, generator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-title-generator_facebook
+
+### Instagram Reels
+
+**Title:** Want a draft you can actually review · AI Title & Headline Generator
+
+Want a draft you can actually review? Here is a short, practical demo of AI Title & Headline Generator.
+
+Give the actual scope, not just a broad keyword Try More creative for a different set of ideas while keeping claims grounded
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-title-generator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #AITools #QuickTutorial
+
+**Keywords:** AI Title & Headline Generator, AI tool, Huzaifa Tools, ai, title, generator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-title-generator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Want a draft you can actually review | AI Title & Headline Generator #Shorts
+
+Turn a clear brief into a draft that you can review. Give the actual scope, not just a broad keyword
+
+Compare the eight options against what the content delivers
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-title-generator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #AITools
+
+**Keywords:** AI Title & Headline Generator, AI tool, Huzaifa Tools, ai, title, generator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-title-generator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Title & Headline Generator.”
+- **7–14s · Demonstrate:** Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output. Voiceover: “Give the actual scope, not just a broad keyword”
+- **14–20s · Teach a check:** Compare the eight options against what the content delivers Pause long enough for viewers to read the real result. Voiceover: “Compare the eight options against what the content delivers”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Title & Headline Generator.”
+- **7–14s · Demonstrate:** Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output. Voiceover: “Give the actual scope, not just a broad keyword”
+- **14–20s · Teach a check:** Compare the eight options against what the content delivers Pause long enough for viewers to read the real result. Voiceover: “Compare the eight options against what the content delivers”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Title & Headline Generator.”
+- **7–14s · Demonstrate:** Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output. Voiceover: “Give the actual scope, not just a broad keyword”
+- **14–20s · Teach a check:** Compare the eight options against what the content delivers Pause long enough for viewers to read the real result. Voiceover: “Compare the eight options against what the content delivers”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-18-ai-title-generator.jpg
 
 ---
