@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-20 to 2026-11-18 (Asia/Karachi)
+Window: 2026-10-21 to 2026-11-19 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-20 | Image Cropper | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-21 | Text Case Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-22 | Loan Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-23 | Temperature Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-16 | Volume Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-17 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-18 | AI Title & Headline Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-20 · Image Cropper
-
-**Category:** Image · **Tool:** Crop an image using precise pixel coordinates and dimensions. Preview the selected area and download the result locally.
-
-**Hook:** Need to adjust an image?
-
-**Useful action:** Upload an image and check its source dimensions
-
-**Check:** Enter the left/top coordinates and crop width/height
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Adjust an image and inspect the exported file: Image Cropper
-
-QUICK WALKTHROUGH · Image Cropper
-
-Adjust an image and inspect the exported file.
-
-Upload an image and check its source dimensions
-
-Enter the left/top coordinates and crop width/height
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #ImageTools
-
-**Keywords:** Image Cropper, Image tool, Huzaifa Tools, image, cropper, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_facebook
-
-### Instagram Reels
-
-**Title:** Need to adjust an image · Image Cropper
-
-Need to adjust an image? Here is a short, practical demo of Image Cropper.
-
-Upload an image and check its source dimensions Create the preview and download it after checking the framing
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #ImageTools #QuickTutorial
-
-**Keywords:** Image Cropper, Image tool, Huzaifa Tools, image, cropper, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to adjust an image | Image Cropper #Shorts
-
-Adjust an image and inspect the exported file. Upload an image and check its source dimensions
-
-Enter the left/top coordinates and crop width/height
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #ImageTools
-
-**Keywords:** Image Cropper, Image tool, Huzaifa Tools, image, cropper, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Cropper and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Cropper.”
-- **7–14s · Demonstrate:** Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output. Voiceover: “Upload an image and check its source dimensions”
-- **14–20s · Teach a check:** Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result. Voiceover: “Enter the left/top coordinates and crop width/height”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Cropper and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Cropper.”
-- **7–14s · Demonstrate:** Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output. Voiceover: “Upload an image and check its source dimensions”
-- **14–20s · Teach a check:** Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result. Voiceover: “Enter the left/top coordinates and crop width/height”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Cropper and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Cropper.”
-- **7–14s · Demonstrate:** Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output. Voiceover: “Upload an image and check its source dimensions”
-- **14–20s · Teach a check:** Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result. Voiceover: “Enter the left/top coordinates and crop width/height”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-20-image-cropper.jpg
-
----
+| 2026-11-19 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-21 · Text Case Converter
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-18-ai-title-generator.jpg
+
+---
+
+## 2026-11-19 · Distance Calculator
+
+**Category:** Utility · **Tool:** Calculate distance between coordinates.
+
+**Hook:** Need a quick way to calculate distance between coordinates?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Calculate distance between coordinates: Distance Calculator
+
+QUICK WALKTHROUGH · Distance Calculator
+
+Calculate distance between coordinates.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #OnlineTools
+
+**Keywords:** Distance Calculator, Utility tool, Huzaifa Tools, distance, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=distance-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Need a quick way to calculate distance between coordinates · Distance Calculator
+
+Need a quick way to calculate distance between coordinates? Here is a short, practical demo of Distance Calculator.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=distance-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #OnlineTools #QuickTutorial
+
+**Keywords:** Distance Calculator, Utility tool, Huzaifa Tools, distance, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=distance-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need a quick way to calculate distance between coordinates | Distance Calculator #Shorts
+
+Calculate distance between coordinates. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=distance-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #OnlineTools
+
+**Keywords:** Distance Calculator, Utility tool, Huzaifa Tools, distance, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/distance-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=distance-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate distance between coordinates?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Distance Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Distance Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate distance between coordinates?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Distance Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Distance Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate distance between coordinates?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Distance Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Distance Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-19-distance-calculator.jpg
 
 ---

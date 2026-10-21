@@ -1,31 +1,28 @@
 {
-  "id": "2026-10-20-image-cropper",
-  "date": "2026-10-20",
+  "id": "2026-10-21-text-case-converter",
+  "date": "2026-10-21",
   "version": 2,
   "tool": {
-    "name": "Image Cropper",
-    "slug": "image-cropper",
-    "category": "Image",
-    "description": "Crop an image using precise pixel coordinates and dimensions. Preview the selected area and download the result locally."
+    "name": "Text Case Converter",
+    "slug": "text-case-converter",
+    "category": "Text",
+    "description": "Convert text between different cases."
   },
   "lesson": {
-    "hook": "Need to adjust an image?",
-    "problem": "Adjust an image and inspect the exported file",
-    "action": "Upload an image and check its source dimensions",
-    "check": "Enter the left/top coordinates and crop width/height",
-    "takeaway": "Create the preview and download it after checking the framing",
+    "hook": "Working through a text task?",
+    "problem": "Work through a small text task and check the result",
+    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+    "check": "Check the result against the requirements of your task.",
+    "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Crop an image using precise pixel coordinates and dimensions. Preview the selected area and download the result locally.",
-      "Upload an image and check its source dimensions.",
-      "Enter the left/top coordinates and crop width/height.",
-      "Create the preview and download it after checking the framing."
+      "Convert text between different cases."
     ]
   },
   "score": {
-    "total": 15,
+    "total": 7.98,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 15,
+      "catalogUtility": 8,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
@@ -40,67 +37,68 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Convert PDF Pages to PNG Images: Resolution and Download Guide",
-      "slug": "pdf-pages-to-png-images",
-      "primaryKeyword": "convert PDF pages to PNG"
+      "title": "Change Text Case While Preserving Names, Acronyms and Meaning",
+      "slug": "change-text-case-with-editorial-review",
+      "primaryKeyword": "text case converter"
     },
     {
-      "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
-      "slug": "crop-image-by-pixel-coordinates",
-      "primaryKeyword": "crop image by pixel coordinates"
+      "title": "Compare Text at Matching Line Positions and Interpret the Differences",
+      "slug": "compare-text-at-matching-line-positions",
+      "primaryKeyword": "text diff checker"
     },
     {
-      "title": "Rotate or Flip an Image Online: Fix Sideways and Mirrored Photos",
-      "slug": "rotate-flip-image-without-confusion",
-      "primaryKeyword": "rotate or flip an image"
+      "title": "Listen to a Draft with Browser Text to Speech",
+      "slug": "listen-to-a-draft-with-browser-text-to-speech",
+      "primaryKeyword": "text to speech"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_social",
   "facebook": {
-    "title": "Adjust an image and inspect the exported file: Image Cropper",
-    "hook": "Need to adjust an image?",
-    "message": "QUICK WALKTHROUGH · Image Cropper\n\nAdjust an image and inspect the exported file.\n\nUpload an image and check its source dimensions\n\nEnter the left/top coordinates and crop width/height\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-    "caption": "QUICK WALKTHROUGH · Image Cropper\n\nAdjust an image and inspect the exported file.\n\nUpload an image and check its source dimensions\n\nEnter the left/top coordinates and crop width/height\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "title": "Work through a small text task and check the result: Text Case Converter",
+    "hook": "Working through a text task?",
+    "message": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "caption": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
     "keywords": [
-      "Image Cropper",
-      "Image tool",
+      "Text Case Converter",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "cropper",
+      "text",
+      "case",
+      "converter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools"
+      "#TextTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Cropper."
+        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Case Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image and check its source dimensions"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter the left/top coordinates and crop width/height"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -111,50 +109,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to adjust an image · Image Cropper",
-    "hook": "Need to adjust an image?",
-    "caption": "Need to adjust an image? Here is a short, practical demo of Image Cropper.\n\nUpload an image and check its source dimensions Create the preview and download it after checking the framing\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+    "title": "Working through a text task · Text Case Converter",
+    "hook": "Working through a text task?",
+    "caption": "Working through a text task? Here is a short, practical demo of Text Case Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
     "keywords": [
-      "Image Cropper",
-      "Image tool",
+      "Text Case Converter",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "cropper",
+      "text",
+      "case",
+      "converter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools",
+      "#TextTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Cropper."
+        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Case Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image and check its source dimensions"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter the left/top coordinates and crop width/height"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -163,53 +162,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-20-image-cropper.jpg"
+    "imagePath": "assets/2026-10-21-text-case-converter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to adjust an image | Image Cropper #Shorts",
-    "hook": "Need to adjust an image?",
-    "description": "Adjust an image and inspect the exported file. Upload an image and check its source dimensions\n\nEnter the left/top coordinates and crop width/height\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+    "title": "Working through a text task | Text Case Converter #Shorts",
+    "hook": "Working through a text task?",
+    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
     "keywords": [
-      "Image Cropper",
-      "Image tool",
+      "Text Case Converter",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "cropper",
+      "text",
+      "case",
+      "converter",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#ImageTools"
+      "#TextTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-cropper?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261020&utm_content=image-cropper_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Cropper."
+        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Case Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image and check its source dimensions"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter the left/top coordinates and crop width/height"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -236,25 +236,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Cropper."
+        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Case Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image and check its source dimensions"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-        "voiceover": "Enter the left/top coordinates and crop width/height"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -269,25 +269,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Cropper."
+          "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Text Case Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Upload an image and check its source dimensions"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-          "voiceover": "Enter the left/top coordinates and crop width/height"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -301,25 +301,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Cropper."
+          "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Text Case Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Upload an image and check its source dimensions"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-          "voiceover": "Enter the left/top coordinates and crop width/height"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -333,25 +333,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Cropper and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Cropper."
+          "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Text Case Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Upload an image and check its source dimensions Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Upload an image and check its source dimensions"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Enter the left/top coordinates and crop width/height Pause long enough for viewers to read the real result.",
-          "voiceover": "Enter the left/top coordinates and crop width/height"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -363,13 +363,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-20-image-cropper.jpg",
-    "alt": "Image Cropper practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-21-text-case-converter.jpg",
+    "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-20T17:42:08.878Z",
+  "createdAt": "2026-10-21T17:49:02.189Z",
   "contentHashes": {
-    "facebook": "4b4b8434",
-    "instagram": "fe57b4d3",
-    "youtube": "176061f1"
+    "facebook": "76653787",
+    "instagram": "ef0f431f",
+    "youtube": "ab896428"
   }
 }
