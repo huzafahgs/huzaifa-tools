@@ -1,21 +1,21 @@
 {
-  "id": "2026-10-21-text-case-converter",
-  "date": "2026-10-21",
+  "id": "2026-10-22-loan-calculator",
+  "date": "2026-10-22",
   "version": 2,
   "tool": {
-    "name": "Text Case Converter",
-    "slug": "text-case-converter",
-    "category": "Text",
-    "description": "Convert text between different cases."
+    "name": "Loan Calculator",
+    "slug": "loan-calculator",
+    "category": "Calculator",
+    "description": "Calculate loan payments."
   },
   "lesson": {
-    "hook": "Working through a text task?",
-    "problem": "Work through a small text task and check the result",
-    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-    "check": "Check the result against the requirements of your task.",
-    "takeaway": "Check the result against the requirements of your task.",
+    "hook": "Checking a calculation before you use it?",
+    "problem": "Estimate a result from your own inputs and check the assumptions",
+    "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+    "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+    "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
     "factualBasis": [
-      "Convert text between different cases."
+      "Calculate loan payments."
     ]
   },
   "score": {
@@ -37,68 +37,67 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Change Text Case While Preserving Names, Acronyms and Meaning",
-      "slug": "change-text-case-with-editorial-review",
-      "primaryKeyword": "text case converter"
+      "title": "A Monthly Budget: Separate Entered Expenses from the Remaining Balance",
+      "slug": "monthly-budget-income-expenses-and-remainder",
+      "primaryKeyword": "budget calculator"
     },
     {
-      "title": "Compare Text at Matching Line Positions and Interpret the Differences",
-      "slug": "compare-text-at-matching-line-positions",
-      "primaryKeyword": "text diff checker"
+      "title": "Calculate an EMI from a Month-Based Repayment Term",
+      "slug": "emi-from-a-month-based-repayment-term",
+      "primaryKeyword": "emi calculator"
     },
     {
-      "title": "Listen to a Draft with Browser Text to Speech",
-      "slug": "listen-to-a-draft-with-browser-text-to-speech",
-      "primaryKeyword": "text to speech"
+      "title": "Loan Payment Estimates: Compare Term and Total Interest Together",
+      "slug": "loan-payment-estimate-and-term-tradeoffs",
+      "primaryKeyword": "loan calculator"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_social",
   "facebook": {
-    "title": "Work through a small text task and check the result: Text Case Converter",
-    "hook": "Working through a text task?",
-    "message": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-    "caption": "QUICK WALKTHROUGH · Text Case Converter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "title": "Estimate a result from your own inputs and check the assumptions: Loan Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "message": "QUICK WALKTHROUGH · Loan Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+    "caption": "QUICK WALKTHROUGH · Loan Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
     "keywords": [
-      "Text Case Converter",
-      "Text tool",
+      "Loan Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "text",
-      "case",
-      "converter",
+      "loan",
+      "calculator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools"
+      "#Calculators"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Case Converter."
+        "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Loan Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -109,51 +108,50 @@
     ]
   },
   "instagram": {
-    "title": "Working through a text task · Text Case Converter",
-    "hook": "Working through a text task?",
-    "caption": "Working through a text task? Here is a short, practical demo of Text Case Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+    "title": "Checking a calculation before you use it · Loan Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "caption": "Checking a calculation before you use it? Here is a short, practical demo of Loan Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
     "keywords": [
-      "Text Case Converter",
-      "Text tool",
+      "Loan Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "text",
-      "case",
-      "converter",
+      "loan",
+      "calculator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools",
+      "#Calculators",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Case Converter."
+        "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Loan Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -162,54 +160,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-21-text-case-converter.jpg"
+    "imagePath": "assets/2026-10-22-loan-calculator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Working through a text task | Text Case Converter #Shorts",
-    "hook": "Working through a text task?",
-    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+    "title": "Checking a calculation before you use it | Loan Calculator #Shorts",
+    "hook": "Checking a calculation before you use it?",
+    "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
     "keywords": [
-      "Text Case Converter",
-      "Text tool",
+      "Loan Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "text",
-      "case",
-      "converter",
+      "loan",
+      "calculator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#TextTools"
+      "#Calculators"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/text-case-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261021&utm_content=text-case-converter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Case Converter."
+        "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Loan Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -236,25 +233,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Case Converter."
+        "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Loan Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -269,25 +266,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Text Case Converter."
+          "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Loan Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -301,25 +298,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Text Case Converter."
+          "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Loan Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -333,25 +330,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Text Case Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Text Case Converter."
+          "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Loan Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -363,13 +360,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-21-text-case-converter.jpg",
-    "alt": "Text Case Converter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-22-loan-calculator.jpg",
+    "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-21T17:49:02.189Z",
+  "createdAt": "2026-10-22T17:48:19.007Z",
   "contentHashes": {
-    "facebook": "76653787",
-    "instagram": "ef0f431f",
-    "youtube": "ab896428"
+    "facebook": "e9ad2513",
+    "instagram": "e45dcce4",
+    "youtube": "156271f4"
   }
 }
