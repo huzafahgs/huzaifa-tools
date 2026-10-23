@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-22T17:48:19.069Z",
+  "generatedAt": "2026-10-23T17:38:37.668Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-22",
-    "end": "2026-11-20",
+    "start": "2026-10-23",
+    "end": "2026-11-21",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,393 +13,22 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Calculator": 4,
     "Converter": 4,
     "Developer": 4,
     "AI": 4,
     "PDF": 2,
     "Image": 3,
     "Text": 3,
+    "Calculator": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
     "Number": 1,
     "Utility": 1,
-    "SEO": 1
+    "SEO": 1,
+    "Business": 1
   },
   "items": [
-    {
-      "id": "2026-10-22-loan-calculator",
-      "date": "2026-10-22",
-      "version": 2,
-      "tool": {
-        "name": "Loan Calculator",
-        "slug": "loan-calculator",
-        "category": "Calculator",
-        "description": "Calculate loan payments."
-      },
-      "lesson": {
-        "hook": "Checking a calculation before you use it?",
-        "problem": "Estimate a result from your own inputs and check the assumptions",
-        "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
-        "check": "Check the inputs, units, rounding, and assumptions before using the result.",
-        "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
-        "factualBasis": [
-          "Calculate loan payments."
-        ]
-      },
-      "score": {
-        "total": 7.98,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "A Monthly Budget: Separate Entered Expenses from the Remaining Balance",
-          "slug": "monthly-budget-income-expenses-and-remainder",
-          "primaryKeyword": "budget calculator"
-        },
-        {
-          "title": "Calculate an EMI from a Month-Based Repayment Term",
-          "slug": "emi-from-a-month-based-repayment-term",
-          "primaryKeyword": "emi calculator"
-        },
-        {
-          "title": "Loan Payment Estimates: Compare Term and Total Interest Together",
-          "slug": "loan-payment-estimate-and-term-tradeoffs",
-          "primaryKeyword": "loan calculator"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_social",
-      "facebook": {
-        "title": "Estimate a result from your own inputs and check the assumptions: Loan Calculator",
-        "hook": "Checking a calculation before you use it?",
-        "message": "QUICK WALKTHROUGH · Loan Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-        "caption": "QUICK WALKTHROUGH · Loan Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-        "keywords": [
-          "Loan Calculator",
-          "Calculator tool",
-          "Huzaifa Tools",
-          "loan",
-          "calculator",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Calculators"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Loan Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Checking a calculation before you use it · Loan Calculator",
-        "hook": "Checking a calculation before you use it?",
-        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Loan Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
-        "keywords": [
-          "Loan Calculator",
-          "Calculator tool",
-          "Huzaifa Tools",
-          "loan",
-          "calculator",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Calculators",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Loan Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-22-loan-calculator.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Checking a calculation before you use it | Loan Calculator #Shorts",
-        "hook": "Checking a calculation before you use it?",
-        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
-        "keywords": [
-          "Loan Calculator",
-          "Calculator tool",
-          "Huzaifa Tools",
-          "loan",
-          "calculator",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#Calculators"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/loan-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261022&utm_content=loan-calculator_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Loan Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Checking a calculation before you use it?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Loan Calculator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Checking a calculation before you use it?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Loan Calculator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Checking a calculation before you use it?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Loan Calculator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Checking a calculation before you use it?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Loan Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Loan Calculator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-22-loan-calculator.jpg",
-        "alt": "Loan Calculator practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-22T17:48:19.007Z",
-      "contentHashes": {
-        "facebook": "e9ad2513",
-        "instagram": "e45dcce4",
-        "youtube": "156271f4"
-      }
-    },
     {
       "id": "2026-10-23-temperature-converter",
       "date": "2026-10-23",
@@ -760,7 +389,7 @@
         "imagePath": "assets/2026-10-23-temperature-converter.jpg",
         "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.011Z",
+      "createdAt": "2026-10-23T17:38:37.607Z",
       "contentHashes": {
         "facebook": "c4daf77f",
         "instagram": "99b3bfcc",
@@ -1135,7 +764,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.012Z",
+      "createdAt": "2026-10-23T17:38:37.611Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -1497,7 +1126,7 @@
         "imagePath": "assets/2026-10-25-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.014Z",
+      "createdAt": "2026-10-23T17:38:37.613Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "22a32c69",
@@ -1870,7 +1499,7 @@
         "imagePath": "assets/2026-10-26-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.017Z",
+      "createdAt": "2026-10-23T17:38:37.616Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "c18e6959",
@@ -2243,7 +1872,7 @@
         "imagePath": "assets/2026-10-27-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.020Z",
+      "createdAt": "2026-10-23T17:38:37.618Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "86dd74dd",
@@ -2618,7 +2247,7 @@
         "imagePath": "assets/2026-10-28-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.022Z",
+      "createdAt": "2026-10-23T17:38:37.620Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "80c812d0",
@@ -2985,7 +2614,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.024Z",
+      "createdAt": "2026-10-23T17:38:37.622Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -3013,7 +2642,7 @@
         ]
       },
       "score": {
-        "total": -26.02,
+        "total": 7.98,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3025,7 +2654,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3352,7 +2981,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.025Z",
+      "createdAt": "2026-10-23T17:38:37.624Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -3724,7 +3353,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.027Z",
+      "createdAt": "2026-10-23T17:38:37.625Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -4099,7 +3728,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.029Z",
+      "createdAt": "2026-10-23T17:38:37.627Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -4458,7 +4087,7 @@
         "imagePath": "assets/2026-11-02-ai-paraphraser.jpg",
         "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.030Z",
+      "createdAt": "2026-10-23T17:38:37.629Z",
       "contentHashes": {
         "facebook": "d0fe9bb6",
         "instagram": "c842ce42",
@@ -4830,7 +4459,7 @@
         "imagePath": "assets/2026-11-03-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.032Z",
+      "createdAt": "2026-10-23T17:38:37.631Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "51547a8e",
@@ -5205,7 +4834,7 @@
         "imagePath": "assets/2026-11-04-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.035Z",
+      "createdAt": "2026-10-23T17:38:37.634Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "2228d04f",
@@ -5578,7 +5207,7 @@
         "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.036Z",
+      "createdAt": "2026-10-23T17:38:37.635Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "71b96303",
@@ -5950,7 +5579,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.037Z",
+      "createdAt": "2026-10-23T17:38:37.636Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -5978,7 +5607,7 @@
         ]
       },
       "score": {
-        "total": -60.02,
+        "total": -26.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -5990,7 +5619,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6322,7 +5951,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.038Z",
+      "createdAt": "2026-10-23T17:38:37.638Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -6694,7 +6323,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.039Z",
+      "createdAt": "2026-10-23T17:38:37.639Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -7056,7 +6685,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.041Z",
+      "createdAt": "2026-10-23T17:38:37.640Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -7418,7 +7047,7 @@
         "imagePath": "assets/2026-11-10-ai-blog-outline-generator.jpg",
         "alt": "AI Blog Outline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.042Z",
+      "createdAt": "2026-10-23T17:38:37.642Z",
       "contentHashes": {
         "facebook": "dc423846",
         "instagram": "8ab0111",
@@ -7782,7 +7411,7 @@
         "imagePath": "assets/2026-11-11-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.044Z",
+      "createdAt": "2026-10-23T17:38:37.644Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "33991542",
@@ -8154,7 +7783,7 @@
         "imagePath": "assets/2026-11-12-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.048Z",
+      "createdAt": "2026-10-23T17:38:37.647Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "e8e3caaf",
@@ -8532,7 +8161,7 @@
         "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.050Z",
+      "createdAt": "2026-10-23T17:38:37.649Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "cf748d64",
@@ -8903,7 +8532,7 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.052Z",
+      "createdAt": "2026-10-23T17:38:37.652Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
@@ -8931,7 +8560,7 @@
         ]
       },
       "score": {
-        "total": -94.02,
+        "total": -60.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -8943,7 +8572,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9270,7 +8899,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.055Z",
+      "createdAt": "2026-10-23T17:38:37.655Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -9642,7 +9271,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.057Z",
+      "createdAt": "2026-10-23T17:38:37.657Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -10014,7 +9643,7 @@
         "imagePath": "assets/2026-11-17-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.059Z",
+      "createdAt": "2026-10-23T17:38:37.659Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "48d6c62",
@@ -10376,7 +10005,7 @@
         "imagePath": "assets/2026-11-18-ai-title-generator.jpg",
         "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.061Z",
+      "createdAt": "2026-10-23T17:38:37.661Z",
       "contentHashes": {
         "facebook": "5d68283c",
         "instagram": "4c8d9714",
@@ -10748,7 +10377,7 @@
         "imagePath": "assets/2026-11-19-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.065Z",
+      "createdAt": "2026-10-23T17:38:37.663Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "18445d6e",
@@ -11123,11 +10752,378 @@
         "imagePath": "assets/2026-11-20-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-22T17:48:19.069Z",
+      "createdAt": "2026-10-23T17:38:37.666Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "a4eda3a9",
         "youtube": "e0ef7d51"
+      }
+    },
+    {
+      "id": "2026-11-21-roi-calculator",
+      "date": "2026-11-21",
+      "version": 2,
+      "tool": {
+        "name": "ROI Calculator",
+        "slug": "roi-calculator",
+        "category": "Business",
+        "description": "Calculate return on investment and net profit."
+      },
+      "lesson": {
+        "hook": "Checking a calculation before you use it?",
+        "problem": "Estimate a result from your own inputs and check the assumptions",
+        "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+        "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "factualBasis": [
+          "Calculate return on investment and net profit."
+        ]
+      },
+      "score": {
+        "total": 4.99,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 5,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 2,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 0
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Markup on Cost Is Different from Margin on Sales",
+          "slug": "markup-on-cost-versus-sales-margin",
+          "primaryKeyword": "markup calculator"
+        },
+        {
+          "title": "ROI with Extra Costs: Define the Denominator Before Comparing",
+          "slug": "roi-with-extra-costs-and-a-clear-denominator",
+          "primaryKeyword": "roi calculator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=roi-calculator_social",
+      "facebook": {
+        "title": "Estimate a result from your own inputs and check the assumptions: ROI Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "message": "QUICK WALKTHROUGH · ROI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #BusinessTools",
+        "caption": "QUICK WALKTHROUGH · ROI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #BusinessTools",
+        "keywords": [
+          "ROI Calculator",
+          "Business tool",
+          "Huzaifa Tools",
+          "roi",
+          "calculator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#BusinessTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=roi-calculator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Checking a calculation before you use it · ROI Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "caption": "Checking a calculation before you use it? Here is a short, practical demo of ROI Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=roi-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #BusinessTools #QuickTutorial",
+        "keywords": [
+          "ROI Calculator",
+          "Business tool",
+          "Huzaifa Tools",
+          "roi",
+          "calculator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#BusinessTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=roi-calculator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-21-roi-calculator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Checking a calculation before you use it | ROI Calculator #Shorts",
+        "hook": "Checking a calculation before you use it?",
+        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=roi-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #BusinessTools",
+        "keywords": [
+          "ROI Calculator",
+          "Business tool",
+          "Huzaifa Tools",
+          "roi",
+          "calculator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#BusinessTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=roi-calculator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using ROI Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using ROI Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using ROI Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-21-roi-calculator.jpg",
+        "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-23T17:38:37.668Z",
+      "contentHashes": {
+        "facebook": "64d92781",
+        "instagram": "547ddeb4",
+        "youtube": "68512a1a"
       }
     }
   ]
