@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-23T17:38:37.668Z",
+  "generatedAt": "2026-10-24T16:24:00.377Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-23",
-    "end": "2026-11-21",
+    "start": "2026-10-24",
+    "end": "2026-11-22",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,13 +13,13 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Converter": 4,
     "Developer": 4,
     "AI": 4,
     "PDF": 2,
     "Image": 3,
-    "Text": 3,
+    "Text": 4,
     "Calculator": 3,
+    "Converter": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -29,373 +29,6 @@
     "Business": 1
   },
   "items": [
-    {
-      "id": "2026-10-23-temperature-converter",
-      "date": "2026-10-23",
-      "version": 2,
-      "tool": {
-        "name": "Temperature Converter",
-        "slug": "temperature-converter",
-        "category": "Converter",
-        "description": "Convert between C, F, K."
-      },
-      "lesson": {
-        "hook": "Need to convert a value?",
-        "problem": "Convert a value and confirm the output units or format",
-        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-        "check": "Check the result against the requirements of your task.",
-        "takeaway": "Check the result against the requirements of your task.",
-        "factualBasis": [
-          "Convert between C, F, K."
-        ]
-      },
-      "score": {
-        "total": 7.99,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 2,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Energy Units: Joules, Kilowatt-Hours and Calories",
-          "slug": "energy-units-joules-kwh-and-calories",
-          "primaryKeyword": "energy converter"
-        },
-        {
-          "title": "Celsius, Fahrenheit and Kelvin: Values Are Different from Changes",
-          "slug": "celsius-fahrenheit-kelvin-values-and-differences",
-          "primaryKeyword": "temperature converter"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_social",
-      "facebook": {
-        "title": "Convert a value and confirm the output units or format: Temperature Converter",
-        "hook": "Need to convert a value?",
-        "message": "QUICK WALKTHROUGH · Temperature Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "caption": "QUICK WALKTHROUGH · Temperature Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "keywords": [
-          "Temperature Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "temperature",
-          "converter",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Converters"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to convert a value · Temperature Converter",
-        "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Temperature Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
-        "keywords": [
-          "Temperature Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "temperature",
-          "converter",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Converters",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-23-temperature-converter.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to convert a value | Temperature Converter #Shorts",
-        "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
-        "keywords": [
-          "Temperature Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "temperature",
-          "converter",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#Converters"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/temperature-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261023&utm_content=temperature-converter_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Temperature Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Temperature Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Temperature Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Temperature Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Temperature Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-23-temperature-converter.jpg",
-        "alt": "Temperature Converter practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-23T17:38:37.607Z",
-      "contentHashes": {
-        "facebook": "c4daf77f",
-        "instagram": "99b3bfcc",
-        "youtube": "6c96c0bb"
-      }
-    },
     {
       "id": "2026-10-24-css-formatter",
       "date": "2026-10-24",
@@ -764,7 +397,7 @@
         "imagePath": "assets/2026-10-24-css-formatter.jpg",
         "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.611Z",
+      "createdAt": "2026-10-24T16:24:00.317Z",
       "contentHashes": {
         "facebook": "731bda3b",
         "instagram": "1e112e3d",
@@ -1126,7 +759,7 @@
         "imagePath": "assets/2026-10-25-ai-prompt-generator.jpg",
         "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.613Z",
+      "createdAt": "2026-10-24T16:24:00.321Z",
       "contentHashes": {
         "facebook": "91562e62",
         "instagram": "22a32c69",
@@ -1499,7 +1132,7 @@
         "imagePath": "assets/2026-10-26-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.616Z",
+      "createdAt": "2026-10-24T16:24:00.323Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "c18e6959",
@@ -1872,7 +1505,7 @@
         "imagePath": "assets/2026-10-27-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.618Z",
+      "createdAt": "2026-10-24T16:24:00.325Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "86dd74dd",
@@ -2247,7 +1880,7 @@
         "imagePath": "assets/2026-10-28-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.620Z",
+      "createdAt": "2026-10-24T16:24:00.327Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "80c812d0",
@@ -2614,7 +2247,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.622Z",
+      "createdAt": "2026-10-24T16:24:00.330Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -2981,7 +2614,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.624Z",
+      "createdAt": "2026-10-24T16:24:00.332Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -3009,7 +2642,7 @@
         ]
       },
       "score": {
-        "total": -26.01,
+        "total": 7.99,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3021,7 +2654,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3353,7 +2986,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.625Z",
+      "createdAt": "2026-10-24T16:24:00.334Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -3728,7 +3361,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.627Z",
+      "createdAt": "2026-10-24T16:24:00.335Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -4087,7 +3720,7 @@
         "imagePath": "assets/2026-11-02-ai-paraphraser.jpg",
         "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.629Z",
+      "createdAt": "2026-10-24T16:24:00.337Z",
       "contentHashes": {
         "facebook": "d0fe9bb6",
         "instagram": "c842ce42",
@@ -4459,7 +4092,7 @@
         "imagePath": "assets/2026-11-03-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.631Z",
+      "createdAt": "2026-10-24T16:24:00.339Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "51547a8e",
@@ -4834,7 +4467,7 @@
         "imagePath": "assets/2026-11-04-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.634Z",
+      "createdAt": "2026-10-24T16:24:00.341Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "2228d04f",
@@ -5207,7 +4840,7 @@
         "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.635Z",
+      "createdAt": "2026-10-24T16:24:00.343Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "71b96303",
@@ -5579,7 +5212,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.636Z",
+      "createdAt": "2026-10-24T16:24:00.344Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -5951,7 +5584,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.638Z",
+      "createdAt": "2026-10-24T16:24:00.345Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -5979,7 +5612,7 @@
         ]
       },
       "score": {
-        "total": -60.01,
+        "total": -26.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -5991,7 +5624,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6323,7 +5956,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.639Z",
+      "createdAt": "2026-10-24T16:24:00.346Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -6685,7 +6318,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.640Z",
+      "createdAt": "2026-10-24T16:24:00.347Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -7047,7 +6680,7 @@
         "imagePath": "assets/2026-11-10-ai-blog-outline-generator.jpg",
         "alt": "AI Blog Outline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.642Z",
+      "createdAt": "2026-10-24T16:24:00.349Z",
       "contentHashes": {
         "facebook": "dc423846",
         "instagram": "8ab0111",
@@ -7411,7 +7044,7 @@
         "imagePath": "assets/2026-11-11-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.644Z",
+      "createdAt": "2026-10-24T16:24:00.351Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "33991542",
@@ -7783,7 +7416,7 @@
         "imagePath": "assets/2026-11-12-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.647Z",
+      "createdAt": "2026-10-24T16:24:00.353Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "e8e3caaf",
@@ -8161,7 +7794,7 @@
         "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.649Z",
+      "createdAt": "2026-10-24T16:24:00.355Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "cf748d64",
@@ -8532,7 +8165,7 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.652Z",
+      "createdAt": "2026-10-24T16:24:00.357Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
@@ -8899,7 +8532,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.655Z",
+      "createdAt": "2026-10-24T16:24:00.360Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -8927,7 +8560,7 @@
         ]
       },
       "score": {
-        "total": -94.01,
+        "total": -60.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -8939,7 +8572,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9271,7 +8904,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.657Z",
+      "createdAt": "2026-10-24T16:24:00.362Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -9643,7 +9276,7 @@
         "imagePath": "assets/2026-11-17-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.659Z",
+      "createdAt": "2026-10-24T16:24:00.364Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "48d6c62",
@@ -10005,7 +9638,7 @@
         "imagePath": "assets/2026-11-18-ai-title-generator.jpg",
         "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.661Z",
+      "createdAt": "2026-10-24T16:24:00.367Z",
       "contentHashes": {
         "facebook": "5d68283c",
         "instagram": "4c8d9714",
@@ -10377,7 +10010,7 @@
         "imagePath": "assets/2026-11-19-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.663Z",
+      "createdAt": "2026-10-24T16:24:00.370Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "18445d6e",
@@ -10752,7 +10385,7 @@
         "imagePath": "assets/2026-11-20-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.666Z",
+      "createdAt": "2026-10-24T16:24:00.373Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "a4eda3a9",
@@ -11119,11 +10752,383 @@
         "imagePath": "assets/2026-11-21-roi-calculator.jpg",
         "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-23T17:38:37.668Z",
+      "createdAt": "2026-10-24T16:24:00.375Z",
       "contentHashes": {
         "facebook": "64d92781",
         "instagram": "547ddeb4",
         "youtube": "68512a1a"
+      }
+    },
+    {
+      "id": "2026-11-22-url-encoder",
+      "date": "2026-11-22",
+      "version": 2,
+      "tool": {
+        "name": "URL Encoder/Decoder",
+        "slug": "url-encoder",
+        "category": "Text",
+        "description": "Encode and decode URLs."
+      },
+      "lesson": {
+        "hook": "Working through a text task?",
+        "problem": "Work through a small text task and check the result",
+        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+        "check": "Check the result against the requirements of your task.",
+        "takeaway": "Check the result against the requirements of your task.",
+        "factualBasis": [
+          "Encode and decode URLs."
+        ]
+      },
+      "score": {
+        "total": -94.04,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
+          "slug": "base64-encode-decode-utf8-text",
+          "primaryKeyword": "base64 encoder/decoder"
+        },
+        {
+          "title": "HTML Entities for Displayed Text: Encoding Is Not Sanitisation",
+          "slug": "html-entities-for-text-not-sanitization",
+          "primaryKeyword": "html entity encoder/decoder"
+        },
+        {
+          "title": "Percent-Encode a URL Component Without Breaking the Whole Address",
+          "slug": "percent-encode-a-url-component",
+          "primaryKeyword": "url encoder/decoder"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_social",
+      "facebook": {
+        "title": "Work through a small text task and check the result: URL Encoder/Decoder",
+        "hook": "Working through a text task?",
+        "message": "QUICK WALKTHROUGH · URL Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · URL Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "keywords": [
+          "URL Encoder/Decoder",
+          "Text tool",
+          "Huzaifa Tools",
+          "url",
+          "encoder",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TextTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Working through a text task · URL Encoder/Decoder",
+        "hook": "Working through a text task?",
+        "caption": "Working through a text task? Here is a short, practical demo of URL Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "keywords": [
+          "URL Encoder/Decoder",
+          "Text tool",
+          "Huzaifa Tools",
+          "url",
+          "encoder",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TextTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-22-url-encoder.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Working through a text task | URL Encoder/Decoder #Shorts",
+        "hook": "Working through a text task?",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "keywords": [
+          "URL Encoder/Decoder",
+          "Text tool",
+          "Huzaifa Tools",
+          "url",
+          "encoder",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#TextTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-22-url-encoder.jpg",
+        "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-24T16:24:00.376Z",
+      "contentHashes": {
+        "facebook": "125023a2",
+        "instagram": "2e026b18",
+        "youtube": "b1d4c818"
       }
     }
   ]
