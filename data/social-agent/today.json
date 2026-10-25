@@ -1,106 +1,91 @@
 {
-  "id": "2026-10-24-css-formatter",
-  "date": "2026-10-24",
+  "id": "2026-10-25-ai-prompt-generator",
+  "date": "2026-10-25",
   "version": 2,
   "tool": {
-    "name": "CSS Formatter",
-    "slug": "css-formatter",
-    "category": "Developer",
-    "description": "Format CSS into readable, consistently indented rules with parser-based syntax feedback, without sending source code to a server."
+    "name": "AI Prompt Generator & Improver",
+    "slug": "ai-prompt-generator",
+    "category": "AI",
+    "description": "Turn a rough goal into a structured prompt with context and constraints. AI generation requires sign-in and service availability."
   },
   "lesson": {
-    "hook": "Need to inspect a small sample?",
-    "problem": "Inspect a small, non-sensitive sample before using the output",
-    "action": "Paste plain CSS",
-    "check": "Format the code and review syntax errors if shown",
-    "takeaway": "Copy or download the formatted stylesheet",
+    "hook": "Want a draft you can actually review?",
+    "problem": "Turn a clear brief into a draft that you can review",
+    "action": "Give the actual goal rather than asking the model to act as an impressive expert",
+    "check": "Name the output format and constraints you can verify",
+    "takeaway": "Use the result as a brief in your preferred assistant. Different models and available features can produce different answers",
     "factualBasis": [
-      "Format CSS into readable, consistently indented rules with parser-based syntax feedback, without sending source code to a server.",
-      "Paste plain CSS.",
-      "Format the code and review syntax errors if shown.",
-      "Copy or download the formatted stylesheet."
+      "Turn a rough goal into a structured prompt with context and constraints. AI generation requires sign-in and service availability.",
+      "Give the actual goal rather than asking the model to act as an impressive expert.",
+      "Name the output format and constraints you can verify.",
+      "Use the result as a brief in your preferred assistant. Different models and available features can produce different answers."
     ]
   },
   "score": {
-    "total": 13.93,
+    "total": 15.99,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 14,
+      "catalogUtility": 13,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
-        "editorialGapBoost": 0
+        "relatedArticleCount": 0,
+        "editorialGapBoost": 3
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [
-    {
-      "title": "Format JavaScript Without Executing It: A Practical Review Workflow",
-      "slug": "format-javascript-without-executing",
-      "primaryKeyword": "format JavaScript without executing it"
-    },
-    {
-      "title": "Format CSS for a Readable Review, Then Check the Cascade",
-      "slug": "format-css-for-a-readable-review",
-      "primaryKeyword": "css formatter"
-    },
-    {
-      "title": "Minify Simple CSS and Check What the Shorter Output Changes",
-      "slug": "minify-simple-css-and-check-behaviour",
-      "primaryKeyword": "css minifier"
-    }
-  ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/css-formatter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261024&utm_content=css-formatter_social",
+  "articleReferences": [],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_social",
   "facebook": {
-    "title": "Inspect a small, non-sensitive sample before using the output: CSS Formatter",
-    "hook": "Need to inspect a small sample?",
-    "message": "QUICK WALKTHROUGH · CSS Formatter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste plain CSS\n\nFormat the code and review syntax errors if shown\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-    "caption": "QUICK WALKTHROUGH · CSS Formatter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste plain CSS\n\nFormat the code and review syntax errors if shown\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+    "title": "Turn a clear brief into a draft that you can review: AI Prompt Generator & Improver",
+    "hook": "Want a draft you can actually review?",
+    "message": "QUICK WALKTHROUGH · AI Prompt Generator & Improver\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Prompt Generator & Improver\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "CSS Formatter",
-      "Developer tool",
+      "AI Prompt Generator & Improver",
+      "AI tool",
       "Huzaifa Tools",
-      "css",
-      "formatter",
+      "ai",
+      "prompt",
+      "generator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/css-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261024&utm_content=css-formatter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using CSS Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste plain CSS"
+        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-        "voiceover": "Format the code and review syntax errors if shown"
+        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+        "voiceover": "Name the output format and constraints you can verify"
       },
       {
         "seconds": "20–25",
@@ -111,50 +96,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to inspect a small sample · CSS Formatter",
-    "hook": "Need to inspect a small sample?",
-    "caption": "Need to inspect a small sample? Here is a short, practical demo of CSS Formatter.\n\nPaste plain CSS Copy or download the formatted stylesheet\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/css-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261024&utm_content=css-formatter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+    "title": "Want a draft you can actually review · AI Prompt Generator & Improver",
+    "hook": "Want a draft you can actually review?",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Prompt Generator & Improver.\n\nGive the actual goal rather than asking the model to act as an impressive expert Use the result as a brief in your preferred assistant. Different models and available features can produce different answers\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "CSS Formatter",
-      "Developer tool",
+      "AI Prompt Generator & Improver",
+      "AI tool",
       "Huzaifa Tools",
-      "css",
-      "formatter",
+      "ai",
+      "prompt",
+      "generator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools",
+      "#AITools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/css-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261024&utm_content=css-formatter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using CSS Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste plain CSS"
+        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-        "voiceover": "Format the code and review syntax errors if shown"
+        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+        "voiceover": "Name the output format and constraints you can verify"
       },
       {
         "seconds": "20–25",
@@ -163,53 +149,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-24-css-formatter.jpg"
+    "imagePath": "assets/2026-10-25-ai-prompt-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to inspect a small sample | CSS Formatter #Shorts",
-    "hook": "Need to inspect a small sample?",
-    "description": "Inspect a small, non-sensitive sample before using the output. Paste plain CSS\n\nFormat the code and review syntax errors if shown\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/css-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261024&utm_content=css-formatter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+    "title": "Want a draft you can actually review | AI Prompt Generator & Improver #Shorts",
+    "hook": "Want a draft you can actually review?",
+    "description": "Turn a clear brief into a draft that you can review. Give the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "CSS Formatter",
-      "Developer tool",
+      "AI Prompt Generator & Improver",
+      "AI tool",
       "Huzaifa Tools",
-      "css",
-      "formatter",
+      "ai",
+      "prompt",
+      "generator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/css-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261024&utm_content=css-formatter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using CSS Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste plain CSS"
+        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-        "voiceover": "Format the code and review syntax errors if shown"
+        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+        "voiceover": "Name the output format and constraints you can verify"
       },
       {
         "seconds": "20–25",
@@ -236,25 +223,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using CSS Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste plain CSS"
+        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-        "voiceover": "Format the code and review syntax errors if shown"
+        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+        "voiceover": "Name the output format and constraints you can verify"
       },
       {
         "seconds": "20–25",
@@ -269,25 +256,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using CSS Formatter."
+          "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste plain CSS"
+          "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-          "voiceover": "Format the code and review syntax errors if shown"
+          "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+          "voiceover": "Name the output format and constraints you can verify"
         },
         {
           "seconds": "20–25",
@@ -301,25 +288,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using CSS Formatter."
+          "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste plain CSS"
+          "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-          "voiceover": "Format the code and review syntax errors if shown"
+          "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+          "voiceover": "Name the output format and constraints you can verify"
         },
         {
           "seconds": "20–25",
@@ -333,25 +320,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for CSS Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using CSS Formatter."
+          "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste plain CSS Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste plain CSS"
+          "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Format the code and review syntax errors if shown Pause long enough for viewers to read the real result.",
-          "voiceover": "Format the code and review syntax errors if shown"
+          "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
+          "voiceover": "Name the output format and constraints you can verify"
         },
         {
           "seconds": "20–25",
@@ -363,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-24-css-formatter.jpg",
-    "alt": "CSS Formatter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-25-ai-prompt-generator.jpg",
+    "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-24T16:24:00.317Z",
+  "createdAt": "2026-10-25T16:55:44.055Z",
   "contentHashes": {
-    "facebook": "731bda3b",
-    "instagram": "1e112e3d",
-    "youtube": "ad6bc937"
+    "facebook": "91562e62",
+    "instagram": "22a32c69",
+    "youtube": "9831604f"
   }
 }
