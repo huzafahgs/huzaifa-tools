@@ -1,28 +1,28 @@
 {
-  "id": "2026-10-25-ai-prompt-generator",
-  "date": "2026-10-25",
+  "id": "2026-10-26-ai-paraphraser",
+  "date": "2026-10-26",
   "version": 2,
   "tool": {
-    "name": "AI Prompt Generator & Improver",
-    "slug": "ai-prompt-generator",
+    "name": "AI Paraphraser",
+    "slug": "ai-paraphraser",
     "category": "AI",
-    "description": "Turn a rough goal into a structured prompt with context and constraints. AI generation requires sign-in and service availability."
+    "description": "Explore alternative wording and sentence structures while preserving your meaning. Requires sign-in and AI availability."
   },
   "lesson": {
     "hook": "Want a draft you can actually review?",
     "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Give the actual goal rather than asking the model to act as an impressive expert",
-    "check": "Name the output format and constraints you can verify",
-    "takeaway": "Use the result as a brief in your preferred assistant. Different models and available features can produce different answers",
+    "action": "Choose Light for nearby alternatives or Strong to explore a different sentence structure",
+    "check": "Use Creative for expressive wording, not new facts. Concise may shorten the passage",
+    "takeaway": "Compare conditions, uncertainty and numerical details. Credit the original source when required",
     "factualBasis": [
-      "Turn a rough goal into a structured prompt with context and constraints. AI generation requires sign-in and service availability.",
-      "Give the actual goal rather than asking the model to act as an impressive expert.",
-      "Name the output format and constraints you can verify.",
-      "Use the result as a brief in your preferred assistant. Different models and available features can produce different answers."
+      "Explore alternative wording and sentence structures while preserving your meaning. Requires sign-in and AI availability.",
+      "Choose Light for nearby alternatives or Strong to explore a different sentence structure.",
+      "Use Creative for expressive wording, not new facts. Concise may shorten the passage.",
+      "Compare conditions, uncertainty and numerical details. Credit the original source when required."
     ]
   },
   "score": {
-    "total": 15.99,
+    "total": 16,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
       "catalogUtility": 13,
@@ -39,19 +39,18 @@
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Prompt Generator & Improver",
+    "title": "Turn a clear brief into a draft that you can review: AI Paraphraser",
     "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Prompt Generator & Improver\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Prompt Generator & Improver\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "message": "QUICK WALKTHROUGH · AI Paraphraser\n\nTurn a clear brief into a draft that you can review.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Paraphraser\n\nTurn a clear brief into a draft that you can review.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "AI Prompt Generator & Improver",
+      "AI Paraphraser",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "prompt",
-      "generator",
+      "paraphraser",
       "step by step",
       "online utility"
     ],
@@ -60,7 +59,7 @@
       "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
@@ -72,20 +71,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-        "voiceover": "Name the output format and constraints you can verify"
+        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
       },
       {
         "seconds": "20–25",
@@ -96,16 +95,15 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Prompt Generator & Improver",
+    "title": "Want a draft you can actually review · AI Paraphraser",
     "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Prompt Generator & Improver.\n\nGive the actual goal rather than asking the model to act as an impressive expert Use the result as a brief in your preferred assistant. Different models and available features can produce different answers\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Paraphraser.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure Compare conditions, uncertainty and numerical details. Credit the original source when required\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "AI Prompt Generator & Improver",
+      "AI Paraphraser",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "prompt",
-      "generator",
+      "paraphraser",
       "quick tutorial",
       "practical tip"
     ],
@@ -115,7 +113,7 @@
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
@@ -127,20 +125,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-        "voiceover": "Name the output format and constraints you can verify"
+        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
       },
       {
         "seconds": "20–25",
@@ -149,20 +147,19 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-25-ai-prompt-generator.jpg"
+    "imagePath": "assets/2026-10-26-ai-paraphraser.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Prompt Generator & Improver #Shorts",
+    "title": "Want a draft you can actually review | AI Paraphraser #Shorts",
     "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Give the actual goal rather than asking the model to act as an impressive expert\n\nName the output format and constraints you can verify\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "description": "Turn a clear brief into a draft that you can review. Choose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "AI Prompt Generator & Improver",
+      "AI Paraphraser",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "prompt",
-      "generator",
+      "paraphraser",
       "how to",
       "short tutorial"
     ],
@@ -172,7 +169,7 @@
       "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-prompt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261025&utm_content=ai-prompt-generator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
@@ -183,20 +180,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-        "voiceover": "Name the output format and constraints you can verify"
+        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
       },
       {
         "seconds": "20–25",
@@ -228,20 +225,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-        "voiceover": "Name the output format and constraints you can verify"
+        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
       },
       {
         "seconds": "20–25",
@@ -261,20 +258,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Paraphraser."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-          "voiceover": "Name the output format and constraints you can verify"
+          "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+          "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
         },
         {
           "seconds": "20–25",
@@ -293,20 +290,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Paraphraser."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-          "voiceover": "Name the output format and constraints you can verify"
+          "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+          "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
         },
         {
           "seconds": "20–25",
@@ -325,20 +322,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Prompt Generator & Improver and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Prompt Generator & Improver."
+          "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Paraphraser."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Give the actual goal rather than asking the model to act as an impressive expert Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Give the actual goal rather than asking the model to act as an impressive expert"
+          "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Name the output format and constraints you can verify Pause long enough for viewers to read the real result.",
-          "voiceover": "Name the output format and constraints you can verify"
+          "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
+          "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
         },
         {
           "seconds": "20–25",
@@ -350,13 +347,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-25-ai-prompt-generator.jpg",
-    "alt": "AI Prompt Generator & Improver practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-26-ai-paraphraser.jpg",
+    "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-25T16:55:44.055Z",
+  "createdAt": "2026-10-26T18:58:47.078Z",
   "contentHashes": {
-    "facebook": "91562e62",
-    "instagram": "22a32c69",
-    "youtube": "9831604f"
+    "facebook": "d0fe9bb6",
+    "instagram": "fb7a21a9",
+    "youtube": "5e3b638e"
   }
 }
