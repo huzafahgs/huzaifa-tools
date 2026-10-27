@@ -1,90 +1,102 @@
 {
-  "id": "2026-10-26-ai-paraphraser",
-  "date": "2026-10-26",
+  "id": "2026-10-27-images-to-pdf",
+  "date": "2026-10-27",
   "version": 2,
   "tool": {
-    "name": "AI Paraphraser",
-    "slug": "ai-paraphraser",
-    "category": "AI",
-    "description": "Explore alternative wording and sentence structures while preserving your meaning. Requires sign-in and AI availability."
+    "name": "Images to PDF",
+    "slug": "images-to-pdf",
+    "category": "PDF",
+    "description": "Turn JPEG, PNG, WebP and other browser-supported images into an ordered A4 PDF, with one image per page and local processing."
   },
   "lesson": {
-    "hook": "Want a draft you can actually review?",
-    "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Choose Light for nearby alternatives or Strong to explore a different sentence structure",
-    "check": "Use Creative for expressive wording, not new facts. Concise may shorten the passage",
-    "takeaway": "Compare conditions, uncertainty and numerical details. Credit the original source when required",
+    "hook": "Need to work with a PDF?",
+    "problem": "Prepare a PDF task and verify the downloaded pages",
+    "action": "Choose up to 20 supported images",
+    "check": "Arrange the images with the ordering controls",
+    "takeaway": "Create and download the PDF",
     "factualBasis": [
-      "Explore alternative wording and sentence structures while preserving your meaning. Requires sign-in and AI availability.",
-      "Choose Light for nearby alternatives or Strong to explore a different sentence structure.",
-      "Use Creative for expressive wording, not new facts. Concise may shorten the passage.",
-      "Compare conditions, uncertainty and numerical details. Credit the original source when required."
+      "Turn JPEG, PNG, WebP and other browser-supported images into an ordered A4 PDF, with one image per page and local processing.",
+      "Choose up to 20 supported images.",
+      "Arrange the images with the ordering controls.",
+      "Create and download the PDF."
     ]
   },
   "score": {
-    "total": 16,
+    "total": 15.9,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 13,
+      "catalogUtility": 16,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 0,
-        "editorialGapBoost": 3
+        "relatedArticleCount": 2,
+        "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_social",
+  "articleReferences": [
+    {
+      "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
+      "slug": "images-to-a4-pdf",
+      "primaryKeyword": "images to A4 PDF"
+    },
+    {
+      "title": "Rotate or Flip an Image Online: Fix Sideways and Mirrored Photos",
+      "slug": "rotate-flip-image-without-confusion",
+      "primaryKeyword": "rotate or flip an image"
+    }
+  ],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Paraphraser",
-    "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Paraphraser\n\nTurn a clear brief into a draft that you can review.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Paraphraser\n\nTurn a clear brief into a draft that you can review.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "title": "Prepare a PDF task and verify the downloaded pages: Images to PDF",
+    "hook": "Need to work with a PDF?",
+    "message": "QUICK WALKTHROUGH · Images to PDF\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose up to 20 supported images\n\nArrange the images with the ordering controls\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "caption": "QUICK WALKTHROUGH · Images to PDF\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose up to 20 supported images\n\nArrange the images with the ordering controls\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
     "keywords": [
-      "AI Paraphraser",
-      "AI tool",
+      "Images to PDF",
+      "PDF tool",
       "Huzaifa Tools",
-      "ai",
-      "paraphraser",
+      "images",
+      "to",
+      "pdf",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools"
+      "#PDFTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Images to PDF."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose up to 20 supported images"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+        "voiceover": "Arrange the images with the ordering controls"
       },
       {
         "seconds": "20–25",
@@ -95,50 +107,51 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Paraphraser",
-    "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Paraphraser.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure Compare conditions, uncertainty and numerical details. Credit the original source when required\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "title": "Need to work with a PDF · Images to PDF",
+    "hook": "Need to work with a PDF?",
+    "caption": "Need to work with a PDF? Here is a short, practical demo of Images to PDF.\n\nChoose up to 20 supported images Create and download the PDF\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
     "keywords": [
-      "AI Paraphraser",
-      "AI tool",
+      "Images to PDF",
+      "PDF tool",
       "Huzaifa Tools",
-      "ai",
-      "paraphraser",
+      "images",
+      "to",
+      "pdf",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools",
+      "#PDFTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Images to PDF."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose up to 20 supported images"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+        "voiceover": "Arrange the images with the ordering controls"
       },
       {
         "seconds": "20–25",
@@ -147,53 +160,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-26-ai-paraphraser.jpg"
+    "imagePath": "assets/2026-10-27-images-to-pdf.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Paraphraser #Shorts",
-    "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Choose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "title": "Need to work with a PDF | Images to PDF #Shorts",
+    "hook": "Need to work with a PDF?",
+    "description": "Prepare a PDF task and verify the downloaded pages. Choose up to 20 supported images\n\nArrange the images with the ordering controls\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
     "keywords": [
-      "AI Paraphraser",
-      "AI tool",
+      "Images to PDF",
+      "PDF tool",
       "Huzaifa Tools",
-      "ai",
-      "paraphraser",
+      "images",
+      "to",
+      "pdf",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#AITools"
+      "#PDFTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Images to PDF."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose up to 20 supported images"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+        "voiceover": "Arrange the images with the ordering controls"
       },
       {
         "seconds": "20–25",
@@ -220,25 +234,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Need to work with a PDF?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Images to PDF."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose up to 20 supported images"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+        "voiceover": "Arrange the images with the ordering controls"
       },
       {
         "seconds": "20–25",
@@ -253,25 +267,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+          "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Images to PDF."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+          "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose up to 20 supported images"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+          "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+          "voiceover": "Arrange the images with the ordering controls"
         },
         {
           "seconds": "20–25",
@@ -285,25 +299,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+          "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Images to PDF."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+          "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose up to 20 supported images"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+          "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+          "voiceover": "Arrange the images with the ordering controls"
         },
         {
           "seconds": "20–25",
@@ -317,25 +331,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Need to work with a PDF?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Paraphraser."
+          "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Images to PDF."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
+          "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose up to 20 supported images"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
+          "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
+          "voiceover": "Arrange the images with the ordering controls"
         },
         {
           "seconds": "20–25",
@@ -347,13 +361,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-26-ai-paraphraser.jpg",
-    "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
+    "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-26T18:58:47.078Z",
+  "createdAt": "2026-10-27T18:30:19.443Z",
   "contentHashes": {
-    "facebook": "d0fe9bb6",
-    "instagram": "fb7a21a9",
-    "youtube": "5e3b638e"
+    "facebook": "43d868f6",
+    "instagram": "a2166a04",
+    "youtube": "e0a0a0b9"
   }
 }

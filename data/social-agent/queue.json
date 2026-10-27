@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-26T18:58:47.134Z",
+  "generatedAt": "2026-10-27T18:30:19.499Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-26",
-    "end": "2026-11-24",
+    "start": "2026-10-27",
+    "end": "2026-11-25",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,13 +13,13 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "AI": 4,
     "PDF": 2,
     "Image": 3,
     "Text": 4,
     "Calculator": 4,
     "Converter": 4,
-    "Developer": 3,
+    "Developer": 4,
+    "AI": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -28,365 +28,6 @@
     "SEO": 1
   },
   "items": [
-    {
-      "id": "2026-10-26-ai-paraphraser",
-      "date": "2026-10-26",
-      "version": 2,
-      "tool": {
-        "name": "AI Paraphraser",
-        "slug": "ai-paraphraser",
-        "category": "AI",
-        "description": "Explore alternative wording and sentence structures while preserving your meaning. Requires sign-in and AI availability."
-      },
-      "lesson": {
-        "hook": "Want a draft you can actually review?",
-        "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Choose Light for nearby alternatives or Strong to explore a different sentence structure",
-        "check": "Use Creative for expressive wording, not new facts. Concise may shorten the passage",
-        "takeaway": "Compare conditions, uncertainty and numerical details. Credit the original source when required",
-        "factualBasis": [
-          "Explore alternative wording and sentence structures while preserving your meaning. Requires sign-in and AI availability.",
-          "Choose Light for nearby alternatives or Strong to explore a different sentence structure.",
-          "Use Creative for expressive wording, not new facts. Concise may shorten the passage.",
-          "Compare conditions, uncertainty and numerical details. Credit the original source when required."
-        ]
-      },
-      "score": {
-        "total": 16,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 13,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 0,
-            "editorialGapBoost": 3
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_social",
-      "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Paraphraser",
-        "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Paraphraser\n\nTurn a clear brief into a draft that you can review.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Paraphraser\n\nTurn a clear brief into a draft that you can review.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "keywords": [
-          "AI Paraphraser",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "paraphraser",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#AITools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Want a draft you can actually review · AI Paraphraser",
-        "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Paraphraser.\n\nChoose Light for nearby alternatives or Strong to explore a different sentence structure Compare conditions, uncertainty and numerical details. Credit the original source when required\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
-        "keywords": [
-          "AI Paraphraser",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "paraphraser",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#AITools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-26-ai-paraphraser.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Want a draft you can actually review | AI Paraphraser #Shorts",
-        "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Choose Light for nearby alternatives or Strong to explore a different sentence structure\n\nUse Creative for expressive wording, not new facts. Concise may shorten the passage\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
-        "keywords": [
-          "AI Paraphraser",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "paraphraser",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#AITools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-paraphraser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261026&utm_content=ai-paraphraser_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-              "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-              "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Paraphraser and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Paraphraser."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose Light for nearby alternatives or Strong to explore a different sentence structure Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose Light for nearby alternatives or Strong to explore a different sentence structure"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use Creative for expressive wording, not new facts. Concise may shorten the passage Pause long enough for viewers to read the real result.",
-              "voiceover": "Use Creative for expressive wording, not new facts. Concise may shorten the passage"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-26-ai-paraphraser.jpg",
-        "alt": "AI Paraphraser practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-26T18:58:47.078Z",
-      "contentHashes": {
-        "facebook": "d0fe9bb6",
-        "instagram": "fb7a21a9",
-        "youtube": "5e3b638e"
-      }
-    },
     {
       "id": "2026-10-27-images-to-pdf",
       "date": "2026-10-27",
@@ -753,7 +394,7 @@
         "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
         "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.081Z",
+      "createdAt": "2026-10-27T18:30:19.443Z",
       "contentHashes": {
         "facebook": "43d868f6",
         "instagram": "a2166a04",
@@ -1128,7 +769,7 @@
         "imagePath": "assets/2026-10-28-image-converter.jpg",
         "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.083Z",
+      "createdAt": "2026-10-27T18:30:19.447Z",
       "contentHashes": {
         "facebook": "4c3c0aac",
         "instagram": "80c812d0",
@@ -1495,7 +1136,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.084Z",
+      "createdAt": "2026-10-27T18:30:19.449Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -1862,7 +1503,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.087Z",
+      "createdAt": "2026-10-27T18:30:19.451Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -2234,7 +1875,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.089Z",
+      "createdAt": "2026-10-27T18:30:19.452Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -2609,7 +2250,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.091Z",
+      "createdAt": "2026-10-27T18:30:19.454Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -2640,7 +2281,7 @@
         ]
       },
       "score": {
-        "total": -18.01,
+        "total": 15.99,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -2652,7 +2293,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -2971,7 +2612,7 @@
         "imagePath": "assets/2026-11-02-ai-blog-outline-generator.jpg",
         "alt": "AI Blog Outline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.093Z",
+      "createdAt": "2026-10-27T18:30:19.457Z",
       "contentHashes": {
         "facebook": "dc423846",
         "instagram": "23e0668a",
@@ -3343,7 +2984,7 @@
         "imagePath": "assets/2026-11-03-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.096Z",
+      "createdAt": "2026-10-27T18:30:19.459Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "51547a8e",
@@ -3716,7 +3357,7 @@
         "imagePath": "assets/2026-11-04-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.097Z",
+      "createdAt": "2026-10-27T18:30:19.461Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "adc6098d",
@@ -4089,7 +3730,7 @@
         "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.099Z",
+      "createdAt": "2026-10-27T18:30:19.463Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "71b96303",
@@ -4461,7 +4102,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.100Z",
+      "createdAt": "2026-10-27T18:30:19.464Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -4833,7 +4474,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.101Z",
+      "createdAt": "2026-10-27T18:30:19.465Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -5205,7 +4846,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.102Z",
+      "createdAt": "2026-10-27T18:30:19.467Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -5567,7 +5208,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.104Z",
+      "createdAt": "2026-10-27T18:30:19.468Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -5598,7 +5239,7 @@
         ]
       },
       "score": {
-        "total": -52.05,
+        "total": -18.05,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -5610,7 +5251,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -5929,7 +5570,7 @@
         "imagePath": "assets/2026-11-10-ai-title-generator.jpg",
         "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.105Z",
+      "createdAt": "2026-10-27T18:30:19.469Z",
       "contentHashes": {
         "facebook": "5d68283c",
         "instagram": "e80ce26c",
@@ -6304,7 +5945,7 @@
         "imagePath": "assets/2026-11-11-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.107Z",
+      "createdAt": "2026-10-27T18:30:19.471Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "115cc801",
@@ -6668,7 +6309,7 @@
         "imagePath": "assets/2026-11-12-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.109Z",
+      "createdAt": "2026-10-27T18:30:19.474Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "bc76c80f",
@@ -7046,7 +6687,7 @@
         "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.111Z",
+      "createdAt": "2026-10-27T18:30:19.475Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "cf748d64",
@@ -7417,7 +7058,7 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.112Z",
+      "createdAt": "2026-10-27T18:30:19.476Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
@@ -7784,7 +7425,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.113Z",
+      "createdAt": "2026-10-27T18:30:19.477Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -8156,7 +7797,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.115Z",
+      "createdAt": "2026-10-27T18:30:19.479Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -8528,7 +8169,7 @@
         "imagePath": "assets/2026-11-17-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.117Z",
+      "createdAt": "2026-10-27T18:30:19.480Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "48d6c62",
@@ -8559,7 +8200,7 @@
         ]
       },
       "score": {
-        "total": -86.05,
+        "total": -52.05,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -8571,7 +8212,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -8890,7 +8531,7 @@
         "imagePath": "assets/2026-11-18-ai-social-caption-generator.jpg",
         "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.120Z",
+      "createdAt": "2026-10-27T18:30:19.482Z",
       "contentHashes": {
         "facebook": "3c2b7ceb",
         "instagram": "fe2b6459",
@@ -9262,7 +8903,7 @@
         "imagePath": "assets/2026-11-19-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.123Z",
+      "createdAt": "2026-10-27T18:30:19.486Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "bb98d542",
@@ -9634,7 +9275,7 @@
         "imagePath": "assets/2026-11-20-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.127Z",
+      "createdAt": "2026-10-27T18:30:19.490Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "8e41e6ae",
@@ -10009,7 +9650,7 @@
         "imagePath": "assets/2026-11-21-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.131Z",
+      "createdAt": "2026-10-27T18:30:19.494Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "dd5b6f72",
@@ -10384,7 +10025,7 @@
         "imagePath": "assets/2026-11-22-text-diff-checker.jpg",
         "alt": "Text Diff Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.132Z",
+      "createdAt": "2026-10-27T18:30:19.495Z",
       "contentHashes": {
         "facebook": "d8bcd66b",
         "instagram": "88d39bbd",
@@ -10746,7 +10387,7 @@
         "imagePath": "assets/2026-11-23-mortgage-calculator.jpg",
         "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.133Z",
+      "createdAt": "2026-10-27T18:30:19.497Z",
       "contentHashes": {
         "facebook": "408265f7",
         "instagram": "f2feea4c",
@@ -11113,11 +10754,386 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-26T18:58:47.134Z",
+      "createdAt": "2026-10-27T18:30:19.498Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
         "youtube": "bc92b57"
+      }
+    },
+    {
+      "id": "2026-11-25-unix-timestamp-converter",
+      "date": "2026-11-25",
+      "version": 2,
+      "tool": {
+        "name": "Unix Timestamp Converter",
+        "slug": "unix-timestamp-converter",
+        "category": "Developer",
+        "description": "Convert Unix timestamps to readable dates and back."
+      },
+      "lesson": {
+        "hook": "Need to inspect a small sample?",
+        "problem": "Inspect a small, non-sensitive sample before using the output",
+        "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
+        "check": "Use a small, non-sensitive sample and inspect the output before using it.",
+        "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
+        "factualBasis": [
+          "Convert Unix timestamps to readable dates and back."
+        ]
+      },
+      "score": {
+        "total": -94.02,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Age from a Birth Date: Calendar Years and Elapsed-Time Caveats",
+          "slug": "age-from-a-birth-date-calendar-caveats",
+          "primaryKeyword": "age calculator"
+        },
+        {
+          "title": "Choose a Five-Field Cron Schedule and Verify the Scheduler",
+          "slug": "choose-a-five-field-cron-schedule",
+          "primaryKeyword": "cron expression generator"
+        },
+        {
+          "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
+          "slug": "inspect-jwt-claims-without-trusting-them",
+          "primaryKeyword": "jwt decoder"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_social",
+      "facebook": {
+        "title": "Inspect a small, non-sensitive sample before using the output: Unix Timestamp Converter",
+        "hook": "Need to inspect a small sample?",
+        "message": "QUICK WALKTHROUGH · Unix Timestamp Converter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "caption": "QUICK WALKTHROUGH · Unix Timestamp Converter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "keywords": [
+          "Unix Timestamp Converter",
+          "Developer tool",
+          "Huzaifa Tools",
+          "unix",
+          "timestamp",
+          "converter",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#DeveloperTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to inspect a small sample · Unix Timestamp Converter",
+        "hook": "Need to inspect a small sample?",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of Unix Timestamp Converter.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+        "keywords": [
+          "Unix Timestamp Converter",
+          "Developer tool",
+          "Huzaifa Tools",
+          "unix",
+          "timestamp",
+          "converter",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#DeveloperTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-25-unix-timestamp-converter.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to inspect a small sample | Unix Timestamp Converter #Shorts",
+        "hook": "Need to inspect a small sample?",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+        "keywords": [
+          "Unix Timestamp Converter",
+          "Developer tool",
+          "Huzaifa Tools",
+          "unix",
+          "timestamp",
+          "converter",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#DeveloperTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-25-unix-timestamp-converter.jpg",
+        "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-27T18:30:19.499Z",
+      "contentHashes": {
+        "facebook": "c09c1323",
+        "instagram": "d8e79f84",
+        "youtube": "5eaf6dbc"
       }
     }
   ]
