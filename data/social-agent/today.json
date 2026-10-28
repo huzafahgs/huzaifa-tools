@@ -1,37 +1,37 @@
 {
-  "id": "2026-10-27-images-to-pdf",
-  "date": "2026-10-27",
+  "id": "2026-10-28-image-converter",
+  "date": "2026-10-28",
   "version": 2,
   "tool": {
-    "name": "Images to PDF",
-    "slug": "images-to-pdf",
-    "category": "PDF",
-    "description": "Turn JPEG, PNG, WebP and other browser-supported images into an ordered A4 PDF, with one image per page and local processing."
+    "name": "Image Converter",
+    "slug": "image-converter",
+    "category": "Image",
+    "description": "Convert images to JPEG, PNG or WebP, with quality controls for lossy formats. Check a preview and download the actual format."
   },
   "lesson": {
-    "hook": "Need to work with a PDF?",
-    "problem": "Prepare a PDF task and verify the downloaded pages",
-    "action": "Choose up to 20 supported images",
-    "check": "Arrange the images with the ordering controls",
-    "takeaway": "Create and download the PDF",
+    "hook": "Need to adjust an image?",
+    "problem": "Adjust an image and inspect the exported file",
+    "action": "Upload an image supported by your browser",
+    "check": "Select PNG, JPEG or WebP and set quality where available",
+    "takeaway": "Create and download the converted image",
     "factualBasis": [
-      "Turn JPEG, PNG, WebP and other browser-supported images into an ordered A4 PDF, with one image per page and local processing.",
-      "Choose up to 20 supported images.",
-      "Arrange the images with the ordering controls.",
-      "Create and download the PDF."
+      "Convert images to JPEG, PNG or WebP, with quality controls for lossy formats. Check a preview and download the actual format.",
+      "Upload an image supported by your browser.",
+      "Select PNG, JPEG or WebP and set quality where available.",
+      "Create and download the converted image."
     ]
   },
   "score": {
-    "total": 15.9,
+    "total": 15,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 16,
+      "catalogUtility": 15,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 2,
+        "relatedArticleCount": 3,
         "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
@@ -40,63 +40,67 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
-      "slug": "images-to-a4-pdf",
-      "primaryKeyword": "images to A4 PDF"
+      "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
+      "slug": "read-image-metadata-exif",
+      "primaryKeyword": "read image metadata and EXIF"
     },
     {
-      "title": "Rotate or Flip an Image Online: Fix Sideways and Mirrored Photos",
-      "slug": "rotate-flip-image-without-confusion",
-      "primaryKeyword": "rotate or flip an image"
+      "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
+      "slug": "convert-images-to-jpeg-png-or-webp",
+      "primaryKeyword": "image converter"
+    },
+    {
+      "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
+      "slug": "resize-image-pixel-dimensions-with-aspect-ratio",
+      "primaryKeyword": "image resizer"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_social",
   "facebook": {
-    "title": "Prepare a PDF task and verify the downloaded pages: Images to PDF",
-    "hook": "Need to work with a PDF?",
-    "message": "QUICK WALKTHROUGH · Images to PDF\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose up to 20 supported images\n\nArrange the images with the ordering controls\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
-    "caption": "QUICK WALKTHROUGH · Images to PDF\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose up to 20 supported images\n\nArrange the images with the ordering controls\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "title": "Adjust an image and inspect the exported file: Image Converter",
+    "hook": "Need to adjust an image?",
+    "message": "QUICK WALKTHROUGH · Image Converter\n\nAdjust an image and inspect the exported file.\n\nUpload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "caption": "QUICK WALKTHROUGH · Image Converter\n\nAdjust an image and inspect the exported file.\n\nUpload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
     "keywords": [
-      "Images to PDF",
-      "PDF tool",
+      "Image Converter",
+      "Image tool",
       "Huzaifa Tools",
-      "images",
-      "to",
-      "pdf",
+      "image",
+      "converter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools"
+      "#ImageTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Images to PDF."
+        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose up to 20 supported images"
+        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Upload an image supported by your browser"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-        "voiceover": "Arrange the images with the ordering controls"
+        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
       },
       {
         "seconds": "20–25",
@@ -107,51 +111,50 @@
     ]
   },
   "instagram": {
-    "title": "Need to work with a PDF · Images to PDF",
-    "hook": "Need to work with a PDF?",
-    "caption": "Need to work with a PDF? Here is a short, practical demo of Images to PDF.\n\nChoose up to 20 supported images Create and download the PDF\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
+    "title": "Need to adjust an image · Image Converter",
+    "hook": "Need to adjust an image?",
+    "caption": "Need to adjust an image? Here is a short, practical demo of Image Converter.\n\nUpload an image supported by your browser Create and download the converted image\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
     "keywords": [
-      "Images to PDF",
-      "PDF tool",
+      "Image Converter",
+      "Image tool",
       "Huzaifa Tools",
-      "images",
-      "to",
-      "pdf",
+      "image",
+      "converter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools",
+      "#ImageTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Images to PDF."
+        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose up to 20 supported images"
+        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Upload an image supported by your browser"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-        "voiceover": "Arrange the images with the ordering controls"
+        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
       },
       {
         "seconds": "20–25",
@@ -160,54 +163,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-27-images-to-pdf.jpg"
+    "imagePath": "assets/2026-10-28-image-converter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to work with a PDF | Images to PDF #Shorts",
-    "hook": "Need to work with a PDF?",
-    "description": "Prepare a PDF task and verify the downloaded pages. Choose up to 20 supported images\n\nArrange the images with the ordering controls\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
+    "title": "Need to adjust an image | Image Converter #Shorts",
+    "hook": "Need to adjust an image?",
+    "description": "Adjust an image and inspect the exported file. Upload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
     "keywords": [
-      "Images to PDF",
-      "PDF tool",
+      "Image Converter",
+      "Image tool",
       "Huzaifa Tools",
-      "images",
-      "to",
-      "pdf",
+      "image",
+      "converter",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#PDFTools"
+      "#ImageTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/images-to-pdf?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261027&utm_content=images-to-pdf_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Images to PDF."
+        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose up to 20 supported images"
+        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Upload an image supported by your browser"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-        "voiceover": "Arrange the images with the ordering controls"
+        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
       },
       {
         "seconds": "20–25",
@@ -234,25 +236,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Images to PDF."
+        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose up to 20 supported images"
+        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Upload an image supported by your browser"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-        "voiceover": "Arrange the images with the ordering controls"
+        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
       },
       {
         "seconds": "20–25",
@@ -267,25 +269,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Images to PDF."
+          "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose up to 20 supported images"
+          "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Upload an image supported by your browser"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-          "voiceover": "Arrange the images with the ordering controls"
+          "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+          "voiceover": "Select PNG, JPEG or WebP and set quality where available"
         },
         {
           "seconds": "20–25",
@@ -299,25 +301,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Images to PDF."
+          "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose up to 20 supported images"
+          "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Upload an image supported by your browser"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-          "voiceover": "Arrange the images with the ordering controls"
+          "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+          "voiceover": "Select PNG, JPEG or WebP and set quality where available"
         },
         {
           "seconds": "20–25",
@@ -331,25 +333,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Images to PDF and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Images to PDF."
+          "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose up to 20 supported images Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose up to 20 supported images"
+          "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Upload an image supported by your browser"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Arrange the images with the ordering controls Pause long enough for viewers to read the real result.",
-          "voiceover": "Arrange the images with the ordering controls"
+          "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
+          "voiceover": "Select PNG, JPEG or WebP and set quality where available"
         },
         {
           "seconds": "20–25",
@@ -361,13 +363,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-27-images-to-pdf.jpg",
-    "alt": "Images to PDF practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-28-image-converter.jpg",
+    "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-27T18:30:19.443Z",
+  "createdAt": "2026-10-28T18:36:03.029Z",
   "contentHashes": {
-    "facebook": "43d868f6",
-    "instagram": "a2166a04",
-    "youtube": "e0a0a0b9"
+    "facebook": "4c3c0aac",
+    "instagram": "80c812d0",
+    "youtube": "64c3f718"
   }
 }
