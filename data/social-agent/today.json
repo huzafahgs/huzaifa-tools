@@ -1,37 +1,34 @@
 {
-  "id": "2026-10-28-image-converter",
-  "date": "2026-10-28",
+  "id": "2026-10-29-text-reverser",
+  "date": "2026-10-29",
   "version": 2,
   "tool": {
-    "name": "Image Converter",
-    "slug": "image-converter",
-    "category": "Image",
-    "description": "Convert images to JPEG, PNG or WebP, with quality controls for lossy formats. Check a preview and download the actual format."
+    "name": "Text Reverser",
+    "slug": "text-reverser",
+    "category": "Text",
+    "description": "Reverse text instantly."
   },
   "lesson": {
-    "hook": "Need to adjust an image?",
-    "problem": "Adjust an image and inspect the exported file",
-    "action": "Upload an image supported by your browser",
-    "check": "Select PNG, JPEG or WebP and set quality where available",
-    "takeaway": "Create and download the converted image",
+    "hook": "Working through a text task?",
+    "problem": "Work through a small text task and check the result",
+    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+    "check": "Check the result against the requirements of your task.",
+    "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Convert images to JPEG, PNG or WebP, with quality controls for lossy formats. Check a preview and download the actual format.",
-      "Upload an image supported by your browser.",
-      "Select PNG, JPEG or WebP and set quality where available.",
-      "Create and download the converted image."
+      "Reverse text instantly."
     ]
   },
   "score": {
-    "total": 15,
+    "total": 7.98,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 15,
+      "catalogUtility": 8,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
+        "relatedArticleCount": 2,
         "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
@@ -40,67 +37,62 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
-      "slug": "read-image-metadata-exif",
-      "primaryKeyword": "read image metadata and EXIF"
+      "title": "Turn Text into Written Morse Code and Check the Separators",
+      "slug": "turn-text-into-written-morse-code",
+      "primaryKeyword": "morse code converter"
     },
     {
-      "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
-      "slug": "convert-images-to-jpeg-png-or-webp",
-      "primaryKeyword": "image converter"
-    },
-    {
-      "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
-      "slug": "resize-image-pixel-dimensions-with-aspect-ratio",
-      "primaryKeyword": "image resizer"
+      "title": "Reverse Characters, Words or Lines: Three Different Text Operations",
+      "slug": "reverse-characters-words-or-lines",
+      "primaryKeyword": "text reverser"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_social",
   "facebook": {
-    "title": "Adjust an image and inspect the exported file: Image Converter",
-    "hook": "Need to adjust an image?",
-    "message": "QUICK WALKTHROUGH · Image Converter\n\nAdjust an image and inspect the exported file.\n\nUpload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-    "caption": "QUICK WALKTHROUGH · Image Converter\n\nAdjust an image and inspect the exported file.\n\nUpload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "title": "Work through a small text task and check the result: Text Reverser",
+    "hook": "Working through a text task?",
+    "message": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "caption": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
     "keywords": [
-      "Image Converter",
-      "Image tool",
+      "Text Reverser",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "converter",
+      "text",
+      "reverser",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools"
+      "#TextTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Converter."
+        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Reverser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image supported by your browser"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -111,50 +103,50 @@
     ]
   },
   "instagram": {
-    "title": "Need to adjust an image · Image Converter",
-    "hook": "Need to adjust an image?",
-    "caption": "Need to adjust an image? Here is a short, practical demo of Image Converter.\n\nUpload an image supported by your browser Create and download the converted image\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+    "title": "Working through a text task · Text Reverser",
+    "hook": "Working through a text task?",
+    "caption": "Working through a text task? Here is a short, practical demo of Text Reverser.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
     "keywords": [
-      "Image Converter",
-      "Image tool",
+      "Text Reverser",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "converter",
+      "text",
+      "reverser",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools",
+      "#TextTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Converter."
+        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Reverser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image supported by your browser"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -163,53 +155,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-28-image-converter.jpg"
+    "imagePath": "assets/2026-10-29-text-reverser.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to adjust an image | Image Converter #Shorts",
-    "hook": "Need to adjust an image?",
-    "description": "Adjust an image and inspect the exported file. Upload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+    "title": "Working through a text task | Text Reverser #Shorts",
+    "hook": "Working through a text task?",
+    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
     "keywords": [
-      "Image Converter",
-      "Image tool",
+      "Text Reverser",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "converter",
+      "text",
+      "reverser",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#ImageTools"
+      "#TextTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Converter."
+        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Reverser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image supported by your browser"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -236,25 +228,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Converter."
+        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Text Reverser."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Upload an image supported by your browser"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-        "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -269,25 +261,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Converter."
+          "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Text Reverser."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Upload an image supported by your browser"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-          "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -301,25 +293,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Converter."
+          "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Text Reverser."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Upload an image supported by your browser"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-          "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -333,25 +325,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Converter."
+          "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Text Reverser."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Upload an image supported by your browser"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-          "voiceover": "Select PNG, JPEG or WebP and set quality where available"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -363,13 +355,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-28-image-converter.jpg",
-    "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-29-text-reverser.jpg",
+    "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-28T18:36:03.029Z",
+  "createdAt": "2026-10-29T18:45:03.010Z",
   "contentHashes": {
-    "facebook": "4c3c0aac",
-    "instagram": "80c812d0",
-    "youtube": "64c3f718"
+    "facebook": "f2a62d47",
+    "instagram": "9a52ca0d",
+    "youtube": "5604512a"
   }
 }

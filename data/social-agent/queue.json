@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-28T18:36:03.101Z",
+  "generatedAt": "2026-10-29T18:45:03.056Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-10-28",
-    "end": "2026-11-26",
+    "start": "2026-10-29",
+    "end": "2026-11-27",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,396 +13,22 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Image": 3,
     "Text": 4,
     "Calculator": 4,
     "Converter": 4,
     "Developer": 4,
     "AI": 4,
     "PDF": 1,
+    "Image": 2,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
     "Number": 1,
     "Utility": 1,
-    "SEO": 1
+    "SEO": 1,
+    "Business": 1
   },
   "items": [
-    {
-      "id": "2026-10-28-image-converter",
-      "date": "2026-10-28",
-      "version": 2,
-      "tool": {
-        "name": "Image Converter",
-        "slug": "image-converter",
-        "category": "Image",
-        "description": "Convert images to JPEG, PNG or WebP, with quality controls for lossy formats. Check a preview and download the actual format."
-      },
-      "lesson": {
-        "hook": "Need to adjust an image?",
-        "problem": "Adjust an image and inspect the exported file",
-        "action": "Upload an image supported by your browser",
-        "check": "Select PNG, JPEG or WebP and set quality where available",
-        "takeaway": "Create and download the converted image",
-        "factualBasis": [
-          "Convert images to JPEG, PNG or WebP, with quality controls for lossy formats. Check a preview and download the actual format.",
-          "Upload an image supported by your browser.",
-          "Select PNG, JPEG or WebP and set quality where available.",
-          "Create and download the converted image."
-        ]
-      },
-      "score": {
-        "total": 15,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 15,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
-          "slug": "read-image-metadata-exif",
-          "primaryKeyword": "read image metadata and EXIF"
-        },
-        {
-          "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
-          "slug": "convert-images-to-jpeg-png-or-webp",
-          "primaryKeyword": "image converter"
-        },
-        {
-          "title": "Resize Image Pixel Dimensions with Aspect Ratio in Mind",
-          "slug": "resize-image-pixel-dimensions-with-aspect-ratio",
-          "primaryKeyword": "image resizer"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_social",
-      "facebook": {
-        "title": "Adjust an image and inspect the exported file: Image Converter",
-        "hook": "Need to adjust an image?",
-        "message": "QUICK WALKTHROUGH · Image Converter\n\nAdjust an image and inspect the exported file.\n\nUpload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "caption": "QUICK WALKTHROUGH · Image Converter\n\nAdjust an image and inspect the exported file.\n\nUpload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Converter",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "converter",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Upload an image supported by your browser"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-            "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to adjust an image · Image Converter",
-        "hook": "Need to adjust an image?",
-        "caption": "Need to adjust an image? Here is a short, practical demo of Image Converter.\n\nUpload an image supported by your browser Create and download the converted image\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
-        "keywords": [
-          "Image Converter",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "converter",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Upload an image supported by your browser"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-            "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-10-28-image-converter.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to adjust an image | Image Converter #Shorts",
-        "hook": "Need to adjust an image?",
-        "description": "Adjust an image and inspect the exported file. Upload an image supported by your browser\n\nSelect PNG, JPEG or WebP and set quality where available\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Converter",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "converter",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261028&utm_content=image-converter_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Upload an image supported by your browser"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-            "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Upload an image supported by your browser"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-            "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Upload an image supported by your browser"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-              "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Upload an image supported by your browser"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-              "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Upload an image supported by your browser Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Upload an image supported by your browser"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select PNG, JPEG or WebP and set quality where available Pause long enough for viewers to read the real result.",
-              "voiceover": "Select PNG, JPEG or WebP and set quality where available"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-10-28-image-converter.jpg",
-        "alt": "Image Converter practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-28T18:36:03.029Z",
-      "contentHashes": {
-        "facebook": "4c3c0aac",
-        "instagram": "80c812d0",
-        "youtube": "64c3f718"
-      }
-    },
     {
       "id": "2026-10-29-text-reverser",
       "date": "2026-10-29",
@@ -763,7 +389,7 @@
         "imagePath": "assets/2026-10-29-text-reverser.jpg",
         "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.035Z",
+      "createdAt": "2026-10-29T18:45:03.010Z",
       "contentHashes": {
         "facebook": "f2a62d47",
         "instagram": "9a52ca0d",
@@ -1130,7 +756,7 @@
         "imagePath": "assets/2026-10-30-emi-calculator.jpg",
         "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.038Z",
+      "createdAt": "2026-10-29T18:45:03.013Z",
       "contentHashes": {
         "facebook": "d380aac2",
         "instagram": "93d9ea18",
@@ -1502,7 +1128,7 @@
         "imagePath": "assets/2026-10-31-weight-converter.jpg",
         "alt": "Weight Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.042Z",
+      "createdAt": "2026-10-29T18:45:03.014Z",
       "contentHashes": {
         "facebook": "ca87c833",
         "instagram": "86f5b4ad",
@@ -1877,7 +1503,7 @@
         "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
         "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.045Z",
+      "createdAt": "2026-10-29T18:45:03.016Z",
       "contentHashes": {
         "facebook": "3b82d6e9",
         "instagram": "c97bc174",
@@ -2239,7 +1865,7 @@
         "imagePath": "assets/2026-11-02-ai-blog-outline-generator.jpg",
         "alt": "AI Blog Outline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.049Z",
+      "createdAt": "2026-10-29T18:45:03.017Z",
       "contentHashes": {
         "facebook": "dc423846",
         "instagram": "23e0668a",
@@ -2612,7 +2238,7 @@
         "imagePath": "assets/2026-11-03-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.053Z",
+      "createdAt": "2026-10-29T18:45:03.019Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "c760d5e6",
@@ -2620,380 +2246,8 @@
       }
     },
     {
-      "id": "2026-11-04-password-generator",
+      "id": "2026-11-04-image-metadata-viewer",
       "date": "2026-11-04",
-      "version": 2,
-      "tool": {
-        "name": "Password Generator",
-        "slug": "password-generator",
-        "category": "Security",
-        "description": "Generate a random password with selectable character sets."
-      },
-      "lesson": {
-        "hook": "Need to inspect a small sample?",
-        "problem": "Inspect a small, non-sensitive sample before using the output",
-        "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
-        "check": "Use sample values only. Never show real passwords, keys, tokens, or private data.",
-        "takeaway": "Use sample values only. Never show real passwords, keys, tokens, or private data.",
-        "factualBasis": [
-          "Generate a random password with selectable character sets."
-        ]
-      },
-      "score": {
-        "total": 4.97,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 5,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Generate a Random Password and Keep the Account Workflow Complete",
-          "slug": "generate-a-random-password-and-store-it-safely",
-          "primaryKeyword": "password generator"
-        },
-        {
-          "title": "A Password Checklist Score Is Not a Security Verdict",
-          "slug": "password-checklist-score-is-not-a-security-verdict",
-          "primaryKeyword": "password strength checker"
-        },
-        {
-          "title": "UUID-Shaped Identifiers for Test Records and Ordinary Labels",
-          "slug": "uuid-shaped-identifiers-for-test-records",
-          "primaryKeyword": "uuid generator"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=password-generator_social",
-      "facebook": {
-        "title": "Inspect a small, non-sensitive sample before using the output: Password Generator",
-        "hook": "Need to inspect a small sample?",
-        "message": "QUICK WALKTHROUGH · Password Generator\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse sample values only. Never show real passwords, keys, tokens, or private data.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #SecurityTools",
-        "caption": "QUICK WALKTHROUGH · Password Generator\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse sample values only. Never show real passwords, keys, tokens, or private data.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #SecurityTools",
-        "keywords": [
-          "Password Generator",
-          "Security tool",
-          "Huzaifa Tools",
-          "password",
-          "generator",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#SecurityTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=password-generator_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Password Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to inspect a small sample · Password Generator",
-        "hook": "Need to inspect a small sample?",
-        "caption": "Need to inspect a small sample? Here is a short, practical demo of Password Generator.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use sample values only. Never show real passwords, keys, tokens, or private data.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=password-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #SecurityTools #QuickTutorial",
-        "keywords": [
-          "Password Generator",
-          "Security tool",
-          "Huzaifa Tools",
-          "password",
-          "generator",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#SecurityTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=password-generator_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Password Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-04-password-generator.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to inspect a small sample | Password Generator #Shorts",
-        "hook": "Need to inspect a small sample?",
-        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse sample values only. Never show real passwords, keys, tokens, or private data.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=password-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #SecurityTools",
-        "keywords": [
-          "Password Generator",
-          "Security tool",
-          "Huzaifa Tools",
-          "password",
-          "generator",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#SecurityTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=password-generator_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Password Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Password Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Password Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-              "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Password Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-              "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Password Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
-              "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-04-password-generator.jpg",
-        "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-28T18:36:03.056Z",
-      "contentHashes": {
-        "facebook": "541c8903",
-        "instagram": "b7b42df5",
-        "youtube": "6dad2101"
-      }
-    },
-    {
-      "id": "2026-11-05-image-metadata-viewer",
-      "date": "2026-11-05",
       "version": 2,
       "tool": {
         "name": "Image Metadata Viewer",
@@ -3015,7 +2269,7 @@
         ]
       },
       "score": {
-        "total": -19.08,
+        "total": 15,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 15,
@@ -3027,7 +2281,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3043,7 +2297,7 @@
           "primaryKeyword": "image converter"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=image-metadata-viewer_social",
       "facebook": {
         "title": "Adjust an image and inspect the exported file: Image Metadata Viewer",
         "hook": "Need to adjust an image?",
@@ -3064,7 +2318,7 @@
           "#ImageTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=image-metadata-viewer_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -3102,7 +2356,7 @@
       "instagram": {
         "title": "Need to adjust an image · Image Metadata Viewer",
         "hook": "Need to adjust an image?",
-        "caption": "Need to adjust an image? Here is a short, practical demo of Image Metadata Viewer.\n\nChoose a supported image Review location and other sensitive fields before sharing a screenshot\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+        "caption": "Need to adjust an image? Here is a short, practical demo of Image Metadata Viewer.\n\nChoose a supported image Review location and other sensitive fields before sharing a screenshot\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=image-metadata-viewer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
         "keywords": [
           "Image Metadata Viewer",
           "Image tool",
@@ -3119,7 +2373,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=image-metadata-viewer_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -3153,13 +2407,13 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg"
+        "imagePath": "assets/2026-11-04-image-metadata-viewer.jpg"
       },
       "youtube": {
         "status": "script_only",
         "title": "Need to adjust an image | Image Metadata Viewer #Shorts",
         "hook": "Need to adjust an image?",
-        "description": "Adjust an image and inspect the exported file. Choose a supported image\n\nRead the file details and available EXIF output\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+        "description": "Adjust an image and inspect the exported file. Choose a supported image\n\nRead the file details and available EXIF output\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=image-metadata-viewer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
         "keywords": [
           "Image Metadata Viewer",
           "Image tool",
@@ -3176,7 +2430,7 @@
           "#ImageTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=image-metadata-viewer_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -3354,14 +2608,392 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
+        "imagePath": "assets/2026-11-04-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.057Z",
+      "createdAt": "2026-10-29T18:45:03.022Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
-        "instagram": "71b96303",
-        "youtube": "22d5515e"
+        "instagram": "b8a6535a",
+        "youtube": "440ae46d"
+      }
+    },
+    {
+      "id": "2026-11-05-image-rotate-flip",
+      "date": "2026-11-05",
+      "version": 2,
+      "tool": {
+        "name": "Image Rotate & Flip",
+        "slug": "image-rotate-flip",
+        "category": "Image",
+        "description": "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image."
+      },
+      "lesson": {
+        "hook": "Need to adjust an image?",
+        "problem": "Adjust an image and inspect the exported file",
+        "action": "Choose an image",
+        "check": "Select a clockwise rotation and optional flips",
+        "takeaway": "Create a preview and download the result",
+        "factualBasis": [
+          "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.",
+          "Choose an image.",
+          "Select a clockwise rotation and optional flips.",
+          "Create a preview and download the result."
+        ]
+      },
+      "score": {
+        "total": -19,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 15,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 34
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
+          "slug": "images-to-a4-pdf",
+          "primaryKeyword": "images to A4 PDF"
+        },
+        {
+          "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
+          "slug": "crop-image-by-pixel-coordinates",
+          "primaryKeyword": "crop image by pixel coordinates"
+        },
+        {
+          "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
+          "slug": "read-image-metadata-exif",
+          "primaryKeyword": "read image metadata and EXIF"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_social",
+      "facebook": {
+        "title": "Adjust an image and inspect the exported file: Image Rotate & Flip",
+        "hook": "Need to adjust an image?",
+        "message": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+        "caption": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+        "keywords": [
+          "Image Rotate & Flip",
+          "Image tool",
+          "Huzaifa Tools",
+          "image",
+          "rotate",
+          "flip",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#ImageTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to adjust an image · Image Rotate & Flip",
+        "hook": "Need to adjust an image?",
+        "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+        "keywords": [
+          "Image Rotate & Flip",
+          "Image tool",
+          "Huzaifa Tools",
+          "image",
+          "rotate",
+          "flip",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#ImageTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-05-image-rotate-flip.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to adjust an image | Image Rotate & Flip #Shorts",
+        "hook": "Need to adjust an image?",
+        "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+        "keywords": [
+          "Image Rotate & Flip",
+          "Image tool",
+          "Huzaifa Tools",
+          "image",
+          "rotate",
+          "flip",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#ImageTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-rotate-flip_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to adjust an image?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Choose an image"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+            "voiceover": "Select a clockwise rotation and optional flips"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to adjust an image?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an image"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+              "voiceover": "Select a clockwise rotation and optional flips"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to adjust an image?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an image"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+              "voiceover": "Select a clockwise rotation and optional flips"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to adjust an image?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Choose an image"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
+              "voiceover": "Select a clockwise rotation and optional flips"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-05-image-rotate-flip.jpg",
+        "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-29T18:45:03.023Z",
+      "contentHashes": {
+        "facebook": "b56cdae6",
+        "instagram": "b48db475",
+        "youtube": "6f6d7e32"
       }
     },
     {
@@ -3729,7 +3361,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.059Z",
+      "createdAt": "2026-10-29T18:45:03.024Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -4101,7 +3733,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.060Z",
+      "createdAt": "2026-10-29T18:45:03.025Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -4473,7 +4105,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.062Z",
+      "createdAt": "2026-10-29T18:45:03.027Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -4835,7 +4467,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.063Z",
+      "createdAt": "2026-10-29T18:45:03.028Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -5197,7 +4829,7 @@
         "imagePath": "assets/2026-11-10-ai-title-generator.jpg",
         "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.064Z",
+      "createdAt": "2026-10-29T18:45:03.029Z",
       "contentHashes": {
         "facebook": "5d68283c",
         "instagram": "e80ce26c",
@@ -5205,8 +4837,380 @@
       }
     },
     {
-      "id": "2026-11-11-qr-code-generator",
+      "id": "2026-11-11-password-generator",
       "date": "2026-11-11",
+      "version": 2,
+      "tool": {
+        "name": "Password Generator",
+        "slug": "password-generator",
+        "category": "Security",
+        "description": "Generate a random password with selectable character sets."
+      },
+      "lesson": {
+        "hook": "Need to inspect a small sample?",
+        "problem": "Inspect a small, non-sensitive sample before using the output",
+        "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
+        "check": "Use sample values only. Never show real passwords, keys, tokens, or private data.",
+        "takeaway": "Use sample values only. Never show real passwords, keys, tokens, or private data.",
+        "factualBasis": [
+          "Generate a random password with selectable character sets."
+        ]
+      },
+      "score": {
+        "total": 4.98,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 5,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 0
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Generate a Random Password and Keep the Account Workflow Complete",
+          "slug": "generate-a-random-password-and-store-it-safely",
+          "primaryKeyword": "password generator"
+        },
+        {
+          "title": "A Password Checklist Score Is Not a Security Verdict",
+          "slug": "password-checklist-score-is-not-a-security-verdict",
+          "primaryKeyword": "password strength checker"
+        },
+        {
+          "title": "UUID-Shaped Identifiers for Test Records and Ordinary Labels",
+          "slug": "uuid-shaped-identifiers-for-test-records",
+          "primaryKeyword": "uuid generator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_social",
+      "facebook": {
+        "title": "Inspect a small, non-sensitive sample before using the output: Password Generator",
+        "hook": "Need to inspect a small sample?",
+        "message": "QUICK WALKTHROUGH · Password Generator\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse sample values only. Never show real passwords, keys, tokens, or private data.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #SecurityTools",
+        "caption": "QUICK WALKTHROUGH · Password Generator\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse sample values only. Never show real passwords, keys, tokens, or private data.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #SecurityTools",
+        "keywords": [
+          "Password Generator",
+          "Security tool",
+          "Huzaifa Tools",
+          "password",
+          "generator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#SecurityTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Password Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to inspect a small sample · Password Generator",
+        "hook": "Need to inspect a small sample?",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of Password Generator.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use sample values only. Never show real passwords, keys, tokens, or private data.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #SecurityTools #QuickTutorial",
+        "keywords": [
+          "Password Generator",
+          "Security tool",
+          "Huzaifa Tools",
+          "password",
+          "generator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#SecurityTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Password Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-11-password-generator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to inspect a small sample | Password Generator #Shorts",
+        "hook": "Need to inspect a small sample?",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse sample values only. Never show real passwords, keys, tokens, or private data.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #SecurityTools",
+        "keywords": [
+          "Password Generator",
+          "Security tool",
+          "Huzaifa Tools",
+          "password",
+          "generator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#SecurityTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Password Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Password Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Password Generator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Password Generator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Password Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Password Generator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use sample values only. Never show real passwords, keys, tokens, or private data."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-11-password-generator.jpg",
+        "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-29T18:45:03.031Z",
+      "contentHashes": {
+        "facebook": "541c8903",
+        "instagram": "ac0cce27",
+        "youtube": "3eb25eab"
+      }
+    },
+    {
+      "id": "2026-11-12-qr-code-generator",
+      "date": "2026-11-12",
       "version": 2,
       "tool": {
         "name": "QR Code Generator",
@@ -5225,7 +5229,7 @@
         ]
       },
       "score": {
-        "total": 4.98,
+        "total": 5,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 5,
@@ -5258,7 +5262,7 @@
           "primaryKeyword": "url parser"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=qr-code-generator_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_social",
       "facebook": {
         "title": "Create QR codes instantly: QR Code Generator",
         "hook": "Need a quick way to create qr codes instantly?",
@@ -5279,7 +5283,7 @@
           "#OnlineTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=qr-code-generator_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -5317,7 +5321,7 @@
       "instagram": {
         "title": "Need a quick way to create qr codes instantly · QR Code Generator",
         "hook": "Need a quick way to create qr codes instantly?",
-        "caption": "Need a quick way to create qr codes instantly? Here is a short, practical demo of QR Code Generator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=qr-code-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #OnlineTools #QuickTutorial",
+        "caption": "Need a quick way to create qr codes instantly? Here is a short, practical demo of QR Code Generator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #OnlineTools #QuickTutorial",
         "keywords": [
           "QR Code Generator",
           "Generator tool",
@@ -5334,7 +5338,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=qr-code-generator_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -5368,13 +5372,13 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-11-qr-code-generator.jpg"
+        "imagePath": "assets/2026-11-12-qr-code-generator.jpg"
       },
       "youtube": {
         "status": "script_only",
         "title": "Need a quick way to create qr codes instantly | QR Code Generator #Shorts",
         "hook": "Need a quick way to create qr codes instantly?",
-        "description": "Create QR codes instantly. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=qr-code-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #OnlineTools",
+        "description": "Create QR codes instantly. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #OnlineTools",
         "keywords": [
           "QR Code Generator",
           "Generator tool",
@@ -5391,7 +5395,7 @@
           "#OnlineTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=qr-code-generator_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -5569,19 +5573,19 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-11-qr-code-generator.jpg",
+        "imagePath": "assets/2026-11-12-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.067Z",
+      "createdAt": "2026-10-29T18:45:03.032Z",
       "contentHashes": {
         "facebook": "2392b81b",
-        "instagram": "115cc801",
-        "youtube": "627d4314"
+        "instagram": "3d2f06f0",
+        "youtube": "5dfd6553"
       }
     },
     {
-      "id": "2026-11-12-stopwatch",
-      "date": "2026-11-12",
+      "id": "2026-11-13-stopwatch",
+      "date": "2026-11-13",
       "version": 2,
       "tool": {
         "name": "Stopwatch",
@@ -5628,7 +5632,7 @@
           "primaryKeyword": "timer"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=stopwatch_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=stopwatch_social",
       "facebook": {
         "title": "Convert a value and confirm the output units or format: Stopwatch",
         "hook": "Need to convert a value?",
@@ -5647,7 +5651,7 @@
           "#TimeTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=stopwatch_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=stopwatch_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -5685,7 +5689,7 @@
       "instagram": {
         "title": "Need to convert a value · Stopwatch",
         "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Stopwatch.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=stopwatch_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TimeTools #QuickTutorial",
+        "caption": "Need to convert a value? Here is a short, practical demo of Stopwatch.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=stopwatch_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TimeTools #QuickTutorial",
         "keywords": [
           "Stopwatch",
           "Time tool",
@@ -5700,7 +5704,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=stopwatch_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=stopwatch_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -5734,13 +5738,13 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-12-stopwatch.jpg"
+        "imagePath": "assets/2026-11-13-stopwatch.jpg"
       },
       "youtube": {
         "status": "script_only",
         "title": "Need to convert a value | Stopwatch #Shorts",
         "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=stopwatch_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TimeTools",
+        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=stopwatch_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TimeTools",
         "keywords": [
           "Stopwatch",
           "Time tool",
@@ -5755,7 +5759,7 @@
           "#TimeTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=stopwatch_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/stopwatch?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=stopwatch_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -5933,403 +5937,25 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-12-stopwatch.jpg",
+        "imagePath": "assets/2026-11-13-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.069Z",
+      "createdAt": "2026-10-29T18:45:03.034Z",
       "contentHashes": {
         "facebook": "ab18519f",
-        "instagram": "bc76c80f",
-        "youtube": "8bbbbd5b"
+        "instagram": "d6894228",
+        "youtube": "9aa496c6"
       }
     },
     {
-      "id": "2026-11-13-image-rotate-flip",
-      "date": "2026-11-13",
-      "version": 2,
-      "tool": {
-        "name": "Image Rotate & Flip",
-        "slug": "image-rotate-flip",
-        "category": "Image",
-        "description": "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image."
-      },
-      "lesson": {
-        "hook": "Need to adjust an image?",
-        "problem": "Adjust an image and inspect the exported file",
-        "action": "Choose an image",
-        "check": "Select a clockwise rotation and optional flips",
-        "takeaway": "Create a preview and download the result",
-        "factualBasis": [
-          "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.",
-          "Choose an image.",
-          "Select a clockwise rotation and optional flips.",
-          "Create a preview and download the result."
-        ]
-      },
-      "score": {
-        "total": -53.05,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 15,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 68
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
-          "slug": "images-to-a4-pdf",
-          "primaryKeyword": "images to A4 PDF"
-        },
-        {
-          "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
-          "slug": "crop-image-by-pixel-coordinates",
-          "primaryKeyword": "crop image by pixel coordinates"
-        },
-        {
-          "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
-          "slug": "read-image-metadata-exif",
-          "primaryKeyword": "read image metadata and EXIF"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_social",
-      "facebook": {
-        "title": "Adjust an image and inspect the exported file: Image Rotate & Flip",
-        "hook": "Need to adjust an image?",
-        "message": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "caption": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Rotate & Flip",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "rotate",
-          "flip",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to adjust an image · Image Rotate & Flip",
-        "hook": "Need to adjust an image?",
-        "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
-        "keywords": [
-          "Image Rotate & Flip",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "rotate",
-          "flip",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-13-image-rotate-flip.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to adjust an image | Image Rotate & Flip #Shorts",
-        "hook": "Need to adjust an image?",
-        "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Rotate & Flip",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "rotate",
-          "flip",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose an image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-              "voiceover": "Select a clockwise rotation and optional flips"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose an image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-              "voiceover": "Select a clockwise rotation and optional flips"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose an image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-              "voiceover": "Select a clockwise rotation and optional flips"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
-        "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-10-28T18:36:03.070Z",
-      "contentHashes": {
-        "facebook": "b56cdae6",
-        "instagram": "cf748d64",
-        "youtube": "63411079"
-      }
-    },
-    {
-      "id": "2026-11-14-base64-converter",
+      "id": "2026-11-14-lorem-ipsum-generator",
       "date": "2026-11-14",
       "version": 2,
       "tool": {
-        "name": "Base64 Encoder/Decoder",
-        "slug": "base64-converter",
+        "name": "Lorem Ipsum Generator",
+        "slug": "lorem-ipsum-generator",
         "category": "Text",
-        "description": "Encode and decode Base64 strings."
+        "description": "Generate clean placeholder text for designs and drafts."
       },
       "lesson": {
         "hook": "Working through a text task?",
@@ -6338,7 +5964,7 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Encode and decode Base64 strings."
+          "Generate clean placeholder text for designs and drafts."
         ]
       },
       "score": {
@@ -6351,7 +5977,7 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 3,
+            "relatedArticleCount": 1,
             "editorialGapBoost": 0
           },
           "categoryBalancePenalty": 68
@@ -6360,32 +5986,24 @@
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
-          "slug": "base64-encode-decode-utf8-text",
-          "primaryKeyword": "base64 encoder/decoder"
-        },
-        {
-          "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
-          "slug": "inspect-jwt-claims-without-trusting-them",
-          "primaryKeyword": "jwt decoder"
-        },
-        {
-          "title": "The Complete Huzaifa Tools Guide: Free Online Utilities for Work, Study, and Development",
-          "slug": "huzaifa-tools-guide"
+          "title": "Use Lorem Ipsum to Test Layout, Then Replace It with Real Copy",
+          "slug": "lorem-ipsum-for-layout-testing",
+          "primaryKeyword": "lorem ipsum generator"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_social",
       "facebook": {
-        "title": "Work through a small text task and check the result: Base64 Encoder/Decoder",
+        "title": "Work through a small text task and check the result: Lorem Ipsum Generator",
         "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · Base64 Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · Base64 Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "message": "QUICK WALKTHROUGH · Lorem Ipsum Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · Lorem Ipsum Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
         "keywords": [
-          "Base64 Encoder/Decoder",
+          "Lorem Ipsum Generator",
           "Text tool",
           "Huzaifa Tools",
-          "base64",
-          "converter",
+          "lorem",
+          "ipsum",
+          "generator",
           "step by step",
           "online utility"
         ],
@@ -6394,7 +6012,7 @@
           "#TextTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -6406,8 +6024,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
           },
           {
             "seconds": "7–14",
@@ -6430,15 +6048,16 @@
         ]
       },
       "instagram": {
-        "title": "Working through a text task · Base64 Encoder/Decoder",
+        "title": "Working through a text task · Lorem Ipsum Generator",
         "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "caption": "Working through a text task? Here is a short, practical demo of Lorem Ipsum Generator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
         "keywords": [
-          "Base64 Encoder/Decoder",
+          "Lorem Ipsum Generator",
           "Text tool",
           "Huzaifa Tools",
-          "base64",
-          "converter",
+          "lorem",
+          "ipsum",
+          "generator",
           "quick tutorial",
           "practical tip"
         ],
@@ -6448,7 +6067,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -6460,8 +6079,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
           },
           {
             "seconds": "7–14",
@@ -6482,19 +6101,20 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-14-base64-converter.jpg"
+        "imagePath": "assets/2026-11-14-lorem-ipsum-generator.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Working through a text task | Base64 Encoder/Decoder #Shorts",
+        "title": "Working through a text task | Lorem Ipsum Generator #Shorts",
         "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
         "keywords": [
-          "Base64 Encoder/Decoder",
+          "Lorem Ipsum Generator",
           "Text tool",
           "Huzaifa Tools",
-          "base64",
-          "converter",
+          "lorem",
+          "ipsum",
+          "generator",
           "how to",
           "short tutorial"
         ],
@@ -6504,7 +6124,7 @@
           "#TextTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -6515,8 +6135,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
           },
           {
             "seconds": "7–14",
@@ -6560,8 +6180,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
           },
           {
             "seconds": "7–14",
@@ -6593,8 +6213,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+              "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
             },
             {
               "seconds": "7–14",
@@ -6625,8 +6245,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+              "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
             },
             {
               "seconds": "7–14",
@@ -6657,8 +6277,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+              "visual": "Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Lorem Ipsum Generator."
             },
             {
               "seconds": "7–14",
@@ -6682,25 +6302,25 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-14-base64-converter.jpg",
-        "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-14-lorem-ipsum-generator.jpg",
+        "alt": "Lorem Ipsum Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.071Z",
+      "createdAt": "2026-10-29T18:45:03.035Z",
       "contentHashes": {
-        "facebook": "1bbcb2de",
-        "instagram": "f05397f9",
-        "youtube": "f0864025"
+        "facebook": "e1ecbd4e",
+        "instagram": "672115ad",
+        "youtube": "27492f5b"
       }
     },
     {
-      "id": "2026-11-15-simple-interest",
+      "id": "2026-11-15-mortgage-calculator",
       "date": "2026-11-15",
       "version": 2,
       "tool": {
-        "name": "Simple Interest Calculator",
-        "slug": "simple-interest",
+        "name": "Mortgage Calculator",
+        "slug": "mortgage-calculator",
         "category": "Calculator",
-        "description": "Calculate simple interest."
+        "description": "Estimate monthly mortgage payments and total interest."
       },
       "lesson": {
         "hook": "Checking a calculation before you use it?",
@@ -6709,7 +6329,7 @@
         "check": "Check the inputs, units, rounding, and assumptions before using the result.",
         "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
         "factualBasis": [
-          "Calculate simple interest."
+          "Estimate monthly mortgage payments and total interest."
         ]
       },
       "score": {
@@ -6722,7 +6342,7 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 2,
+            "relatedArticleCount": 1,
             "editorialGapBoost": 0
           },
           "categoryBalancePenalty": 68
@@ -6731,28 +6351,23 @@
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Compound Interest: Compare Frequency Without Inventing a Forecast",
-          "slug": "compound-interest-frequency-and-assumptions",
-          "primaryKeyword": "compound interest calculator"
-        },
-        {
-          "title": "Simple Interest Calculator: Formula, Rate and Time Example",
-          "slug": "simple-interest-principal-rate-and-time",
-          "primaryKeyword": "simple interest calculator"
+          "title": "Mortgage Principal and Interest Are Only Part of Home Costs",
+          "slug": "mortgage-principal-interest-and-home-costs",
+          "primaryKeyword": "mortgage calculator"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_social",
       "facebook": {
-        "title": "Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator",
+        "title": "Estimate a result from your own inputs and check the assumptions: Mortgage Calculator",
         "hook": "Checking a calculation before you use it?",
-        "message": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-        "caption": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "message": "QUICK WALKTHROUGH · Mortgage Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "caption": "QUICK WALKTHROUGH · Mortgage Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
         "keywords": [
-          "Simple Interest Calculator",
+          "Mortgage Calculator",
           "Calculator tool",
           "Huzaifa Tools",
-          "simple",
-          "interest",
+          "mortgage",
+          "calculator",
           "step by step",
           "online utility"
         ],
@@ -6761,7 +6376,7 @@
           "#Calculators"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -6773,8 +6388,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
           },
           {
             "seconds": "7–14",
@@ -6797,15 +6412,15 @@
         ]
       },
       "instagram": {
-        "title": "Checking a calculation before you use it · Simple Interest Calculator",
+        "title": "Checking a calculation before you use it · Mortgage Calculator",
         "hook": "Checking a calculation before you use it?",
-        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
+        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Mortgage Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
         "keywords": [
-          "Simple Interest Calculator",
+          "Mortgage Calculator",
           "Calculator tool",
           "Huzaifa Tools",
-          "simple",
-          "interest",
+          "mortgage",
+          "calculator",
           "quick tutorial",
           "practical tip"
         ],
@@ -6815,7 +6430,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -6827,8 +6442,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
           },
           {
             "seconds": "7–14",
@@ -6849,19 +6464,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-15-simple-interest.jpg"
+        "imagePath": "assets/2026-11-15-mortgage-calculator.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Checking a calculation before you use it | Simple Interest Calculator #Shorts",
+        "title": "Checking a calculation before you use it | Mortgage Calculator #Shorts",
         "hook": "Checking a calculation before you use it?",
-        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
+        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
         "keywords": [
-          "Simple Interest Calculator",
+          "Mortgage Calculator",
           "Calculator tool",
           "Huzaifa Tools",
-          "simple",
-          "interest",
+          "mortgage",
+          "calculator",
           "how to",
           "short tutorial"
         ],
@@ -6871,7 +6486,7 @@
           "#Calculators"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -6882,8 +6497,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
           },
           {
             "seconds": "7–14",
@@ -6927,8 +6542,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
           },
           {
             "seconds": "7–14",
@@ -6960,8 +6575,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+              "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
             },
             {
               "seconds": "7–14",
@@ -6992,8 +6607,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+              "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
             },
             {
               "seconds": "7–14",
@@ -7024,8 +6639,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+              "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
             },
             {
               "seconds": "7–14",
@@ -7049,14 +6664,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-15-simple-interest.jpg",
-        "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-15-mortgage-calculator.jpg",
+        "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.073Z",
+      "createdAt": "2026-10-29T18:45:03.036Z",
       "contentHashes": {
-        "facebook": "feace183",
-        "instagram": "6300e7df",
-        "youtube": "f79b3683"
+        "facebook": "408265f7",
+        "instagram": "dc2d13c1",
+        "youtube": "33464b37"
       }
     },
     {
@@ -7080,7 +6695,7 @@
         ]
       },
       "score": {
-        "total": -60.01,
+        "total": -60.07,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -7424,7 +7039,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.074Z",
+      "createdAt": "2026-10-29T18:45:03.037Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -7796,7 +7411,7 @@
         "imagePath": "assets/2026-11-17-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.075Z",
+      "createdAt": "2026-10-29T18:45:03.038Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "48d6c62",
@@ -8158,7 +7773,7 @@
         "imagePath": "assets/2026-11-18-ai-social-caption-generator.jpg",
         "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.077Z",
+      "createdAt": "2026-10-29T18:45:03.039Z",
       "contentHashes": {
         "facebook": "3c2b7ceb",
         "instagram": "fe2b6459",
@@ -8530,7 +8145,7 @@
         "imagePath": "assets/2026-11-19-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.085Z",
+      "createdAt": "2026-10-29T18:45:03.043Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "bb98d542",
@@ -8902,7 +8517,7 @@
         "imagePath": "assets/2026-11-20-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.089Z",
+      "createdAt": "2026-10-29T18:45:03.045Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "8e41e6ae",
@@ -9277,7 +8892,7 @@
         "imagePath": "assets/2026-11-21-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.093Z",
+      "createdAt": "2026-10-29T18:45:03.048Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "dd5b6f72",
@@ -9652,7 +9267,7 @@
         "imagePath": "assets/2026-11-22-text-diff-checker.jpg",
         "alt": "Text Diff Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.095Z",
+      "createdAt": "2026-10-29T18:45:03.049Z",
       "contentHashes": {
         "facebook": "d8bcd66b",
         "instagram": "88d39bbd",
@@ -9660,14 +9275,14 @@
       }
     },
     {
-      "id": "2026-11-23-mortgage-calculator",
+      "id": "2026-11-23-simple-interest",
       "date": "2026-11-23",
       "version": 2,
       "tool": {
-        "name": "Mortgage Calculator",
-        "slug": "mortgage-calculator",
+        "name": "Simple Interest Calculator",
+        "slug": "simple-interest",
         "category": "Calculator",
-        "description": "Estimate monthly mortgage payments and total interest."
+        "description": "Calculate simple interest."
       },
       "lesson": {
         "hook": "Checking a calculation before you use it?",
@@ -9676,11 +9291,11 @@
         "check": "Check the inputs, units, rounding, and assumptions before using the result.",
         "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
         "factualBasis": [
-          "Estimate monthly mortgage payments and total interest."
+          "Calculate simple interest."
         ]
       },
       "score": {
-        "total": -94,
+        "total": -94.06,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -9689,7 +9304,7 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 1,
+            "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
           "categoryBalancePenalty": 102
@@ -9698,23 +9313,28 @@
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Mortgage Principal and Interest Are Only Part of Home Costs",
-          "slug": "mortgage-principal-interest-and-home-costs",
-          "primaryKeyword": "mortgage calculator"
+          "title": "Compound Interest: Compare Frequency Without Inventing a Forecast",
+          "slug": "compound-interest-frequency-and-assumptions",
+          "primaryKeyword": "compound interest calculator"
+        },
+        {
+          "title": "Simple Interest Calculator: Formula, Rate and Time Example",
+          "slug": "simple-interest-principal-rate-and-time",
+          "primaryKeyword": "simple interest calculator"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_social",
       "facebook": {
-        "title": "Estimate a result from your own inputs and check the assumptions: Mortgage Calculator",
+        "title": "Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator",
         "hook": "Checking a calculation before you use it?",
-        "message": "QUICK WALKTHROUGH · Mortgage Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-        "caption": "QUICK WALKTHROUGH · Mortgage Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "message": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "caption": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
         "keywords": [
-          "Mortgage Calculator",
+          "Simple Interest Calculator",
           "Calculator tool",
           "Huzaifa Tools",
-          "mortgage",
-          "calculator",
+          "simple",
+          "interest",
           "step by step",
           "online utility"
         ],
@@ -9723,7 +9343,7 @@
           "#Calculators"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -9735,8 +9355,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
           },
           {
             "seconds": "7–14",
@@ -9759,15 +9379,15 @@
         ]
       },
       "instagram": {
-        "title": "Checking a calculation before you use it · Mortgage Calculator",
+        "title": "Checking a calculation before you use it · Simple Interest Calculator",
         "hook": "Checking a calculation before you use it?",
-        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Mortgage Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
+        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
         "keywords": [
-          "Mortgage Calculator",
+          "Simple Interest Calculator",
           "Calculator tool",
           "Huzaifa Tools",
-          "mortgage",
-          "calculator",
+          "simple",
+          "interest",
           "quick tutorial",
           "practical tip"
         ],
@@ -9777,7 +9397,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -9789,8 +9409,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
           },
           {
             "seconds": "7–14",
@@ -9811,19 +9431,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-23-mortgage-calculator.jpg"
+        "imagePath": "assets/2026-11-23-simple-interest.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Checking a calculation before you use it | Mortgage Calculator #Shorts",
+        "title": "Checking a calculation before you use it | Simple Interest Calculator #Shorts",
         "hook": "Checking a calculation before you use it?",
-        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
+        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
         "keywords": [
-          "Mortgage Calculator",
+          "Simple Interest Calculator",
           "Calculator tool",
           "Huzaifa Tools",
-          "mortgage",
-          "calculator",
+          "simple",
+          "interest",
           "how to",
           "short tutorial"
         ],
@@ -9833,7 +9453,7 @@
           "#Calculators"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -9844,8 +9464,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
           },
           {
             "seconds": "7–14",
@@ -9889,8 +9509,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+            "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
           },
           {
             "seconds": "7–14",
@@ -9922,8 +9542,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
             },
             {
               "seconds": "7–14",
@@ -9954,8 +9574,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
             },
             {
               "seconds": "7–14",
@@ -9986,8 +9606,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Mortgage Calculator."
+              "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
             },
             {
               "seconds": "7–14",
@@ -10011,14 +9631,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-23-mortgage-calculator.jpg",
-        "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-23-simple-interest.jpg",
+        "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.097Z",
+      "createdAt": "2026-10-29T18:45:03.051Z",
       "contentHashes": {
-        "facebook": "408265f7",
-        "instagram": "f2feea4c",
-        "youtube": "57e28908"
+        "facebook": "feace183",
+        "instagram": "d038c7ca",
+        "youtube": "3dec81dc"
       }
     },
     {
@@ -10042,7 +9662,7 @@
         ]
       },
       "score": {
-        "total": -94.08,
+        "total": -94.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -10381,7 +10001,7 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.098Z",
+      "createdAt": "2026-10-29T18:45:03.052Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
@@ -10756,7 +10376,7 @@
         "imagePath": "assets/2026-11-25-unix-timestamp-converter.jpg",
         "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.099Z",
+      "createdAt": "2026-10-29T18:45:03.054Z",
       "contentHashes": {
         "facebook": "c09c1323",
         "instagram": "d8e79f84",
@@ -11118,11 +10738,378 @@
         "imagePath": "assets/2026-11-26-ai-product-description-generator.jpg",
         "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-10-28T18:36:03.100Z",
+      "createdAt": "2026-10-29T18:45:03.055Z",
       "contentHashes": {
         "facebook": "1a8f88bb",
         "instagram": "2dfd9d57",
         "youtube": "7093571f"
+      }
+    },
+    {
+      "id": "2026-11-27-roi-calculator",
+      "date": "2026-11-27",
+      "version": 2,
+      "tool": {
+        "name": "ROI Calculator",
+        "slug": "roi-calculator",
+        "category": "Business",
+        "description": "Calculate return on investment and net profit."
+      },
+      "lesson": {
+        "hook": "Checking a calculation before you use it?",
+        "problem": "Estimate a result from your own inputs and check the assumptions",
+        "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+        "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "factualBasis": [
+          "Calculate return on investment and net profit."
+        ]
+      },
+      "score": {
+        "total": 4.92,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 5,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 2,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 0
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Markup on Cost Is Different from Margin on Sales",
+          "slug": "markup-on-cost-versus-sales-margin",
+          "primaryKeyword": "markup calculator"
+        },
+        {
+          "title": "ROI with Extra Costs: Define the Denominator Before Comparing",
+          "slug": "roi-with-extra-costs-and-a-clear-denominator",
+          "primaryKeyword": "roi calculator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=roi-calculator_social",
+      "facebook": {
+        "title": "Estimate a result from your own inputs and check the assumptions: ROI Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "message": "QUICK WALKTHROUGH · ROI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #BusinessTools",
+        "caption": "QUICK WALKTHROUGH · ROI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #BusinessTools",
+        "keywords": [
+          "ROI Calculator",
+          "Business tool",
+          "Huzaifa Tools",
+          "roi",
+          "calculator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#BusinessTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=roi-calculator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Checking a calculation before you use it · ROI Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "caption": "Checking a calculation before you use it? Here is a short, practical demo of ROI Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=roi-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #BusinessTools #QuickTutorial",
+        "keywords": [
+          "ROI Calculator",
+          "Business tool",
+          "Huzaifa Tools",
+          "roi",
+          "calculator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#BusinessTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=roi-calculator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-11-27-roi-calculator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Checking a calculation before you use it | ROI Calculator #Shorts",
+        "hook": "Checking a calculation before you use it?",
+        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=roi-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #BusinessTools",
+        "keywords": [
+          "ROI Calculator",
+          "Business tool",
+          "Huzaifa Tools",
+          "roi",
+          "calculator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#BusinessTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=roi-calculator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using ROI Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using ROI Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using ROI Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for ROI Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using ROI Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-11-27-roi-calculator.jpg",
+        "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-10-29T18:45:03.056Z",
+      "contentHashes": {
+        "facebook": "64d92781",
+        "instagram": "b406e62e",
+        "youtube": "c2a7faec"
       }
     }
   ]
