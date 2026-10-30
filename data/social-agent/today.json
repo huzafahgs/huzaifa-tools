@@ -1,21 +1,21 @@
 {
-  "id": "2026-10-29-text-reverser",
-  "date": "2026-10-29",
+  "id": "2026-10-30-emi-calculator",
+  "date": "2026-10-30",
   "version": 2,
   "tool": {
-    "name": "Text Reverser",
-    "slug": "text-reverser",
-    "category": "Text",
-    "description": "Reverse text instantly."
+    "name": "EMI Calculator",
+    "slug": "emi-calculator",
+    "category": "Calculator",
+    "description": "Calculate monthly installments."
   },
   "lesson": {
-    "hook": "Working through a text task?",
-    "problem": "Work through a small text task and check the result",
-    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-    "check": "Check the result against the requirements of your task.",
-    "takeaway": "Check the result against the requirements of your task.",
+    "hook": "Checking a calculation before you use it?",
+    "problem": "Estimate a result from your own inputs and check the assumptions",
+    "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+    "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+    "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
     "factualBasis": [
-      "Reverse text instantly."
+      "Calculate monthly installments."
     ]
   },
   "score": {
@@ -37,62 +37,62 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Turn Text into Written Morse Code and Check the Separators",
-      "slug": "turn-text-into-written-morse-code",
-      "primaryKeyword": "morse code converter"
+      "title": "Calculate an EMI from a Month-Based Repayment Term",
+      "slug": "emi-from-a-month-based-repayment-term",
+      "primaryKeyword": "emi calculator"
     },
     {
-      "title": "Reverse Characters, Words or Lines: Three Different Text Operations",
-      "slug": "reverse-characters-words-or-lines",
-      "primaryKeyword": "text reverser"
+      "title": "Loan Payment Estimates: Compare Term and Total Interest Together",
+      "slug": "loan-payment-estimate-and-term-tradeoffs",
+      "primaryKeyword": "loan calculator"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/emi-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261030&utm_content=emi-calculator_social",
   "facebook": {
-    "title": "Work through a small text task and check the result: Text Reverser",
-    "hook": "Working through a text task?",
-    "message": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-    "caption": "QUICK WALKTHROUGH · Text Reverser\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "title": "Estimate a result from your own inputs and check the assumptions: EMI Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "message": "QUICK WALKTHROUGH · EMI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+    "caption": "QUICK WALKTHROUGH · EMI Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
     "keywords": [
-      "Text Reverser",
-      "Text tool",
+      "EMI Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "text",
-      "reverser",
+      "emi",
+      "calculator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools"
+      "#Calculators"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/emi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261030&utm_content=emi-calculator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Reverser."
+        "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using EMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -103,50 +103,50 @@
     ]
   },
   "instagram": {
-    "title": "Working through a text task · Text Reverser",
-    "hook": "Working through a text task?",
-    "caption": "Working through a text task? Here is a short, practical demo of Text Reverser.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+    "title": "Checking a calculation before you use it · EMI Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "caption": "Checking a calculation before you use it? Here is a short, practical demo of EMI Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/emi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261030&utm_content=emi-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
     "keywords": [
-      "Text Reverser",
-      "Text tool",
+      "EMI Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "text",
-      "reverser",
+      "emi",
+      "calculator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools",
+      "#Calculators",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/emi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261030&utm_content=emi-calculator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Reverser."
+        "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using EMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -155,53 +155,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-10-29-text-reverser.jpg"
+    "imagePath": "assets/2026-10-30-emi-calculator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Working through a text task | Text Reverser #Shorts",
-    "hook": "Working through a text task?",
-    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+    "title": "Checking a calculation before you use it | EMI Calculator #Shorts",
+    "hook": "Checking a calculation before you use it?",
+    "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/emi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261030&utm_content=emi-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
     "keywords": [
-      "Text Reverser",
-      "Text tool",
+      "EMI Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "text",
-      "reverser",
+      "emi",
+      "calculator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#TextTools"
+      "#Calculators"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/emi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261030&utm_content=emi-calculator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Reverser."
+        "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using EMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -228,25 +228,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Text Reverser."
+        "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using EMI Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -261,25 +261,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Text Reverser."
+          "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using EMI Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -293,25 +293,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Text Reverser."
+          "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using EMI Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -325,25 +325,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Text Reverser and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Text Reverser."
+          "visual": "Open the real Huzaifa Tools page for EMI Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using EMI Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -355,13 +355,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-10-29-text-reverser.jpg",
-    "alt": "Text Reverser practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-10-30-emi-calculator.jpg",
+    "alt": "EMI Calculator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-10-29T18:45:03.010Z",
+  "createdAt": "2026-10-30T18:21:13.661Z",
   "contentHashes": {
-    "facebook": "f2a62d47",
-    "instagram": "9a52ca0d",
-    "youtube": "5604512a"
+    "facebook": "d380aac2",
+    "instagram": "93d9ea18",
+    "youtube": "db0d1a37"
   }
 }

@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-10-29 to 2026-11-27 (Asia/Karachi)
+Window: 2026-10-30 to 2026-11-28 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-10-29 | Text Reverser | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-30 | EMI Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-10-31 | Weight Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-01 | JavaScript Formatter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-25 | Unix Timestamp Converter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-26 | AI Product Description Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-27 | ROI Calculator | Business | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-10-29 · Text Reverser
-
-**Category:** Text · **Tool:** Reverse text instantly.
-
-**Hook:** Working through a text task?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Work through a small text task and check the result: Text Reverser
-
-QUICK WALKTHROUGH · Text Reverser
-
-Work through a small text task and check the result.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #TextTools
-
-**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_facebook
-
-### Instagram Reels
-
-**Title:** Working through a text task · Text Reverser
-
-Working through a text task? Here is a short, practical demo of Text Reverser.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #TextTools #QuickTutorial
-
-**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Working through a text task | Text Reverser #Shorts
-
-Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #TextTools
-
-**Keywords:** Text Reverser, Text tool, Huzaifa Tools, text, reverser, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/text-reverser?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261029&utm_content=text-reverser_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Reverser and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Reverser.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-10-29-text-reverser.jpg
-
----
+| 2026-11-28 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-10-30 · EMI Calculator
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-11-27-roi-calculator.jpg
+
+---
+
+## 2026-11-28 · Retirement Calculator
+
+**Category:** Finance · **Tool:** Estimate future retirement savings from monthly deposits.
+
+**Hook:** Checking a calculation before you use it?
+
+**Useful action:** Enter a small example using the units shown, then inspect each input and the displayed result.
+
+**Check:** Check the inputs, units, rounding, and assumptions before using the result.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Estimate a result from your own inputs and check the assumptions: Retirement Calculator
+
+QUICK WALKTHROUGH · Retirement Calculator
+
+Estimate a result from your own inputs and check the assumptions.
+
+Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #FinanceTools
+
+**Keywords:** Retirement Calculator, Finance tool, Huzaifa Tools, retirement, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=retirement-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Checking a calculation before you use it · Retirement Calculator
+
+Checking a calculation before you use it? Here is a short, practical demo of Retirement Calculator.
+
+Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=retirement-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #FinanceTools #QuickTutorial
+
+**Keywords:** Retirement Calculator, Finance tool, Huzaifa Tools, retirement, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=retirement-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Checking a calculation before you use it | Retirement Calculator #Shorts
+
+Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=retirement-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #FinanceTools
+
+**Keywords:** Retirement Calculator, Finance tool, Huzaifa Tools, retirement, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=retirement-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Retirement Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Retirement Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Retirement Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Retirement Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Retirement Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Retirement Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-28-retirement-calculator.jpg
 
 ---
