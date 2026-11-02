@@ -1,106 +1,91 @@
 {
-  "id": "2026-11-01-javascript-formatter",
-  "date": "2026-11-01",
+  "id": "2026-11-03-ai-blog-outline-generator",
+  "date": "2026-11-03",
   "version": 2,
   "tool": {
-    "name": "JavaScript Formatter",
-    "slug": "javascript-formatter",
-    "category": "Developer",
-    "description": "Format JavaScript and JSX with consistent indentation and parser errors. Code is processed in a browser worker and never executed."
+    "name": "AI Blog Outline Generator",
+    "slug": "ai-blog-outline-generator",
+    "category": "AI",
+    "description": "Plan title ideas, H2/H3 sections, talking points and FAQ ideas for a focused article. Requires sign-in and AI availability."
   },
   "lesson": {
-    "hook": "Need to inspect a small sample?",
-    "problem": "Inspect a small, non-sensitive sample before using the output",
-    "action": "Paste JavaScript or JSX",
-    "check": "Format it and correct reported syntax errors",
-    "takeaway": "Copy or download the formatted code",
+    "hook": "Want a draft you can actually review?",
+    "problem": "Turn a clear brief into a draft that you can review",
+    "action": "Define the audience so sections answer the right questions",
+    "check": "Use the angle field to set boundaries rather than requesting every possible subtopic",
+    "takeaway": "Treat talking points as a research plan. Add verified evidence before writing factual claims",
     "factualBasis": [
-      "Format JavaScript and JSX with consistent indentation and parser errors. Code is processed in a browser worker and never executed.",
-      "Paste JavaScript or JSX.",
-      "Format it and correct reported syntax errors.",
-      "Copy or download the formatted code."
+      "Plan title ideas, H2/H3 sections, talking points and FAQ ideas for a focused article. Requires sign-in and AI availability.",
+      "Define the audience so sections answer the right questions.",
+      "Use the angle field to set boundaries rather than requesting every possible subtopic.",
+      "Treat talking points as a research plan. Add verified evidence before writing factual claims."
     ]
   },
   "score": {
-    "total": 13.93,
+    "total": 15.99,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 14,
+      "catalogUtility": 13,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
-        "editorialGapBoost": 0
+        "relatedArticleCount": 0,
+        "editorialGapBoost": 3
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [
-    {
-      "title": "Format JavaScript Without Executing It: A Practical Review Workflow",
-      "slug": "format-javascript-without-executing",
-      "primaryKeyword": "format JavaScript without executing it"
-    },
-    {
-      "title": "JavaScript Minification: Inspect Simple Snippets Before Reusing Them",
-      "slug": "javascript-minification-snippet-limitations",
-      "primaryKeyword": "javascript minifier"
-    },
-    {
-      "title": "Test a JavaScript Regex with Matches and Counterexamples",
-      "slug": "test-javascript-regex-with-counterexamples",
-      "primaryKeyword": "regex tester"
-    }
-  ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/javascript-formatter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261101&utm_content=javascript-formatter_social",
+  "articleReferences": [],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_social",
   "facebook": {
-    "title": "Inspect a small, non-sensitive sample before using the output: JavaScript Formatter",
-    "hook": "Need to inspect a small sample?",
-    "message": "QUICK WALKTHROUGH · JavaScript Formatter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste JavaScript or JSX\n\nFormat it and correct reported syntax errors\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-    "caption": "QUICK WALKTHROUGH · JavaScript Formatter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste JavaScript or JSX\n\nFormat it and correct reported syntax errors\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+    "title": "Turn a clear brief into a draft that you can review: AI Blog Outline Generator",
+    "hook": "Want a draft you can actually review?",
+    "message": "QUICK WALKTHROUGH · AI Blog Outline Generator\n\nTurn a clear brief into a draft that you can review.\n\nDefine the audience so sections answer the right questions\n\nUse the angle field to set boundaries rather than requesting every possible subtopic\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Blog Outline Generator\n\nTurn a clear brief into a draft that you can review.\n\nDefine the audience so sections answer the right questions\n\nUse the angle field to set boundaries rather than requesting every possible subtopic\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "JavaScript Formatter",
-      "Developer tool",
+      "AI Blog Outline Generator",
+      "AI tool",
       "Huzaifa Tools",
-      "javascript",
-      "formatter",
-      "step by step",
-      "online utility"
+      "ai",
+      "blog",
+      "outline",
+      "generator",
+      "step by step"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/javascript-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261101&utm_content=javascript-formatter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste JavaScript or JSX"
+        "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Define the audience so sections answer the right questions"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-        "voiceover": "Format it and correct reported syntax errors"
+        "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
       },
       {
         "seconds": "20–25",
@@ -111,50 +96,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to inspect a small sample · JavaScript Formatter",
-    "hook": "Need to inspect a small sample?",
-    "caption": "Need to inspect a small sample? Here is a short, practical demo of JavaScript Formatter.\n\nPaste JavaScript or JSX Copy or download the formatted code\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/javascript-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261101&utm_content=javascript-formatter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+    "title": "Want a draft you can actually review · AI Blog Outline Generator",
+    "hook": "Want a draft you can actually review?",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Blog Outline Generator.\n\nDefine the audience so sections answer the right questions Treat talking points as a research plan. Add verified evidence before writing factual claims\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "JavaScript Formatter",
-      "Developer tool",
+      "AI Blog Outline Generator",
+      "AI tool",
       "Huzaifa Tools",
-      "javascript",
-      "formatter",
-      "quick tutorial",
-      "practical tip"
+      "ai",
+      "blog",
+      "outline",
+      "generator",
+      "quick tutorial"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools",
+      "#AITools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/javascript-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261101&utm_content=javascript-formatter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste JavaScript or JSX"
+        "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Define the audience so sections answer the right questions"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-        "voiceover": "Format it and correct reported syntax errors"
+        "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
       },
       {
         "seconds": "20–25",
@@ -163,53 +149,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-01-javascript-formatter.jpg"
+    "imagePath": "assets/2026-11-03-ai-blog-outline-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to inspect a small sample | JavaScript Formatter #Shorts",
-    "hook": "Need to inspect a small sample?",
-    "description": "Inspect a small, non-sensitive sample before using the output. Paste JavaScript or JSX\n\nFormat it and correct reported syntax errors\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/javascript-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261101&utm_content=javascript-formatter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+    "title": "Want a draft you can actually review | AI Blog Outline Generator #Shorts",
+    "hook": "Want a draft you can actually review?",
+    "description": "Turn a clear brief into a draft that you can review. Define the audience so sections answer the right questions\n\nUse the angle field to set boundaries rather than requesting every possible subtopic\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "JavaScript Formatter",
-      "Developer tool",
+      "AI Blog Outline Generator",
+      "AI tool",
       "Huzaifa Tools",
-      "javascript",
-      "formatter",
-      "how to",
-      "short tutorial"
+      "ai",
+      "blog",
+      "outline",
+      "generator",
+      "how to"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/javascript-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261101&utm_content=javascript-formatter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste JavaScript or JSX"
+        "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Define the audience so sections answer the right questions"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-        "voiceover": "Format it and correct reported syntax errors"
+        "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
       },
       {
         "seconds": "20–25",
@@ -236,25 +223,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+        "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste JavaScript or JSX"
+        "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Define the audience so sections answer the right questions"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-        "voiceover": "Format it and correct reported syntax errors"
+        "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+        "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
       },
       {
         "seconds": "20–25",
@@ -269,25 +256,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+          "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste JavaScript or JSX"
+          "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Define the audience so sections answer the right questions"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-          "voiceover": "Format it and correct reported syntax errors"
+          "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+          "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
         },
         {
           "seconds": "20–25",
@@ -301,25 +288,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+          "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste JavaScript or JSX"
+          "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Define the audience so sections answer the right questions"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-          "voiceover": "Format it and correct reported syntax errors"
+          "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+          "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
         },
         {
           "seconds": "20–25",
@@ -333,25 +320,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JavaScript Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JavaScript Formatter."
+          "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste JavaScript or JSX Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste JavaScript or JSX"
+          "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Define the audience so sections answer the right questions"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Format it and correct reported syntax errors Pause long enough for viewers to read the real result.",
-          "voiceover": "Format it and correct reported syntax errors"
+          "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
+          "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
         },
         {
           "seconds": "20–25",
@@ -363,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-01-javascript-formatter.jpg",
-    "alt": "JavaScript Formatter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-03-ai-blog-outline-generator.jpg",
+    "alt": "AI Blog Outline Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-01T18:13:39.113Z",
+  "createdAt": "2026-11-02T22:02:45.690Z",
   "contentHashes": {
-    "facebook": "3b82d6e9",
-    "instagram": "c97bc174",
-    "youtube": "e3139fa9"
+    "facebook": "dc423846",
+    "instagram": "38c929e1",
+    "youtube": "5c0e4c3a"
   }
 }
