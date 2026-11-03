@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-02T22:02:45.718Z",
+  "generatedAt": "2026-11-03T19:55:31.280Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-11-03",
-    "end": "2026-12-02",
+    "start": "2026-11-04",
+    "end": "2026-12-03",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,13 +13,13 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "AI": 4,
     "PDF": 1,
     "Image": 2,
     "Text": 4,
     "Calculator": 4,
     "Converter": 4,
-    "Developer": 3,
+    "Developer": 4,
+    "AI": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -30,368 +30,6 @@
     "Finance": 1
   },
   "items": [
-    {
-      "id": "2026-11-03-ai-blog-outline-generator",
-      "date": "2026-11-03",
-      "version": 2,
-      "tool": {
-        "name": "AI Blog Outline Generator",
-        "slug": "ai-blog-outline-generator",
-        "category": "AI",
-        "description": "Plan title ideas, H2/H3 sections, talking points and FAQ ideas for a focused article. Requires sign-in and AI availability."
-      },
-      "lesson": {
-        "hook": "Want a draft you can actually review?",
-        "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Define the audience so sections answer the right questions",
-        "check": "Use the angle field to set boundaries rather than requesting every possible subtopic",
-        "takeaway": "Treat talking points as a research plan. Add verified evidence before writing factual claims",
-        "factualBasis": [
-          "Plan title ideas, H2/H3 sections, talking points and FAQ ideas for a focused article. Requires sign-in and AI availability.",
-          "Define the audience so sections answer the right questions.",
-          "Use the angle field to set boundaries rather than requesting every possible subtopic.",
-          "Treat talking points as a research plan. Add verified evidence before writing factual claims."
-        ]
-      },
-      "score": {
-        "total": 15.99,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 13,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 0,
-            "editorialGapBoost": 3
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_social",
-      "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Blog Outline Generator",
-        "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Blog Outline Generator\n\nTurn a clear brief into a draft that you can review.\n\nDefine the audience so sections answer the right questions\n\nUse the angle field to set boundaries rather than requesting every possible subtopic\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Blog Outline Generator\n\nTurn a clear brief into a draft that you can review.\n\nDefine the audience so sections answer the right questions\n\nUse the angle field to set boundaries rather than requesting every possible subtopic\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "keywords": [
-          "AI Blog Outline Generator",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "blog",
-          "outline",
-          "generator",
-          "step by step"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#AITools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Define the audience so sections answer the right questions"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Want a draft you can actually review · AI Blog Outline Generator",
-        "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Blog Outline Generator.\n\nDefine the audience so sections answer the right questions Treat talking points as a research plan. Add verified evidence before writing factual claims\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
-        "keywords": [
-          "AI Blog Outline Generator",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "blog",
-          "outline",
-          "generator",
-          "quick tutorial"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#AITools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Define the audience so sections answer the right questions"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-03-ai-blog-outline-generator.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Want a draft you can actually review | AI Blog Outline Generator #Shorts",
-        "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Define the audience so sections answer the right questions\n\nUse the angle field to set boundaries rather than requesting every possible subtopic\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
-        "keywords": [
-          "AI Blog Outline Generator",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "blog",
-          "outline",
-          "generator",
-          "how to"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#AITools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Define the audience so sections answer the right questions"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Define the audience so sections answer the right questions"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-            "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Define the audience so sections answer the right questions"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-              "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Define the audience so sections answer the right questions"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-              "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Blog Outline Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Define the audience so sections answer the right questions"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result.",
-              "voiceover": "Use the angle field to set boundaries rather than requesting every possible subtopic"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-03-ai-blog-outline-generator.jpg",
-        "alt": "AI Blog Outline Generator practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-11-02T22:02:45.690Z",
-      "contentHashes": {
-        "facebook": "dc423846",
-        "instagram": "38c929e1",
-        "youtube": "5c0e4c3a"
-      }
-    },
     {
       "id": "2026-11-04-pdf-to-images",
       "date": "2026-11-04",
@@ -758,7 +396,7 @@
         "imagePath": "assets/2026-11-04-pdf-to-images.jpg",
         "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.692Z",
+      "createdAt": "2026-11-03T19:55:31.248Z",
       "contentHashes": {
         "facebook": "3112b533",
         "instagram": "adc6098d",
@@ -1131,7 +769,7 @@
         "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
         "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.694Z",
+      "createdAt": "2026-11-03T19:55:31.250Z",
       "contentHashes": {
         "facebook": "4d6c7a2b",
         "instagram": "71b96303",
@@ -1503,7 +1141,7 @@
         "imagePath": "assets/2026-11-06-json-formatter.jpg",
         "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.695Z",
+      "createdAt": "2026-11-03T19:55:31.257Z",
       "contentHashes": {
         "facebook": "e60b913e",
         "instagram": "8dcd0998",
@@ -1875,7 +1513,7 @@
         "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
         "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.696Z",
+      "createdAt": "2026-11-03T19:55:31.258Z",
       "contentHashes": {
         "facebook": "20ca0985",
         "instagram": "c3731370",
@@ -2247,7 +1885,7 @@
         "imagePath": "assets/2026-11-08-length-converter.jpg",
         "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.696Z",
+      "createdAt": "2026-11-03T19:55:31.259Z",
       "contentHashes": {
         "facebook": "77a77c77",
         "instagram": "98673946",
@@ -2609,7 +2247,7 @@
         "imagePath": "assets/2026-11-09-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.698Z",
+      "createdAt": "2026-11-03T19:55:31.260Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "42892122",
@@ -2640,7 +2278,7 @@
         ]
       },
       "score": {
-        "total": -18.05,
+        "total": 15.95,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -2652,7 +2290,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -2971,7 +2609,7 @@
         "imagePath": "assets/2026-11-10-ai-title-generator.jpg",
         "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.698Z",
+      "createdAt": "2026-11-03T19:55:31.261Z",
       "contentHashes": {
         "facebook": "5d68283c",
         "instagram": "e80ce26c",
@@ -3343,7 +2981,7 @@
         "imagePath": "assets/2026-11-11-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.699Z",
+      "createdAt": "2026-11-03T19:55:31.262Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "ac0cce27",
@@ -3718,7 +3356,7 @@
         "imagePath": "assets/2026-11-12-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.701Z",
+      "createdAt": "2026-11-03T19:55:31.264Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "3d2f06f0",
@@ -4096,7 +3734,7 @@
         "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.702Z",
+      "createdAt": "2026-11-03T19:55:31.264Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "cf748d64",
@@ -4467,7 +4105,7 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.702Z",
+      "createdAt": "2026-11-03T19:55:31.265Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
@@ -4834,7 +4472,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.703Z",
+      "createdAt": "2026-11-03T19:55:31.266Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -5206,7 +4844,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.704Z",
+      "createdAt": "2026-11-03T19:55:31.266Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -5578,7 +5216,7 @@
         "imagePath": "assets/2026-11-17-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.704Z",
+      "createdAt": "2026-11-03T19:55:31.267Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "48d6c62",
@@ -5609,7 +5247,7 @@
         ]
       },
       "score": {
-        "total": -52.05,
+        "total": -18.05,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -5621,7 +5259,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -5940,7 +5578,7 @@
         "imagePath": "assets/2026-11-18-ai-social-caption-generator.jpg",
         "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.705Z",
+      "createdAt": "2026-11-03T19:55:31.267Z",
       "contentHashes": {
         "facebook": "3c2b7ceb",
         "instagram": "fe2b6459",
@@ -6304,7 +5942,7 @@
         "imagePath": "assets/2026-11-19-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.706Z",
+      "createdAt": "2026-11-03T19:55:31.269Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "d3917d6a",
@@ -6676,7 +6314,7 @@
         "imagePath": "assets/2026-11-20-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.707Z",
+      "createdAt": "2026-11-03T19:55:31.270Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "195f6916",
@@ -7048,7 +6686,7 @@
         "imagePath": "assets/2026-11-21-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.709Z",
+      "createdAt": "2026-11-03T19:55:31.271Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "d7aded3d",
@@ -7413,7 +7051,7 @@
         "imagePath": "assets/2026-11-22-lorem-ipsum-generator.jpg",
         "alt": "Lorem Ipsum Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.709Z",
+      "createdAt": "2026-11-03T19:55:31.272Z",
       "contentHashes": {
         "facebook": "e1ecbd4e",
         "instagram": "8f6f968c",
@@ -7775,7 +7413,7 @@
         "imagePath": "assets/2026-11-23-mortgage-calculator.jpg",
         "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.710Z",
+      "createdAt": "2026-11-03T19:55:31.272Z",
       "contentHashes": {
         "facebook": "408265f7",
         "instagram": "f2feea4c",
@@ -8142,7 +7780,7 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.710Z",
+      "createdAt": "2026-11-03T19:55:31.273Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
@@ -8517,7 +8155,7 @@
         "imagePath": "assets/2026-11-25-unix-timestamp-converter.jpg",
         "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.711Z",
+      "createdAt": "2026-11-03T19:55:31.274Z",
       "contentHashes": {
         "facebook": "c09c1323",
         "instagram": "d8e79f84",
@@ -8548,7 +8186,7 @@
         ]
       },
       "score": {
-        "total": -86.05,
+        "total": -52.05,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -8560,7 +8198,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -8879,7 +8517,7 @@
         "imagePath": "assets/2026-11-26-ai-product-description-generator.jpg",
         "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.712Z",
+      "createdAt": "2026-11-03T19:55:31.274Z",
       "contentHashes": {
         "facebook": "1a8f88bb",
         "instagram": "2dfd9d57",
@@ -9254,7 +8892,7 @@
         "imagePath": "assets/2026-11-27-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.714Z",
+      "createdAt": "2026-11-03T19:55:31.276Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "6af2af6c",
@@ -9621,7 +9259,7 @@
         "imagePath": "assets/2026-11-28-roi-calculator.jpg",
         "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.715Z",
+      "createdAt": "2026-11-03T19:55:31.277Z",
       "contentHashes": {
         "facebook": "64d92781",
         "instagram": "ff61abdd",
@@ -9988,7 +9626,7 @@
         "imagePath": "assets/2026-11-29-retirement-calculator.jpg",
         "alt": "Retirement Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.716Z",
+      "createdAt": "2026-11-03T19:55:31.278Z",
       "contentHashes": {
         "facebook": "3c4e410",
         "instagram": "a6170c71",
@@ -10360,7 +9998,7 @@
         "imagePath": "assets/2026-11-30-url-encoder.jpg",
         "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.717Z",
+      "createdAt": "2026-11-03T19:55:31.279Z",
       "contentHashes": {
         "facebook": "125023a2",
         "instagram": "d34a7bd7",
@@ -10732,7 +10370,7 @@
         "imagePath": "assets/2026-12-01-compound-interest.jpg",
         "alt": "Compound Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.718Z",
+      "createdAt": "2026-11-03T19:55:31.279Z",
       "contentHashes": {
         "facebook": "2ce4b5be",
         "instagram": "c2d81c6c",
@@ -11099,11 +10737,386 @@
         "imagePath": "assets/2026-12-02-speed-converter.jpg",
         "alt": "Speed Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-02T22:02:45.718Z",
+      "createdAt": "2026-11-03T19:55:31.280Z",
       "contentHashes": {
         "facebook": "90466f0",
         "instagram": "2a4b87c8",
         "youtube": "35905f6e"
+      }
+    },
+    {
+      "id": "2026-12-03-html-entity-converter",
+      "date": "2026-12-03",
+      "version": 2,
+      "tool": {
+        "name": "HTML Entity Encoder/Decoder",
+        "slug": "html-entity-converter",
+        "category": "Developer",
+        "description": "Encode and decode HTML entities instantly."
+      },
+      "lesson": {
+        "hook": "Need to inspect a small sample?",
+        "problem": "Inspect a small, non-sensitive sample before using the output",
+        "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
+        "check": "Use a small, non-sensitive sample and inspect the output before using it.",
+        "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
+        "factualBasis": [
+          "Encode and decode HTML entities instantly."
+        ]
+      },
+      "score": {
+        "total": -94.02,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "HTML Entities for Displayed Text: Encoding Is Not Sanitisation",
+          "slug": "html-entities-for-text-not-sanitization",
+          "primaryKeyword": "html entity encoder/decoder"
+        },
+        {
+          "title": "Inspect HTML Indentation Without Confusing Formatting with Validation",
+          "slug": "inspect-html-indentation-without-changing-intent",
+          "primaryKeyword": "html formatter"
+        },
+        {
+          "title": "Draft Page Meta Tags, Then Verify the Rendered Head",
+          "slug": "draft-and-verify-page-meta-tags",
+          "primaryKeyword": "meta tag generator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_social",
+      "facebook": {
+        "title": "Inspect a small, non-sensitive sample before using the output: HTML Entity Encoder/Decoder",
+        "hook": "Need to inspect a small sample?",
+        "message": "QUICK WALKTHROUGH · HTML Entity Encoder/Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "caption": "QUICK WALKTHROUGH · HTML Entity Encoder/Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "keywords": [
+          "HTML Entity Encoder/Decoder",
+          "Developer tool",
+          "Huzaifa Tools",
+          "html",
+          "entity",
+          "converter",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#DeveloperTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to inspect a small sample · HTML Entity Encoder/Decoder",
+        "hook": "Need to inspect a small sample?",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of HTML Entity Encoder/Decoder.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+        "keywords": [
+          "HTML Entity Encoder/Decoder",
+          "Developer tool",
+          "Huzaifa Tools",
+          "html",
+          "entity",
+          "converter",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#DeveloperTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-12-03-html-entity-converter.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to inspect a small sample | HTML Entity Encoder/Decoder #Shorts",
+        "hook": "Need to inspect a small sample?",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+        "keywords": [
+          "HTML Entity Encoder/Decoder",
+          "Developer tool",
+          "Huzaifa Tools",
+          "html",
+          "entity",
+          "converter",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#DeveloperTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-12-03-html-entity-converter.jpg",
+        "alt": "HTML Entity Encoder/Decoder practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-11-03T19:55:31.280Z",
+      "contentHashes": {
+        "facebook": "ced9d55e",
+        "instagram": "ea0ed450",
+        "youtube": "cc8ba483"
       }
     }
   ]

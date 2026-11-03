@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-03 to 2026-12-02 (Asia/Karachi)
+Window: 2026-11-04 to 2026-12-03 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-03 | AI Blog Outline Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-04 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-05 | Image Metadata Viewer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-30 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-01 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-02 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-03 · AI Blog Outline Generator
-
-**Category:** AI · **Tool:** Plan title ideas, H2/H3 sections, talking points and FAQ ideas for a focused article. Requires sign-in and AI availability.
-
-**Hook:** Want a draft you can actually review?
-
-**Useful action:** Define the audience so sections answer the right questions
-
-**Check:** Use the angle field to set boundaries rather than requesting every possible subtopic
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Turn a clear brief into a draft that you can review: AI Blog Outline Generator
-
-QUICK WALKTHROUGH · AI Blog Outline Generator
-
-Turn a clear brief into a draft that you can review.
-
-Define the audience so sections answer the right questions
-
-Use the angle field to set boundaries rather than requesting every possible subtopic
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #AITools
-
-**Keywords:** AI Blog Outline Generator, AI tool, Huzaifa Tools, ai, blog, outline, generator, step by step
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_facebook
-
-### Instagram Reels
-
-**Title:** Want a draft you can actually review · AI Blog Outline Generator
-
-Want a draft you can actually review? Here is a short, practical demo of AI Blog Outline Generator.
-
-Define the audience so sections answer the right questions Treat talking points as a research plan. Add verified evidence before writing factual claims
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #AITools #QuickTutorial
-
-**Keywords:** AI Blog Outline Generator, AI tool, Huzaifa Tools, ai, blog, outline, generator, quick tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Want a draft you can actually review | AI Blog Outline Generator #Shorts
-
-Turn a clear brief into a draft that you can review. Define the audience so sections answer the right questions
-
-Use the angle field to set boundaries rather than requesting every possible subtopic
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #AITools
-
-**Keywords:** AI Blog Outline Generator, AI tool, Huzaifa Tools, ai, blog, outline, generator, how to
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-blog-outline-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261103&utm_content=ai-blog-outline-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Blog Outline Generator.”
-- **7–14s · Demonstrate:** Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output. Voiceover: “Define the audience so sections answer the right questions”
-- **14–20s · Teach a check:** Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result. Voiceover: “Use the angle field to set boundaries rather than requesting every possible subtopic”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Blog Outline Generator.”
-- **7–14s · Demonstrate:** Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output. Voiceover: “Define the audience so sections answer the right questions”
-- **14–20s · Teach a check:** Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result. Voiceover: “Use the angle field to set boundaries rather than requesting every possible subtopic”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Blog Outline Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Blog Outline Generator.”
-- **7–14s · Demonstrate:** Define the audience so sections answer the right questions Use only a real, harmless sample and show the actual interface output. Voiceover: “Define the audience so sections answer the right questions”
-- **14–20s · Teach a check:** Use the angle field to set boundaries rather than requesting every possible subtopic Pause long enough for viewers to read the real result. Voiceover: “Use the angle field to set boundaries rather than requesting every possible subtopic”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-03-ai-blog-outline-generator.jpg
-
----
+| 2026-12-03 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-04 · PDF to Images
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-02-speed-converter.jpg
+
+---
+
+## 2026-12-03 · HTML Entity Encoder/Decoder
+
+**Category:** Developer · **Tool:** Encode and decode HTML entities instantly.
+
+**Hook:** Need to inspect a small sample?
+
+**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+**Check:** Use a small, non-sensitive sample and inspect the output before using it.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Inspect a small, non-sensitive sample before using the output: HTML Entity Encoder/Decoder
+
+QUICK WALKTHROUGH · HTML Entity Encoder/Decoder
+
+Inspect a small, non-sensitive sample before using the output.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #DeveloperTools
+
+**Keywords:** HTML Entity Encoder/Decoder, Developer tool, Huzaifa Tools, html, entity, converter, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_facebook
+
+### Instagram Reels
+
+**Title:** Need to inspect a small sample · HTML Entity Encoder/Decoder
+
+Need to inspect a small sample? Here is a short, practical demo of HTML Entity Encoder/Decoder.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #DeveloperTools #QuickTutorial
+
+**Keywords:** HTML Entity Encoder/Decoder, Developer tool, Huzaifa Tools, html, entity, converter, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to inspect a small sample | HTML Entity Encoder/Decoder #Shorts
+
+Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #DeveloperTools
+
+**Keywords:** HTML Entity Encoder/Decoder, Developer tool, Huzaifa Tools, html, entity, converter, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Entity Encoder/Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Entity Encoder/Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Entity Encoder/Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-03-html-entity-converter.jpg
 
 ---
