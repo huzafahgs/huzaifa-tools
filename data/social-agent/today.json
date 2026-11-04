@@ -1,31 +1,31 @@
 {
-  "id": "2026-11-04-pdf-to-images",
-  "date": "2026-11-04",
+  "id": "2026-11-05-image-metadata-viewer",
+  "date": "2026-11-05",
   "version": 2,
   "tool": {
-    "name": "PDF to Images",
-    "slug": "pdf-to-images",
-    "category": "PDF",
-    "description": "Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload."
+    "name": "Image Metadata Viewer",
+    "slug": "image-metadata-viewer",
+    "category": "Image",
+    "description": "Inspect real image dimensions, file size, format and available EXIF fields locally, including camera and capture details when present."
   },
   "lesson": {
-    "hook": "Need to work with a PDF?",
-    "problem": "Prepare a PDF task and verify the downloaded pages",
-    "action": "Choose an unencrypted PDF",
-    "check": "Select up to 10 pages, for example 1-3",
-    "takeaway": "Create images, inspect the previews and download each PNG",
+    "hook": "Need to adjust an image?",
+    "problem": "Adjust an image and inspect the exported file",
+    "action": "Choose a supported image",
+    "check": "Read the file details and available EXIF output",
+    "takeaway": "Review location and other sensitive fields before sharing a screenshot",
     "factualBasis": [
-      "Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload.",
-      "Choose an unencrypted PDF.",
-      "Select up to 10 pages, for example 1-3.",
-      "Create images, inspect the previews and download each PNG."
+      "Inspect real image dimensions, file size, format and available EXIF fields locally, including camera and capture details when present.",
+      "Choose a supported image.",
+      "Read the file details and available EXIF output.",
+      "Review location and other sensitive fields before sharing a screenshot."
     ]
   },
   "score": {
-    "total": 15.9,
+    "total": 15,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 16,
+      "catalogUtility": 15,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
@@ -40,63 +40,63 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Extract Selected PDF Pages into One Useful Document",
-      "slug": "extract-selected-pdf-pages",
-      "primaryKeyword": "extract selected PDF pages"
+      "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
+      "slug": "read-image-metadata-exif",
+      "primaryKeyword": "read image metadata and EXIF"
     },
     {
-      "title": "Convert PDF Pages to PNG Images: Resolution and Download Guide",
-      "slug": "pdf-pages-to-png-images",
-      "primaryKeyword": "convert PDF pages to PNG"
+      "title": "Convert Images to JPEG, PNG or WebP and Check the Result",
+      "slug": "convert-images-to-jpeg-png-or-webp",
+      "primaryKeyword": "image converter"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_social",
   "facebook": {
-    "title": "Prepare a PDF task and verify the downloaded pages: PDF to Images",
-    "hook": "Need to work with a PDF?",
-    "message": "QUICK WALKTHROUGH · PDF to Images\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose an unencrypted PDF\n\nSelect up to 10 pages, for example 1-3\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
-    "caption": "QUICK WALKTHROUGH · PDF to Images\n\nPrepare a PDF task and verify the downloaded pages.\n\nChoose an unencrypted PDF\n\nSelect up to 10 pages, for example 1-3\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #PDFTools",
+    "title": "Adjust an image and inspect the exported file: Image Metadata Viewer",
+    "hook": "Need to adjust an image?",
+    "message": "QUICK WALKTHROUGH · Image Metadata Viewer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nRead the file details and available EXIF output\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "caption": "QUICK WALKTHROUGH · Image Metadata Viewer\n\nAdjust an image and inspect the exported file.\n\nChoose a supported image\n\nRead the file details and available EXIF output\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
     "keywords": [
-      "PDF to Images",
-      "PDF tool",
+      "Image Metadata Viewer",
+      "Image tool",
       "Huzaifa Tools",
-      "pdf",
-      "to",
-      "images",
+      "image",
+      "metadata",
+      "viewer",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools"
+      "#ImageTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF to Images."
+        "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an unencrypted PDF"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-        "voiceover": "Select up to 10 pages, for example 1-3"
+        "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+        "voiceover": "Read the file details and available EXIF output"
       },
       {
         "seconds": "20–25",
@@ -107,51 +107,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to work with a PDF · PDF to Images",
-    "hook": "Need to work with a PDF?",
-    "caption": "Need to work with a PDF? Here is a short, practical demo of PDF to Images.\n\nChoose an unencrypted PDF Create images, inspect the previews and download each PNG\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #PDFTools #QuickTutorial",
+    "title": "Need to adjust an image · Image Metadata Viewer",
+    "hook": "Need to adjust an image?",
+    "caption": "Need to adjust an image? Here is a short, practical demo of Image Metadata Viewer.\n\nChoose a supported image Review location and other sensitive fields before sharing a screenshot\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
     "keywords": [
-      "PDF to Images",
-      "PDF tool",
+      "Image Metadata Viewer",
+      "Image tool",
       "Huzaifa Tools",
-      "pdf",
-      "to",
-      "images",
+      "image",
+      "metadata",
+      "viewer",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#PDFTools",
+      "#ImageTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF to Images."
+        "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an unencrypted PDF"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-        "voiceover": "Select up to 10 pages, for example 1-3"
+        "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+        "voiceover": "Read the file details and available EXIF output"
       },
       {
         "seconds": "20–25",
@@ -160,54 +160,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-04-pdf-to-images.jpg"
+    "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to work with a PDF | PDF to Images #Shorts",
-    "hook": "Need to work with a PDF?",
-    "description": "Prepare a PDF task and verify the downloaded pages. Choose an unencrypted PDF\n\nSelect up to 10 pages, for example 1-3\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #PDFTools",
+    "title": "Need to adjust an image | Image Metadata Viewer #Shorts",
+    "hook": "Need to adjust an image?",
+    "description": "Adjust an image and inspect the exported file. Choose a supported image\n\nRead the file details and available EXIF output\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
     "keywords": [
-      "PDF to Images",
-      "PDF tool",
+      "Image Metadata Viewer",
+      "Image tool",
       "Huzaifa Tools",
-      "pdf",
-      "to",
-      "images",
+      "image",
+      "metadata",
+      "viewer",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#PDFTools"
+      "#ImageTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF to Images."
+        "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an unencrypted PDF"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-        "voiceover": "Select up to 10 pages, for example 1-3"
+        "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+        "voiceover": "Read the file details and available EXIF output"
       },
       {
         "seconds": "20–25",
@@ -234,25 +234,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to work with a PDF?"
+        "voiceover": "Need to adjust an image?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using PDF to Images."
+        "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an unencrypted PDF"
+        "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Choose a supported image"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-        "voiceover": "Select up to 10 pages, for example 1-3"
+        "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+        "voiceover": "Read the file details and available EXIF output"
       },
       {
         "seconds": "20–25",
@@ -267,25 +267,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF to Images."
+          "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose an unencrypted PDF"
+          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a supported image"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-          "voiceover": "Select up to 10 pages, for example 1-3"
+          "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+          "voiceover": "Read the file details and available EXIF output"
         },
         {
           "seconds": "20–25",
@@ -299,25 +299,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF to Images."
+          "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose an unencrypted PDF"
+          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a supported image"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-          "voiceover": "Select up to 10 pages, for example 1-3"
+          "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+          "voiceover": "Read the file details and available EXIF output"
         },
         {
           "seconds": "20–25",
@@ -331,25 +331,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to work with a PDF?"
+          "voiceover": "Need to adjust an image?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for PDF to Images and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using PDF to Images."
+          "visual": "Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Image Metadata Viewer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose an unencrypted PDF"
+          "visual": "Choose a supported image Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Choose a supported image"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result.",
-          "voiceover": "Select up to 10 pages, for example 1-3"
+          "visual": "Read the file details and available EXIF output Pause long enough for viewers to read the real result.",
+          "voiceover": "Read the file details and available EXIF output"
         },
         {
           "seconds": "20–25",
@@ -361,13 +361,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-04-pdf-to-images.jpg",
-    "alt": "PDF to Images practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-05-image-metadata-viewer.jpg",
+    "alt": "Image Metadata Viewer practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-03T19:55:31.248Z",
+  "createdAt": "2026-11-04T20:12:50.961Z",
   "contentHashes": {
-    "facebook": "3112b533",
-    "instagram": "adc6098d",
-    "youtube": "7168741e"
+    "facebook": "4d6c7a2b",
+    "instagram": "71b96303",
+    "youtube": "22d5515e"
   }
 }

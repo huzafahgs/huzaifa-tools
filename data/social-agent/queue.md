@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-04 to 2026-12-03 (Asia/Karachi)
+Window: 2026-11-05 to 2026-12-04 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-04 | PDF to Images | PDF | Need to work with a PDF? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-05 | Image Metadata Viewer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-07 | Percentage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-01 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-02 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-03 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-04 · PDF to Images
-
-**Category:** PDF · **Tool:** Render selected PDF pages into genuine PNG images. Preview and download each page locally, with no document upload.
-
-**Hook:** Need to work with a PDF?
-
-**Useful action:** Choose an unencrypted PDF
-
-**Check:** Select up to 10 pages, for example 1-3
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Prepare a PDF task and verify the downloaded pages: PDF to Images
-
-QUICK WALKTHROUGH · PDF to Images
-
-Prepare a PDF task and verify the downloaded pages.
-
-Choose an unencrypted PDF
-
-Select up to 10 pages, for example 1-3
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #PDFTools
-
-**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_facebook
-
-### Instagram Reels
-
-**Title:** Need to work with a PDF · PDF to Images
-
-Need to work with a PDF? Here is a short, practical demo of PDF to Images.
-
-Choose an unencrypted PDF Create images, inspect the previews and download each PNG
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #PDFTools #QuickTutorial
-
-**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to work with a PDF | PDF to Images #Shorts
-
-Prepare a PDF task and verify the downloaded pages. Choose an unencrypted PDF
-
-Select up to 10 pages, for example 1-3
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #PDFTools
-
-**Keywords:** PDF to Images, PDF tool, Huzaifa Tools, pdf, to, images, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/pdf-to-images?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261104&utm_content=pdf-to-images_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
-- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
-- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
-- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
-- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to work with a PDF?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for PDF to Images and show its actual controls. Voiceover: “Here is a quick walkthrough using PDF to Images.”
-- **7–14s · Demonstrate:** Choose an unencrypted PDF Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an unencrypted PDF”
-- **14–20s · Teach a check:** Select up to 10 pages, for example 1-3 Pause long enough for viewers to read the real result. Voiceover: “Select up to 10 pages, for example 1-3”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-04-pdf-to-images.jpg
-
----
+| 2026-12-04 | AI Resume Bullet Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-05 · Image Metadata Viewer
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-03-html-entity-converter.jpg
+
+---
+
+## 2026-12-04 · AI Resume Bullet Generator
+
+**Category:** AI · **Tool:** Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.
+
+**Hook:** Want a draft you can actually review?
+
+**Useful action:** Describe your own contribution and distinguish it from the team’s work
+
+**Check:** Only add measurements you can substantiate. A clear qualitative result is acceptable
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Turn a clear brief into a draft that you can review: AI Resume Bullet Generator
+
+QUICK WALKTHROUGH · AI Resume Bullet Generator
+
+Turn a clear brief into a draft that you can review.
+
+Describe your own contribution and distinguish it from the team’s work
+
+Only add measurements you can substantiate. A clear qualitative result is acceptable
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #AITools
+
+**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, step by step
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-resume-bullet-generator_facebook
+
+### Instagram Reels
+
+**Title:** Want a draft you can actually review · AI Resume Bullet Generator
+
+Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.
+
+Describe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-resume-bullet-generator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #AITools #QuickTutorial
+
+**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, quick tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-resume-bullet-generator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Want a draft you can actually review | AI Resume Bullet Generator #Shorts
+
+Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work
+
+Only add measurements you can substantiate. A clear qualitative result is acceptable
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-resume-bullet-generator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #AITools
+
+**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, how to
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-resume-bullet-generator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
+- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
+- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
+- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
+- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
+- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
+- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-04-ai-resume-bullet-generator.jpg
 
 ---
