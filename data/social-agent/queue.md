@@ -1,141 +1,41 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-05 to 2026-12-04 (Asia/Karachi)
+Window: 2026-11-06 to 2026-12-05 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-05 | Image Metadata Viewer | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-06 | JSON Formatter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-07 | Percentage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-08 | Length Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-09 | Regex Tester | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-10 | AI Title & Headline Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-11 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-12 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-13 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-11 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-12 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-13 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-14 | Lorem Ipsum Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-15 | Mortgage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-16 | Volume Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-17 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-18 | AI Social Media Caption Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-19 | Stopwatch | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-20 | Prime Number Checker | Number | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-21 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-22 | Lorem Ipsum Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-23 | Mortgage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-22 | Text Diff Checker | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-23 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-24 | Area Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-25 | Unix Timestamp Converter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-26 | AI Product Description Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-27 | Meta Tag Generator | SEO | Need a quick way to generate seo, open graph, and twitter meta tags? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-28 | ROI Calculator | Business | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-29 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-30 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-30 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-01 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-02 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-03 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-04 | AI Resume Bullet Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-05 · Image Metadata Viewer
-
-**Category:** Image · **Tool:** Inspect real image dimensions, file size, format and available EXIF fields locally, including camera and capture details when present.
-
-**Hook:** Need to adjust an image?
-
-**Useful action:** Choose a supported image
-
-**Check:** Read the file details and available EXIF output
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Adjust an image and inspect the exported file: Image Metadata Viewer
-
-QUICK WALKTHROUGH · Image Metadata Viewer
-
-Adjust an image and inspect the exported file.
-
-Choose a supported image
-
-Read the file details and available EXIF output
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #ImageTools
-
-**Keywords:** Image Metadata Viewer, Image tool, Huzaifa Tools, image, metadata, viewer, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_facebook
-
-### Instagram Reels
-
-**Title:** Need to adjust an image · Image Metadata Viewer
-
-Need to adjust an image? Here is a short, practical demo of Image Metadata Viewer.
-
-Choose a supported image Review location and other sensitive fields before sharing a screenshot
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #ImageTools #QuickTutorial
-
-**Keywords:** Image Metadata Viewer, Image tool, Huzaifa Tools, image, metadata, viewer, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to adjust an image | Image Metadata Viewer #Shorts
-
-Adjust an image and inspect the exported file. Choose a supported image
-
-Read the file details and available EXIF output
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #ImageTools
-
-**Keywords:** Image Metadata Viewer, Image tool, Huzaifa Tools, image, metadata, viewer, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-metadata-viewer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261105&utm_content=image-metadata-viewer_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Metadata Viewer.”
-- **7–14s · Demonstrate:** Choose a supported image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a supported image”
-- **14–20s · Teach a check:** Read the file details and available EXIF output Pause long enough for viewers to read the real result. Voiceover: “Read the file details and available EXIF output”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Metadata Viewer.”
-- **7–14s · Demonstrate:** Choose a supported image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a supported image”
-- **14–20s · Teach a check:** Read the file details and available EXIF output Pause long enough for viewers to read the real result. Voiceover: “Read the file details and available EXIF output”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Metadata Viewer and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Metadata Viewer.”
-- **7–14s · Demonstrate:** Choose a supported image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose a supported image”
-- **14–20s · Teach a check:** Read the file details and available EXIF output Pause long enough for viewers to read the real result. Voiceover: “Read the file details and available EXIF output”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-05-image-metadata-viewer.jpg
-
----
+| 2026-12-05 | BMR Calculator | Health | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-06 · JSON Formatter
 
@@ -637,207 +537,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-11 · Password Generator
-
-**Category:** Security · **Tool:** Generate a random password with selectable character sets.
-
-**Hook:** Need to inspect a small sample?
-
-**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-**Check:** Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Inspect a small, non-sensitive sample before using the output: Password Generator
-
-QUICK WALKTHROUGH · Password Generator
-
-Inspect a small, non-sensitive sample before using the output.
-
-Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #SecurityTools
-
-**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_facebook
-
-### Instagram Reels
-
-**Title:** Need to inspect a small sample · Password Generator
-
-Need to inspect a small sample? Here is a short, practical demo of Password Generator.
-
-Paste a harmless sample, run the tool, and inspect the output or validation message. Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #SecurityTools #QuickTutorial
-
-**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to inspect a small sample | Password Generator #Shorts
-
-Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-Use sample values only. Never show real passwords, keys, tokens, or private data.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #SecurityTools
-
-**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=password-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-11-password-generator.jpg
-
----
-
-## 2026-11-12 · QR Code Generator
-
-**Category:** Generator · **Tool:** Create QR codes instantly.
-
-**Hook:** Need a quick way to create qr codes instantly?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Create QR codes instantly: QR Code Generator
-
-QUICK WALKTHROUGH · QR Code Generator
-
-Create QR codes instantly.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #OnlineTools
-
-**Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_facebook
-
-### Instagram Reels
-
-**Title:** Need a quick way to create qr codes instantly · QR Code Generator
-
-Need a quick way to create qr codes instantly? Here is a short, practical demo of QR Code Generator.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #OnlineTools #QuickTutorial
-
-**Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need a quick way to create qr codes instantly | QR Code Generator #Shorts
-
-Create QR codes instantly. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #OnlineTools
-
-**Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=qr-code-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create qr codes instantly?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for QR Code Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using QR Code Generator.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create qr codes instantly?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for QR Code Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using QR Code Generator.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create qr codes instantly?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for QR Code Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using QR Code Generator.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-12-qr-code-generator.jpg
-
----
-
-## 2026-11-13 · Image Rotate & Flip
+## 2026-11-11 · Image Rotate & Flip
 
 **Category:** Image · **Tool:** Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.
 
@@ -867,7 +567,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=image-rotate-flip_facebook
 
 ### Instagram Reels
 
@@ -879,7 +579,7 @@ Choose an image Create a preview and download the result
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=image-rotate-flip_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -887,7 +587,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=image-rotate-flip_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -899,7 +599,7 @@ Adjust an image and inspect the exported file. Choose an image
 
 Select a clockwise rotation and optional flips
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=image-rotate-flip_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -907,7 +607,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=image-rotate-flip_youtube
 
 ### Facebook Reels storyboard
 
@@ -933,13 +633,213 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-13-image-rotate-flip.jpg
+**JPEG preview:** assets/2026-11-11-image-rotate-flip.jpg
 
 ---
 
-## 2026-11-14 · Base64 Encoder/Decoder
+## 2026-11-12 · Password Generator
 
-**Category:** Text · **Tool:** Encode and decode Base64 strings.
+**Category:** Security · **Tool:** Generate a random password with selectable character sets.
+
+**Hook:** Need to inspect a small sample?
+
+**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+**Check:** Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Inspect a small, non-sensitive sample before using the output: Password Generator
+
+QUICK WALKTHROUGH · Password Generator
+
+Inspect a small, non-sensitive sample before using the output.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #SecurityTools
+
+**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=password-generator_facebook
+
+### Instagram Reels
+
+**Title:** Need to inspect a small sample · Password Generator
+
+Need to inspect a small sample? Here is a short, practical demo of Password Generator.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message. Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=password-generator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #SecurityTools #QuickTutorial
+
+**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=password-generator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to inspect a small sample | Password Generator #Shorts
+
+Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use sample values only. Never show real passwords, keys, tokens, or private data.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=password-generator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #SecurityTools
+
+**Keywords:** Password Generator, Security tool, Huzaifa Tools, password, generator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/password-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=password-generator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Password Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Password Generator.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use sample values only. Never show real passwords, keys, tokens, or private data. Pause long enough for viewers to read the real result. Voiceover: “Use sample values only. Never show real passwords, keys, tokens, or private data.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-12-password-generator.jpg
+
+---
+
+## 2026-11-13 · QR Code Generator
+
+**Category:** Generator · **Tool:** Create QR codes instantly.
+
+**Hook:** Need a quick way to create qr codes instantly?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Create QR codes instantly: QR Code Generator
+
+QUICK WALKTHROUGH · QR Code Generator
+
+Create QR codes instantly.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #OnlineTools
+
+**Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=qr-code-generator_facebook
+
+### Instagram Reels
+
+**Title:** Need a quick way to create qr codes instantly · QR Code Generator
+
+Need a quick way to create qr codes instantly? Here is a short, practical demo of QR Code Generator.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=qr-code-generator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #OnlineTools #QuickTutorial
+
+**Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=qr-code-generator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need a quick way to create qr codes instantly | QR Code Generator #Shorts
+
+Create QR codes instantly. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=qr-code-generator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #OnlineTools
+
+**Keywords:** QR Code Generator, Generator tool, Huzaifa Tools, qr, code, generator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/qr-code-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=qr-code-generator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create qr codes instantly?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for QR Code Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using QR Code Generator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create qr codes instantly?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for QR Code Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using QR Code Generator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create qr codes instantly?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for QR Code Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using QR Code Generator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-11-13-qr-code-generator.jpg
+
+---
+
+## 2026-11-14 · Lorem Ipsum Generator
+
+**Category:** Text · **Tool:** Generate clean placeholder text for designs and drafts.
 
 **Hook:** Working through a text task?
 
@@ -951,9 +851,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: Base64 Encoder/Decoder
+**Title:** Work through a small text task and check the result: Lorem Ipsum Generator
 
-QUICK WALKTHROUGH · Base64 Encoder/Decoder
+QUICK WALKTHROUGH · Lorem Ipsum Generator
 
 Work through a small text task and check the result.
 
@@ -965,54 +865,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, step by step, online utility
+**Keywords:** Lorem Ipsum Generator, Text tool, Huzaifa Tools, lorem, ipsum, generator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · Base64 Encoder/Decoder
+**Title:** Working through a text task · Lorem Ipsum Generator
 
-Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.
+Working through a text task? Here is a short, practical demo of Lorem Ipsum Generator.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, quick tutorial, practical tip
+**Keywords:** Lorem Ipsum Generator, Text tool, Huzaifa Tools, lorem, ipsum, generator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | Base64 Encoder/Decoder #Shorts
+**Title:** Working through a text task | Lorem Ipsum Generator #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, how to, short tutorial
+**Keywords:** Lorem Ipsum Generator, Text tool, Huzaifa Tools, lorem, ipsum, generator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=lorem-ipsum-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Lorem Ipsum Generator.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1020,7 +920,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Lorem Ipsum Generator.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1028,18 +928,18 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Lorem Ipsum Generator.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-14-base64-converter.jpg
+**JPEG preview:** assets/2026-11-14-lorem-ipsum-generator.jpg
 
 ---
 
-## 2026-11-15 · Simple Interest Calculator
+## 2026-11-15 · Mortgage Calculator
 
-**Category:** Calculator · **Tool:** Calculate simple interest.
+**Category:** Calculator · **Tool:** Estimate monthly mortgage payments and total interest.
 
 **Hook:** Checking a calculation before you use it?
 
@@ -1051,9 +951,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator
+**Title:** Estimate a result from your own inputs and check the assumptions: Mortgage Calculator
 
-QUICK WALKTHROUGH · Simple Interest Calculator
+QUICK WALKTHROUGH · Mortgage Calculator
 
 Estimate a result from your own inputs and check the assumptions.
 
@@ -1065,54 +965,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Calculators
 
-**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, step by step, online utility
+**Keywords:** Mortgage Calculator, Calculator tool, Huzaifa Tools, mortgage, calculator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_facebook
 
 ### Instagram Reels
 
-**Title:** Checking a calculation before you use it · Simple Interest Calculator
+**Title:** Checking a calculation before you use it · Mortgage Calculator
 
-Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.
+Checking a calculation before you use it? Here is a short, practical demo of Mortgage Calculator.
 
 Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Calculators #QuickTutorial
 
-**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, quick tutorial, practical tip
+**Keywords:** Mortgage Calculator, Calculator tool, Huzaifa Tools, mortgage, calculator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Checking a calculation before you use it | Simple Interest Calculator #Shorts
+**Title:** Checking a calculation before you use it | Mortgage Calculator #Shorts
 
 Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
 
 Check the inputs, units, rounding, and assumptions before using the result.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Calculators
 
-**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, how to, short tutorial
+**Keywords:** Mortgage Calculator, Calculator tool, Huzaifa Tools, mortgage, calculator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=simple-interest_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261115&utm_content=mortgage-calculator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Mortgage Calculator.”
 - **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1120,7 +1020,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Mortgage Calculator.”
 - **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1128,12 +1028,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Mortgage Calculator.”
 - **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-15-simple-interest.jpg
+**JPEG preview:** assets/2026-11-15-mortgage-calculator.jpg
 
 ---
 
@@ -1737,9 +1637,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-22 · Lorem Ipsum Generator
+## 2026-11-22 · Text Diff Checker
 
-**Category:** Text · **Tool:** Generate clean placeholder text for designs and drafts.
+**Category:** Text · **Tool:** Compare two text blocks line by line.
 
 **Hook:** Working through a text task?
 
@@ -1751,9 +1651,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: Lorem Ipsum Generator
+**Title:** Work through a small text task and check the result: Text Diff Checker
 
-QUICK WALKTHROUGH · Lorem Ipsum Generator
+QUICK WALKTHROUGH · Text Diff Checker
 
 Work through a small text task and check the result.
 
@@ -1765,54 +1665,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** Lorem Ipsum Generator, Text tool, Huzaifa Tools, lorem, ipsum, generator, step by step, online utility
+**Keywords:** Text Diff Checker, Text tool, Huzaifa Tools, text, diff, checker, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=lorem-ipsum-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-diff-checker?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=text-diff-checker_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · Lorem Ipsum Generator
+**Title:** Working through a text task · Text Diff Checker
 
-Working through a text task? Here is a short, practical demo of Lorem Ipsum Generator.
+Working through a text task? Here is a short, practical demo of Text Diff Checker.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=lorem-ipsum-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/text-diff-checker?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=text-diff-checker_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** Lorem Ipsum Generator, Text tool, Huzaifa Tools, lorem, ipsum, generator, quick tutorial, practical tip
+**Keywords:** Text Diff Checker, Text tool, Huzaifa Tools, text, diff, checker, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=lorem-ipsum-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-diff-checker?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=text-diff-checker_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | Lorem Ipsum Generator #Shorts
+**Title:** Working through a text task | Text Diff Checker #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=lorem-ipsum-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/text-diff-checker?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=text-diff-checker_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** Lorem Ipsum Generator, Text tool, Huzaifa Tools, lorem, ipsum, generator, how to, short tutorial
+**Keywords:** Text Diff Checker, Text tool, Huzaifa Tools, text, diff, checker, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/lorem-ipsum-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=lorem-ipsum-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/text-diff-checker?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=text-diff-checker_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Lorem Ipsum Generator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Diff Checker and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Diff Checker.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1820,7 +1720,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Lorem Ipsum Generator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Diff Checker and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Diff Checker.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1828,18 +1728,18 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Lorem Ipsum Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Lorem Ipsum Generator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Text Diff Checker and show its actual controls. Voiceover: “Here is a quick walkthrough using Text Diff Checker.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-22-lorem-ipsum-generator.jpg
+**JPEG preview:** assets/2026-11-22-text-diff-checker.jpg
 
 ---
 
-## 2026-11-23 · Mortgage Calculator
+## 2026-11-23 · Simple Interest Calculator
 
-**Category:** Calculator · **Tool:** Estimate monthly mortgage payments and total interest.
+**Category:** Calculator · **Tool:** Calculate simple interest.
 
 **Hook:** Checking a calculation before you use it?
 
@@ -1851,9 +1751,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Estimate a result from your own inputs and check the assumptions: Mortgage Calculator
+**Title:** Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator
 
-QUICK WALKTHROUGH · Mortgage Calculator
+QUICK WALKTHROUGH · Simple Interest Calculator
 
 Estimate a result from your own inputs and check the assumptions.
 
@@ -1865,54 +1765,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Calculators
 
-**Keywords:** Mortgage Calculator, Calculator tool, Huzaifa Tools, mortgage, calculator, step by step, online utility
+**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_facebook
 
 ### Instagram Reels
 
-**Title:** Checking a calculation before you use it · Mortgage Calculator
+**Title:** Checking a calculation before you use it · Simple Interest Calculator
 
-Checking a calculation before you use it? Here is a short, practical demo of Mortgage Calculator.
+Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.
 
 Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Calculators #QuickTutorial
 
-**Keywords:** Mortgage Calculator, Calculator tool, Huzaifa Tools, mortgage, calculator, quick tutorial, practical tip
+**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Checking a calculation before you use it | Mortgage Calculator #Shorts
+**Title:** Checking a calculation before you use it | Simple Interest Calculator #Shorts
 
 Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
 
 Check the inputs, units, rounding, and assumptions before using the result.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Calculators
 
-**Keywords:** Mortgage Calculator, Calculator tool, Huzaifa Tools, mortgage, calculator, how to, short tutorial
+**Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/mortgage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=mortgage-calculator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Mortgage Calculator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
 - **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1920,7 +1820,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Mortgage Calculator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
 - **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1928,12 +1828,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Mortgage Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Mortgage Calculator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Simple Interest Calculator.”
 - **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-23-mortgage-calculator.jpg
+**JPEG preview:** assets/2026-11-23-simple-interest.jpg
 
 ---
 
@@ -2537,9 +2437,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-30 · URL Encoder/Decoder
+## 2026-11-30 · Base64 Encoder/Decoder
 
-**Category:** Text · **Tool:** Encode and decode URLs.
+**Category:** Text · **Tool:** Encode and decode Base64 strings.
 
 **Hook:** Working through a text task?
 
@@ -2551,9 +2451,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: URL Encoder/Decoder
+**Title:** Work through a small text task and check the result: Base64 Encoder/Decoder
 
-QUICK WALKTHROUGH · URL Encoder/Decoder
+QUICK WALKTHROUGH · Base64 Encoder/Decoder
 
 Work through a small text task and check the result.
 
@@ -2565,54 +2465,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, step by step, online utility
+**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=url-encoder_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=base64-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · URL Encoder/Decoder
+**Title:** Working through a text task · Base64 Encoder/Decoder
 
-Working through a text task? Here is a short, practical demo of URL Encoder/Decoder.
+Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=url-encoder_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=base64-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, quick tutorial, practical tip
+**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=url-encoder_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=base64-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | URL Encoder/Decoder #Shorts
+**Title:** Working through a text task | Base64 Encoder/Decoder #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=url-encoder_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=base64-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, how to, short tutorial
+**Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=url-encoder_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261130&utm_content=base64-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -2620,7 +2520,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -2628,12 +2528,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using Base64 Encoder/Decoder.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-30-url-encoder.jpg
+**JPEG preview:** assets/2026-11-30-base64-converter.jpg
 
 ---
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-04-ai-resume-bullet-generator.jpg
+
+---
+
+## 2026-12-05 · BMR Calculator
+
+**Category:** Health · **Tool:** Estimate basal metabolic rate using standard formulas.
+
+**Hook:** Checking a calculation before you use it?
+
+**Useful action:** Enter a small example using the units shown, then inspect each input and the displayed result.
+
+**Check:** Treat calculator output as general information, not medical advice or diagnosis.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Estimate a result from your own inputs and check the assumptions: BMR Calculator
+
+QUICK WALKTHROUGH · BMR Calculator
+
+Estimate a result from your own inputs and check the assumptions.
+
+Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Treat calculator output as general information, not medical advice or diagnosis.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #HealthTools
+
+**Keywords:** BMR Calculator, Health tool, Huzaifa Tools, bmr, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261205&utm_content=bmr-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Checking a calculation before you use it · BMR Calculator
+
+Checking a calculation before you use it? Here is a short, practical demo of BMR Calculator.
+
+Enter a small example using the units shown, then inspect each input and the displayed result. Treat calculator output as general information, not medical advice or diagnosis.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261205&utm_content=bmr-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #HealthTools #QuickTutorial
+
+**Keywords:** BMR Calculator, Health tool, Huzaifa Tools, bmr, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261205&utm_content=bmr-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Checking a calculation before you use it | BMR Calculator #Shorts
+
+Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Treat calculator output as general information, not medical advice or diagnosis.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261205&utm_content=bmr-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #HealthTools
+
+**Keywords:** BMR Calculator, Health tool, Huzaifa Tools, bmr, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261205&utm_content=bmr-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for BMR Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using BMR Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Treat calculator output as general information, not medical advice or diagnosis. Pause long enough for viewers to read the real result. Voiceover: “Treat calculator output as general information, not medical advice or diagnosis.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for BMR Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using BMR Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Treat calculator output as general information, not medical advice or diagnosis. Pause long enough for viewers to read the real result. Voiceover: “Treat calculator output as general information, not medical advice or diagnosis.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for BMR Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using BMR Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Treat calculator output as general information, not medical advice or diagnosis. Pause long enough for viewers to read the real result. Voiceover: “Treat calculator output as general information, not medical advice or diagnosis.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-05-bmr-calculator.jpg
 
 ---
