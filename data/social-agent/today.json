@@ -1,21 +1,21 @@
 {
-  "id": "2026-11-06-json-formatter",
-  "date": "2026-11-06",
+  "id": "2026-11-07-percentage-calculator",
+  "date": "2026-11-07",
   "version": 2,
   "tool": {
-    "name": "JSON Formatter",
-    "slug": "json-formatter",
-    "category": "Text",
-    "description": "Format and validate JSON code."
+    "name": "Percentage Calculator",
+    "slug": "percentage-calculator",
+    "category": "Calculator",
+    "description": "Calculate percentages quickly."
   },
   "lesson": {
-    "hook": "Working through a text task?",
-    "problem": "Work through a small text task and check the result",
-    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-    "check": "Check the result against the requirements of your task.",
-    "takeaway": "Check the result against the requirements of your task.",
+    "hook": "Checking a calculation before you use it?",
+    "problem": "Estimate a result from your own inputs and check the assumptions",
+    "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+    "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+    "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
     "factualBasis": [
-      "Format and validate JSON code."
+      "Calculate percentages quickly."
     ]
   },
   "score": {
@@ -37,67 +37,67 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Convert Flat JSON to CSV: Columns, Quoting, and Spreadsheet Checks",
-      "slug": "json-to-csv-flat-data",
-      "primaryKeyword": "convert flat JSON to CSV"
+      "title": "Flat-Rate Commission and Base Pay: Define Eligible Sales First",
+      "slug": "flat-rate-commission-and-base-pay",
+      "primaryKeyword": "commission calculator"
     },
     {
-      "title": "Format JavaScript Without Executing It: A Practical Review Workflow",
-      "slug": "format-javascript-without-executing",
-      "primaryKeyword": "format JavaScript without executing it"
+      "title": "Fixed-Rate Currency Conversion: A Worked Example, Not a Live Quote",
+      "slug": "fixed-rate-currency-conversion-example",
+      "primaryKeyword": "currency converter"
     },
     {
-      "title": "CSV Rows to JSON Objects: Headers, Quotes and Type Checks",
-      "slug": "csv-rows-to-json-objects",
-      "primaryKeyword": "csv to json"
+      "title": "Discount Amount and Final Price: Check What the Offer Applies To",
+      "slug": "discount-amount-final-price-and-stacked-offers",
+      "primaryKeyword": "discount calculator"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_social",
   "facebook": {
-    "title": "Work through a small text task and check the result: JSON Formatter",
-    "hook": "Working through a text task?",
-    "message": "QUICK WALKTHROUGH · JSON Formatter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-    "caption": "QUICK WALKTHROUGH · JSON Formatter\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "title": "Estimate a result from your own inputs and check the assumptions: Percentage Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "message": "QUICK WALKTHROUGH · Percentage Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+    "caption": "QUICK WALKTHROUGH · Percentage Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
     "keywords": [
-      "JSON Formatter",
-      "Text tool",
+      "Percentage Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "json",
-      "formatter",
+      "percentage",
+      "calculator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools"
+      "#Calculators"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON Formatter."
+        "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Percentage Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -108,50 +108,50 @@
     ]
   },
   "instagram": {
-    "title": "Working through a text task · JSON Formatter",
-    "hook": "Working through a text task?",
-    "caption": "Working through a text task? Here is a short, practical demo of JSON Formatter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+    "title": "Checking a calculation before you use it · Percentage Calculator",
+    "hook": "Checking a calculation before you use it?",
+    "caption": "Checking a calculation before you use it? Here is a short, practical demo of Percentage Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
     "keywords": [
-      "JSON Formatter",
-      "Text tool",
+      "Percentage Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "json",
-      "formatter",
+      "percentage",
+      "calculator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools",
+      "#Calculators",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON Formatter."
+        "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Percentage Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -160,53 +160,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-06-json-formatter.jpg"
+    "imagePath": "assets/2026-11-07-percentage-calculator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Working through a text task | JSON Formatter #Shorts",
-    "hook": "Working through a text task?",
-    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+    "title": "Checking a calculation before you use it | Percentage Calculator #Shorts",
+    "hook": "Checking a calculation before you use it?",
+    "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
     "keywords": [
-      "JSON Formatter",
-      "Text tool",
+      "Percentage Calculator",
+      "Calculator tool",
       "Huzaifa Tools",
-      "json",
-      "formatter",
+      "percentage",
+      "calculator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#TextTools"
+      "#Calculators"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/json-formatter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261106&utm_content=json-formatter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/percentage-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261107&utm_content=percentage-calculator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON Formatter."
+        "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Percentage Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -233,25 +233,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Checking a calculation before you use it?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JSON Formatter."
+        "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Percentage Calculator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
       },
       {
         "seconds": "20–25",
@@ -266,25 +266,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Percentage Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -298,25 +298,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Percentage Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -330,25 +330,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Checking a calculation before you use it?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JSON Formatter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JSON Formatter."
+          "visual": "Open the real Huzaifa Tools page for Percentage Calculator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Percentage Calculator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
         },
         {
           "seconds": "20–25",
@@ -360,13 +360,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-06-json-formatter.jpg",
-    "alt": "JSON Formatter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-07-percentage-calculator.jpg",
+    "alt": "Percentage Calculator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-05T20:26:11.305Z",
+  "createdAt": "2026-11-06T19:48:10.817Z",
   "contentHashes": {
-    "facebook": "e60b913e",
-    "instagram": "8dcd0998",
-    "youtube": "89c0728e"
+    "facebook": "20ca0985",
+    "instagram": "c3731370",
+    "youtube": "739972"
   }
 }
