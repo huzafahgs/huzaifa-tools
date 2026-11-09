@@ -1,103 +1,91 @@
 {
-  "id": "2026-11-08-length-converter",
-  "date": "2026-11-08",
+  "id": "2026-11-10-ai-title-generator",
+  "date": "2026-11-10",
   "version": 2,
   "tool": {
-    "name": "Length Converter",
-    "slug": "length-converter",
-    "category": "Converter",
-    "description": "Convert between length units."
+    "name": "AI Title & Headline Generator",
+    "slug": "ai-title-generator",
+    "category": "AI",
+    "description": "Create multiple honest headline options for a blog, video, product or social post. Requires sign-in and AI availability."
   },
   "lesson": {
-    "hook": "Need to convert a value?",
-    "problem": "Convert a value and confirm the output units or format",
-    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-    "check": "Check the result against the requirements of your task.",
-    "takeaway": "Check the result against the requirements of your task.",
+    "hook": "Want a draft you can actually review?",
+    "problem": "Turn a clear brief into a draft that you can review",
+    "action": "Give the actual scope, not just a broad keyword",
+    "check": "Compare the eight options against what the content delivers",
+    "takeaway": "Try More creative for a different set of ideas while keeping claims grounded",
     "factualBasis": [
-      "Convert between length units."
+      "Create multiple honest headline options for a blog, video, product or social post. Requires sign-in and AI availability.",
+      "Give the actual scope, not just a broad keyword.",
+      "Compare the eight options against what the content delivers.",
+      "Try More creative for a different set of ideas while keeping claims grounded."
     ]
   },
   "score": {
-    "total": 7.99,
+    "total": 15.93,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 8,
+      "catalogUtility": 13,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
-        "editorialGapBoost": 0
+        "relatedArticleCount": 0,
+        "editorialGapBoost": 3
       },
       "categoryBalancePenalty": 0
     }
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-  "articleReferences": [
-    {
-      "title": "Area Conversion: Square Units, Acres and Hectares",
-      "slug": "area-conversion-square-units-acres-hectares",
-      "primaryKeyword": "area converter"
-    },
-    {
-      "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
-      "slug": "bmi-metric-calculation-and-screening-limits",
-      "primaryKeyword": "bmi calculator"
-    },
-    {
-      "title": "Great-Circle Distance from Coordinates Is Not a Road Route",
-      "slug": "great-circle-distance-from-coordinates",
-      "primaryKeyword": "distance calculator"
-    }
-  ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_social",
+  "articleReferences": [],
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_social",
   "facebook": {
-    "title": "Convert a value and confirm the output units or format: Length Converter",
-    "hook": "Need to convert a value?",
-    "message": "QUICK WALKTHROUGH · Length Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-    "caption": "QUICK WALKTHROUGH · Length Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+    "title": "Turn a clear brief into a draft that you can review: AI Title & Headline Generator",
+    "hook": "Want a draft you can actually review?",
+    "message": "QUICK WALKTHROUGH · AI Title & Headline Generator\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual scope, not just a broad keyword\n\nCompare the eight options against what the content delivers\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Title & Headline Generator\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual scope, not just a broad keyword\n\nCompare the eight options against what the content delivers\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "Length Converter",
-      "Converter tool",
+      "AI Title & Headline Generator",
+      "AI tool",
       "Huzaifa Tools",
-      "length",
-      "converter",
+      "ai",
+      "title",
+      "generator",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#Converters"
+      "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to convert a value?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Length Converter."
+        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual scope, not just a broad keyword"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+        "voiceover": "Compare the eight options against what the content delivers"
       },
       {
         "seconds": "20–25",
@@ -108,50 +96,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to convert a value · Length Converter",
-    "hook": "Need to convert a value?",
-    "caption": "Need to convert a value? Here is a short, practical demo of Length Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
+    "title": "Want a draft you can actually review · AI Title & Headline Generator",
+    "hook": "Want a draft you can actually review?",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Title & Headline Generator.\n\nGive the actual scope, not just a broad keyword Try More creative for a different set of ideas while keeping claims grounded\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "Length Converter",
-      "Converter tool",
+      "AI Title & Headline Generator",
+      "AI tool",
       "Huzaifa Tools",
-      "length",
-      "converter",
+      "ai",
+      "title",
+      "generator",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#Converters",
+      "#AITools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to convert a value?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Length Converter."
+        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual scope, not just a broad keyword"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+        "voiceover": "Compare the eight options against what the content delivers"
       },
       {
         "seconds": "20–25",
@@ -160,53 +149,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-08-length-converter.jpg"
+    "imagePath": "assets/2026-11-10-ai-title-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to convert a value | Length Converter #Shorts",
-    "hook": "Need to convert a value?",
-    "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
+    "title": "Want a draft you can actually review | AI Title & Headline Generator #Shorts",
+    "hook": "Want a draft you can actually review?",
+    "description": "Turn a clear brief into a draft that you can review. Give the actual scope, not just a broad keyword\n\nCompare the eight options against what the content delivers\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "Length Converter",
-      "Converter tool",
+      "AI Title & Headline Generator",
+      "AI tool",
       "Huzaifa Tools",
-      "length",
-      "converter",
+      "ai",
+      "title",
+      "generator",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#Converters"
+      "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to convert a value?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Length Converter."
+        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual scope, not just a broad keyword"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+        "voiceover": "Compare the eight options against what the content delivers"
       },
       {
         "seconds": "20–25",
@@ -233,25 +223,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to convert a value?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Length Converter."
+        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Give the actual scope, not just a broad keyword"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the result against the requirements of your task."
+        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+        "voiceover": "Compare the eight options against what the content delivers"
       },
       {
         "seconds": "20–25",
@@ -266,25 +256,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to convert a value?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Length Converter."
+          "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Give the actual scope, not just a broad keyword"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+          "voiceover": "Compare the eight options against what the content delivers"
         },
         {
           "seconds": "20–25",
@@ -298,25 +288,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to convert a value?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Length Converter."
+          "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Give the actual scope, not just a broad keyword"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+          "voiceover": "Compare the eight options against what the content delivers"
         },
         {
           "seconds": "20–25",
@@ -330,25 +320,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to convert a value?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Length Converter."
+          "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Give the actual scope, not just a broad keyword"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the result against the requirements of your task."
+          "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
+          "voiceover": "Compare the eight options against what the content delivers"
         },
         {
           "seconds": "20–25",
@@ -360,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-08-length-converter.jpg",
-    "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-10-ai-title-generator.jpg",
+    "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-08T18:10:37.123Z",
+  "createdAt": "2026-11-09T22:49:44.705Z",
   "contentHashes": {
-    "facebook": "77a77c77",
-    "instagram": "98673946",
-    "youtube": "79819a11"
+    "facebook": "5d68283c",
+    "instagram": "e80ce26c",
+    "youtube": "867af5f4"
   }
 }

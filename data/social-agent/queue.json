@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-08T18:10:37.155Z",
+  "generatedAt": "2026-11-09T22:49:44.765Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-11-08",
-    "end": "2026-12-07",
+    "start": "2026-11-10",
+    "end": "2026-12-09",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,12 +13,12 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Converter": 4,
-    "Developer": 4,
     "AI": 4,
     "Image": 1,
-    "Text": 4,
-    "Calculator": 4,
+    "Text": 5,
+    "Calculator": 5,
+    "Converter": 3,
+    "Developer": 3,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -30,740 +30,6 @@
     "Health": 1
   },
   "items": [
-    {
-      "id": "2026-11-08-length-converter",
-      "date": "2026-11-08",
-      "version": 2,
-      "tool": {
-        "name": "Length Converter",
-        "slug": "length-converter",
-        "category": "Converter",
-        "description": "Convert between length units."
-      },
-      "lesson": {
-        "hook": "Need to convert a value?",
-        "problem": "Convert a value and confirm the output units or format",
-        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-        "check": "Check the result against the requirements of your task.",
-        "takeaway": "Check the result against the requirements of your task.",
-        "factualBasis": [
-          "Convert between length units."
-        ]
-      },
-      "score": {
-        "total": 7.99,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Area Conversion: Square Units, Acres and Hectares",
-          "slug": "area-conversion-square-units-acres-hectares",
-          "primaryKeyword": "area converter"
-        },
-        {
-          "title": "BMI: Use the Metric Calculation and Understand Screening Limits",
-          "slug": "bmi-metric-calculation-and-screening-limits",
-          "primaryKeyword": "bmi calculator"
-        },
-        {
-          "title": "Great-Circle Distance from Coordinates Is Not a Road Route",
-          "slug": "great-circle-distance-from-coordinates",
-          "primaryKeyword": "distance calculator"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_social",
-      "facebook": {
-        "title": "Convert a value and confirm the output units or format: Length Converter",
-        "hook": "Need to convert a value?",
-        "message": "QUICK WALKTHROUGH · Length Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "caption": "QUICK WALKTHROUGH · Length Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
-        "keywords": [
-          "Length Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "length",
-          "converter",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Converters"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to convert a value · Length Converter",
-        "hook": "Need to convert a value?",
-        "caption": "Need to convert a value? Here is a short, practical demo of Length Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
-        "keywords": [
-          "Length Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "length",
-          "converter",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#Converters",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-08-length-converter.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to convert a value | Length Converter #Shorts",
-        "hook": "Need to convert a value?",
-        "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
-        "keywords": [
-          "Length Converter",
-          "Converter tool",
-          "Huzaifa Tools",
-          "length",
-          "converter",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#Converters"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/length-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261108&utm_content=length-converter_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to convert a value?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Length Converter."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Length Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Length Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to convert a value?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Length Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Length Converter."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-08-length-converter.jpg",
-        "alt": "Length Converter practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-11-08T18:10:37.123Z",
-      "contentHashes": {
-        "facebook": "77a77c77",
-        "instagram": "98673946",
-        "youtube": "79819a11"
-      }
-    },
-    {
-      "id": "2026-11-09-regex-tester",
-      "date": "2026-11-09",
-      "version": 2,
-      "tool": {
-        "name": "Regex Tester",
-        "slug": "regex-tester",
-        "category": "Developer",
-        "description": "Test regular expressions with flags, matches, and groups."
-      },
-      "lesson": {
-        "hook": "Need to inspect a small sample?",
-        "problem": "Inspect a small, non-sensitive sample before using the output",
-        "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
-        "check": "Use a small, non-sensitive sample and inspect the output before using it.",
-        "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
-        "factualBasis": [
-          "Test regular expressions with flags, matches, and groups."
-        ]
-      },
-      "score": {
-        "total": 7.98,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 1,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Test a JavaScript Regex with Matches and Counterexamples",
-          "slug": "test-javascript-regex-with-counterexamples",
-          "primaryKeyword": "regex tester"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261109&utm_content=regex-tester_social",
-      "facebook": {
-        "title": "Inspect a small, non-sensitive sample before using the output: Regex Tester",
-        "hook": "Need to inspect a small sample?",
-        "message": "QUICK WALKTHROUGH · Regex Tester\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "caption": "QUICK WALKTHROUGH · Regex Tester\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "keywords": [
-          "Regex Tester",
-          "Developer tool",
-          "Huzaifa Tools",
-          "regex",
-          "tester",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#DeveloperTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261109&utm_content=regex-tester_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Regex Tester."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to inspect a small sample · Regex Tester",
-        "hook": "Need to inspect a small sample?",
-        "caption": "Need to inspect a small sample? Here is a short, practical demo of Regex Tester.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261109&utm_content=regex-tester_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
-        "keywords": [
-          "Regex Tester",
-          "Developer tool",
-          "Huzaifa Tools",
-          "regex",
-          "tester",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#DeveloperTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261109&utm_content=regex-tester_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Regex Tester."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-09-regex-tester.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to inspect a small sample | Regex Tester #Shorts",
-        "hook": "Need to inspect a small sample?",
-        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261109&utm_content=regex-tester_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
-        "keywords": [
-          "Regex Tester",
-          "Developer tool",
-          "Huzaifa Tools",
-          "regex",
-          "tester",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#DeveloperTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261109&utm_content=regex-tester_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Regex Tester."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to inspect a small sample?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Regex Tester."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Regex Tester."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Regex Tester."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to inspect a small sample?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Regex Tester."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-09-regex-tester.jpg",
-        "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-11-08T18:10:37.125Z",
-      "contentHashes": {
-        "facebook": "f6c820af",
-        "instagram": "42892122",
-        "youtube": "eb91bd26"
-      }
-    },
     {
       "id": "2026-11-10-ai-title-generator",
       "date": "2026-11-10",
@@ -788,7 +54,7 @@
         ]
       },
       "score": {
-        "total": 15.95,
+        "total": 15.93,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -1119,7 +385,7 @@
         "imagePath": "assets/2026-11-10-ai-title-generator.jpg",
         "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.130Z",
+      "createdAt": "2026-11-09T22:49:44.705Z",
       "contentHashes": {
         "facebook": "5d68283c",
         "instagram": "e80ce26c",
@@ -1497,7 +763,7 @@
         "imagePath": "assets/2026-11-11-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.132Z",
+      "createdAt": "2026-11-09T22:49:44.710Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "3b14cc92",
@@ -1868,7 +1134,7 @@
         "imagePath": "assets/2026-11-12-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.134Z",
+      "createdAt": "2026-11-09T22:49:44.717Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "5f56e1cf",
@@ -2235,7 +1501,7 @@
         "imagePath": "assets/2026-11-13-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.135Z",
+      "createdAt": "2026-11-09T22:49:44.721Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "ef2a76f5",
@@ -2600,7 +1866,7 @@
         "imagePath": "assets/2026-11-14-lorem-ipsum-generator.jpg",
         "alt": "Lorem Ipsum Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.136Z",
+      "createdAt": "2026-11-09T22:49:44.723Z",
       "contentHashes": {
         "facebook": "e1ecbd4e",
         "instagram": "672115ad",
@@ -2962,7 +2228,7 @@
         "imagePath": "assets/2026-11-15-mortgage-calculator.jpg",
         "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.136Z",
+      "createdAt": "2026-11-09T22:49:44.724Z",
       "contentHashes": {
         "facebook": "408265f7",
         "instagram": "dc2d13c1",
@@ -2990,7 +2256,7 @@
         ]
       },
       "score": {
-        "total": -26.07,
+        "total": 7.93,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3002,7 +2268,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -3334,7 +2600,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.137Z",
+      "createdAt": "2026-11-09T22:49:44.725Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -3342,14 +2608,14 @@
       }
     },
     {
-      "id": "2026-11-17-jwt-decoder",
+      "id": "2026-11-17-regex-tester",
       "date": "2026-11-17",
       "version": 2,
       "tool": {
-        "name": "JWT Decoder",
-        "slug": "jwt-decoder",
+        "name": "Regex Tester",
+        "slug": "regex-tester",
         "category": "Developer",
-        "description": "Decode JWT headers and payloads safely in your browser."
+        "description": "Test regular expressions with flags, matches, and groups."
       },
       "lesson": {
         "hook": "Need to inspect a small sample?",
@@ -3358,11 +2624,11 @@
         "check": "Use a small, non-sensitive sample and inspect the output before using it.",
         "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
         "factualBasis": [
-          "Decode JWT headers and payloads safely in your browser."
+          "Test regular expressions with flags, matches, and groups."
         ]
       },
       "score": {
-        "total": -26.02,
+        "total": 7.98,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -3371,42 +2637,32 @@
           "socialMetrics": null,
           "socialMetricsBoost": 0,
           "articleCoverage": {
-            "relatedArticleCount": 3,
+            "relatedArticleCount": 1,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
-          "slug": "base64-encode-decode-utf8-text",
-          "primaryKeyword": "base64 encoder/decoder"
-        },
-        {
-          "title": "HMAC: Agree on the Message, Key Encoding and Algorithm",
-          "slug": "hmac-message-key-and-encoding-agreement",
-          "primaryKeyword": "hmac generator"
-        },
-        {
-          "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
-          "slug": "inspect-jwt-claims-without-trusting-them",
-          "primaryKeyword": "jwt decoder"
+          "title": "Test a JavaScript Regex with Matches and Counterexamples",
+          "slug": "test-javascript-regex-with-counterexamples",
+          "primaryKeyword": "regex tester"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_social",
       "facebook": {
-        "title": "Inspect a small, non-sensitive sample before using the output: JWT Decoder",
+        "title": "Inspect a small, non-sensitive sample before using the output: Regex Tester",
         "hook": "Need to inspect a small sample?",
-        "message": "QUICK WALKTHROUGH · JWT Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "caption": "QUICK WALKTHROUGH · JWT Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "message": "QUICK WALKTHROUGH · Regex Tester\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "caption": "QUICK WALKTHROUGH · Regex Tester\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
         "keywords": [
-          "JWT Decoder",
+          "Regex Tester",
           "Developer tool",
           "Huzaifa Tools",
-          "jwt",
-          "decoder",
+          "regex",
+          "tester",
           "step by step",
           "online utility"
         ],
@@ -3415,7 +2671,7 @@
           "#DeveloperTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -3427,8 +2683,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JWT Decoder."
+            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Regex Tester."
           },
           {
             "seconds": "7–14",
@@ -3451,15 +2707,15 @@
         ]
       },
       "instagram": {
-        "title": "Need to inspect a small sample · JWT Decoder",
+        "title": "Need to inspect a small sample · Regex Tester",
         "hook": "Need to inspect a small sample?",
-        "caption": "Need to inspect a small sample? Here is a short, practical demo of JWT Decoder.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of Regex Tester.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
         "keywords": [
-          "JWT Decoder",
+          "Regex Tester",
           "Developer tool",
           "Huzaifa Tools",
-          "jwt",
-          "decoder",
+          "regex",
+          "tester",
           "quick tutorial",
           "practical tip"
         ],
@@ -3469,7 +2725,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -3481,8 +2737,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JWT Decoder."
+            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Regex Tester."
           },
           {
             "seconds": "7–14",
@@ -3503,19 +2759,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-17-jwt-decoder.jpg"
+        "imagePath": "assets/2026-11-17-regex-tester.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Need to inspect a small sample | JWT Decoder #Shorts",
+        "title": "Need to inspect a small sample | Regex Tester #Shorts",
         "hook": "Need to inspect a small sample?",
-        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
         "keywords": [
-          "JWT Decoder",
+          "Regex Tester",
           "Developer tool",
           "Huzaifa Tools",
-          "jwt",
-          "decoder",
+          "regex",
+          "tester",
           "how to",
           "short tutorial"
         ],
@@ -3525,7 +2781,7 @@
           "#DeveloperTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=jwt-decoder_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -3536,8 +2792,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JWT Decoder."
+            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Regex Tester."
           },
           {
             "seconds": "7–14",
@@ -3581,8 +2837,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using JWT Decoder."
+            "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Regex Tester."
           },
           {
             "seconds": "7–14",
@@ -3614,8 +2870,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using JWT Decoder."
+              "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Regex Tester."
             },
             {
               "seconds": "7–14",
@@ -3646,8 +2902,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using JWT Decoder."
+              "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Regex Tester."
             },
             {
               "seconds": "7–14",
@@ -3678,8 +2934,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using JWT Decoder."
+              "visual": "Open the real Huzaifa Tools page for Regex Tester and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Regex Tester."
             },
             {
               "seconds": "7–14",
@@ -3703,14 +2959,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-17-jwt-decoder.jpg",
-        "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-17-regex-tester.jpg",
+        "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.138Z",
+      "createdAt": "2026-11-09T22:49:44.726Z",
       "contentHashes": {
-        "facebook": "2780f300",
-        "instagram": "48d6c62",
-        "youtube": "e9612a03"
+        "facebook": "f6c820af",
+        "instagram": "1f5ca4a5",
+        "youtube": "d18f023"
       }
     },
     {
@@ -4068,7 +3324,7 @@
         "imagePath": "assets/2026-11-18-ai-social-caption-generator.jpg",
         "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.139Z",
+      "createdAt": "2026-11-09T22:49:44.728Z",
       "contentHashes": {
         "facebook": "3c2b7ceb",
         "instagram": "fe2b6459",
@@ -4440,7 +3696,7 @@
         "imagePath": "assets/2026-11-19-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.140Z",
+      "createdAt": "2026-11-09T22:49:44.730Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "77105eaf",
@@ -4815,7 +4071,7 @@
         "imagePath": "assets/2026-11-20-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.141Z",
+      "createdAt": "2026-11-09T22:49:44.732Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "ed0b1d5d",
@@ -5179,7 +4435,7 @@
         "imagePath": "assets/2026-11-21-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.142Z",
+      "createdAt": "2026-11-09T22:49:44.734Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "b02ce2c9",
@@ -5554,7 +4810,7 @@
         "imagePath": "assets/2026-11-22-text-diff-checker.jpg",
         "alt": "Text Diff Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.142Z",
+      "createdAt": "2026-11-09T22:49:44.736Z",
       "contentHashes": {
         "facebook": "d8bcd66b",
         "instagram": "88d39bbd",
@@ -5926,7 +5182,7 @@
         "imagePath": "assets/2026-11-23-compound-interest.jpg",
         "alt": "Compound Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.143Z",
+      "createdAt": "2026-11-09T22:49:44.737Z",
       "contentHashes": {
         "facebook": "2ce4b5be",
         "instagram": "4036a015",
@@ -5954,7 +5210,7 @@
         ]
       },
       "score": {
-        "total": -60.01,
+        "total": -26.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -5966,7 +5222,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -6293,7 +5549,7 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.144Z",
+      "createdAt": "2026-11-09T22:49:44.738Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
@@ -6301,14 +5557,14 @@
       }
     },
     {
-      "id": "2026-11-25-unix-timestamp-converter",
+      "id": "2026-11-25-jwt-decoder",
       "date": "2026-11-25",
       "version": 2,
       "tool": {
-        "name": "Unix Timestamp Converter",
-        "slug": "unix-timestamp-converter",
+        "name": "JWT Decoder",
+        "slug": "jwt-decoder",
         "category": "Developer",
-        "description": "Convert Unix timestamps to readable dates and back."
+        "description": "Decode JWT headers and payloads safely in your browser."
       },
       "lesson": {
         "hook": "Need to inspect a small sample?",
@@ -6317,11 +5573,11 @@
         "check": "Use a small, non-sensitive sample and inspect the output before using it.",
         "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
         "factualBasis": [
-          "Convert Unix timestamps to readable dates and back."
+          "Decode JWT headers and payloads safely in your browser."
         ]
       },
       "score": {
-        "total": -60.02,
+        "total": -26.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -6333,20 +5589,20 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Age from a Birth Date: Calendar Years and Elapsed-Time Caveats",
-          "slug": "age-from-a-birth-date-calendar-caveats",
-          "primaryKeyword": "age calculator"
+          "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
+          "slug": "base64-encode-decode-utf8-text",
+          "primaryKeyword": "base64 encoder/decoder"
         },
         {
-          "title": "Choose a Five-Field Cron Schedule and Verify the Scheduler",
-          "slug": "choose-a-five-field-cron-schedule",
-          "primaryKeyword": "cron expression generator"
+          "title": "HMAC: Agree on the Message, Key Encoding and Algorithm",
+          "slug": "hmac-message-key-and-encoding-agreement",
+          "primaryKeyword": "hmac generator"
         },
         {
           "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
@@ -6354,19 +5610,18 @@
           "primaryKeyword": "jwt decoder"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_social",
       "facebook": {
-        "title": "Inspect a small, non-sensitive sample before using the output: Unix Timestamp Converter",
+        "title": "Inspect a small, non-sensitive sample before using the output: JWT Decoder",
         "hook": "Need to inspect a small sample?",
-        "message": "QUICK WALKTHROUGH · Unix Timestamp Converter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "caption": "QUICK WALKTHROUGH · Unix Timestamp Converter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "message": "QUICK WALKTHROUGH · JWT Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "caption": "QUICK WALKTHROUGH · JWT Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
         "keywords": [
-          "Unix Timestamp Converter",
+          "JWT Decoder",
           "Developer tool",
           "Huzaifa Tools",
-          "unix",
-          "timestamp",
-          "converter",
+          "jwt",
+          "decoder",
           "step by step",
           "online utility"
         ],
@@ -6375,7 +5630,7 @@
           "#DeveloperTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -6387,8 +5642,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JWT Decoder."
           },
           {
             "seconds": "7–14",
@@ -6411,16 +5666,15 @@
         ]
       },
       "instagram": {
-        "title": "Need to inspect a small sample · Unix Timestamp Converter",
+        "title": "Need to inspect a small sample · JWT Decoder",
         "hook": "Need to inspect a small sample?",
-        "caption": "Need to inspect a small sample? Here is a short, practical demo of Unix Timestamp Converter.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of JWT Decoder.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
         "keywords": [
-          "Unix Timestamp Converter",
+          "JWT Decoder",
           "Developer tool",
           "Huzaifa Tools",
-          "unix",
-          "timestamp",
-          "converter",
+          "jwt",
+          "decoder",
           "quick tutorial",
           "practical tip"
         ],
@@ -6430,7 +5684,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -6442,8 +5696,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JWT Decoder."
           },
           {
             "seconds": "7–14",
@@ -6464,20 +5718,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-25-unix-timestamp-converter.jpg"
+        "imagePath": "assets/2026-11-25-jwt-decoder.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Need to inspect a small sample | Unix Timestamp Converter #Shorts",
+        "title": "Need to inspect a small sample | JWT Decoder #Shorts",
         "hook": "Need to inspect a small sample?",
-        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
         "keywords": [
-          "Unix Timestamp Converter",
+          "JWT Decoder",
           "Developer tool",
           "Huzaifa Tools",
-          "unix",
-          "timestamp",
-          "converter",
+          "jwt",
+          "decoder",
           "how to",
           "short tutorial"
         ],
@@ -6487,7 +5740,7 @@
           "#DeveloperTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=unix-timestamp-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -6498,8 +5751,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JWT Decoder."
           },
           {
             "seconds": "7–14",
@@ -6543,8 +5796,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+            "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using JWT Decoder."
           },
           {
             "seconds": "7–14",
@@ -6576,8 +5829,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+              "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using JWT Decoder."
             },
             {
               "seconds": "7–14",
@@ -6608,8 +5861,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+              "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using JWT Decoder."
             },
             {
               "seconds": "7–14",
@@ -6640,8 +5893,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
+              "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using JWT Decoder."
             },
             {
               "seconds": "7–14",
@@ -6665,14 +5918,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-25-unix-timestamp-converter.jpg",
-        "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-25-jwt-decoder.jpg",
+        "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.144Z",
+      "createdAt": "2026-11-09T22:49:44.739Z",
       "contentHashes": {
-        "facebook": "c09c1323",
-        "instagram": "d8e79f84",
-        "youtube": "5eaf6dbc"
+        "facebook": "2780f300",
+        "instagram": "cc70d07d",
+        "youtube": "3b6862f2"
       }
     },
     {
@@ -7030,7 +6283,7 @@
         "imagePath": "assets/2026-11-26-ai-product-description-generator.jpg",
         "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.145Z",
+      "createdAt": "2026-11-09T22:49:44.740Z",
       "contentHashes": {
         "facebook": "1a8f88bb",
         "instagram": "2dfd9d57",
@@ -7402,7 +6655,7 @@
         "imagePath": "assets/2026-11-27-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.146Z",
+      "createdAt": "2026-11-09T22:49:44.743Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "28346f9f",
@@ -7774,7 +7027,7 @@
         "imagePath": "assets/2026-11-28-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.147Z",
+      "createdAt": "2026-11-09T22:49:44.745Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "7822fb96",
@@ -8149,7 +7402,7 @@
         "imagePath": "assets/2026-11-29-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.148Z",
+      "createdAt": "2026-11-09T22:49:44.747Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "6d90599a",
@@ -8521,7 +7774,7 @@
         "imagePath": "assets/2026-11-30-url-encoder.jpg",
         "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.149Z",
+      "createdAt": "2026-11-09T22:49:44.748Z",
       "contentHashes": {
         "facebook": "125023a2",
         "instagram": "d34a7bd7",
@@ -8883,7 +8136,7 @@
         "imagePath": "assets/2026-12-01-tip-calculator.jpg",
         "alt": "Tip Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.150Z",
+      "createdAt": "2026-11-09T22:49:44.749Z",
       "contentHashes": {
         "facebook": "ce17cefa",
         "instagram": "c0d3605a",
@@ -8911,7 +8164,7 @@
         ]
       },
       "score": {
-        "total": -94.01,
+        "total": -60.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -8923,7 +8176,7 @@
             "relatedArticleCount": 2,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -9250,7 +8503,7 @@
         "imagePath": "assets/2026-12-02-speed-converter.jpg",
         "alt": "Speed Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.151Z",
+      "createdAt": "2026-11-09T22:49:44.750Z",
       "contentHashes": {
         "facebook": "90466f0",
         "instagram": "2a4b87c8",
@@ -9258,14 +8511,14 @@
       }
     },
     {
-      "id": "2026-12-03-html-entity-converter",
+      "id": "2026-12-03-unix-timestamp-converter",
       "date": "2026-12-03",
       "version": 2,
       "tool": {
-        "name": "HTML Entity Encoder/Decoder",
-        "slug": "html-entity-converter",
+        "name": "Unix Timestamp Converter",
+        "slug": "unix-timestamp-converter",
         "category": "Developer",
-        "description": "Encode and decode HTML entities instantly."
+        "description": "Convert Unix timestamps to readable dates and back."
       },
       "lesson": {
         "hook": "Need to inspect a small sample?",
@@ -9274,11 +8527,11 @@
         "check": "Use a small, non-sensitive sample and inspect the output before using it.",
         "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
         "factualBasis": [
-          "Encode and decode HTML entities instantly."
+          "Convert Unix timestamps to readable dates and back."
         ]
       },
       "score": {
-        "total": -94.02,
+        "total": -60.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -9290,39 +8543,39 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "HTML Entities for Displayed Text: Encoding Is Not Sanitisation",
-          "slug": "html-entities-for-text-not-sanitization",
-          "primaryKeyword": "html entity encoder/decoder"
+          "title": "Age from a Birth Date: Calendar Years and Elapsed-Time Caveats",
+          "slug": "age-from-a-birth-date-calendar-caveats",
+          "primaryKeyword": "age calculator"
         },
         {
-          "title": "Inspect HTML Indentation Without Confusing Formatting with Validation",
-          "slug": "inspect-html-indentation-without-changing-intent",
-          "primaryKeyword": "html formatter"
+          "title": "Choose a Five-Field Cron Schedule and Verify the Scheduler",
+          "slug": "choose-a-five-field-cron-schedule",
+          "primaryKeyword": "cron expression generator"
         },
         {
-          "title": "Draft Page Meta Tags, Then Verify the Rendered Head",
-          "slug": "draft-and-verify-page-meta-tags",
-          "primaryKeyword": "meta tag generator"
+          "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
+          "slug": "inspect-jwt-claims-without-trusting-them",
+          "primaryKeyword": "jwt decoder"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=unix-timestamp-converter_social",
       "facebook": {
-        "title": "Inspect a small, non-sensitive sample before using the output: HTML Entity Encoder/Decoder",
+        "title": "Inspect a small, non-sensitive sample before using the output: Unix Timestamp Converter",
         "hook": "Need to inspect a small sample?",
-        "message": "QUICK WALKTHROUGH · HTML Entity Encoder/Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-        "caption": "QUICK WALKTHROUGH · HTML Entity Encoder/Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "message": "QUICK WALKTHROUGH · Unix Timestamp Converter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "caption": "QUICK WALKTHROUGH · Unix Timestamp Converter\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
         "keywords": [
-          "HTML Entity Encoder/Decoder",
+          "Unix Timestamp Converter",
           "Developer tool",
           "Huzaifa Tools",
-          "html",
-          "entity",
+          "unix",
+          "timestamp",
           "converter",
           "step by step",
           "online utility"
@@ -9332,7 +8585,7 @@
           "#DeveloperTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=unix-timestamp-converter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -9344,8 +8597,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
           },
           {
             "seconds": "7–14",
@@ -9368,15 +8621,15 @@
         ]
       },
       "instagram": {
-        "title": "Need to inspect a small sample · HTML Entity Encoder/Decoder",
+        "title": "Need to inspect a small sample · Unix Timestamp Converter",
         "hook": "Need to inspect a small sample?",
-        "caption": "Need to inspect a small sample? Here is a short, practical demo of HTML Entity Encoder/Decoder.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of Unix Timestamp Converter.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=unix-timestamp-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
         "keywords": [
-          "HTML Entity Encoder/Decoder",
+          "Unix Timestamp Converter",
           "Developer tool",
           "Huzaifa Tools",
-          "html",
-          "entity",
+          "unix",
+          "timestamp",
           "converter",
           "quick tutorial",
           "practical tip"
@@ -9387,7 +8640,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=unix-timestamp-converter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -9399,8 +8652,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
           },
           {
             "seconds": "7–14",
@@ -9421,19 +8674,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-12-03-html-entity-converter.jpg"
+        "imagePath": "assets/2026-12-03-unix-timestamp-converter.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Need to inspect a small sample | HTML Entity Encoder/Decoder #Shorts",
+        "title": "Need to inspect a small sample | Unix Timestamp Converter #Shorts",
         "hook": "Need to inspect a small sample?",
-        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=unix-timestamp-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
         "keywords": [
-          "HTML Entity Encoder/Decoder",
+          "Unix Timestamp Converter",
           "Developer tool",
           "Huzaifa Tools",
-          "html",
-          "entity",
+          "unix",
+          "timestamp",
           "converter",
           "how to",
           "short tutorial"
@@ -9444,7 +8697,7 @@
           "#DeveloperTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=html-entity-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/unix-timestamp-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261203&utm_content=unix-timestamp-converter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -9455,8 +8708,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
           },
           {
             "seconds": "7–14",
@@ -9500,8 +8753,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
           },
           {
             "seconds": "7–14",
@@ -9533,8 +8786,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
             },
             {
               "seconds": "7–14",
@@ -9565,8 +8818,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
             },
             {
               "seconds": "7–14",
@@ -9597,8 +8850,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+              "visual": "Open the real Huzaifa Tools page for Unix Timestamp Converter and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Unix Timestamp Converter."
             },
             {
               "seconds": "7–14",
@@ -9622,14 +8875,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-12-03-html-entity-converter.jpg",
-        "alt": "HTML Entity Encoder/Decoder practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-12-03-unix-timestamp-converter.jpg",
+        "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.151Z",
+      "createdAt": "2026-11-09T22:49:44.753Z",
       "contentHashes": {
-        "facebook": "ced9d55e",
-        "instagram": "ea0ed450",
-        "youtube": "cc8ba483"
+        "facebook": "c09c1323",
+        "instagram": "26afebdd",
+        "youtube": "3eaed043"
       }
     },
     {
@@ -9987,7 +9240,7 @@
         "imagePath": "assets/2026-12-04-ai-resume-bullet-generator.jpg",
         "alt": "AI Resume Bullet Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.152Z",
+      "createdAt": "2026-11-09T22:49:44.755Z",
       "contentHashes": {
         "facebook": "9e87096",
         "instagram": "a09b0fa",
@@ -10354,7 +9607,7 @@
         "imagePath": "assets/2026-12-05-roi-calculator.jpg",
         "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.153Z",
+      "createdAt": "2026-11-09T22:49:44.757Z",
       "contentHashes": {
         "facebook": "64d92781",
         "instagram": "fba6dc5",
@@ -10721,7 +9974,7 @@
         "imagePath": "assets/2026-12-06-retirement-calculator.jpg",
         "alt": "Retirement Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.154Z",
+      "createdAt": "2026-11-09T22:49:44.759Z",
       "contentHashes": {
         "facebook": "3c4e410",
         "instagram": "42caa3cb",
@@ -11088,11 +10341,758 @@
         "imagePath": "assets/2026-12-07-bmr-calculator.jpg",
         "alt": "BMR Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-08T18:10:37.155Z",
+      "createdAt": "2026-11-09T22:49:44.762Z",
       "contentHashes": {
         "facebook": "48128f34",
         "instagram": "13098928",
         "youtube": "1dfadf27"
+      }
+    },
+    {
+      "id": "2026-12-08-url-slug-generator",
+      "date": "2026-12-08",
+      "version": 2,
+      "tool": {
+        "name": "URL Slug Generator",
+        "slug": "url-slug-generator",
+        "category": "Text",
+        "description": "Generate URL-friendly slugs."
+      },
+      "lesson": {
+        "hook": "Working through a text task?",
+        "problem": "Work through a small text task and check the result",
+        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+        "check": "Check the result against the requirements of your task.",
+        "takeaway": "Check the result against the requirements of your task.",
+        "factualBasis": [
+          "Generate URL-friendly slugs."
+        ]
+      },
+      "score": {
+        "total": -128.04,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 136
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Draft Page Meta Tags, Then Verify the Rendered Head",
+          "slug": "draft-and-verify-page-meta-tags",
+          "primaryKeyword": "meta tag generator"
+        },
+        {
+          "title": "Percent-Encode a URL Component Without Breaking the Whole Address",
+          "slug": "percent-encode-a-url-component",
+          "primaryKeyword": "url encoder/decoder"
+        },
+        {
+          "title": "Create a Readable URL Slug and Plan for Its Future",
+          "slug": "create-a-readable-url-slug",
+          "primaryKeyword": "url slug generator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_social",
+      "facebook": {
+        "title": "Work through a small text task and check the result: URL Slug Generator",
+        "hook": "Working through a text task?",
+        "message": "QUICK WALKTHROUGH · URL Slug Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · URL Slug Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "keywords": [
+          "URL Slug Generator",
+          "Text tool",
+          "Huzaifa Tools",
+          "url",
+          "slug",
+          "generator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TextTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Working through a text task · URL Slug Generator",
+        "hook": "Working through a text task?",
+        "caption": "Working through a text task? Here is a short, practical demo of URL Slug Generator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "keywords": [
+          "URL Slug Generator",
+          "Text tool",
+          "Huzaifa Tools",
+          "url",
+          "slug",
+          "generator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#TextTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-12-08-url-slug-generator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Working through a text task | URL Slug Generator #Shorts",
+        "hook": "Working through a text task?",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "keywords": [
+          "URL Slug Generator",
+          "Text tool",
+          "Huzaifa Tools",
+          "url",
+          "slug",
+          "generator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#TextTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Working through a text task?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Working through a text task?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-12-08-url-slug-generator.jpg",
+        "alt": "URL Slug Generator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-11-09T22:49:44.763Z",
+      "contentHashes": {
+        "facebook": "ff23dcd5",
+        "instagram": "685ac008",
+        "youtube": "9603f3f5"
+      }
+    },
+    {
+      "id": "2026-12-09-discount-calculator",
+      "date": "2026-12-09",
+      "version": 2,
+      "tool": {
+        "name": "Discount Calculator",
+        "slug": "discount-calculator",
+        "category": "Calculator",
+        "description": "Calculate discounts and final price."
+      },
+      "lesson": {
+        "hook": "Checking a calculation before you use it?",
+        "problem": "Estimate a result from your own inputs and check the assumptions",
+        "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
+        "check": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
+        "factualBasis": [
+          "Calculate discounts and final price."
+        ]
+      },
+      "score": {
+        "total": -128.02,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 136
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Discount Amount and Final Price: Check What the Offer Applies To",
+          "slug": "discount-amount-final-price-and-stacked-offers",
+          "primaryKeyword": "discount calculator"
+        },
+        {
+          "title": "Percentages: Choose the Base Before Increasing or Decreasing It",
+          "slug": "percentage-base-increase-and-decrease",
+          "primaryKeyword": "percentage calculator"
+        },
+        {
+          "title": "Calculate a Tip and Split the Total Without Losing the Remainder",
+          "slug": "calculate-a-tip-and-split-the-total",
+          "primaryKeyword": "tip calculator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261209&utm_content=discount-calculator_social",
+      "facebook": {
+        "title": "Estimate a result from your own inputs and check the assumptions: Discount Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "message": "QUICK WALKTHROUGH · Discount Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "caption": "QUICK WALKTHROUGH · Discount Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+        "keywords": [
+          "Discount Calculator",
+          "Calculator tool",
+          "Huzaifa Tools",
+          "discount",
+          "calculator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#Calculators"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261209&utm_content=discount-calculator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Discount Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Checking a calculation before you use it · Discount Calculator",
+        "hook": "Checking a calculation before you use it?",
+        "caption": "Checking a calculation before you use it? Here is a short, practical demo of Discount Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261209&utm_content=discount-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
+        "keywords": [
+          "Discount Calculator",
+          "Calculator tool",
+          "Huzaifa Tools",
+          "discount",
+          "calculator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#Calculators",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261209&utm_content=discount-calculator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Discount Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-12-09-discount-calculator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Checking a calculation before you use it | Discount Calculator #Shorts",
+        "hook": "Checking a calculation before you use it?",
+        "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261209&utm_content=discount-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
+        "keywords": [
+          "Discount Calculator",
+          "Calculator tool",
+          "Huzaifa Tools",
+          "discount",
+          "calculator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#Calculators"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261209&utm_content=discount-calculator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Discount Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Checking a calculation before you use it?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Discount Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Discount Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Discount Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Checking a calculation before you use it?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Discount Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Discount Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-12-09-discount-calculator.jpg",
+        "alt": "Discount Calculator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-11-09T22:49:44.765Z",
+      "contentHashes": {
+        "facebook": "3bc8c56e",
+        "instagram": "3b6221e6",
+        "youtube": "1192a4d1"
       }
     }
   ]
