@@ -1,28 +1,28 @@
 {
-  "id": "2026-11-10-ai-title-generator",
-  "date": "2026-11-10",
+  "id": "2026-11-11-ai-social-caption-generator",
+  "date": "2026-11-11",
   "version": 2,
   "tool": {
-    "name": "AI Title & Headline Generator",
-    "slug": "ai-title-generator",
+    "name": "AI Social Media Caption Generator",
+    "slug": "ai-social-caption-generator",
     "category": "AI",
-    "description": "Create multiple honest headline options for a blog, video, product or social post. Requires sign-in and AI availability."
+    "description": "Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability."
   },
   "lesson": {
     "hook": "Want a draft you can actually review?",
     "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Give the actual scope, not just a broad keyword",
-    "check": "Compare the eight options against what the content delivers",
-    "takeaway": "Try More creative for a different set of ideas while keeping claims grounded",
+    "action": "Describe the actual post; the assistant cannot see an image from a text description",
+    "check": "Use Short for a compact message and Long for more context, then check the platform’s current limits",
+    "takeaway": "Keep only hashtags that describe the post. Suggestions are not verified trends",
     "factualBasis": [
-      "Create multiple honest headline options for a blog, video, product or social post. Requires sign-in and AI availability.",
-      "Give the actual scope, not just a broad keyword.",
-      "Compare the eight options against what the content delivers.",
-      "Try More creative for a different set of ideas while keeping claims grounded."
+      "Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability.",
+      "Describe the actual post; the assistant cannot see an image from a text description.",
+      "Use Short for a compact message and Long for more context, then check the platform’s current limits.",
+      "Keep only hashtags that describe the post. Suggestions are not verified trends."
     ]
   },
   "score": {
-    "total": 15.93,
+    "total": 16,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
       "catalogUtility": 13,
@@ -39,28 +39,28 @@
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Title & Headline Generator",
+    "title": "Turn a clear brief into a draft that you can review: AI Social Media Caption Generator",
     "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Title & Headline Generator\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual scope, not just a broad keyword\n\nCompare the eight options against what the content delivers\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Title & Headline Generator\n\nTurn a clear brief into a draft that you can review.\n\nGive the actual scope, not just a broad keyword\n\nCompare the eight options against what the content delivers\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "message": "QUICK WALKTHROUGH · AI Social Media Caption Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Social Media Caption Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "AI Title & Headline Generator",
+      "AI Social Media Caption Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "title",
+      "social",
+      "caption",
       "generator",
-      "step by step",
-      "online utility"
+      "step by step"
     ],
     "hashtags": [
       "#HuzaifaTools",
       "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
@@ -72,20 +72,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual scope, not just a broad keyword"
+        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-        "voiceover": "Compare the eight options against what the content delivers"
+        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
       },
       {
         "seconds": "20–25",
@@ -96,18 +96,18 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Title & Headline Generator",
+    "title": "Want a draft you can actually review · AI Social Media Caption Generator",
     "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Title & Headline Generator.\n\nGive the actual scope, not just a broad keyword Try More creative for a different set of ideas while keeping claims grounded\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Social Media Caption Generator.\n\nDescribe the actual post; the assistant cannot see an image from a text description Keep only hashtags that describe the post. Suggestions are not verified trends\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "AI Title & Headline Generator",
+      "AI Social Media Caption Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "title",
+      "social",
+      "caption",
       "generator",
-      "quick tutorial",
-      "practical tip"
+      "quick tutorial"
     ],
     "hashtags": [
       "#HuzaifaTools",
@@ -115,7 +115,7 @@
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
@@ -127,20 +127,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual scope, not just a broad keyword"
+        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-        "voiceover": "Compare the eight options against what the content delivers"
+        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
       },
       {
         "seconds": "20–25",
@@ -149,22 +149,22 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-10-ai-title-generator.jpg"
+    "imagePath": "assets/2026-11-11-ai-social-caption-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Title & Headline Generator #Shorts",
+    "title": "Want a draft you can actually review | AI Social Media Caption Generator #Shorts",
     "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Give the actual scope, not just a broad keyword\n\nCompare the eight options against what the content delivers\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "description": "Turn a clear brief into a draft that you can review. Describe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "AI Title & Headline Generator",
+      "AI Social Media Caption Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "title",
+      "social",
+      "caption",
       "generator",
-      "how to",
-      "short tutorial"
+      "how to"
     ],
     "hashtags": [
       "#Shorts",
@@ -172,7 +172,7 @@
       "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-title-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261110&utm_content=ai-title-generator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
@@ -183,20 +183,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual scope, not just a broad keyword"
+        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-        "voiceover": "Compare the eight options against what the content delivers"
+        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
       },
       {
         "seconds": "20–25",
@@ -228,20 +228,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Give the actual scope, not just a broad keyword"
+        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-        "voiceover": "Compare the eight options against what the content delivers"
+        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
       },
       {
         "seconds": "20–25",
@@ -261,20 +261,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Give the actual scope, not just a broad keyword"
+          "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-          "voiceover": "Compare the eight options against what the content delivers"
+          "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+          "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
         },
         {
           "seconds": "20–25",
@@ -293,20 +293,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Give the actual scope, not just a broad keyword"
+          "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-          "voiceover": "Compare the eight options against what the content delivers"
+          "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+          "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
         },
         {
           "seconds": "20–25",
@@ -325,20 +325,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Title & Headline Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Title & Headline Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Give the actual scope, not just a broad keyword Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Give the actual scope, not just a broad keyword"
+          "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Compare the eight options against what the content delivers Pause long enough for viewers to read the real result.",
-          "voiceover": "Compare the eight options against what the content delivers"
+          "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
+          "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
         },
         {
           "seconds": "20–25",
@@ -350,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-10-ai-title-generator.jpg",
-    "alt": "AI Title & Headline Generator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-11-ai-social-caption-generator.jpg",
+    "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-09T22:49:44.705Z",
+  "createdAt": "2026-11-10T20:09:05.211Z",
   "contentHashes": {
-    "facebook": "5d68283c",
-    "instagram": "e80ce26c",
-    "youtube": "867af5f4"
+    "facebook": "3c2b7ceb",
+    "instagram": "27d85196",
+    "youtube": "e5ede1a5"
   }
 }
