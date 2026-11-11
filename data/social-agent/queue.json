@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-10T20:09:05.241Z",
+  "generatedAt": "2026-11-11T19:56:49.958Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-11-11",
-    "end": "2026-12-10",
+    "start": "2026-11-12",
+    "end": "2026-12-11",
     "days": 30
   },
   "evidenceStatus": {
@@ -15,10 +15,10 @@
   "categoryDistribution": {
     "AI": 4,
     "Image": 1,
-    "Text": 5,
+    "Text": 4,
     "Calculator": 4,
     "Converter": 4,
-    "Developer": 3,
+    "Developer": 4,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -31,26 +31,26 @@
   },
   "items": [
     {
-      "id": "2026-11-11-ai-social-caption-generator",
-      "date": "2026-11-11",
+      "id": "2026-11-12-ai-product-description-generator",
+      "date": "2026-11-12",
       "version": 2,
       "tool": {
-        "name": "AI Social Media Caption Generator",
-        "slug": "ai-social-caption-generator",
+        "name": "AI Product Description Generator",
+        "slug": "ai-product-description-generator",
         "category": "AI",
-        "description": "Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability."
+        "description": "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability."
       },
       "lesson": {
         "hook": "Want a draft you can actually review?",
         "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Describe the actual post; the assistant cannot see an image from a text description",
-        "check": "Use Short for a compact message and Long for more context, then check the platform’s current limits",
-        "takeaway": "Keep only hashtags that describe the post. Suggestions are not verified trends",
+        "action": "Enter the exact product name and factual feature list",
+        "check": "Describe the audience without inventing endorsements or customer results",
+        "takeaway": "Check materials, compatibility, certifications and included items against the real product",
         "factualBasis": [
-          "Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability.",
-          "Describe the actual post; the assistant cannot see an image from a text description.",
-          "Use Short for a compact message and Long for more context, then check the platform’s current limits.",
-          "Keep only hashtags that describe the post. Suggestions are not verified trends."
+          "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.",
+          "Enter the exact product name and factual feature list.",
+          "Describe the audience without inventing endorsements or customer results.",
+          "Check materials, compatibility, certifications and included items against the real product."
         ]
       },
       "score": {
@@ -71,19 +71,19 @@
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_social",
       "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Social Media Caption Generator",
+        "title": "Turn a clear brief into a draft that you can review: AI Product Description Generator",
         "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Social Media Caption Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Social Media Caption Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "message": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "caption": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
         "keywords": [
-          "AI Social Media Caption Generator",
+          "AI Product Description Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "social",
-          "caption",
+          "product",
+          "description",
           "generator",
           "step by step"
         ],
@@ -92,7 +92,7 @@
           "#AITools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -104,20 +104,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter the exact product name and factual feature list"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+            "voiceover": "Describe the audience without inventing endorsements or customer results"
           },
           {
             "seconds": "20–25",
@@ -128,16 +128,16 @@
         ]
       },
       "instagram": {
-        "title": "Want a draft you can actually review · AI Social Media Caption Generator",
+        "title": "Want a draft you can actually review · AI Product Description Generator",
         "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Social Media Caption Generator.\n\nDescribe the actual post; the assistant cannot see an image from a text description Keep only hashtags that describe the post. Suggestions are not verified trends\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.\n\nEnter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
         "keywords": [
-          "AI Social Media Caption Generator",
+          "AI Product Description Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "social",
-          "caption",
+          "product",
+          "description",
           "generator",
           "quick tutorial"
         ],
@@ -147,7 +147,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -159,20 +159,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter the exact product name and factual feature list"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+            "voiceover": "Describe the audience without inventing endorsements or customer results"
           },
           {
             "seconds": "20–25",
@@ -181,20 +181,20 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-11-ai-social-caption-generator.jpg"
+        "imagePath": "assets/2026-11-12-ai-product-description-generator.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Want a draft you can actually review | AI Social Media Caption Generator #Shorts",
+        "title": "Want a draft you can actually review | AI Product Description Generator #Shorts",
         "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Describe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+        "description": "Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
         "keywords": [
-          "AI Social Media Caption Generator",
+          "AI Product Description Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "social",
-          "caption",
+          "product",
+          "description",
           "generator",
           "how to"
         ],
@@ -204,7 +204,7 @@
           "#AITools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -215,20 +215,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter the exact product name and factual feature list"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+            "voiceover": "Describe the audience without inventing endorsements or customer results"
           },
           {
             "seconds": "20–25",
@@ -260,20 +260,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Enter the exact product name and factual feature list"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-            "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+            "voiceover": "Describe the audience without inventing endorsements or customer results"
           },
           {
             "seconds": "20–25",
@@ -293,20 +293,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter the exact product name and factual feature list"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-              "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+              "voiceover": "Describe the audience without inventing endorsements or customer results"
             },
             {
               "seconds": "20–25",
@@ -325,20 +325,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter the exact product name and factual feature list"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-              "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+              "voiceover": "Describe the audience without inventing endorsements or customer results"
             },
             {
               "seconds": "20–25",
@@ -357,20 +357,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Enter the exact product name and factual feature list"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-              "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+              "voiceover": "Describe the audience without inventing endorsements or customer results"
             },
             {
               "seconds": "20–25",
@@ -382,19 +382,19 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-11-ai-social-caption-generator.jpg",
-        "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-12-ai-product-description-generator.jpg",
+        "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.211Z",
+      "createdAt": "2026-11-11T19:56:49.929Z",
       "contentHashes": {
-        "facebook": "3c2b7ceb",
-        "instagram": "27d85196",
-        "youtube": "e5ede1a5"
+        "facebook": "1a8f88bb",
+        "instagram": "44b059c2",
+        "youtube": "17458c8"
       }
     },
     {
-      "id": "2026-11-12-image-rotate-flip",
-      "date": "2026-11-12",
+      "id": "2026-11-13-image-rotate-flip",
+      "date": "2026-11-13",
       "version": 2,
       "tool": {
         "name": "Image Rotate & Flip",
@@ -449,7 +449,7 @@
           "primaryKeyword": "read image metadata and EXIF"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_social",
       "facebook": {
         "title": "Adjust an image and inspect the exported file: Image Rotate & Flip",
         "hook": "Need to adjust an image?",
@@ -470,7 +470,7 @@
           "#ImageTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -508,7 +508,7 @@
       "instagram": {
         "title": "Need to adjust an image · Image Rotate & Flip",
         "hook": "Need to adjust an image?",
-        "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+        "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
         "keywords": [
           "Image Rotate & Flip",
           "Image tool",
@@ -525,7 +525,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -559,13 +559,13 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-12-image-rotate-flip.jpg"
+        "imagePath": "assets/2026-11-13-image-rotate-flip.jpg"
       },
       "youtube": {
         "status": "script_only",
         "title": "Need to adjust an image | Image Rotate & Flip #Shorts",
         "hook": "Need to adjust an image?",
-        "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+        "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
         "keywords": [
           "Image Rotate & Flip",
           "Image tool",
@@ -582,7 +582,7 @@
           "#ImageTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -760,19 +760,19 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-12-image-rotate-flip.jpg",
+        "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.214Z",
+      "createdAt": "2026-11-11T19:56:49.931Z",
       "contentHashes": {
         "facebook": "b56cdae6",
-        "instagram": "67307639",
-        "youtube": "e1e12cbe"
+        "instagram": "cf748d64",
+        "youtube": "63411079"
       }
     },
     {
-      "id": "2026-11-13-base64-converter",
-      "date": "2026-11-13",
+      "id": "2026-11-14-base64-converter",
+      "date": "2026-11-14",
       "version": 2,
       "tool": {
         "name": "Base64 Encoder/Decoder",
@@ -823,7 +823,7 @@
           "slug": "huzaifa-tools-guide"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_social",
       "facebook": {
         "title": "Work through a small text task and check the result: Base64 Encoder/Decoder",
         "hook": "Working through a text task?",
@@ -843,7 +843,7 @@
           "#TextTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -881,7 +881,7 @@
       "instagram": {
         "title": "Working through a text task · Base64 Encoder/Decoder",
         "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "caption": "Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
         "keywords": [
           "Base64 Encoder/Decoder",
           "Text tool",
@@ -897,7 +897,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -931,13 +931,13 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-13-base64-converter.jpg"
+        "imagePath": "assets/2026-11-14-base64-converter.jpg"
       },
       "youtube": {
         "status": "script_only",
         "title": "Working through a text task | Base64 Encoder/Decoder #Shorts",
         "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
         "keywords": [
           "Base64 Encoder/Decoder",
           "Text tool",
@@ -953,7 +953,7 @@
           "#TextTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -1131,386 +1131,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-13-base64-converter.jpg",
+        "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.216Z",
+      "createdAt": "2026-11-11T19:56:49.933Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
-        "instagram": "aaf45b2e",
-        "youtube": "c0a7fd6c"
-      }
-    },
-    {
-      "id": "2026-11-14-url-encoder",
-      "date": "2026-11-14",
-      "version": 2,
-      "tool": {
-        "name": "URL Encoder/Decoder",
-        "slug": "url-encoder",
-        "category": "Text",
-        "description": "Encode and decode URLs."
-      },
-      "lesson": {
-        "hook": "Working through a text task?",
-        "problem": "Work through a small text task and check the result",
-        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
-        "check": "Check the result against the requirements of your task.",
-        "takeaway": "Check the result against the requirements of your task.",
-        "factualBasis": [
-          "Encode and decode URLs."
-        ]
-      },
-      "score": {
-        "total": -26,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 8,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 34
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
-          "slug": "base64-encode-decode-utf8-text",
-          "primaryKeyword": "base64 encoder/decoder"
-        },
-        {
-          "title": "HTML Entities for Displayed Text: Encoding Is Not Sanitisation",
-          "slug": "html-entities-for-text-not-sanitization",
-          "primaryKeyword": "html entity encoder/decoder"
-        },
-        {
-          "title": "Percent-Encode a URL Component Without Breaking the Whole Address",
-          "slug": "percent-encode-a-url-component",
-          "primaryKeyword": "url encoder/decoder"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_social",
-      "facebook": {
-        "title": "Work through a small text task and check the result: URL Encoder/Decoder",
-        "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · URL Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · URL Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "keywords": [
-          "URL Encoder/Decoder",
-          "Text tool",
-          "Huzaifa Tools",
-          "url",
-          "encoder",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#TextTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Working through a text task · URL Encoder/Decoder",
-        "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of URL Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
-        "keywords": [
-          "URL Encoder/Decoder",
-          "Text tool",
-          "Huzaifa Tools",
-          "url",
-          "encoder",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#TextTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-14-url-encoder.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Working through a text task | URL Encoder/Decoder #Shorts",
-        "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
-        "keywords": [
-          "URL Encoder/Decoder",
-          "Text tool",
-          "Huzaifa Tools",
-          "url",
-          "encoder",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#TextTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Working through a text task?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-            "voiceover": "Check the result against the requirements of your task."
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Working through a text task?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
-              "voiceover": "Check the result against the requirements of your task."
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-14-url-encoder.jpg",
-        "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-11-10T20:09:05.217Z",
-      "contentHashes": {
-        "facebook": "125023a2",
-        "instagram": "1d493561",
-        "youtube": "35e38bcb"
+        "instagram": "f05397f9",
+        "youtube": "f0864025"
       }
     },
     {
@@ -1873,7 +1501,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.218Z",
+      "createdAt": "2026-11-11T19:56:49.934Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -2245,7 +1873,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.219Z",
+      "createdAt": "2026-11-11T19:56:49.935Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -2607,7 +2235,7 @@
         "imagePath": "assets/2026-11-17-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.219Z",
+      "createdAt": "2026-11-11T19:56:49.936Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "1f5ca4a5",
@@ -2615,26 +2243,26 @@
       }
     },
     {
-      "id": "2026-11-18-ai-product-description-generator",
+      "id": "2026-11-18-ai-resume-bullet-generator",
       "date": "2026-11-18",
       "version": 2,
       "tool": {
-        "name": "AI Product Description Generator",
-        "slug": "ai-product-description-generator",
+        "name": "AI Resume Bullet Generator",
+        "slug": "ai-resume-bullet-generator",
         "category": "AI",
-        "description": "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability."
+        "description": "Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability."
       },
       "lesson": {
         "hook": "Want a draft you can actually review?",
         "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Enter the exact product name and factual feature list",
-        "check": "Describe the audience without inventing endorsements or customer results",
-        "takeaway": "Check materials, compatibility, certifications and included items against the real product",
+        "action": "Describe your own contribution and distinguish it from the team’s work",
+        "check": "Only add measurements you can substantiate. A clear qualitative result is acceptable",
+        "takeaway": "Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments",
         "factualBasis": [
-          "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.",
-          "Enter the exact product name and factual feature list.",
-          "Describe the audience without inventing endorsements or customer results.",
-          "Check materials, compatibility, certifications and included items against the real product."
+          "Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.",
+          "Describe your own contribution and distinguish it from the team’s work.",
+          "Only add measurements you can substantiate. A clear qualitative result is acceptable.",
+          "Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments."
         ]
       },
       "score": {
@@ -2655,19 +2283,19 @@
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_social",
       "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Product Description Generator",
+        "title": "Turn a clear brief into a draft that you can review: AI Resume Bullet Generator",
         "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "message": "QUICK WALKTHROUGH · AI Resume Bullet Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "caption": "QUICK WALKTHROUGH · AI Resume Bullet Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
         "keywords": [
-          "AI Product Description Generator",
+          "AI Resume Bullet Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "product",
-          "description",
+          "resume",
+          "bullet",
           "generator",
           "step by step"
         ],
@@ -2676,7 +2304,7 @@
           "#AITools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -2688,20 +2316,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
+            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
+            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
           },
           {
             "seconds": "20–25",
@@ -2712,16 +2340,16 @@
         ]
       },
       "instagram": {
-        "title": "Want a draft you can actually review · AI Product Description Generator",
+        "title": "Want a draft you can actually review · AI Resume Bullet Generator",
         "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.\n\nEnter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.\n\nDescribe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
         "keywords": [
-          "AI Product Description Generator",
+          "AI Resume Bullet Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "product",
-          "description",
+          "resume",
+          "bullet",
           "generator",
           "quick tutorial"
         ],
@@ -2731,7 +2359,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -2743,20 +2371,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
+            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
+            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
           },
           {
             "seconds": "20–25",
@@ -2765,20 +2393,20 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-18-ai-product-description-generator.jpg"
+        "imagePath": "assets/2026-11-18-ai-resume-bullet-generator.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Want a draft you can actually review | AI Product Description Generator #Shorts",
+        "title": "Want a draft you can actually review | AI Resume Bullet Generator #Shorts",
         "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+        "description": "Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
         "keywords": [
-          "AI Product Description Generator",
+          "AI Resume Bullet Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "product",
-          "description",
+          "resume",
+          "bullet",
           "generator",
           "how to"
         ],
@@ -2788,7 +2416,7 @@
           "#AITools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -2799,20 +2427,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
+            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
+            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
           },
           {
             "seconds": "20–25",
@@ -2844,20 +2472,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
+            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
+            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
           },
           {
             "seconds": "20–25",
@@ -2877,20 +2505,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter the exact product name and factual feature list"
+              "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Describe your own contribution and distinguish it from the team’s work"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-              "voiceover": "Describe the audience without inventing endorsements or customer results"
+              "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+              "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
             },
             {
               "seconds": "20–25",
@@ -2909,20 +2537,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter the exact product name and factual feature list"
+              "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Describe your own contribution and distinguish it from the team’s work"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-              "voiceover": "Describe the audience without inventing endorsements or customer results"
+              "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+              "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
             },
             {
               "seconds": "20–25",
@@ -2941,20 +2569,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter the exact product name and factual feature list"
+              "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Describe your own contribution and distinguish it from the team’s work"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-              "voiceover": "Describe the audience without inventing endorsements or customer results"
+              "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
+              "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
             },
             {
               "seconds": "20–25",
@@ -2966,14 +2594,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-18-ai-product-description-generator.jpg",
-        "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-18-ai-resume-bullet-generator.jpg",
+        "alt": "AI Resume Bullet Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.220Z",
+      "createdAt": "2026-11-11T19:56:49.937Z",
       "contentHashes": {
-        "facebook": "1a8f88bb",
-        "instagram": "5a5c98c0",
-        "youtube": "10e7e426"
+        "facebook": "9e87096",
+        "instagram": "12d90ba6",
+        "youtube": "5a33ed93"
       }
     },
     {
@@ -3341,7 +2969,7 @@
         "imagePath": "assets/2026-11-19-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.221Z",
+      "createdAt": "2026-11-11T19:56:49.938Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "77105eaf",
@@ -3716,7 +3344,7 @@
         "imagePath": "assets/2026-11-20-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.223Z",
+      "createdAt": "2026-11-11T19:56:49.939Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "ed0b1d5d",
@@ -4080,7 +3708,7 @@
         "imagePath": "assets/2026-11-21-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.224Z",
+      "createdAt": "2026-11-11T19:56:49.940Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "b02ce2c9",
@@ -4108,7 +3736,7 @@
         ]
       },
       "score": {
-        "total": -60.02,
+        "total": -26.02,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -4120,7 +3748,7 @@
             "relatedArticleCount": 1,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -4445,7 +4073,7 @@
         "imagePath": "assets/2026-11-22-lorem-ipsum-generator.jpg",
         "alt": "Lorem Ipsum Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.224Z",
+      "createdAt": "2026-11-11T19:56:49.941Z",
       "contentHashes": {
         "facebook": "e1ecbd4e",
         "instagram": "8f6f968c",
@@ -4807,7 +4435,7 @@
         "imagePath": "assets/2026-11-23-mortgage-calculator.jpg",
         "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.225Z",
+      "createdAt": "2026-11-11T19:56:49.942Z",
       "contentHashes": {
         "facebook": "408265f7",
         "instagram": "f2feea4c",
@@ -5174,7 +4802,7 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.226Z",
+      "createdAt": "2026-11-11T19:56:49.943Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
@@ -5546,7 +5174,7 @@
         "imagePath": "assets/2026-11-25-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.227Z",
+      "createdAt": "2026-11-11T19:56:49.943Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "cc70d07d",
@@ -5554,26 +5182,26 @@
       }
     },
     {
-      "id": "2026-11-26-ai-resume-bullet-generator",
+      "id": "2026-11-26-ai-cover-letter-assistant",
       "date": "2026-11-26",
       "version": 2,
       "tool": {
-        "name": "AI Resume Bullet Generator",
-        "slug": "ai-resume-bullet-generator",
+        "name": "AI Cover Letter Assistant",
+        "slug": "ai-cover-letter-assistant",
         "category": "AI",
-        "description": "Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability."
+        "description": "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability."
       },
       "lesson": {
         "hook": "Want a draft you can actually review?",
         "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Describe your own contribution and distinguish it from the team’s work",
-        "check": "Only add measurements you can substantiate. A clear qualitative result is acceptable",
-        "takeaway": "Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments",
+        "action": "Keep your experience separate from skills the employer asks for",
+        "check": "Add the company name only if useful; no contact address or phone number is needed",
+        "takeaway": "Check every claim and replace generic wording with a truthful detail before sending",
         "factualBasis": [
-          "Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.",
-          "Describe your own contribution and distinguish it from the team’s work.",
-          "Only add measurements you can substantiate. A clear qualitative result is acceptable.",
-          "Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments."
+          "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.",
+          "Keep your experience separate from skills the employer asks for.",
+          "Add the company name only if useful; no contact address or phone number is needed.",
+          "Check every claim and replace generic wording with a truthful detail before sending."
         ]
       },
       "score": {
@@ -5594,20 +5222,20 @@
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_social",
       "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Resume Bullet Generator",
+        "title": "Turn a clear brief into a draft that you can review: AI Cover Letter Assistant",
         "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Resume Bullet Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Resume Bullet Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "message": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "caption": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
         "keywords": [
-          "AI Resume Bullet Generator",
+          "AI Cover Letter Assistant",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "resume",
-          "bullet",
-          "generator",
+          "cover",
+          "letter",
+          "assistant",
           "step by step"
         ],
         "hashtags": [
@@ -5615,7 +5243,7 @@
           "#AITools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -5627,20 +5255,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Keep your experience separate from skills the employer asks for"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
           },
           {
             "seconds": "20–25",
@@ -5651,17 +5279,17 @@
         ]
       },
       "instagram": {
-        "title": "Want a draft you can actually review · AI Resume Bullet Generator",
+        "title": "Want a draft you can actually review · AI Cover Letter Assistant",
         "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.\n\nDescribe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.\n\nKeep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
         "keywords": [
-          "AI Resume Bullet Generator",
+          "AI Cover Letter Assistant",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "resume",
-          "bullet",
-          "generator",
+          "cover",
+          "letter",
+          "assistant",
           "quick tutorial"
         ],
         "hashtags": [
@@ -5670,7 +5298,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -5682,20 +5310,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Keep your experience separate from skills the employer asks for"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
           },
           {
             "seconds": "20–25",
@@ -5704,21 +5332,21 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-11-26-ai-resume-bullet-generator.jpg"
+        "imagePath": "assets/2026-11-26-ai-cover-letter-assistant.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Want a draft you can actually review | AI Resume Bullet Generator #Shorts",
+        "title": "Want a draft you can actually review | AI Cover Letter Assistant #Shorts",
         "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+        "description": "Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
         "keywords": [
-          "AI Resume Bullet Generator",
+          "AI Cover Letter Assistant",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "resume",
-          "bullet",
-          "generator",
+          "cover",
+          "letter",
+          "assistant",
           "how to"
         ],
         "hashtags": [
@@ -5727,7 +5355,7 @@
           "#AITools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -5738,20 +5366,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Keep your experience separate from skills the employer asks for"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
           },
           {
             "seconds": "20–25",
@@ -5783,20 +5411,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Keep your experience separate from skills the employer asks for"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-            "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
           },
           {
             "seconds": "20–25",
@@ -5816,20 +5444,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+              "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Keep your experience separate from skills the employer asks for"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-              "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+              "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+              "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
             },
             {
               "seconds": "20–25",
@@ -5848,20 +5476,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+              "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Keep your experience separate from skills the employer asks for"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-              "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+              "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+              "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
             },
             {
               "seconds": "20–25",
@@ -5880,20 +5508,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+              "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+              "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Keep your experience separate from skills the employer asks for"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-              "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+              "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+              "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
             },
             {
               "seconds": "20–25",
@@ -5905,14 +5533,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-11-26-ai-resume-bullet-generator.jpg",
-        "alt": "AI Resume Bullet Generator practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-11-26-ai-cover-letter-assistant.jpg",
+        "alt": "AI Cover Letter Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.227Z",
+      "createdAt": "2026-11-11T19:56:49.944Z",
       "contentHashes": {
-        "facebook": "9e87096",
-        "instagram": "a14f1d61",
-        "youtube": "b4f1a72"
+        "facebook": "1a49c3cf",
+        "instagram": "4f3b6a4e",
+        "youtube": "3813a9de"
       }
     },
     {
@@ -6280,7 +5908,7 @@
         "imagePath": "assets/2026-11-27-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.229Z",
+      "createdAt": "2026-11-11T19:56:49.945Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "28346f9f",
@@ -6652,7 +6280,7 @@
         "imagePath": "assets/2026-11-28-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.230Z",
+      "createdAt": "2026-11-11T19:56:49.946Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "7822fb96",
@@ -7027,7 +6655,7 @@
         "imagePath": "assets/2026-11-29-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.231Z",
+      "createdAt": "2026-11-11T19:56:49.948Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "6d90599a",
@@ -7055,7 +6683,7 @@
         ]
       },
       "score": {
-        "total": -94.01,
+        "total": -60.01,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -7067,7 +6695,7 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -7402,7 +7030,7 @@
         "imagePath": "assets/2026-11-30-text-diff-checker.jpg",
         "alt": "Text Diff Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.232Z",
+      "createdAt": "2026-11-11T19:56:49.948Z",
       "contentHashes": {
         "facebook": "d8bcd66b",
         "instagram": "8cd4cfd2",
@@ -7774,7 +7402,7 @@
         "imagePath": "assets/2026-12-01-compound-interest.jpg",
         "alt": "Compound Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.233Z",
+      "createdAt": "2026-11-11T19:56:49.949Z",
       "contentHashes": {
         "facebook": "2ce4b5be",
         "instagram": "c2d81c6c",
@@ -8141,7 +7769,7 @@
         "imagePath": "assets/2026-12-02-speed-converter.jpg",
         "alt": "Speed Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.233Z",
+      "createdAt": "2026-11-11T19:56:49.949Z",
       "contentHashes": {
         "facebook": "90466f0",
         "instagram": "2a4b87c8",
@@ -8516,7 +8144,7 @@
         "imagePath": "assets/2026-12-03-unix-timestamp-converter.jpg",
         "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.234Z",
+      "createdAt": "2026-11-11T19:56:49.950Z",
       "contentHashes": {
         "facebook": "c09c1323",
         "instagram": "26afebdd",
@@ -8524,30 +8152,30 @@
       }
     },
     {
-      "id": "2026-12-04-ai-cover-letter-assistant",
+      "id": "2026-12-04-ai-faq-generator",
       "date": "2026-12-04",
       "version": 2,
       "tool": {
-        "name": "AI Cover Letter Assistant",
-        "slug": "ai-cover-letter-assistant",
+        "name": "AI FAQ Generator",
+        "slug": "ai-faq-generator",
         "category": "AI",
-        "description": "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability."
+        "description": "Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability."
       },
       "lesson": {
         "hook": "Want a draft you can actually review?",
         "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Keep your experience separate from skills the employer asks for",
-        "check": "Add the company name only if useful; no contact address or phone number is needed",
-        "takeaway": "Check every claim and replace generic wording with a truthful detail before sending",
+        "action": "Supply real policies instead of asking the assistant to make them up",
+        "check": "Choose a focused question count and avoid repetitive questions",
+        "takeaway": "Resolve unanswered facts and review every answer before publishing",
         "factualBasis": [
-          "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.",
-          "Keep your experience separate from skills the employer asks for.",
-          "Add the company name only if useful; no contact address or phone number is needed.",
-          "Check every claim and replace generic wording with a truthful detail before sending."
+          "Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability.",
+          "Supply real policies instead of asking the assistant to make them up.",
+          "Choose a focused question count and avoid repetitive questions.",
+          "Resolve unanswered facts and review every answer before publishing."
         ]
       },
       "score": {
-        "total": -86.05,
+        "total": -86.06,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -8564,28 +8192,28 @@
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_social",
       "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Cover Letter Assistant",
+        "title": "Turn a clear brief into a draft that you can review: AI FAQ Generator",
         "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "message": "QUICK WALKTHROUGH · AI FAQ Generator\n\nTurn a clear brief into a draft that you can review.\n\nSupply real policies instead of asking the assistant to make them up\n\nChoose a focused question count and avoid repetitive questions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "caption": "QUICK WALKTHROUGH · AI FAQ Generator\n\nTurn a clear brief into a draft that you can review.\n\nSupply real policies instead of asking the assistant to make them up\n\nChoose a focused question count and avoid repetitive questions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
         "keywords": [
-          "AI Cover Letter Assistant",
+          "AI FAQ Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "cover",
-          "letter",
-          "assistant",
-          "step by step"
+          "faq",
+          "generator",
+          "step by step",
+          "online utility"
         ],
         "hashtags": [
           "#HuzaifaTools",
           "#AITools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -8597,20 +8225,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+            "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Keep your experience separate from skills the employer asks for"
+            "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Supply real policies instead of asking the assistant to make them up"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+            "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose a focused question count and avoid repetitive questions"
           },
           {
             "seconds": "20–25",
@@ -8621,18 +8249,18 @@
         ]
       },
       "instagram": {
-        "title": "Want a draft you can actually review · AI Cover Letter Assistant",
+        "title": "Want a draft you can actually review · AI FAQ Generator",
         "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.\n\nKeep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI FAQ Generator.\n\nSupply real policies instead of asking the assistant to make them up Resolve unanswered facts and review every answer before publishing\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
         "keywords": [
-          "AI Cover Letter Assistant",
+          "AI FAQ Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "cover",
-          "letter",
-          "assistant",
-          "quick tutorial"
+          "faq",
+          "generator",
+          "quick tutorial",
+          "practical tip"
         ],
         "hashtags": [
           "#HuzaifaTools",
@@ -8640,7 +8268,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -8652,20 +8280,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+            "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Keep your experience separate from skills the employer asks for"
+            "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Supply real policies instead of asking the assistant to make them up"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+            "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose a focused question count and avoid repetitive questions"
           },
           {
             "seconds": "20–25",
@@ -8674,22 +8302,22 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-12-04-ai-cover-letter-assistant.jpg"
+        "imagePath": "assets/2026-12-04-ai-faq-generator.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Want a draft you can actually review | AI Cover Letter Assistant #Shorts",
+        "title": "Want a draft you can actually review | AI FAQ Generator #Shorts",
         "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+        "description": "Turn a clear brief into a draft that you can review. Supply real policies instead of asking the assistant to make them up\n\nChoose a focused question count and avoid repetitive questions\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
         "keywords": [
-          "AI Cover Letter Assistant",
+          "AI FAQ Generator",
           "AI tool",
           "Huzaifa Tools",
           "ai",
-          "cover",
-          "letter",
-          "assistant",
-          "how to"
+          "faq",
+          "generator",
+          "how to",
+          "short tutorial"
         ],
         "hashtags": [
           "#Shorts",
@@ -8697,7 +8325,7 @@
           "#AITools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -8708,20 +8336,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+            "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Keep your experience separate from skills the employer asks for"
+            "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Supply real policies instead of asking the assistant to make them up"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+            "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose a focused question count and avoid repetitive questions"
           },
           {
             "seconds": "20–25",
@@ -8753,20 +8381,20 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+            "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
           },
           {
             "seconds": "7–14",
             "goal": "Demonstrate",
-            "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Keep your experience separate from skills the employer asks for"
+            "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Supply real policies instead of asking the assistant to make them up"
           },
           {
             "seconds": "14–20",
             "goal": "Teach a check",
-            "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-            "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+            "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose a focused question count and avoid repetitive questions"
           },
           {
             "seconds": "20–25",
@@ -8786,20 +8414,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+              "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Keep your experience separate from skills the employer asks for"
+              "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Supply real policies instead of asking the assistant to make them up"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-              "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+              "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+              "voiceover": "Choose a focused question count and avoid repetitive questions"
             },
             {
               "seconds": "20–25",
@@ -8818,20 +8446,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+              "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Keep your experience separate from skills the employer asks for"
+              "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Supply real policies instead of asking the assistant to make them up"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-              "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+              "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+              "voiceover": "Choose a focused question count and avoid repetitive questions"
             },
             {
               "seconds": "20–25",
@@ -8850,20 +8478,20 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+              "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
             },
             {
               "seconds": "7–14",
               "goal": "Demonstrate",
-              "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Keep your experience separate from skills the employer asks for"
+              "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Supply real policies instead of asking the assistant to make them up"
             },
             {
               "seconds": "14–20",
               "goal": "Teach a check",
-              "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-              "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+              "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+              "voiceover": "Choose a focused question count and avoid repetitive questions"
             },
             {
               "seconds": "20–25",
@@ -8875,14 +8503,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-12-04-ai-cover-letter-assistant.jpg",
-        "alt": "AI Cover Letter Assistant practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-12-04-ai-faq-generator.jpg",
+        "alt": "AI FAQ Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.235Z",
+      "createdAt": "2026-11-11T19:56:49.951Z",
       "contentHashes": {
-        "facebook": "1a49c3cf",
-        "instagram": "95b0e067",
-        "youtube": "f3705539"
+        "facebook": "c0737da1",
+        "instagram": "fd1bcf7a",
+        "youtube": "174a9227"
       }
     },
     {
@@ -9245,7 +8873,7 @@
         "imagePath": "assets/2026-12-05-roi-calculator.jpg",
         "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.236Z",
+      "createdAt": "2026-11-11T19:56:49.953Z",
       "contentHashes": {
         "facebook": "64d92781",
         "instagram": "fba6dc5",
@@ -9612,7 +9240,7 @@
         "imagePath": "assets/2026-12-06-retirement-calculator.jpg",
         "alt": "Retirement Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.238Z",
+      "createdAt": "2026-11-11T19:56:49.954Z",
       "contentHashes": {
         "facebook": "3c4e410",
         "instagram": "42caa3cb",
@@ -9979,7 +9607,7 @@
         "imagePath": "assets/2026-12-07-bmr-calculator.jpg",
         "alt": "BMR Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.239Z",
+      "createdAt": "2026-11-11T19:56:49.955Z",
       "contentHashes": {
         "facebook": "48128f34",
         "instagram": "13098928",
@@ -9987,14 +9615,14 @@
       }
     },
     {
-      "id": "2026-12-08-url-slug-generator",
+      "id": "2026-12-08-url-encoder",
       "date": "2026-12-08",
       "version": 2,
       "tool": {
-        "name": "URL Slug Generator",
-        "slug": "url-slug-generator",
+        "name": "URL Encoder/Decoder",
+        "slug": "url-encoder",
         "category": "Text",
-        "description": "Generate URL-friendly slugs."
+        "description": "Encode and decode URLs."
       },
       "lesson": {
         "hook": "Working through a text task?",
@@ -10003,11 +9631,11 @@
         "check": "Check the result against the requirements of your task.",
         "takeaway": "Check the result against the requirements of your task.",
         "factualBasis": [
-          "Generate URL-friendly slugs."
+          "Encode and decode URLs."
         ]
       },
       "score": {
-        "total": -128.04,
+        "total": -94.04,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 8,
@@ -10019,40 +9647,39 @@
             "relatedArticleCount": 3,
             "editorialGapBoost": 0
           },
-          "categoryBalancePenalty": 136
+          "categoryBalancePenalty": 102
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
       "articleReferences": [
         {
-          "title": "Draft Page Meta Tags, Then Verify the Rendered Head",
-          "slug": "draft-and-verify-page-meta-tags",
-          "primaryKeyword": "meta tag generator"
+          "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
+          "slug": "base64-encode-decode-utf8-text",
+          "primaryKeyword": "base64 encoder/decoder"
+        },
+        {
+          "title": "HTML Entities for Displayed Text: Encoding Is Not Sanitisation",
+          "slug": "html-entities-for-text-not-sanitization",
+          "primaryKeyword": "html entity encoder/decoder"
         },
         {
           "title": "Percent-Encode a URL Component Without Breaking the Whole Address",
           "slug": "percent-encode-a-url-component",
           "primaryKeyword": "url encoder/decoder"
-        },
-        {
-          "title": "Create a Readable URL Slug and Plan for Its Future",
-          "slug": "create-a-readable-url-slug",
-          "primaryKeyword": "url slug generator"
         }
       ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_social",
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_social",
       "facebook": {
-        "title": "Work through a small text task and check the result: URL Slug Generator",
+        "title": "Work through a small text task and check the result: URL Encoder/Decoder",
         "hook": "Working through a text task?",
-        "message": "QUICK WALKTHROUGH · URL Slug Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-        "caption": "QUICK WALKTHROUGH · URL Slug Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "message": "QUICK WALKTHROUGH · URL Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+        "caption": "QUICK WALKTHROUGH · URL Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
         "keywords": [
-          "URL Slug Generator",
+          "URL Encoder/Decoder",
           "Text tool",
           "Huzaifa Tools",
           "url",
-          "slug",
-          "generator",
+          "encoder",
           "step by step",
           "online utility"
         ],
@@ -10061,7 +9688,7 @@
           "#TextTools"
         ],
         "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_facebook",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_facebook",
         "linkPlacement": "Facebook Page link attachment",
         "reelScript": [
           {
@@ -10073,8 +9700,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
           },
           {
             "seconds": "7–14",
@@ -10097,16 +9724,15 @@
         ]
       },
       "instagram": {
-        "title": "Working through a text task · URL Slug Generator",
+        "title": "Working through a text task · URL Encoder/Decoder",
         "hook": "Working through a text task?",
-        "caption": "Working through a text task? Here is a short, practical demo of URL Slug Generator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+        "caption": "Working through a text task? Here is a short, practical demo of URL Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
         "keywords": [
-          "URL Slug Generator",
+          "URL Encoder/Decoder",
           "Text tool",
           "Huzaifa Tools",
           "url",
-          "slug",
-          "generator",
+          "encoder",
           "quick tutorial",
           "practical tip"
         ],
@@ -10116,7 +9742,7 @@
           "#QuickTutorial"
         ],
         "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_instagram",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_instagram",
         "linkPlacement": "plain-text caption URL; not guaranteed tappable",
         "reelScript": [
           {
@@ -10128,8 +9754,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
           },
           {
             "seconds": "7–14",
@@ -10150,20 +9776,19 @@
             "voiceover": "Save this Reel and follow for more practical walkthroughs."
           }
         ],
-        "imagePath": "assets/2026-12-08-url-slug-generator.jpg"
+        "imagePath": "assets/2026-12-08-url-encoder.jpg"
       },
       "youtube": {
         "status": "script_only",
-        "title": "Working through a text task | URL Slug Generator #Shorts",
+        "title": "Working through a text task | URL Encoder/Decoder #Shorts",
         "hook": "Working through a text task?",
-        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+        "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
         "keywords": [
-          "URL Slug Generator",
+          "URL Encoder/Decoder",
           "Text tool",
           "Huzaifa Tools",
           "url",
-          "slug",
-          "generator",
+          "encoder",
           "how to",
           "short tutorial"
         ],
@@ -10173,7 +9798,7 @@
           "#TextTools"
         ],
         "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_youtube",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_youtube",
         "shortVideoScript": [
           {
             "seconds": "0–3",
@@ -10184,8 +9809,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
           },
           {
             "seconds": "7–14",
@@ -10229,8 +9854,8 @@
           {
             "seconds": "3–7",
             "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+            "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
           },
           {
             "seconds": "7–14",
@@ -10262,8 +9887,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
             },
             {
               "seconds": "7–14",
@@ -10294,8 +9919,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
             },
             {
               "seconds": "7–14",
@@ -10326,8 +9951,8 @@
             {
               "seconds": "3–7",
               "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using URL Slug Generator."
+              "visual": "Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using URL Encoder/Decoder."
             },
             {
               "seconds": "7–14",
@@ -10351,14 +9976,14 @@
         }
       },
       "asset": {
-        "imagePath": "assets/2026-12-08-url-slug-generator.jpg",
-        "alt": "URL Slug Generator practical walkthrough card for Huzaifa Tools"
+        "imagePath": "assets/2026-12-08-url-encoder.jpg",
+        "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.239Z",
+      "createdAt": "2026-11-11T19:56:49.956Z",
       "contentHashes": {
-        "facebook": "ff23dcd5",
-        "instagram": "685ac008",
-        "youtube": "9603f3f5"
+        "facebook": "125023a2",
+        "instagram": "5dbec099",
+        "youtube": "c2d38833"
       }
     },
     {
@@ -10716,7 +10341,7 @@
         "imagePath": "assets/2026-12-09-tip-calculator.jpg",
         "alt": "Tip Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.240Z",
+      "createdAt": "2026-11-11T19:56:49.956Z",
       "contentHashes": {
         "facebook": "ce17cefa",
         "instagram": "594142e2",
@@ -11088,11 +10713,386 @@
         "imagePath": "assets/2026-12-10-energy-converter.jpg",
         "alt": "Energy Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-10T20:09:05.241Z",
+      "createdAt": "2026-11-11T19:56:49.957Z",
       "contentHashes": {
         "facebook": "7c3a99ff",
         "instagram": "a52ef9c2",
         "youtube": "79fe1239"
+      }
+    },
+    {
+      "id": "2026-12-11-html-entity-converter",
+      "date": "2026-12-11",
+      "version": 2,
+      "tool": {
+        "name": "HTML Entity Encoder/Decoder",
+        "slug": "html-entity-converter",
+        "category": "Developer",
+        "description": "Encode and decode HTML entities instantly."
+      },
+      "lesson": {
+        "hook": "Need to inspect a small sample?",
+        "problem": "Inspect a small, non-sensitive sample before using the output",
+        "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
+        "check": "Use a small, non-sensitive sample and inspect the output before using it.",
+        "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
+        "factualBasis": [
+          "Encode and decode HTML entities instantly."
+        ]
+      },
+      "score": {
+        "total": -94.02,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 8,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 3,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "HTML Entities for Displayed Text: Encoding Is Not Sanitisation",
+          "slug": "html-entities-for-text-not-sanitization",
+          "primaryKeyword": "html entity encoder/decoder"
+        },
+        {
+          "title": "Inspect HTML Indentation Without Confusing Formatting with Validation",
+          "slug": "inspect-html-indentation-without-changing-intent",
+          "primaryKeyword": "html formatter"
+        },
+        {
+          "title": "Draft Page Meta Tags, Then Verify the Rendered Head",
+          "slug": "draft-and-verify-page-meta-tags",
+          "primaryKeyword": "meta tag generator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_social",
+      "facebook": {
+        "title": "Inspect a small, non-sensitive sample before using the output: HTML Entity Encoder/Decoder",
+        "hook": "Need to inspect a small sample?",
+        "message": "QUICK WALKTHROUGH · HTML Entity Encoder/Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "caption": "QUICK WALKTHROUGH · HTML Entity Encoder/Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+        "keywords": [
+          "HTML Entity Encoder/Decoder",
+          "Developer tool",
+          "Huzaifa Tools",
+          "html",
+          "entity",
+          "converter",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#DeveloperTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need to inspect a small sample · HTML Entity Encoder/Decoder",
+        "hook": "Need to inspect a small sample?",
+        "caption": "Need to inspect a small sample? Here is a short, practical demo of HTML Entity Encoder/Decoder.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+        "keywords": [
+          "HTML Entity Encoder/Decoder",
+          "Developer tool",
+          "Huzaifa Tools",
+          "html",
+          "entity",
+          "converter",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#DeveloperTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-12-11-html-entity-converter.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need to inspect a small sample | HTML Entity Encoder/Decoder #Shorts",
+        "hook": "Need to inspect a small sample?",
+        "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+        "keywords": [
+          "HTML Entity Encoder/Decoder",
+          "Developer tool",
+          "Huzaifa Tools",
+          "html",
+          "entity",
+          "converter",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#DeveloperTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need to inspect a small sample?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+            "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need to inspect a small sample?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using HTML Entity Encoder/Decoder."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
+              "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-12-11-html-entity-converter.jpg",
+        "alt": "HTML Entity Encoder/Decoder practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-11-11T19:56:49.958Z",
+      "contentHashes": {
+        "facebook": "ced9d55e",
+        "instagram": "51a30059",
+        "youtube": "c71dffc8"
       }
     }
   ]

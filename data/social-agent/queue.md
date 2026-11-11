@@ -1,19 +1,18 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-11 to 2026-12-10 (Asia/Karachi)
+Window: 2026-11-12 to 2026-12-11 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-11 | AI Social Media Caption Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-12 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-13 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-14 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-12 | AI Product Description Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-13 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-16 | Volume Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-17 | Regex Tester | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-18 | AI Product Description Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-18 | AI Resume Bullet Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-19 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-20 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-21 | Stopwatch | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -21,7 +20,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-11-23 | Mortgage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-24 | Area Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-25 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-26 | AI Resume Bullet Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-26 | AI Cover Letter Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-27 | Prime Number Checker | Number | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-28 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-29 | Meta Tag Generator | SEO | Need a quick way to generate seo, open graph, and twitter meta tags? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -29,115 +28,116 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-01 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-02 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-03 | Unix Timestamp Converter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-04 | AI Cover Letter Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-04 | AI FAQ Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-05 | ROI Calculator | Business | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-06 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-07 | BMR Calculator | Health | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-08 | URL Slug Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-08 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-09 | Tip Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-10 | Energy Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-11 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
-## 2026-11-11 · AI Social Media Caption Generator
+## 2026-11-12 · AI Product Description Generator
 
-**Category:** AI · **Tool:** Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Describe the actual post; the assistant cannot see an image from a text description
+**Useful action:** Enter the exact product name and factual feature list
 
-**Check:** Use Short for a compact message and Long for more context, then check the platform’s current limits
+**Check:** Describe the audience without inventing endorsements or customer results
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Social Media Caption Generator
+**Title:** Turn a clear brief into a draft that you can review: AI Product Description Generator
 
-QUICK WALKTHROUGH · AI Social Media Caption Generator
+QUICK WALKTHROUGH · AI Product Description Generator
 
 Turn a clear brief into a draft that you can review.
 
-Describe the actual post; the assistant cannot see an image from a text description
+Enter the exact product name and factual feature list
 
-Use Short for a compact message and Long for more context, then check the platform’s current limits
+Describe the audience without inventing endorsements or customer results
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Social Media Caption Generator, AI tool, Huzaifa Tools, ai, social, caption, generator, step by step
+**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, step by step
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Social Media Caption Generator
+**Title:** Want a draft you can actually review · AI Product Description Generator
 
-Want a draft you can actually review? Here is a short, practical demo of AI Social Media Caption Generator.
+Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.
 
-Describe the actual post; the assistant cannot see an image from a text description Keep only hashtags that describe the post. Suggestions are not verified trends
+Enter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Social Media Caption Generator, AI tool, Huzaifa Tools, ai, social, caption, generator, quick tutorial
+**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, quick tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Social Media Caption Generator #Shorts
+**Title:** Want a draft you can actually review | AI Product Description Generator #Shorts
 
-Turn a clear brief into a draft that you can review. Describe the actual post; the assistant cannot see an image from a text description
+Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list
 
-Use Short for a compact message and Long for more context, then check the platform’s current limits
+Describe the audience without inventing endorsements or customer results
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Social Media Caption Generator, AI tool, Huzaifa Tools, ai, social, caption, generator, how to
+**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, how to
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Social Media Caption Generator.”
-- **7–14s · Demonstrate:** Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe the actual post; the assistant cannot see an image from a text description”
-- **14–20s · Teach a check:** Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result. Voiceover: “Use Short for a compact message and Long for more context, then check the platform’s current limits”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
+- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
+- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Social Media Caption Generator.”
-- **7–14s · Demonstrate:** Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe the actual post; the assistant cannot see an image from a text description”
-- **14–20s · Teach a check:** Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result. Voiceover: “Use Short for a compact message and Long for more context, then check the platform’s current limits”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
+- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
+- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Social Media Caption Generator.”
-- **7–14s · Demonstrate:** Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe the actual post; the assistant cannot see an image from a text description”
-- **14–20s · Teach a check:** Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result. Voiceover: “Use Short for a compact message and Long for more context, then check the platform’s current limits”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
+- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
+- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-11-ai-social-caption-generator.jpg
+**JPEG preview:** assets/2026-11-12-ai-product-description-generator.jpg
 
 ---
 
-## 2026-11-12 · Image Rotate & Flip
+## 2026-11-13 · Image Rotate & Flip
 
 **Category:** Image · **Tool:** Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.
 
@@ -167,7 +167,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook
 
 ### Instagram Reels
 
@@ -179,7 +179,7 @@ Choose an image Create a preview and download the result
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -187,7 +187,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -199,7 +199,7 @@ Adjust an image and inspect the exported file. Choose an image
 
 Select a clockwise rotation and optional flips
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -207,7 +207,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=image-rotate-flip_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube
 
 ### Facebook Reels storyboard
 
@@ -233,11 +233,11 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-12-image-rotate-flip.jpg
+**JPEG preview:** assets/2026-11-13-image-rotate-flip.jpg
 
 ---
 
-## 2026-11-13 · Base64 Encoder/Decoder
+## 2026-11-14 · Base64 Encoder/Decoder
 
 **Category:** Text · **Tool:** Encode and decode Base64 strings.
 
@@ -267,7 +267,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook
 
 ### Instagram Reels
 
@@ -279,7 +279,7 @@ Try a short, non-sensitive example and compare the output with what your task re
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -287,7 +287,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -299,7 +299,7 @@ Work through a small text task and check the result. Try a short, non-sensitive 
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -307,7 +307,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** Base64 Encoder/Decoder, Text tool, Huzaifa Tools, base64, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=base64-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube
 
 ### Facebook Reels storyboard
 
@@ -333,107 +333,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-13-base64-converter.jpg
-
----
-
-## 2026-11-14 · URL Encoder/Decoder
-
-**Category:** Text · **Tool:** Encode and decode URLs.
-
-**Hook:** Working through a text task?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Work through a small text task and check the result: URL Encoder/Decoder
-
-QUICK WALKTHROUGH · URL Encoder/Decoder
-
-Work through a small text task and check the result.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #TextTools
-
-**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_facebook
-
-### Instagram Reels
-
-**Title:** Working through a text task · URL Encoder/Decoder
-
-Working through a text task? Here is a short, practical demo of URL Encoder/Decoder.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #TextTools #QuickTutorial
-
-**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Working through a text task | URL Encoder/Decoder #Shorts
-
-Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #TextTools
-
-**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=url-encoder_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-14-url-encoder.jpg
+**JPEG preview:** assets/2026-11-14-base64-converter.jpg
 
 ---
 
@@ -737,103 +637,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-18 · AI Product Description Generator
+## 2026-11-18 · AI Resume Bullet Generator
 
-**Category:** AI · **Tool:** Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Enter the exact product name and factual feature list
+**Useful action:** Describe your own contribution and distinguish it from the team’s work
 
-**Check:** Describe the audience without inventing endorsements or customer results
+**Check:** Only add measurements you can substantiate. A clear qualitative result is acceptable
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Product Description Generator
+**Title:** Turn a clear brief into a draft that you can review: AI Resume Bullet Generator
 
-QUICK WALKTHROUGH · AI Product Description Generator
+QUICK WALKTHROUGH · AI Resume Bullet Generator
 
 Turn a clear brief into a draft that you can review.
 
-Enter the exact product name and factual feature list
+Describe your own contribution and distinguish it from the team’s work
 
-Describe the audience without inventing endorsements or customer results
+Only add measurements you can substantiate. A clear qualitative result is acceptable
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, step by step
+**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, step by step
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Product Description Generator
+**Title:** Want a draft you can actually review · AI Resume Bullet Generator
 
-Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.
+Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.
 
-Enter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product
+Describe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, quick tutorial
+**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, quick tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Product Description Generator #Shorts
+**Title:** Want a draft you can actually review | AI Resume Bullet Generator #Shorts
 
-Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list
+Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work
 
-Describe the audience without inventing endorsements or customer results
+Only add measurements you can substantiate. A clear qualitative result is acceptable
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, how to
+**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, how to
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-product-description-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
-- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
-- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
+- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
+- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
-- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
-- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
+- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
+- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
-- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
-- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
+- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
+- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-18-ai-product-description-generator.jpg
+**JPEG preview:** assets/2026-11-18-ai-resume-bullet-generator.jpg
 
 ---
 
@@ -1537,103 +1437,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-26 · AI Resume Bullet Generator
+## 2026-11-26 · AI Cover Letter Assistant
 
-**Category:** AI · **Tool:** Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Describe your own contribution and distinguish it from the team’s work
+**Useful action:** Keep your experience separate from skills the employer asks for
 
-**Check:** Only add measurements you can substantiate. A clear qualitative result is acceptable
+**Check:** Add the company name only if useful; no contact address or phone number is needed
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Resume Bullet Generator
+**Title:** Turn a clear brief into a draft that you can review: AI Cover Letter Assistant
 
-QUICK WALKTHROUGH · AI Resume Bullet Generator
+QUICK WALKTHROUGH · AI Cover Letter Assistant
 
 Turn a clear brief into a draft that you can review.
 
-Describe your own contribution and distinguish it from the team’s work
+Keep your experience separate from skills the employer asks for
 
-Only add measurements you can substantiate. A clear qualitative result is acceptable
+Add the company name only if useful; no contact address or phone number is needed
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, step by step
+**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, step by step
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Resume Bullet Generator
+**Title:** Want a draft you can actually review · AI Cover Letter Assistant
 
-Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.
+Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.
 
-Describe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments
+Keep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, quick tutorial
+**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, quick tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Resume Bullet Generator #Shorts
+**Title:** Want a draft you can actually review | AI Cover Letter Assistant #Shorts
 
-Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work
+Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for
 
-Only add measurements you can substantiate. A clear qualitative result is acceptable
+Add the company name only if useful; no contact address or phone number is needed
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, how to
+**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, how to
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-resume-bullet-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
-- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
-- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
+- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
+- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
-- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
-- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
+- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
+- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
-- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
-- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
+- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
+- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-26-ai-resume-bullet-generator.jpg
+**JPEG preview:** assets/2026-11-26-ai-cover-letter-assistant.jpg
 
 ---
 
@@ -2337,103 +2237,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-04 · AI Cover Letter Assistant
+## 2026-12-04 · AI FAQ Generator
 
-**Category:** AI · **Tool:** Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Keep your experience separate from skills the employer asks for
+**Useful action:** Supply real policies instead of asking the assistant to make them up
 
-**Check:** Add the company name only if useful; no contact address or phone number is needed
+**Check:** Choose a focused question count and avoid repetitive questions
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Cover Letter Assistant
+**Title:** Turn a clear brief into a draft that you can review: AI FAQ Generator
 
-QUICK WALKTHROUGH · AI Cover Letter Assistant
+QUICK WALKTHROUGH · AI FAQ Generator
 
 Turn a clear brief into a draft that you can review.
 
-Keep your experience separate from skills the employer asks for
+Supply real policies instead of asking the assistant to make them up
 
-Add the company name only if useful; no contact address or phone number is needed
+Choose a focused question count and avoid repetitive questions
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, step by step
+**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Cover Letter Assistant
+**Title:** Want a draft you can actually review · AI FAQ Generator
 
-Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.
+Want a draft you can actually review? Here is a short, practical demo of AI FAQ Generator.
 
-Keep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending
+Supply real policies instead of asking the assistant to make them up Resolve unanswered facts and review every answer before publishing
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, quick tutorial
+**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Cover Letter Assistant #Shorts
+**Title:** Want a draft you can actually review | AI FAQ Generator #Shorts
 
-Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for
+Turn a clear brief into a draft that you can review. Supply real policies instead of asking the assistant to make them up
 
-Add the company name only if useful; no contact address or phone number is needed
+Choose a focused question count and avoid repetitive questions
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, how to
+**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-cover-letter-assistant_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
-- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
-- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
+- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
+- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
-- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
-- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
+- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
+- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
-- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
-- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
+- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
+- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-04-ai-cover-letter-assistant.jpg
+**JPEG preview:** assets/2026-12-04-ai-faq-generator.jpg
 
 ---
 
@@ -2737,9 +2637,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-08 · URL Slug Generator
+## 2026-12-08 · URL Encoder/Decoder
 
-**Category:** Text · **Tool:** Generate URL-friendly slugs.
+**Category:** Text · **Tool:** Encode and decode URLs.
 
 **Hook:** Working through a text task?
 
@@ -2751,9 +2651,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: URL Slug Generator
+**Title:** Work through a small text task and check the result: URL Encoder/Decoder
 
-QUICK WALKTHROUGH · URL Slug Generator
+QUICK WALKTHROUGH · URL Encoder/Decoder
 
 Work through a small text task and check the result.
 
@@ -2765,54 +2665,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, step by step, online utility
+**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · URL Slug Generator
+**Title:** Working through a text task · URL Encoder/Decoder
 
-Working through a text task? Here is a short, practical demo of URL Slug Generator.
+Working through a text task? Here is a short, practical demo of URL Encoder/Decoder.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, quick tutorial, practical tip
+**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | URL Slug Generator #Shorts
+**Title:** Working through a text task | URL Encoder/Decoder #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, how to, short tutorial
+**Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-slug-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261208&utm_content=url-encoder_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -2820,7 +2720,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -2828,12 +2728,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Encoder/Decoder.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-08-url-slug-generator.jpg
+**JPEG preview:** assets/2026-12-08-url-encoder.jpg
 
 ---
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-10-energy-converter.jpg
+
+---
+
+## 2026-12-11 · HTML Entity Encoder/Decoder
+
+**Category:** Developer · **Tool:** Encode and decode HTML entities instantly.
+
+**Hook:** Need to inspect a small sample?
+
+**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+**Check:** Use a small, non-sensitive sample and inspect the output before using it.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Inspect a small, non-sensitive sample before using the output: HTML Entity Encoder/Decoder
+
+QUICK WALKTHROUGH · HTML Entity Encoder/Decoder
+
+Inspect a small, non-sensitive sample before using the output.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #DeveloperTools
+
+**Keywords:** HTML Entity Encoder/Decoder, Developer tool, Huzaifa Tools, html, entity, converter, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_facebook
+
+### Instagram Reels
+
+**Title:** Need to inspect a small sample · HTML Entity Encoder/Decoder
+
+Need to inspect a small sample? Here is a short, practical demo of HTML Entity Encoder/Decoder.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #DeveloperTools #QuickTutorial
+
+**Keywords:** HTML Entity Encoder/Decoder, Developer tool, Huzaifa Tools, html, entity, converter, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to inspect a small sample | HTML Entity Encoder/Decoder #Shorts
+
+Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #DeveloperTools
+
+**Keywords:** HTML Entity Encoder/Decoder, Developer tool, Huzaifa Tools, html, entity, converter, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/html-entity-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261211&utm_content=html-entity-converter_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Entity Encoder/Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Entity Encoder/Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for HTML Entity Encoder/Decoder and show its actual controls. Voiceover: “Here is a quick walkthrough using HTML Entity Encoder/Decoder.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-11-html-entity-converter.jpg
 
 ---

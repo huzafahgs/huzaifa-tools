@@ -1,24 +1,24 @@
 {
-  "id": "2026-11-11-ai-social-caption-generator",
-  "date": "2026-11-11",
+  "id": "2026-11-12-ai-product-description-generator",
+  "date": "2026-11-12",
   "version": 2,
   "tool": {
-    "name": "AI Social Media Caption Generator",
-    "slug": "ai-social-caption-generator",
+    "name": "AI Product Description Generator",
+    "slug": "ai-product-description-generator",
     "category": "AI",
-    "description": "Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability."
+    "description": "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability."
   },
   "lesson": {
     "hook": "Want a draft you can actually review?",
     "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Describe the actual post; the assistant cannot see an image from a text description",
-    "check": "Use Short for a compact message and Long for more context, then check the platform’s current limits",
-    "takeaway": "Keep only hashtags that describe the post. Suggestions are not verified trends",
+    "action": "Enter the exact product name and factual feature list",
+    "check": "Describe the audience without inventing endorsements or customer results",
+    "takeaway": "Check materials, compatibility, certifications and included items against the real product",
     "factualBasis": [
-      "Draft platform-aware captions with tone, length and optional hashtag suggestions. Requires sign-in and AI availability.",
-      "Describe the actual post; the assistant cannot see an image from a text description.",
-      "Use Short for a compact message and Long for more context, then check the platform’s current limits.",
-      "Keep only hashtags that describe the post. Suggestions are not verified trends."
+      "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.",
+      "Enter the exact product name and factual feature list.",
+      "Describe the audience without inventing endorsements or customer results.",
+      "Check materials, compatibility, certifications and included items against the real product."
     ]
   },
   "score": {
@@ -39,19 +39,19 @@
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Social Media Caption Generator",
+    "title": "Turn a clear brief into a draft that you can review: AI Product Description Generator",
     "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Social Media Caption Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Social Media Caption Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "message": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "AI Social Media Caption Generator",
+      "AI Product Description Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "social",
-      "caption",
+      "product",
+      "description",
       "generator",
       "step by step"
     ],
@@ -60,7 +60,7 @@
       "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
@@ -72,20 +72,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+        "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter the exact product name and factual feature list"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+        "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+        "voiceover": "Describe the audience without inventing endorsements or customer results"
       },
       {
         "seconds": "20–25",
@@ -96,16 +96,16 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Social Media Caption Generator",
+    "title": "Want a draft you can actually review · AI Product Description Generator",
     "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Social Media Caption Generator.\n\nDescribe the actual post; the assistant cannot see an image from a text description Keep only hashtags that describe the post. Suggestions are not verified trends\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.\n\nEnter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "AI Social Media Caption Generator",
+      "AI Product Description Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "social",
-      "caption",
+      "product",
+      "description",
       "generator",
       "quick tutorial"
     ],
@@ -115,7 +115,7 @@
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
@@ -127,20 +127,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+        "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter the exact product name and factual feature list"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+        "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+        "voiceover": "Describe the audience without inventing endorsements or customer results"
       },
       {
         "seconds": "20–25",
@@ -149,20 +149,20 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-11-ai-social-caption-generator.jpg"
+    "imagePath": "assets/2026-11-12-ai-product-description-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Social Media Caption Generator #Shorts",
+    "title": "Want a draft you can actually review | AI Product Description Generator #Shorts",
     "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Describe the actual post; the assistant cannot see an image from a text description\n\nUse Short for a compact message and Long for more context, then check the platform’s current limits\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "description": "Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "AI Social Media Caption Generator",
+      "AI Product Description Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "social",
-      "caption",
+      "product",
+      "description",
       "generator",
       "how to"
     ],
@@ -172,7 +172,7 @@
       "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-social-caption-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261111&utm_content=ai-social-caption-generator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
@@ -183,20 +183,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+        "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter the exact product name and factual feature list"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+        "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+        "voiceover": "Describe the audience without inventing endorsements or customer results"
       },
       {
         "seconds": "20–25",
@@ -228,20 +228,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+        "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Enter the exact product name and factual feature list"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+        "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+        "voiceover": "Describe the audience without inventing endorsements or customer results"
       },
       {
         "seconds": "20–25",
@@ -261,20 +261,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+          "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter the exact product name and factual feature list"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+          "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+          "voiceover": "Describe the audience without inventing endorsements or customer results"
         },
         {
           "seconds": "20–25",
@@ -293,20 +293,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+          "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter the exact product name and factual feature list"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+          "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+          "voiceover": "Describe the audience without inventing endorsements or customer results"
         },
         {
           "seconds": "20–25",
@@ -325,20 +325,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Social Media Caption Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Social Media Caption Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe the actual post; the assistant cannot see an image from a text description Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe the actual post; the assistant cannot see an image from a text description"
+          "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Enter the exact product name and factual feature list"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Short for a compact message and Long for more context, then check the platform’s current limits Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Short for a compact message and Long for more context, then check the platform’s current limits"
+          "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
+          "voiceover": "Describe the audience without inventing endorsements or customer results"
         },
         {
           "seconds": "20–25",
@@ -350,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-11-ai-social-caption-generator.jpg",
-    "alt": "AI Social Media Caption Generator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-12-ai-product-description-generator.jpg",
+    "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-10T20:09:05.211Z",
+  "createdAt": "2026-11-11T19:56:49.929Z",
   "contentHashes": {
-    "facebook": "3c2b7ceb",
-    "instagram": "27d85196",
-    "youtube": "e5ede1a5"
+    "facebook": "1a8f88bb",
+    "instagram": "44b059c2",
+    "youtube": "17458c8"
   }
 }
