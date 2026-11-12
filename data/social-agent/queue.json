@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-11T19:56:49.958Z",
+  "generatedAt": "2026-11-12T20:36:47.727Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-11-12",
-    "end": "2026-12-11",
+    "start": "2026-11-13",
+    "end": "2026-12-12",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,12 +13,12 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "AI": 4,
     "Image": 1,
     "Text": 4,
     "Calculator": 4,
     "Converter": 4,
     "Developer": 4,
+    "AI": 4,
     "Security": 1,
     "Generator": 1,
     "Time": 1,
@@ -30,368 +30,6 @@
     "Health": 1
   },
   "items": [
-    {
-      "id": "2026-11-12-ai-product-description-generator",
-      "date": "2026-11-12",
-      "version": 2,
-      "tool": {
-        "name": "AI Product Description Generator",
-        "slug": "ai-product-description-generator",
-        "category": "AI",
-        "description": "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability."
-      },
-      "lesson": {
-        "hook": "Want a draft you can actually review?",
-        "problem": "Turn a clear brief into a draft that you can review",
-        "action": "Enter the exact product name and factual feature list",
-        "check": "Describe the audience without inventing endorsements or customer results",
-        "takeaway": "Check materials, compatibility, certifications and included items against the real product",
-        "factualBasis": [
-          "Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.",
-          "Enter the exact product name and factual feature list.",
-          "Describe the audience without inventing endorsements or customer results.",
-          "Check materials, compatibility, certifications and included items against the real product."
-        ]
-      },
-      "score": {
-        "total": 16,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 13,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 0,
-            "editorialGapBoost": 3
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_social",
-      "facebook": {
-        "title": "Turn a clear brief into a draft that you can review: AI Product Description Generator",
-        "hook": "Want a draft you can actually review?",
-        "message": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "caption": "QUICK WALKTHROUGH · AI Product Description Generator\n\nTurn a clear brief into a draft that you can review.\n\nEnter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-        "keywords": [
-          "AI Product Description Generator",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "product",
-          "description",
-          "generator",
-          "step by step"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#AITools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Want a draft you can actually review · AI Product Description Generator",
-        "hook": "Want a draft you can actually review?",
-        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.\n\nEnter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
-        "keywords": [
-          "AI Product Description Generator",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "product",
-          "description",
-          "generator",
-          "quick tutorial"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#AITools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-12-ai-product-description-generator.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Want a draft you can actually review | AI Product Description Generator #Shorts",
-        "hook": "Want a draft you can actually review?",
-        "description": "Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list\n\nDescribe the audience without inventing endorsements or customer results\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
-        "keywords": [
-          "AI Product Description Generator",
-          "AI tool",
-          "Huzaifa Tools",
-          "ai",
-          "product",
-          "description",
-          "generator",
-          "how to"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#AITools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Want a draft you can actually review?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Enter the exact product name and factual feature list"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-            "voiceover": "Describe the audience without inventing endorsements or customer results"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter the exact product name and factual feature list"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-              "voiceover": "Describe the audience without inventing endorsements or customer results"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter the exact product name and factual feature list"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-              "voiceover": "Describe the audience without inventing endorsements or customer results"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Want a draft you can actually review?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using AI Product Description Generator."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Enter the exact product name and factual feature list"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result.",
-              "voiceover": "Describe the audience without inventing endorsements or customer results"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-12-ai-product-description-generator.jpg",
-        "alt": "AI Product Description Generator practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-11-11T19:56:49.929Z",
-      "contentHashes": {
-        "facebook": "1a8f88bb",
-        "instagram": "44b059c2",
-        "youtube": "17458c8"
-      }
-    },
     {
       "id": "2026-11-13-image-rotate-flip",
       "date": "2026-11-13",
@@ -763,7 +401,7 @@
         "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
         "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.931Z",
+      "createdAt": "2026-11-12T20:36:47.699Z",
       "contentHashes": {
         "facebook": "b56cdae6",
         "instagram": "cf748d64",
@@ -1134,7 +772,7 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.933Z",
+      "createdAt": "2026-11-12T20:36:47.701Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
@@ -1501,7 +1139,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.934Z",
+      "createdAt": "2026-11-12T20:36:47.702Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -1873,7 +1511,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.935Z",
+      "createdAt": "2026-11-12T20:36:47.704Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -2235,7 +1873,7 @@
         "imagePath": "assets/2026-11-17-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.936Z",
+      "createdAt": "2026-11-12T20:36:47.705Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "1f5ca4a5",
@@ -2266,7 +1904,7 @@
         ]
       },
       "score": {
-        "total": -18.05,
+        "total": 15.95,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -2278,7 +1916,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 34
+          "categoryBalancePenalty": 0
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -2597,7 +2235,7 @@
         "imagePath": "assets/2026-11-18-ai-resume-bullet-generator.jpg",
         "alt": "AI Resume Bullet Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.937Z",
+      "createdAt": "2026-11-12T20:36:47.706Z",
       "contentHashes": {
         "facebook": "9e87096",
         "instagram": "12d90ba6",
@@ -2969,7 +2607,7 @@
         "imagePath": "assets/2026-11-19-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.938Z",
+      "createdAt": "2026-11-12T20:36:47.708Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "77105eaf",
@@ -3344,7 +2982,7 @@
         "imagePath": "assets/2026-11-20-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.939Z",
+      "createdAt": "2026-11-12T20:36:47.709Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "ed0b1d5d",
@@ -3708,7 +3346,7 @@
         "imagePath": "assets/2026-11-21-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.940Z",
+      "createdAt": "2026-11-12T20:36:47.710Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "b02ce2c9",
@@ -4073,7 +3711,7 @@
         "imagePath": "assets/2026-11-22-lorem-ipsum-generator.jpg",
         "alt": "Lorem Ipsum Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.941Z",
+      "createdAt": "2026-11-12T20:36:47.711Z",
       "contentHashes": {
         "facebook": "e1ecbd4e",
         "instagram": "8f6f968c",
@@ -4435,7 +4073,7 @@
         "imagePath": "assets/2026-11-23-mortgage-calculator.jpg",
         "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.942Z",
+      "createdAt": "2026-11-12T20:36:47.711Z",
       "contentHashes": {
         "facebook": "408265f7",
         "instagram": "f2feea4c",
@@ -4802,7 +4440,7 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.943Z",
+      "createdAt": "2026-11-12T20:36:47.712Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
@@ -5174,7 +4812,7 @@
         "imagePath": "assets/2026-11-25-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.943Z",
+      "createdAt": "2026-11-12T20:36:47.713Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "cc70d07d",
@@ -5205,7 +4843,7 @@
         ]
       },
       "score": {
-        "total": -52.05,
+        "total": -18.05,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -5217,7 +4855,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 68
+          "categoryBalancePenalty": 34
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -5536,7 +5174,7 @@
         "imagePath": "assets/2026-11-26-ai-cover-letter-assistant.jpg",
         "alt": "AI Cover Letter Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.944Z",
+      "createdAt": "2026-11-12T20:36:47.713Z",
       "contentHashes": {
         "facebook": "1a49c3cf",
         "instagram": "4f3b6a4e",
@@ -5908,7 +5546,7 @@
         "imagePath": "assets/2026-11-27-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.945Z",
+      "createdAt": "2026-11-12T20:36:47.714Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "28346f9f",
@@ -6280,7 +5918,7 @@
         "imagePath": "assets/2026-11-28-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.946Z",
+      "createdAt": "2026-11-12T20:36:47.716Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "7822fb96",
@@ -6655,7 +6293,7 @@
         "imagePath": "assets/2026-11-29-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.948Z",
+      "createdAt": "2026-11-12T20:36:47.717Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "6d90599a",
@@ -7030,7 +6668,7 @@
         "imagePath": "assets/2026-11-30-text-diff-checker.jpg",
         "alt": "Text Diff Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.948Z",
+      "createdAt": "2026-11-12T20:36:47.717Z",
       "contentHashes": {
         "facebook": "d8bcd66b",
         "instagram": "8cd4cfd2",
@@ -7402,7 +7040,7 @@
         "imagePath": "assets/2026-12-01-compound-interest.jpg",
         "alt": "Compound Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.949Z",
+      "createdAt": "2026-11-12T20:36:47.718Z",
       "contentHashes": {
         "facebook": "2ce4b5be",
         "instagram": "c2d81c6c",
@@ -7769,7 +7407,7 @@
         "imagePath": "assets/2026-12-02-speed-converter.jpg",
         "alt": "Speed Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.949Z",
+      "createdAt": "2026-11-12T20:36:47.719Z",
       "contentHashes": {
         "facebook": "90466f0",
         "instagram": "2a4b87c8",
@@ -8144,7 +7782,7 @@
         "imagePath": "assets/2026-12-03-unix-timestamp-converter.jpg",
         "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.950Z",
+      "createdAt": "2026-11-12T20:36:47.719Z",
       "contentHashes": {
         "facebook": "c09c1323",
         "instagram": "26afebdd",
@@ -8175,7 +7813,7 @@
         ]
       },
       "score": {
-        "total": -86.06,
+        "total": -52.05,
         "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
         "signals": {
           "catalogUtility": 13,
@@ -8187,7 +7825,7 @@
             "relatedArticleCount": 0,
             "editorialGapBoost": 3
           },
-          "categoryBalancePenalty": 102
+          "categoryBalancePenalty": 68
         }
       },
       "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
@@ -8506,7 +8144,7 @@
         "imagePath": "assets/2026-12-04-ai-faq-generator.jpg",
         "alt": "AI FAQ Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.951Z",
+      "createdAt": "2026-11-12T20:36:47.720Z",
       "contentHashes": {
         "facebook": "c0737da1",
         "instagram": "fd1bcf7a",
@@ -8873,7 +8511,7 @@
         "imagePath": "assets/2026-12-05-roi-calculator.jpg",
         "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.953Z",
+      "createdAt": "2026-11-12T20:36:47.722Z",
       "contentHashes": {
         "facebook": "64d92781",
         "instagram": "fba6dc5",
@@ -9240,7 +8878,7 @@
         "imagePath": "assets/2026-12-06-retirement-calculator.jpg",
         "alt": "Retirement Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.954Z",
+      "createdAt": "2026-11-12T20:36:47.723Z",
       "contentHashes": {
         "facebook": "3c4e410",
         "instagram": "42caa3cb",
@@ -9607,7 +9245,7 @@
         "imagePath": "assets/2026-12-07-bmr-calculator.jpg",
         "alt": "BMR Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.955Z",
+      "createdAt": "2026-11-12T20:36:47.724Z",
       "contentHashes": {
         "facebook": "48128f34",
         "instagram": "13098928",
@@ -9979,7 +9617,7 @@
         "imagePath": "assets/2026-12-08-url-encoder.jpg",
         "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.956Z",
+      "createdAt": "2026-11-12T20:36:47.725Z",
       "contentHashes": {
         "facebook": "125023a2",
         "instagram": "5dbec099",
@@ -10341,7 +9979,7 @@
         "imagePath": "assets/2026-12-09-tip-calculator.jpg",
         "alt": "Tip Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.956Z",
+      "createdAt": "2026-11-12T20:36:47.726Z",
       "contentHashes": {
         "facebook": "ce17cefa",
         "instagram": "594142e2",
@@ -10713,7 +10351,7 @@
         "imagePath": "assets/2026-12-10-energy-converter.jpg",
         "alt": "Energy Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.957Z",
+      "createdAt": "2026-11-12T20:36:47.726Z",
       "contentHashes": {
         "facebook": "7c3a99ff",
         "instagram": "a52ef9c2",
@@ -11088,11 +10726,373 @@
         "imagePath": "assets/2026-12-11-html-entity-converter.jpg",
         "alt": "HTML Entity Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-11T19:56:49.958Z",
+      "createdAt": "2026-11-12T20:36:47.727Z",
       "contentHashes": {
         "facebook": "ced9d55e",
         "instagram": "51a30059",
         "youtube": "c71dffc8"
+      }
+    },
+    {
+      "id": "2026-12-12-ai-code-explainer",
+      "date": "2026-12-12",
+      "version": 2,
+      "tool": {
+        "name": "AI Code Explainer",
+        "slug": "ai-code-explainer",
+        "category": "AI",
+        "description": "Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability."
+      },
+      "lesson": {
+        "hook": "Want a draft you can actually review?",
+        "problem": "Turn a clear brief into a draft that you can review",
+        "action": "Include the relevant surrounding function so the flow can be understood",
+        "check": "Choose the language if automatic detection might be ambiguous",
+        "takeaway": "Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything",
+        "factualBasis": [
+          "Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability.",
+          "Include the relevant surrounding function so the flow can be understood.",
+          "Choose the language if automatic detection might be ambiguous.",
+          "Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything."
+        ]
+      },
+      "score": {
+        "total": -86.06,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 13,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 0,
+            "editorialGapBoost": 3
+          },
+          "categoryBalancePenalty": 102
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_social",
+      "facebook": {
+        "title": "Turn a clear brief into a draft that you can review: AI Code Explainer",
+        "hook": "Want a draft you can actually review?",
+        "message": "QUICK WALKTHROUGH · AI Code Explainer\n\nTurn a clear brief into a draft that you can review.\n\nInclude the relevant surrounding function so the flow can be understood\n\nChoose the language if automatic detection might be ambiguous\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "caption": "QUICK WALKTHROUGH · AI Code Explainer\n\nTurn a clear brief into a draft that you can review.\n\nInclude the relevant surrounding function so the flow can be understood\n\nChoose the language if automatic detection might be ambiguous\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+        "keywords": [
+          "AI Code Explainer",
+          "AI tool",
+          "Huzaifa Tools",
+          "ai",
+          "code",
+          "explainer",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#AITools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Include the relevant surrounding function so the flow can be understood"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose the language if automatic detection might be ambiguous"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Want a draft you can actually review · AI Code Explainer",
+        "hook": "Want a draft you can actually review?",
+        "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Code Explainer.\n\nInclude the relevant surrounding function so the flow can be understood Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+        "keywords": [
+          "AI Code Explainer",
+          "AI tool",
+          "Huzaifa Tools",
+          "ai",
+          "code",
+          "explainer",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#AITools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Include the relevant surrounding function so the flow can be understood"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose the language if automatic detection might be ambiguous"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-12-12-ai-code-explainer.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Want a draft you can actually review | AI Code Explainer #Shorts",
+        "hook": "Want a draft you can actually review?",
+        "description": "Turn a clear brief into a draft that you can review. Include the relevant surrounding function so the flow can be understood\n\nChoose the language if automatic detection might be ambiguous\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+        "keywords": [
+          "AI Code Explainer",
+          "AI tool",
+          "Huzaifa Tools",
+          "ai",
+          "code",
+          "explainer",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#AITools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Include the relevant surrounding function so the flow can be understood"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose the language if automatic detection might be ambiguous"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Want a draft you can actually review?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Include the relevant surrounding function so the flow can be understood"
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+            "voiceover": "Choose the language if automatic detection might be ambiguous"
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Want a draft you can actually review?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Include the relevant surrounding function so the flow can be understood"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+              "voiceover": "Choose the language if automatic detection might be ambiguous"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Want a draft you can actually review?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Include the relevant surrounding function so the flow can be understood"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+              "voiceover": "Choose the language if automatic detection might be ambiguous"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Want a draft you can actually review?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using AI Code Explainer."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Include the relevant surrounding function so the flow can be understood"
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result.",
+              "voiceover": "Choose the language if automatic detection might be ambiguous"
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-12-12-ai-code-explainer.jpg",
+        "alt": "AI Code Explainer practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-11-12T20:36:47.727Z",
+      "contentHashes": {
+        "facebook": "4c76d88f",
+        "instagram": "6ae33459",
+        "youtube": "b12c3f8a"
       }
     }
   ]

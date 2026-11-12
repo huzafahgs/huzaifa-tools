@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-12 to 2026-12-11 (Asia/Karachi)
+Window: 2026-11-13 to 2026-12-12 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-12 | AI Product Description Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-13 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-09 | Tip Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-10 | Energy Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-11 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-12 · AI Product Description Generator
-
-**Category:** AI · **Tool:** Turn supplied product facts into readable copy and feature bullets without invented specifications. Requires sign-in and AI availability.
-
-**Hook:** Want a draft you can actually review?
-
-**Useful action:** Enter the exact product name and factual feature list
-
-**Check:** Describe the audience without inventing endorsements or customer results
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Turn a clear brief into a draft that you can review: AI Product Description Generator
-
-QUICK WALKTHROUGH · AI Product Description Generator
-
-Turn a clear brief into a draft that you can review.
-
-Enter the exact product name and factual feature list
-
-Describe the audience without inventing endorsements or customer results
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #AITools
-
-**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, step by step
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_facebook
-
-### Instagram Reels
-
-**Title:** Want a draft you can actually review · AI Product Description Generator
-
-Want a draft you can actually review? Here is a short, practical demo of AI Product Description Generator.
-
-Enter the exact product name and factual feature list Check materials, compatibility, certifications and included items against the real product
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #AITools #QuickTutorial
-
-**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, quick tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Want a draft you can actually review | AI Product Description Generator #Shorts
-
-Turn a clear brief into a draft that you can review. Enter the exact product name and factual feature list
-
-Describe the audience without inventing endorsements or customer results
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #AITools
-
-**Keywords:** AI Product Description Generator, AI tool, Huzaifa Tools, ai, product, description, generator, how to
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-product-description-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261112&utm_content=ai-product-description-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
-- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
-- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
-- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
-- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Product Description Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Product Description Generator.”
-- **7–14s · Demonstrate:** Enter the exact product name and factual feature list Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter the exact product name and factual feature list”
-- **14–20s · Teach a check:** Describe the audience without inventing endorsements or customer results Pause long enough for viewers to read the real result. Voiceover: “Describe the audience without inventing endorsements or customer results”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-12-ai-product-description-generator.jpg
-
----
+| 2026-12-12 | AI Code Explainer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-13 · Image Rotate & Flip
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-11-html-entity-converter.jpg
+
+---
+
+## 2026-12-12 · AI Code Explainer
+
+**Category:** AI · **Tool:** Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability.
+
+**Hook:** Want a draft you can actually review?
+
+**Useful action:** Include the relevant surrounding function so the flow can be understood
+
+**Check:** Choose the language if automatic detection might be ambiguous
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Turn a clear brief into a draft that you can review: AI Code Explainer
+
+QUICK WALKTHROUGH · AI Code Explainer
+
+Turn a clear brief into a draft that you can review.
+
+Include the relevant surrounding function so the flow can be understood
+
+Choose the language if automatic detection might be ambiguous
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #AITools
+
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_facebook
+
+### Instagram Reels
+
+**Title:** Want a draft you can actually review · AI Code Explainer
+
+Want a draft you can actually review? Here is a short, practical demo of AI Code Explainer.
+
+Include the relevant surrounding function so the flow can be understood Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #AITools #QuickTutorial
+
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Want a draft you can actually review | AI Code Explainer #Shorts
+
+Turn a clear brief into a draft that you can review. Include the relevant surrounding function so the flow can be understood
+
+Choose the language if automatic detection might be ambiguous
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #AITools
+
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-12-ai-code-explainer.jpg
 
 ---
