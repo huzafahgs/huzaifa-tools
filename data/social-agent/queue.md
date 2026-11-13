@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-13 to 2026-12-12 (Asia/Karachi)
+Window: 2026-11-14 to 2026-12-13 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-13 | Image Rotate & Flip | Image | Need to adjust an image? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-14 | Base64 Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-15 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-16 | Volume Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-10 | Energy Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-11 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-12 | AI Code Explainer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-13 · Image Rotate & Flip
-
-**Category:** Image · **Tool:** Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.
-
-**Hook:** Need to adjust an image?
-
-**Useful action:** Choose an image
-
-**Check:** Select a clockwise rotation and optional flips
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Adjust an image and inspect the exported file: Image Rotate & Flip
-
-QUICK WALKTHROUGH · Image Rotate & Flip
-
-Adjust an image and inspect the exported file.
-
-Choose an image
-
-Select a clockwise rotation and optional flips
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #ImageTools
-
-**Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook
-
-### Instagram Reels
-
-**Title:** Need to adjust an image · Image Rotate & Flip
-
-Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.
-
-Choose an image Create a preview and download the result
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #ImageTools #QuickTutorial
-
-**Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to adjust an image | Image Rotate & Flip #Shorts
-
-Adjust an image and inspect the exported file. Choose an image
-
-Select a clockwise rotation and optional flips
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #ImageTools
-
-**Keywords:** Image Rotate & Flip, Image tool, Huzaifa Tools, image, rotate, flip, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Rotate & Flip.”
-- **7–14s · Demonstrate:** Choose an image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an image”
-- **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Rotate & Flip.”
-- **7–14s · Demonstrate:** Choose an image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an image”
-- **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to adjust an image?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls. Voiceover: “Here is a quick walkthrough using Image Rotate & Flip.”
-- **7–14s · Demonstrate:** Choose an image Use only a real, harmless sample and show the actual interface output. Voiceover: “Choose an image”
-- **14–20s · Teach a check:** Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result. Voiceover: “Select a clockwise rotation and optional flips”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-13-image-rotate-flip.jpg
-
----
+| 2026-12-13 | Grade Calculator | Student | Need a quick way to calculate weighted grade scores for students? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-14 · Base64 Encoder/Decoder
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-12-ai-code-explainer.jpg
+
+---
+
+## 2026-12-13 · Grade Calculator
+
+**Category:** Student · **Tool:** Calculate weighted grade scores for students.
+
+**Hook:** Need a quick way to calculate weighted grade scores for students?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Calculate weighted grade scores for students: Grade Calculator
+
+QUICK WALKTHROUGH · Grade Calculator
+
+Calculate weighted grade scores for students.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #StudyTools
+
+**Keywords:** Grade Calculator, Student tool, Huzaifa Tools, grade, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Need a quick way to calculate weighted grade scores for students · Grade Calculator
+
+Need a quick way to calculate weighted grade scores for students? Here is a short, practical demo of Grade Calculator.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #StudyTools #QuickTutorial
+
+**Keywords:** Grade Calculator, Student tool, Huzaifa Tools, grade, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need a quick way to calculate weighted grade scores for students | Grade Calculator #Shorts
+
+Calculate weighted grade scores for students. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #StudyTools
+
+**Keywords:** Grade Calculator, Student tool, Huzaifa Tools, grade, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate weighted grade scores for students?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Grade Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Grade Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate weighted grade scores for students?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Grade Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Grade Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate weighted grade scores for students?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Grade Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Grade Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-13-grade-calculator.jpg
 
 ---

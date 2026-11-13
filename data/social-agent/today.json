@@ -1,31 +1,28 @@
 {
-  "id": "2026-11-13-image-rotate-flip",
-  "date": "2026-11-13",
+  "id": "2026-11-14-base64-converter",
+  "date": "2026-11-14",
   "version": 2,
   "tool": {
-    "name": "Image Rotate & Flip",
-    "slug": "image-rotate-flip",
-    "category": "Image",
-    "description": "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image."
+    "name": "Base64 Encoder/Decoder",
+    "slug": "base64-converter",
+    "category": "Text",
+    "description": "Encode and decode Base64 strings."
   },
   "lesson": {
-    "hook": "Need to adjust an image?",
-    "problem": "Adjust an image and inspect the exported file",
-    "action": "Choose an image",
-    "check": "Select a clockwise rotation and optional flips",
-    "takeaway": "Create a preview and download the result",
+    "hook": "Working through a text task?",
+    "problem": "Work through a small text task and check the result",
+    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+    "check": "Check the result against the requirements of your task.",
+    "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.",
-      "Choose an image.",
-      "Select a clockwise rotation and optional flips.",
-      "Create a preview and download the result."
+      "Encode and decode Base64 strings."
     ]
   },
   "score": {
-    "total": 14.9,
+    "total": 7.98,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 15,
+      "catalogUtility": 8,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
@@ -40,68 +37,66 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
-      "slug": "images-to-a4-pdf",
-      "primaryKeyword": "images to A4 PDF"
+      "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
+      "slug": "base64-encode-decode-utf8-text",
+      "primaryKeyword": "base64 encoder/decoder"
     },
     {
-      "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
-      "slug": "crop-image-by-pixel-coordinates",
-      "primaryKeyword": "crop image by pixel coordinates"
+      "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
+      "slug": "inspect-jwt-claims-without-trusting-them",
+      "primaryKeyword": "jwt decoder"
     },
     {
-      "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
-      "slug": "read-image-metadata-exif",
-      "primaryKeyword": "read image metadata and EXIF"
+      "title": "The Complete Huzaifa Tools Guide: Free Online Utilities for Work, Study, and Development",
+      "slug": "huzaifa-tools-guide"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_social",
   "facebook": {
-    "title": "Adjust an image and inspect the exported file: Image Rotate & Flip",
-    "hook": "Need to adjust an image?",
-    "message": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-    "caption": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
+    "title": "Work through a small text task and check the result: Base64 Encoder/Decoder",
+    "hook": "Working through a text task?",
+    "message": "QUICK WALKTHROUGH · Base64 Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "caption": "QUICK WALKTHROUGH · Base64 Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
     "keywords": [
-      "Image Rotate & Flip",
-      "Image tool",
+      "Base64 Encoder/Decoder",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "rotate",
-      "flip",
+      "base64",
+      "converter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools"
+      "#TextTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an image"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-        "voiceover": "Select a clockwise rotation and optional flips"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -112,51 +107,50 @@
     ]
   },
   "instagram": {
-    "title": "Need to adjust an image · Image Rotate & Flip",
-    "hook": "Need to adjust an image?",
-    "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
+    "title": "Working through a text task · Base64 Encoder/Decoder",
+    "hook": "Working through a text task?",
+    "caption": "Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
     "keywords": [
-      "Image Rotate & Flip",
-      "Image tool",
+      "Base64 Encoder/Decoder",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "rotate",
-      "flip",
+      "base64",
+      "converter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#ImageTools",
+      "#TextTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an image"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-        "voiceover": "Select a clockwise rotation and optional flips"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -165,54 +159,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-13-image-rotate-flip.jpg"
+    "imagePath": "assets/2026-11-14-base64-converter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to adjust an image | Image Rotate & Flip #Shorts",
-    "hook": "Need to adjust an image?",
-    "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
+    "title": "Working through a text task | Base64 Encoder/Decoder #Shorts",
+    "hook": "Working through a text task?",
+    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
     "keywords": [
-      "Image Rotate & Flip",
-      "Image tool",
+      "Base64 Encoder/Decoder",
+      "Text tool",
       "Huzaifa Tools",
-      "image",
-      "rotate",
-      "flip",
+      "base64",
+      "converter",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#ImageTools"
+      "#TextTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an image"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-        "voiceover": "Select a clockwise rotation and optional flips"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -239,25 +232,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to adjust an image?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Choose an image"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-        "voiceover": "Select a clockwise rotation and optional flips"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -272,25 +265,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose an image"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-          "voiceover": "Select a clockwise rotation and optional flips"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -304,25 +297,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose an image"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-          "voiceover": "Select a clockwise rotation and optional flips"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -336,25 +329,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to adjust an image?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
+          "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Choose an image"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-          "voiceover": "Select a clockwise rotation and optional flips"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -366,13 +359,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
-    "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-14-base64-converter.jpg",
+    "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-12T20:36:47.699Z",
+  "createdAt": "2026-11-13T20:13:07.069Z",
   "contentHashes": {
-    "facebook": "b56cdae6",
-    "instagram": "cf748d64",
-    "youtube": "63411079"
+    "facebook": "1bbcb2de",
+    "instagram": "f05397f9",
+    "youtube": "f0864025"
   }
 }

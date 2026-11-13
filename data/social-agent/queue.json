@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-12T20:36:47.727Z",
+  "generatedAt": "2026-11-13T20:13:07.112Z",
   "timezone": "Asia/Karachi",
   "window": {
-    "start": "2026-11-13",
-    "end": "2026-12-12",
+    "start": "2026-11-14",
+    "end": "2026-12-13",
     "days": 30
   },
   "evidenceStatus": {
@@ -13,7 +13,6 @@
     "registeredToolInventory": 116
   },
   "categoryDistribution": {
-    "Image": 1,
     "Text": 4,
     "Calculator": 4,
     "Converter": 4,
@@ -27,387 +26,10 @@
     "SEO": 1,
     "Business": 1,
     "Finance": 1,
-    "Health": 1
+    "Health": 1,
+    "Student": 1
   },
   "items": [
-    {
-      "id": "2026-11-13-image-rotate-flip",
-      "date": "2026-11-13",
-      "version": 2,
-      "tool": {
-        "name": "Image Rotate & Flip",
-        "slug": "image-rotate-flip",
-        "category": "Image",
-        "description": "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image."
-      },
-      "lesson": {
-        "hook": "Need to adjust an image?",
-        "problem": "Adjust an image and inspect the exported file",
-        "action": "Choose an image",
-        "check": "Select a clockwise rotation and optional flips",
-        "takeaway": "Create a preview and download the result",
-        "factualBasis": [
-          "Rotate images by 90, 180 or 270 degrees or flip them horizontally and vertically. Preview and download the transformed image.",
-          "Choose an image.",
-          "Select a clockwise rotation and optional flips.",
-          "Create a preview and download the result."
-        ]
-      },
-      "score": {
-        "total": 14.9,
-        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
-        "signals": {
-          "catalogUtility": 15,
-          "searchConsole": null,
-          "searchConsoleBoost": 0,
-          "socialMetrics": null,
-          "socialMetricsBoost": 0,
-          "articleCoverage": {
-            "relatedArticleCount": 3,
-            "editorialGapBoost": 0
-          },
-          "categoryBalancePenalty": 0
-        }
-      },
-      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
-      "articleReferences": [
-        {
-          "title": "Turn Images into an A4 PDF: Ordering, Layout, and Readability",
-          "slug": "images-to-a4-pdf",
-          "primaryKeyword": "images to A4 PDF"
-        },
-        {
-          "title": "Crop an Image by Pixel Coordinates: Exact Framing Without Stretching",
-          "slug": "crop-image-by-pixel-coordinates",
-          "primaryKeyword": "crop image by pixel coordinates"
-        },
-        {
-          "title": "Read Image Metadata and EXIF: What the Fields Can—and Cannot—Tell You",
-          "slug": "read-image-metadata-exif",
-          "primaryKeyword": "read image metadata and EXIF"
-        }
-      ],
-      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_social",
-      "facebook": {
-        "title": "Adjust an image and inspect the exported file: Image Rotate & Flip",
-        "hook": "Need to adjust an image?",
-        "message": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "caption": "QUICK WALKTHROUGH · Image Rotate & Flip\n\nAdjust an image and inspect the exported file.\n\nChoose an image\n\nSelect a clockwise rotation and optional flips\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Rotate & Flip",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "rotate",
-          "flip",
-          "step by step",
-          "online utility"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Try one small example and tell us which everyday tool task to explain next.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_facebook",
-        "linkPlacement": "Facebook Page link attachment",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-          }
-        ]
-      },
-      "instagram": {
-        "title": "Need to adjust an image · Image Rotate & Flip",
-        "hook": "Need to adjust an image?",
-        "caption": "Need to adjust an image? Here is a short, practical demo of Image Rotate & Flip.\n\nChoose an image Create a preview and download the result\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #ImageTools #QuickTutorial",
-        "keywords": [
-          "Image Rotate & Flip",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "rotate",
-          "flip",
-          "quick tutorial",
-          "practical tip"
-        ],
-        "hashtags": [
-          "#HuzaifaTools",
-          "#ImageTools",
-          "#QuickTutorial"
-        ],
-        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_instagram",
-        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
-        "reelScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-            "voiceover": "Save this Reel and follow for more practical walkthroughs."
-          }
-        ],
-        "imagePath": "assets/2026-11-13-image-rotate-flip.jpg"
-      },
-      "youtube": {
-        "status": "script_only",
-        "title": "Need to adjust an image | Image Rotate & Flip #Shorts",
-        "hook": "Need to adjust an image?",
-        "description": "Adjust an image and inspect the exported file. Choose an image\n\nSelect a clockwise rotation and optional flips\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #ImageTools",
-        "keywords": [
-          "Image Rotate & Flip",
-          "Image tool",
-          "Huzaifa Tools",
-          "image",
-          "rotate",
-          "flip",
-          "how to",
-          "short tutorial"
-        ],
-        "hashtags": [
-          "#Shorts",
-          "#HuzaifaTools",
-          "#ImageTools"
-        ],
-        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-        "link": "https://ai-tools-by-huzaifa.vercel.app/image-rotate-flip?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261113&utm_content=image-rotate-flip_youtube",
-        "shortVideoScript": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-          }
-        ]
-      },
-      "video": {
-        "status": "storyboard_only",
-        "durationSeconds": 25,
-        "targetFormats": [
-          "YouTube Shorts",
-          "Instagram Reels",
-          "Facebook Reels"
-        ],
-        "provider": {
-          "id": null,
-          "configured": false
-        },
-        "storyboard": [
-          {
-            "seconds": "0–3",
-            "goal": "Retention hook",
-            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-            "voiceover": "Need to adjust an image?"
-          },
-          {
-            "seconds": "3–7",
-            "goal": "Orient",
-            "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-            "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-          },
-          {
-            "seconds": "7–14",
-            "goal": "Demonstrate",
-            "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-            "voiceover": "Choose an image"
-          },
-          {
-            "seconds": "14–20",
-            "goal": "Teach a check",
-            "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-            "voiceover": "Select a clockwise rotation and optional flips"
-          },
-          {
-            "seconds": "20–25",
-            "goal": "Useful CTA",
-            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
-            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
-          }
-        ],
-        "platformScripts": {
-          "facebook": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose an image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-              "voiceover": "Select a clockwise rotation and optional flips"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
-              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
-            }
-          ],
-          "instagram": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose an image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-              "voiceover": "Select a clockwise rotation and optional flips"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
-              "voiceover": "Save this Reel and follow for more practical walkthroughs."
-            }
-          ],
-          "youtube": [
-            {
-              "seconds": "0–3",
-              "goal": "Retention hook",
-              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-              "voiceover": "Need to adjust an image?"
-            },
-            {
-              "seconds": "3–7",
-              "goal": "Orient",
-              "visual": "Open the real Huzaifa Tools page for Image Rotate & Flip and show its actual controls.",
-              "voiceover": "Here is a quick walkthrough using Image Rotate & Flip."
-            },
-            {
-              "seconds": "7–14",
-              "goal": "Demonstrate",
-              "visual": "Choose an image Use only a real, harmless sample and show the actual interface output.",
-              "voiceover": "Choose an image"
-            },
-            {
-              "seconds": "14–20",
-              "goal": "Teach a check",
-              "visual": "Select a clockwise rotation and optional flips Pause long enough for viewers to read the real result.",
-              "voiceover": "Select a clockwise rotation and optional flips"
-            },
-            {
-              "seconds": "20–25",
-              "goal": "Useful CTA",
-              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
-              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
-            }
-          ]
-        }
-      },
-      "asset": {
-        "imagePath": "assets/2026-11-13-image-rotate-flip.jpg",
-        "alt": "Image Rotate & Flip practical walkthrough card for Huzaifa Tools"
-      },
-      "createdAt": "2026-11-12T20:36:47.699Z",
-      "contentHashes": {
-        "facebook": "b56cdae6",
-        "instagram": "cf748d64",
-        "youtube": "63411079"
-      }
-    },
     {
       "id": "2026-11-14-base64-converter",
       "date": "2026-11-14",
@@ -772,7 +394,7 @@
         "imagePath": "assets/2026-11-14-base64-converter.jpg",
         "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.701Z",
+      "createdAt": "2026-11-13T20:13:07.069Z",
       "contentHashes": {
         "facebook": "1bbcb2de",
         "instagram": "f05397f9",
@@ -1139,7 +761,7 @@
         "imagePath": "assets/2026-11-15-simple-interest.jpg",
         "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.702Z",
+      "createdAt": "2026-11-13T20:13:07.071Z",
       "contentHashes": {
         "facebook": "feace183",
         "instagram": "6300e7df",
@@ -1511,7 +1133,7 @@
         "imagePath": "assets/2026-11-16-volume-converter.jpg",
         "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.704Z",
+      "createdAt": "2026-11-13T20:13:07.077Z",
       "contentHashes": {
         "facebook": "647624f5",
         "instagram": "3264f263",
@@ -1873,7 +1495,7 @@
         "imagePath": "assets/2026-11-17-regex-tester.jpg",
         "alt": "Regex Tester practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.705Z",
+      "createdAt": "2026-11-13T20:13:07.078Z",
       "contentHashes": {
         "facebook": "f6c820af",
         "instagram": "1f5ca4a5",
@@ -2235,7 +1857,7 @@
         "imagePath": "assets/2026-11-18-ai-resume-bullet-generator.jpg",
         "alt": "AI Resume Bullet Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.706Z",
+      "createdAt": "2026-11-13T20:13:07.079Z",
       "contentHashes": {
         "facebook": "9e87096",
         "instagram": "12d90ba6",
@@ -2607,7 +2229,7 @@
         "imagePath": "assets/2026-11-19-password-generator.jpg",
         "alt": "Password Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.708Z",
+      "createdAt": "2026-11-13T20:13:07.082Z",
       "contentHashes": {
         "facebook": "541c8903",
         "instagram": "77105eaf",
@@ -2982,7 +2604,7 @@
         "imagePath": "assets/2026-11-20-qr-code-generator.jpg",
         "alt": "QR Code Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.709Z",
+      "createdAt": "2026-11-13T20:13:07.084Z",
       "contentHashes": {
         "facebook": "2392b81b",
         "instagram": "ed0b1d5d",
@@ -3346,7 +2968,7 @@
         "imagePath": "assets/2026-11-21-stopwatch.jpg",
         "alt": "Stopwatch practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.710Z",
+      "createdAt": "2026-11-13T20:13:07.086Z",
       "contentHashes": {
         "facebook": "ab18519f",
         "instagram": "b02ce2c9",
@@ -3711,7 +3333,7 @@
         "imagePath": "assets/2026-11-22-lorem-ipsum-generator.jpg",
         "alt": "Lorem Ipsum Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.711Z",
+      "createdAt": "2026-11-13T20:13:07.086Z",
       "contentHashes": {
         "facebook": "e1ecbd4e",
         "instagram": "8f6f968c",
@@ -4073,7 +3695,7 @@
         "imagePath": "assets/2026-11-23-mortgage-calculator.jpg",
         "alt": "Mortgage Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.711Z",
+      "createdAt": "2026-11-13T20:13:07.088Z",
       "contentHashes": {
         "facebook": "408265f7",
         "instagram": "f2feea4c",
@@ -4440,7 +4062,7 @@
         "imagePath": "assets/2026-11-24-area-converter.jpg",
         "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.712Z",
+      "createdAt": "2026-11-13T20:13:07.089Z",
       "contentHashes": {
         "facebook": "afdbecbc",
         "instagram": "6ff416db",
@@ -4812,7 +4434,7 @@
         "imagePath": "assets/2026-11-25-jwt-decoder.jpg",
         "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.713Z",
+      "createdAt": "2026-11-13T20:13:07.089Z",
       "contentHashes": {
         "facebook": "2780f300",
         "instagram": "cc70d07d",
@@ -5174,7 +4796,7 @@
         "imagePath": "assets/2026-11-26-ai-cover-letter-assistant.jpg",
         "alt": "AI Cover Letter Assistant practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.713Z",
+      "createdAt": "2026-11-13T20:13:07.090Z",
       "contentHashes": {
         "facebook": "1a49c3cf",
         "instagram": "4f3b6a4e",
@@ -5546,7 +5168,7 @@
         "imagePath": "assets/2026-11-27-prime-checker.jpg",
         "alt": "Prime Number Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.714Z",
+      "createdAt": "2026-11-13T20:13:07.092Z",
       "contentHashes": {
         "facebook": "a7403c75",
         "instagram": "28346f9f",
@@ -5918,7 +5540,7 @@
         "imagePath": "assets/2026-11-28-distance-calculator.jpg",
         "alt": "Distance Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.716Z",
+      "createdAt": "2026-11-13T20:13:07.094Z",
       "contentHashes": {
         "facebook": "cc5f4178",
         "instagram": "7822fb96",
@@ -6293,7 +5915,7 @@
         "imagePath": "assets/2026-11-29-meta-tag-generator.jpg",
         "alt": "Meta Tag Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.717Z",
+      "createdAt": "2026-11-13T20:13:07.095Z",
       "contentHashes": {
         "facebook": "c806974b",
         "instagram": "6d90599a",
@@ -6668,7 +6290,7 @@
         "imagePath": "assets/2026-11-30-text-diff-checker.jpg",
         "alt": "Text Diff Checker practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.717Z",
+      "createdAt": "2026-11-13T20:13:07.096Z",
       "contentHashes": {
         "facebook": "d8bcd66b",
         "instagram": "8cd4cfd2",
@@ -7040,7 +6662,7 @@
         "imagePath": "assets/2026-12-01-compound-interest.jpg",
         "alt": "Compound Interest Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.718Z",
+      "createdAt": "2026-11-13T20:13:07.097Z",
       "contentHashes": {
         "facebook": "2ce4b5be",
         "instagram": "c2d81c6c",
@@ -7407,7 +7029,7 @@
         "imagePath": "assets/2026-12-02-speed-converter.jpg",
         "alt": "Speed Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.719Z",
+      "createdAt": "2026-11-13T20:13:07.098Z",
       "contentHashes": {
         "facebook": "90466f0",
         "instagram": "2a4b87c8",
@@ -7782,7 +7404,7 @@
         "imagePath": "assets/2026-12-03-unix-timestamp-converter.jpg",
         "alt": "Unix Timestamp Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.719Z",
+      "createdAt": "2026-11-13T20:13:07.099Z",
       "contentHashes": {
         "facebook": "c09c1323",
         "instagram": "26afebdd",
@@ -8144,7 +7766,7 @@
         "imagePath": "assets/2026-12-04-ai-faq-generator.jpg",
         "alt": "AI FAQ Generator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.720Z",
+      "createdAt": "2026-11-13T20:13:07.100Z",
       "contentHashes": {
         "facebook": "c0737da1",
         "instagram": "fd1bcf7a",
@@ -8511,7 +8133,7 @@
         "imagePath": "assets/2026-12-05-roi-calculator.jpg",
         "alt": "ROI Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.722Z",
+      "createdAt": "2026-11-13T20:13:07.101Z",
       "contentHashes": {
         "facebook": "64d92781",
         "instagram": "fba6dc5",
@@ -8878,7 +8500,7 @@
         "imagePath": "assets/2026-12-06-retirement-calculator.jpg",
         "alt": "Retirement Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.723Z",
+      "createdAt": "2026-11-13T20:13:07.103Z",
       "contentHashes": {
         "facebook": "3c4e410",
         "instagram": "42caa3cb",
@@ -9245,7 +8867,7 @@
         "imagePath": "assets/2026-12-07-bmr-calculator.jpg",
         "alt": "BMR Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.724Z",
+      "createdAt": "2026-11-13T20:13:07.106Z",
       "contentHashes": {
         "facebook": "48128f34",
         "instagram": "13098928",
@@ -9617,7 +9239,7 @@
         "imagePath": "assets/2026-12-08-url-encoder.jpg",
         "alt": "URL Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.725Z",
+      "createdAt": "2026-11-13T20:13:07.107Z",
       "contentHashes": {
         "facebook": "125023a2",
         "instagram": "5dbec099",
@@ -9979,7 +9601,7 @@
         "imagePath": "assets/2026-12-09-tip-calculator.jpg",
         "alt": "Tip Calculator practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.726Z",
+      "createdAt": "2026-11-13T20:13:07.108Z",
       "contentHashes": {
         "facebook": "ce17cefa",
         "instagram": "594142e2",
@@ -10351,7 +9973,7 @@
         "imagePath": "assets/2026-12-10-energy-converter.jpg",
         "alt": "Energy Converter practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.726Z",
+      "createdAt": "2026-11-13T20:13:07.108Z",
       "contentHashes": {
         "facebook": "7c3a99ff",
         "instagram": "a52ef9c2",
@@ -10726,7 +10348,7 @@
         "imagePath": "assets/2026-12-11-html-entity-converter.jpg",
         "alt": "HTML Entity Encoder/Decoder practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.727Z",
+      "createdAt": "2026-11-13T20:13:07.109Z",
       "contentHashes": {
         "facebook": "ced9d55e",
         "instagram": "51a30059",
@@ -11088,11 +10710,378 @@
         "imagePath": "assets/2026-12-12-ai-code-explainer.jpg",
         "alt": "AI Code Explainer practical walkthrough card for Huzaifa Tools"
       },
-      "createdAt": "2026-11-12T20:36:47.727Z",
+      "createdAt": "2026-11-13T20:13:07.110Z",
       "contentHashes": {
         "facebook": "4c76d88f",
         "instagram": "6ae33459",
         "youtube": "b12c3f8a"
+      }
+    },
+    {
+      "id": "2026-12-13-grade-calculator",
+      "date": "2026-12-13",
+      "version": 2,
+      "tool": {
+        "name": "Grade Calculator",
+        "slug": "grade-calculator",
+        "category": "Student",
+        "description": "Calculate weighted grade scores for students."
+      },
+      "lesson": {
+        "hook": "Need a quick way to calculate weighted grade scores for students?",
+        "problem": "Calculate weighted grade scores for students",
+        "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+        "check": "Check the result against the requirements of your task.",
+        "takeaway": "Check the result against the requirements of your task.",
+        "factualBasis": [
+          "Calculate weighted grade scores for students."
+        ]
+      },
+      "score": {
+        "total": 4.92,
+        "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
+        "signals": {
+          "catalogUtility": 5,
+          "searchConsole": null,
+          "searchConsoleBoost": 0,
+          "socialMetrics": null,
+          "socialMetricsBoost": 0,
+          "articleCoverage": {
+            "relatedArticleCount": 2,
+            "editorialGapBoost": 0
+          },
+          "categoryBalancePenalty": 0
+        }
+      },
+      "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
+      "articleReferences": [
+        {
+          "title": "Credit-Weighted GPA on a Simple Four-Point Scale",
+          "slug": "credit-weighted-gpa-on-a-simple-four-point-scale",
+          "primaryKeyword": "gpa calculator"
+        },
+        {
+          "title": "Weighted Course Grades: Check Scores and Assessment Weights Separately",
+          "slug": "weighted-course-grade-and-assessment-weights",
+          "primaryKeyword": "grade calculator"
+        }
+      ],
+      "landingPage": "https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_social",
+      "facebook": {
+        "title": "Calculate weighted grade scores for students: Grade Calculator",
+        "hook": "Need a quick way to calculate weighted grade scores for students?",
+        "message": "QUICK WALKTHROUGH · Grade Calculator\n\nCalculate weighted grade scores for students.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #StudyTools",
+        "caption": "QUICK WALKTHROUGH · Grade Calculator\n\nCalculate weighted grade scores for students.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #StudyTools",
+        "keywords": [
+          "Grade Calculator",
+          "Student tool",
+          "Huzaifa Tools",
+          "grade",
+          "calculator",
+          "step by step",
+          "online utility"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#StudyTools"
+        ],
+        "cta": "Try one small example and tell us which everyday tool task to explain next.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_facebook",
+        "linkPlacement": "Facebook Page link attachment",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Grade Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+            "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+          }
+        ]
+      },
+      "instagram": {
+        "title": "Need a quick way to calculate weighted grade scores for students · Grade Calculator",
+        "hook": "Need a quick way to calculate weighted grade scores for students?",
+        "caption": "Need a quick way to calculate weighted grade scores for students? Here is a short, practical demo of Grade Calculator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #StudyTools #QuickTutorial",
+        "keywords": [
+          "Grade Calculator",
+          "Student tool",
+          "Huzaifa Tools",
+          "grade",
+          "calculator",
+          "quick tutorial",
+          "practical tip"
+        ],
+        "hashtags": [
+          "#HuzaifaTools",
+          "#StudyTools",
+          "#QuickTutorial"
+        ],
+        "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_instagram",
+        "linkPlacement": "plain-text caption URL; not guaranteed tappable",
+        "reelScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Grade Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+            "voiceover": "Save this Reel and follow for more practical walkthroughs."
+          }
+        ],
+        "imagePath": "assets/2026-12-13-grade-calculator.jpg"
+      },
+      "youtube": {
+        "status": "script_only",
+        "title": "Need a quick way to calculate weighted grade scores for students | Grade Calculator #Shorts",
+        "hook": "Need a quick way to calculate weighted grade scores for students?",
+        "description": "Calculate weighted grade scores for students. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #StudyTools",
+        "keywords": [
+          "Grade Calculator",
+          "Student tool",
+          "Huzaifa Tools",
+          "grade",
+          "calculator",
+          "how to",
+          "short tutorial"
+        ],
+        "hashtags": [
+          "#Shorts",
+          "#HuzaifaTools",
+          "#StudyTools"
+        ],
+        "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
+        "link": "https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=grade-calculator_youtube",
+        "shortVideoScript": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Grade Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+            "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+          }
+        ]
+      },
+      "video": {
+        "status": "storyboard_only",
+        "durationSeconds": 25,
+        "targetFormats": [
+          "YouTube Shorts",
+          "Instagram Reels",
+          "Facebook Reels"
+        ],
+        "provider": {
+          "id": null,
+          "configured": false
+        },
+        "storyboard": [
+          {
+            "seconds": "0–3",
+            "goal": "Retention hook",
+            "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+            "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+          },
+          {
+            "seconds": "3–7",
+            "goal": "Orient",
+            "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+            "voiceover": "Here is a quick walkthrough using Grade Calculator."
+          },
+          {
+            "seconds": "7–14",
+            "goal": "Demonstrate",
+            "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+            "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+          },
+          {
+            "seconds": "14–20",
+            "goal": "Teach a check",
+            "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+            "voiceover": "Check the result against the requirements of your task."
+          },
+          {
+            "seconds": "20–25",
+            "goal": "Useful CTA",
+            "visual": "Show a branded end card with the tool name. Put the link in the caption/description; do not fabricate a result.",
+            "voiceover": "Save this for your next task, and follow Huzaifa Tools for more practical demos."
+          }
+        ],
+        "platformScripts": {
+          "facebook": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Grade Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it.",
+              "voiceover": "Follow the Huzaifa Tools Page; open the attached tool link to try it."
+            }
+          ],
+          "instagram": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Grade Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs.",
+              "voiceover": "Save this Reel and follow for more practical walkthroughs."
+            }
+          ],
+          "youtube": [
+            {
+              "seconds": "0–3",
+              "goal": "Retention hook",
+              "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
+              "voiceover": "Need a quick way to calculate weighted grade scores for students?"
+            },
+            {
+              "seconds": "3–7",
+              "goal": "Orient",
+              "visual": "Open the real Huzaifa Tools page for Grade Calculator and show its actual controls.",
+              "voiceover": "Here is a quick walkthrough using Grade Calculator."
+            },
+            {
+              "seconds": "7–14",
+              "goal": "Demonstrate",
+              "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+              "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
+            },
+            {
+              "seconds": "14–20",
+              "goal": "Teach a check",
+              "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+              "voiceover": "Check the result against the requirements of your task."
+            },
+            {
+              "seconds": "20–25",
+              "goal": "Useful CTA",
+              "visual": "Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description.",
+              "voiceover": "Follow for more practical Shorts; open the tracked tool link in the description."
+            }
+          ]
+        }
+      },
+      "asset": {
+        "imagePath": "assets/2026-12-13-grade-calculator.jpg",
+        "alt": "Grade Calculator practical walkthrough card for Huzaifa Tools"
+      },
+      "createdAt": "2026-11-13T20:13:07.112Z",
+      "contentHashes": {
+        "facebook": "d6aa4586",
+        "instagram": "17d77f2f",
+        "youtube": "967d74d6"
       }
     }
   ]
