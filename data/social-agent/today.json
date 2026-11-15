@@ -1,25 +1,25 @@
 {
-  "id": "2026-11-14-base64-converter",
-  "date": "2026-11-14",
+  "id": "2026-11-16-volume-converter",
+  "date": "2026-11-16",
   "version": 2,
   "tool": {
-    "name": "Base64 Encoder/Decoder",
-    "slug": "base64-converter",
-    "category": "Text",
-    "description": "Encode and decode Base64 strings."
+    "name": "Volume Converter",
+    "slug": "volume-converter",
+    "category": "Converter",
+    "description": "Convert between volume units."
   },
   "lesson": {
-    "hook": "Working through a text task?",
-    "problem": "Work through a small text task and check the result",
+    "hook": "Need to convert a value?",
+    "problem": "Convert a value and confirm the output units or format",
     "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
     "check": "Check the result against the requirements of your task.",
     "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Encode and decode Base64 strings."
+      "Convert between volume units."
     ]
   },
   "score": {
-    "total": 7.98,
+    "total": 7.97,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
       "catalogUtility": 8,
@@ -37,54 +37,55 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
-      "slug": "base64-encode-decode-utf8-text",
-      "primaryKeyword": "base64 encoder/decoder"
+      "title": "Area Conversion: Square Units, Acres and Hectares",
+      "slug": "area-conversion-square-units-acres-hectares",
+      "primaryKeyword": "area converter"
     },
     {
-      "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
-      "slug": "inspect-jwt-claims-without-trusting-them",
-      "primaryKeyword": "jwt decoder"
+      "title": "Choose Compatible Units Before Converting a Measurement",
+      "slug": "choose-compatible-units-before-converting",
+      "primaryKeyword": "unit converter"
     },
     {
-      "title": "The Complete Huzaifa Tools Guide: Free Online Utilities for Work, Study, and Development",
-      "slug": "huzaifa-tools-guide"
+      "title": "Volume Units: Check Cups, Gallons and Cubic Measures",
+      "slug": "volume-units-cups-gallons-and-cubic-measures",
+      "primaryKeyword": "volume converter"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/volume-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261116&utm_content=volume-converter_social",
   "facebook": {
-    "title": "Work through a small text task and check the result: Base64 Encoder/Decoder",
-    "hook": "Working through a text task?",
-    "message": "QUICK WALKTHROUGH · Base64 Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
-    "caption": "QUICK WALKTHROUGH · Base64 Encoder/Decoder\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "title": "Convert a value and confirm the output units or format: Volume Converter",
+    "hook": "Need to convert a value?",
+    "message": "QUICK WALKTHROUGH · Volume Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+    "caption": "QUICK WALKTHROUGH · Volume Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
     "keywords": [
-      "Base64 Encoder/Decoder",
-      "Text tool",
+      "Volume Converter",
+      "Converter tool",
       "Huzaifa Tools",
-      "base64",
+      "volume",
       "converter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools"
+      "#Converters"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/volume-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261116&utm_content=volume-converter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+        "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Volume Converter."
       },
       {
         "seconds": "7–14",
@@ -107,38 +108,38 @@
     ]
   },
   "instagram": {
-    "title": "Working through a text task · Base64 Encoder/Decoder",
-    "hook": "Working through a text task?",
-    "caption": "Working through a text task? Here is a short, practical demo of Base64 Encoder/Decoder.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
+    "title": "Need to convert a value · Volume Converter",
+    "hook": "Need to convert a value?",
+    "caption": "Need to convert a value? Here is a short, practical demo of Volume Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/volume-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261116&utm_content=volume-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
     "keywords": [
-      "Base64 Encoder/Decoder",
-      "Text tool",
+      "Volume Converter",
+      "Converter tool",
       "Huzaifa Tools",
-      "base64",
+      "volume",
       "converter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#TextTools",
+      "#Converters",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/volume-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261116&utm_content=volume-converter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+        "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Volume Converter."
       },
       {
         "seconds": "7–14",
@@ -159,18 +160,18 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-14-base64-converter.jpg"
+    "imagePath": "assets/2026-11-16-volume-converter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Working through a text task | Base64 Encoder/Decoder #Shorts",
-    "hook": "Working through a text task?",
-    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
+    "title": "Need to convert a value | Volume Converter #Shorts",
+    "hook": "Need to convert a value?",
+    "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/volume-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261116&utm_content=volume-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
     "keywords": [
-      "Base64 Encoder/Decoder",
-      "Text tool",
+      "Volume Converter",
+      "Converter tool",
       "Huzaifa Tools",
-      "base64",
+      "volume",
       "converter",
       "how to",
       "short tutorial"
@@ -178,22 +179,22 @@
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#TextTools"
+      "#Converters"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/base64-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261114&utm_content=base64-converter_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/volume-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261116&utm_content=volume-converter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+        "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Volume Converter."
       },
       {
         "seconds": "7–14",
@@ -232,13 +233,13 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Working through a text task?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+        "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Volume Converter."
       },
       {
         "seconds": "7–14",
@@ -265,13 +266,13 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Need to convert a value?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+          "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Volume Converter."
         },
         {
           "seconds": "7–14",
@@ -297,13 +298,13 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Need to convert a value?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+          "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Volume Converter."
         },
         {
           "seconds": "7–14",
@@ -329,13 +330,13 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Working through a text task?"
+          "voiceover": "Need to convert a value?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Base64 Encoder/Decoder and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Base64 Encoder/Decoder."
+          "visual": "Open the real Huzaifa Tools page for Volume Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Volume Converter."
         },
         {
           "seconds": "7–14",
@@ -359,13 +360,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-14-base64-converter.jpg",
-    "alt": "Base64 Encoder/Decoder practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-16-volume-converter.jpg",
+    "alt": "Volume Converter practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-13T20:13:07.069Z",
+  "createdAt": "2026-11-15T19:12:05.874Z",
   "contentHashes": {
-    "facebook": "1bbcb2de",
-    "instagram": "f05397f9",
-    "youtube": "f0864025"
+    "facebook": "647624f5",
+    "instagram": "3264f263",
+    "youtube": "75807820"
   }
 }
