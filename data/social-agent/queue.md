@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-17 to 2026-12-16 (Asia/Karachi)
+Window: 2026-11-18 to 2026-12-17 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-17 | Regex Tester | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-18 | AI Resume Bullet Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-19 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-20 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-14 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-15 | BMR Calculator | Health | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-16 | Morse Code Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-17 · Regex Tester
-
-**Category:** Developer · **Tool:** Test regular expressions with flags, matches, and groups.
-
-**Hook:** Need to inspect a small sample?
-
-**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-**Check:** Use a small, non-sensitive sample and inspect the output before using it.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Inspect a small, non-sensitive sample before using the output: Regex Tester
-
-QUICK WALKTHROUGH · Regex Tester
-
-Inspect a small, non-sensitive sample before using the output.
-
-Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-Use a small, non-sensitive sample and inspect the output before using it.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #DeveloperTools
-
-**Keywords:** Regex Tester, Developer tool, Huzaifa Tools, regex, tester, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_facebook
-
-### Instagram Reels
-
-**Title:** Need to inspect a small sample · Regex Tester
-
-Need to inspect a small sample? Here is a short, practical demo of Regex Tester.
-
-Paste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #DeveloperTools #QuickTutorial
-
-**Keywords:** Regex Tester, Developer tool, Huzaifa Tools, regex, tester, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to inspect a small sample | Regex Tester #Shorts
-
-Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
-
-Use a small, non-sensitive sample and inspect the output before using it.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #DeveloperTools
-
-**Keywords:** Regex Tester, Developer tool, Huzaifa Tools, regex, tester, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/regex-tester?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261117&utm_content=regex-tester_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Regex Tester and show its actual controls. Voiceover: “Here is a quick walkthrough using Regex Tester.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Regex Tester and show its actual controls. Voiceover: “Here is a quick walkthrough using Regex Tester.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Regex Tester and show its actual controls. Voiceover: “Here is a quick walkthrough using Regex Tester.”
-- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
-- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-17-regex-tester.jpg
-
----
+| 2026-12-17 | Discount Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-18 · AI Resume Bullet Generator
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-16-morse-code-converter.jpg
+
+---
+
+## 2026-12-17 · Discount Calculator
+
+**Category:** Calculator · **Tool:** Calculate discounts and final price.
+
+**Hook:** Checking a calculation before you use it?
+
+**Useful action:** Enter a small example using the units shown, then inspect each input and the displayed result.
+
+**Check:** Check the inputs, units, rounding, and assumptions before using the result.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Estimate a result from your own inputs and check the assumptions: Discount Calculator
+
+QUICK WALKTHROUGH · Discount Calculator
+
+Estimate a result from your own inputs and check the assumptions.
+
+Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #Calculators
+
+**Keywords:** Discount Calculator, Calculator tool, Huzaifa Tools, discount, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261217&utm_content=discount-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Checking a calculation before you use it · Discount Calculator
+
+Checking a calculation before you use it? Here is a short, practical demo of Discount Calculator.
+
+Enter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261217&utm_content=discount-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #Calculators #QuickTutorial
+
+**Keywords:** Discount Calculator, Calculator tool, Huzaifa Tools, discount, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261217&utm_content=discount-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Checking a calculation before you use it | Discount Calculator #Shorts
+
+Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.
+
+Check the inputs, units, rounding, and assumptions before using the result.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261217&utm_content=discount-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #Calculators
+
+**Keywords:** Discount Calculator, Calculator tool, Huzaifa Tools, discount, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/discount-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261217&utm_content=discount-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Discount Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Discount Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Discount Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Discount Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Checking a calculation before you use it?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Discount Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Discount Calculator.”
+- **7–14s · Demonstrate:** Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output. Voiceover: “Enter a small example using the units shown, then inspect each input and the displayed result.”
+- **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-17-discount-calculator.jpg
 
 ---
