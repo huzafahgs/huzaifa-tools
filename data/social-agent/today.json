@@ -1,28 +1,28 @@
 {
-  "id": "2026-11-18-ai-resume-bullet-generator",
-  "date": "2026-11-18",
+  "id": "2026-11-19-ai-cover-letter-assistant",
+  "date": "2026-11-19",
   "version": 2,
   "tool": {
-    "name": "AI Resume Bullet Generator",
-    "slug": "ai-resume-bullet-generator",
+    "name": "AI Cover Letter Assistant",
+    "slug": "ai-cover-letter-assistant",
     "category": "AI",
-    "description": "Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability."
+    "description": "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability."
   },
   "lesson": {
     "hook": "Want a draft you can actually review?",
     "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Describe your own contribution and distinguish it from the team’s work",
-    "check": "Only add measurements you can substantiate. A clear qualitative result is acceptable",
-    "takeaway": "Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments",
+    "action": "Keep your experience separate from skills the employer asks for",
+    "check": "Add the company name only if useful; no contact address or phone number is needed",
+    "takeaway": "Check every claim and replace generic wording with a truthful detail before sending",
     "factualBasis": [
-      "Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.",
-      "Describe your own contribution and distinguish it from the team’s work.",
-      "Only add measurements you can substantiate. A clear qualitative result is acceptable.",
-      "Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments."
+      "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.",
+      "Keep your experience separate from skills the employer asks for.",
+      "Add the company name only if useful; no contact address or phone number is needed.",
+      "Check every claim and replace generic wording with a truthful detail before sending."
     ]
   },
   "score": {
-    "total": 15.95,
+    "total": 16,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
       "catalogUtility": 13,
@@ -39,20 +39,20 @@
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Resume Bullet Generator",
+    "title": "Turn a clear brief into a draft that you can review: AI Cover Letter Assistant",
     "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Resume Bullet Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Resume Bullet Generator\n\nTurn a clear brief into a draft that you can review.\n\nDescribe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "message": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "AI Resume Bullet Generator",
+      "AI Cover Letter Assistant",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "resume",
-      "bullet",
-      "generator",
+      "cover",
+      "letter",
+      "assistant",
       "step by step"
     ],
     "hashtags": [
@@ -60,7 +60,7 @@
       "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
@@ -72,20 +72,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Keep your experience separate from skills the employer asks for"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-        "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
       },
       {
         "seconds": "20–25",
@@ -96,17 +96,17 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Resume Bullet Generator",
+    "title": "Want a draft you can actually review · AI Cover Letter Assistant",
     "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.\n\nDescribe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.\n\nKeep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "AI Resume Bullet Generator",
+      "AI Cover Letter Assistant",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "resume",
-      "bullet",
-      "generator",
+      "cover",
+      "letter",
+      "assistant",
       "quick tutorial"
     ],
     "hashtags": [
@@ -115,7 +115,7 @@
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
@@ -127,20 +127,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Keep your experience separate from skills the employer asks for"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-        "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
       },
       {
         "seconds": "20–25",
@@ -149,21 +149,21 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-18-ai-resume-bullet-generator.jpg"
+    "imagePath": "assets/2026-11-19-ai-cover-letter-assistant.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Resume Bullet Generator #Shorts",
+    "title": "Want a draft you can actually review | AI Cover Letter Assistant #Shorts",
     "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work\n\nOnly add measurements you can substantiate. A clear qualitative result is acceptable\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "description": "Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "AI Resume Bullet Generator",
+      "AI Cover Letter Assistant",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "resume",
-      "bullet",
-      "generator",
+      "cover",
+      "letter",
+      "assistant",
       "how to"
     ],
     "hashtags": [
@@ -172,7 +172,7 @@
       "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
@@ -183,20 +183,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Keep your experience separate from skills the employer asks for"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-        "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
       },
       {
         "seconds": "20–25",
@@ -228,20 +228,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Keep your experience separate from skills the employer asks for"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-        "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
       },
       {
         "seconds": "20–25",
@@ -261,20 +261,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+          "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Keep your experience separate from skills the employer asks for"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-          "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+          "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+          "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
         },
         {
           "seconds": "20–25",
@@ -293,20 +293,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+          "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Keep your experience separate from skills the employer asks for"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-          "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+          "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+          "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
         },
         {
           "seconds": "20–25",
@@ -325,20 +325,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Resume Bullet Generator."
+          "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Describe your own contribution and distinguish it from the team’s work"
+          "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Keep your experience separate from skills the employer asks for"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result.",
-          "voiceover": "Only add measurements you can substantiate. A clear qualitative result is acceptable"
+          "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
+          "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
         },
         {
           "seconds": "20–25",
@@ -350,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-18-ai-resume-bullet-generator.jpg",
-    "alt": "AI Resume Bullet Generator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-19-ai-cover-letter-assistant.jpg",
+    "alt": "AI Cover Letter Assistant practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-17T21:27:44.765Z",
+  "createdAt": "2026-11-18T21:02:03.075Z",
   "contentHashes": {
-    "facebook": "9e87096",
-    "instagram": "12d90ba6",
-    "youtube": "5a33ed93"
+    "facebook": "1a49c3cf",
+    "instagram": "11ca91c0",
+    "youtube": "e46e0fd4"
   }
 }

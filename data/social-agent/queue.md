@@ -1,143 +1,143 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-18 to 2026-12-17 (Asia/Karachi)
+Window: 2026-11-19 to 2026-12-18 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-18 | AI Resume Bullet Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-19 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-20 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-21 | Area Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-19 | AI Cover Letter Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-20 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-21 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-22 | Lorem Ipsum Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-23 | Mortgage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-24 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-24 | Area Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-25 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-26 | AI Cover Letter Assistant | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-26 | AI FAQ Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-27 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-28 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-29 | Stopwatch | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-30 | Text Diff Checker | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-01 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-02 | Energy Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-02 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-03 | Unix Timestamp Converter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-04 | AI FAQ Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-04 | AI Code Explainer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-05 | Prime Number Checker | Number | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-06 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-07 | Meta Tag Generator | SEO | Need a quick way to generate seo, open graph, and twitter meta tags? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-08 | URL Slug Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-09 | Tip Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-10 | Currency Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-10 | Energy Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-11 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-12 | AI Code Explainer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-12 | AI Text Summarizer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-13 | ROI Calculator | Business | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-14 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-15 | BMR Calculator | Health | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-16 | Morse Code Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-17 | Discount Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-18 | Currency Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
-## 2026-11-18 · AI Resume Bullet Generator
+## 2026-11-19 · AI Cover Letter Assistant
 
-**Category:** AI · **Tool:** Express genuine responsibilities and achievements as clear resume bullets. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Describe your own contribution and distinguish it from the team’s work
+**Useful action:** Keep your experience separate from skills the employer asks for
 
-**Check:** Only add measurements you can substantiate. A clear qualitative result is acceptable
+**Check:** Add the company name only if useful; no contact address or phone number is needed
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Resume Bullet Generator
+**Title:** Turn a clear brief into a draft that you can review: AI Cover Letter Assistant
 
-QUICK WALKTHROUGH · AI Resume Bullet Generator
+QUICK WALKTHROUGH · AI Cover Letter Assistant
 
 Turn a clear brief into a draft that you can review.
 
-Describe your own contribution and distinguish it from the team’s work
+Keep your experience separate from skills the employer asks for
 
-Only add measurements you can substantiate. A clear qualitative result is acceptable
+Add the company name only if useful; no contact address or phone number is needed
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, step by step
+**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, step by step
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Resume Bullet Generator
+**Title:** Want a draft you can actually review · AI Cover Letter Assistant
 
-Want a draft you can actually review? Here is a short, practical demo of AI Resume Bullet Generator.
+Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.
 
-Describe your own contribution and distinguish it from the team’s work Select the accurate alternatives; do not treat several rewrites of one achievement as separate accomplishments
+Keep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, quick tutorial
+**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, quick tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Resume Bullet Generator #Shorts
+**Title:** Want a draft you can actually review | AI Cover Letter Assistant #Shorts
 
-Turn a clear brief into a draft that you can review. Describe your own contribution and distinguish it from the team’s work
+Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for
 
-Only add measurements you can substantiate. A clear qualitative result is acceptable
+Add the company name only if useful; no contact address or phone number is needed
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Resume Bullet Generator, AI tool, Huzaifa Tools, ai, resume, bullet, generator, how to
+**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, how to
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-resume-bullet-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261118&utm_content=ai-resume-bullet-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
-- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
-- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
+- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
+- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
-- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
-- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
+- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
+- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Resume Bullet Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Resume Bullet Generator.”
-- **7–14s · Demonstrate:** Describe your own contribution and distinguish it from the team’s work Use only a real, harmless sample and show the actual interface output. Voiceover: “Describe your own contribution and distinguish it from the team’s work”
-- **14–20s · Teach a check:** Only add measurements you can substantiate. A clear qualitative result is acceptable Pause long enough for viewers to read the real result. Voiceover: “Only add measurements you can substantiate. A clear qualitative result is acceptable”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
+- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
+- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-18-ai-resume-bullet-generator.jpg
+**JPEG preview:** assets/2026-11-19-ai-cover-letter-assistant.jpg
 
 ---
 
-## 2026-11-19 · URL Encoder/Decoder
+## 2026-11-20 · URL Encoder/Decoder
 
 **Category:** Text · **Tool:** Encode and decode URLs.
 
@@ -167,7 +167,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=url-encoder_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=url-encoder_facebook
 
 ### Instagram Reels
 
@@ -179,7 +179,7 @@ Try a short, non-sensitive example and compare the output with what your task re
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=url-encoder_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=url-encoder_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -187,7 +187,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=url-encoder_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=url-encoder_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -199,7 +199,7 @@ Work through a small text task and check the result. Try a short, non-sensitive 
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=url-encoder_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=url-encoder_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -207,7 +207,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=url-encoder_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=url-encoder_youtube
 
 ### Facebook Reels storyboard
 
@@ -233,11 +233,11 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-19-url-encoder.jpg
+**JPEG preview:** assets/2026-11-20-url-encoder.jpg
 
 ---
 
-## 2026-11-20 · Simple Interest Calculator
+## 2026-11-21 · Simple Interest Calculator
 
 **Category:** Calculator · **Tool:** Calculate simple interest.
 
@@ -267,7 +267,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=simple-interest_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=simple-interest_facebook
 
 ### Instagram Reels
 
@@ -279,7 +279,7 @@ Enter a small example using the units shown, then inspect each input and the dis
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=simple-interest_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=simple-interest_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -287,7 +287,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=simple-interest_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=simple-interest_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -299,7 +299,7 @@ Estimate a result from your own inputs and check the assumptions. Enter a small 
 
 Check the inputs, units, rounding, and assumptions before using the result.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=simple-interest_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=simple-interest_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -307,7 +307,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** Simple Interest Calculator, Calculator tool, Huzaifa Tools, simple, interest, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=simple-interest_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=simple-interest_youtube
 
 ### Facebook Reels storyboard
 
@@ -333,107 +333,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-20-simple-interest.jpg
-
----
-
-## 2026-11-21 · Area Converter
-
-**Category:** Converter · **Tool:** Convert between area units.
-
-**Hook:** Need to convert a value?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Convert a value and confirm the output units or format: Area Converter
-
-QUICK WALKTHROUGH · Area Converter
-
-Convert a value and confirm the output units or format.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #Converters
-
-**Keywords:** Area Converter, Converter tool, Huzaifa Tools, area, converter, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=area-converter_facebook
-
-### Instagram Reels
-
-**Title:** Need to convert a value · Area Converter
-
-Need to convert a value? Here is a short, practical demo of Area Converter.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=area-converter_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #Converters #QuickTutorial
-
-**Keywords:** Area Converter, Converter tool, Huzaifa Tools, area, converter, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=area-converter_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Need to convert a value | Area Converter #Shorts
-
-Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=area-converter_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #Converters
-
-**Keywords:** Area Converter, Converter tool, Huzaifa Tools, area, converter, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=area-converter_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Area Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Area Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Area Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Area Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Area Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Area Converter.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-21-area-converter.jpg
+**JPEG preview:** assets/2026-11-21-simple-interest.jpg
 
 ---
 
@@ -637,9 +537,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-24 · Speed Converter
+## 2026-11-24 · Area Converter
 
-**Category:** Converter · **Tool:** Convert between speed units.
+**Category:** Converter · **Tool:** Convert between area units.
 
 **Hook:** Need to convert a value?
 
@@ -651,9 +551,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Convert a value and confirm the output units or format: Speed Converter
+**Title:** Convert a value and confirm the output units or format: Area Converter
 
-QUICK WALKTHROUGH · Speed Converter
+QUICK WALKTHROUGH · Area Converter
 
 Convert a value and confirm the output units or format.
 
@@ -665,54 +565,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Converters
 
-**Keywords:** Speed Converter, Converter tool, Huzaifa Tools, speed, converter, step by step, online utility
+**Keywords:** Area Converter, Converter tool, Huzaifa Tools, area, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=speed-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Need to convert a value · Speed Converter
+**Title:** Need to convert a value · Area Converter
 
-Need to convert a value? Here is a short, practical demo of Speed Converter.
+Need to convert a value? Here is a short, practical demo of Area Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=speed-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Converters #QuickTutorial
 
-**Keywords:** Speed Converter, Converter tool, Huzaifa Tools, speed, converter, quick tutorial, practical tip
+**Keywords:** Area Converter, Converter tool, Huzaifa Tools, area, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=speed-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Need to convert a value | Speed Converter #Shorts
+**Title:** Need to convert a value | Area Converter #Shorts
 
 Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=speed-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Converters
 
-**Keywords:** Speed Converter, Converter tool, Huzaifa Tools, speed, converter, how to, short tutorial
+**Keywords:** Area Converter, Converter tool, Huzaifa Tools, area, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=speed-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Speed Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Speed Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Area Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Area Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -720,7 +620,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Speed Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Speed Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Area Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Area Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -728,12 +628,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Speed Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Speed Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Area Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Area Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-24-speed-converter.jpg
+**JPEG preview:** assets/2026-11-24-area-converter.jpg
 
 ---
 
@@ -837,103 +737,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-26 · AI Cover Letter Assistant
+## 2026-11-26 · AI FAQ Generator
 
-**Category:** AI · **Tool:** Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Keep your experience separate from skills the employer asks for
+**Useful action:** Supply real policies instead of asking the assistant to make them up
 
-**Check:** Add the company name only if useful; no contact address or phone number is needed
+**Check:** Choose a focused question count and avoid repetitive questions
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Cover Letter Assistant
+**Title:** Turn a clear brief into a draft that you can review: AI FAQ Generator
 
-QUICK WALKTHROUGH · AI Cover Letter Assistant
+QUICK WALKTHROUGH · AI FAQ Generator
 
 Turn a clear brief into a draft that you can review.
 
-Keep your experience separate from skills the employer asks for
+Supply real policies instead of asking the assistant to make them up
 
-Add the company name only if useful; no contact address or phone number is needed
+Choose a focused question count and avoid repetitive questions
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, step by step
+**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-faq-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Cover Letter Assistant
+**Title:** Want a draft you can actually review · AI FAQ Generator
 
-Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.
+Want a draft you can actually review? Here is a short, practical demo of AI FAQ Generator.
 
-Keep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending
+Supply real policies instead of asking the assistant to make them up Resolve unanswered facts and review every answer before publishing
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-faq-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, quick tutorial
+**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-faq-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Cover Letter Assistant #Shorts
+**Title:** Want a draft you can actually review | AI FAQ Generator #Shorts
 
-Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for
+Turn a clear brief into a draft that you can review. Supply real policies instead of asking the assistant to make them up
 
-Add the company name only if useful; no contact address or phone number is needed
+Choose a focused question count and avoid repetitive questions
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-faq-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Cover Letter Assistant, AI tool, Huzaifa Tools, ai, cover, letter, assistant, how to
+**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-cover-letter-assistant_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-faq-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
-- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
-- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
+- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
+- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
-- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
-- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
+- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
+- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Cover Letter Assistant.”
-- **7–14s · Demonstrate:** Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output. Voiceover: “Keep your experience separate from skills the employer asks for”
-- **14–20s · Teach a check:** Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result. Voiceover: “Add the company name only if useful; no contact address or phone number is needed”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
+- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
+- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-26-ai-cover-letter-assistant.jpg
+**JPEG preview:** assets/2026-11-26-ai-faq-generator.jpg
 
 ---
 
@@ -1437,9 +1337,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-02 · Energy Converter
+## 2026-12-02 · Speed Converter
 
-**Category:** Converter · **Tool:** Convert between energy units.
+**Category:** Converter · **Tool:** Convert between speed units.
 
 **Hook:** Need to convert a value?
 
@@ -1451,9 +1351,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Convert a value and confirm the output units or format: Energy Converter
+**Title:** Convert a value and confirm the output units or format: Speed Converter
 
-QUICK WALKTHROUGH · Energy Converter
+QUICK WALKTHROUGH · Speed Converter
 
 Convert a value and confirm the output units or format.
 
@@ -1465,54 +1365,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Converters
 
-**Keywords:** Energy Converter, Converter tool, Huzaifa Tools, energy, converter, step by step, online utility
+**Keywords:** Speed Converter, Converter tool, Huzaifa Tools, speed, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=energy-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=speed-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Need to convert a value · Energy Converter
+**Title:** Need to convert a value · Speed Converter
 
-Need to convert a value? Here is a short, practical demo of Energy Converter.
+Need to convert a value? Here is a short, practical demo of Speed Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=energy-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=speed-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Converters #QuickTutorial
 
-**Keywords:** Energy Converter, Converter tool, Huzaifa Tools, energy, converter, quick tutorial, practical tip
+**Keywords:** Speed Converter, Converter tool, Huzaifa Tools, speed, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=energy-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=speed-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Need to convert a value | Energy Converter #Shorts
+**Title:** Need to convert a value | Speed Converter #Shorts
 
 Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=energy-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=speed-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Converters
 
-**Keywords:** Energy Converter, Converter tool, Huzaifa Tools, energy, converter, how to, short tutorial
+**Keywords:** Speed Converter, Converter tool, Huzaifa Tools, speed, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=energy-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/speed-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261202&utm_content=speed-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Energy Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Energy Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Speed Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Speed Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -1520,7 +1420,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Energy Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Energy Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Speed Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Speed Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -1528,12 +1428,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Energy Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Energy Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Speed Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Speed Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-02-energy-converter.jpg
+**JPEG preview:** assets/2026-12-02-speed-converter.jpg
 
 ---
 
@@ -1637,103 +1537,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-04 · AI FAQ Generator
+## 2026-12-04 · AI Code Explainer
 
-**Category:** AI · **Tool:** Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Supply real policies instead of asking the assistant to make them up
+**Useful action:** Include the relevant surrounding function so the flow can be understood
 
-**Check:** Choose a focused question count and avoid repetitive questions
+**Check:** Choose the language if automatic detection might be ambiguous
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI FAQ Generator
+**Title:** Turn a clear brief into a draft that you can review: AI Code Explainer
 
-QUICK WALKTHROUGH · AI FAQ Generator
+QUICK WALKTHROUGH · AI Code Explainer
 
 Turn a clear brief into a draft that you can review.
 
-Supply real policies instead of asking the assistant to make them up
+Include the relevant surrounding function so the flow can be understood
 
-Choose a focused question count and avoid repetitive questions
+Choose the language if automatic detection might be ambiguous
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, step by step, online utility
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-code-explainer_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI FAQ Generator
+**Title:** Want a draft you can actually review · AI Code Explainer
 
-Want a draft you can actually review? Here is a short, practical demo of AI FAQ Generator.
+Want a draft you can actually review? Here is a short, practical demo of AI Code Explainer.
 
-Supply real policies instead of asking the assistant to make them up Resolve unanswered facts and review every answer before publishing
+Include the relevant surrounding function so the flow can be understood Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-code-explainer_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, quick tutorial, practical tip
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-code-explainer_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI FAQ Generator #Shorts
+**Title:** Want a draft you can actually review | AI Code Explainer #Shorts
 
-Turn a clear brief into a draft that you can review. Supply real policies instead of asking the assistant to make them up
+Turn a clear brief into a draft that you can review. Include the relevant surrounding function so the flow can be understood
 
-Choose a focused question count and avoid repetitive questions
+Choose the language if automatic detection might be ambiguous
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-code-explainer_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, how to, short tutorial
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-faq-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-code-explainer_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
-- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
-- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
-- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
-- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
-- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
-- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-04-ai-faq-generator.jpg
+**JPEG preview:** assets/2026-12-04-ai-code-explainer.jpg
 
 ---
 
@@ -2237,9 +2137,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-10 · Currency Converter
+## 2026-12-10 · Energy Converter
 
-**Category:** Converter · **Tool:** Convert between currencies.
+**Category:** Converter · **Tool:** Convert between energy units.
 
 **Hook:** Need to convert a value?
 
@@ -2251,9 +2151,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Convert a value and confirm the output units or format: Currency Converter
+**Title:** Convert a value and confirm the output units or format: Energy Converter
 
-QUICK WALKTHROUGH · Currency Converter
+QUICK WALKTHROUGH · Energy Converter
 
 Convert a value and confirm the output units or format.
 
@@ -2265,54 +2165,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #Converters
 
-**Keywords:** Currency Converter, Converter tool, Huzaifa Tools, currency, converter, step by step, online utility
+**Keywords:** Energy Converter, Converter tool, Huzaifa Tools, energy, converter, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=currency-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=energy-converter_facebook
 
 ### Instagram Reels
 
-**Title:** Need to convert a value · Currency Converter
+**Title:** Need to convert a value · Energy Converter
 
-Need to convert a value? Here is a short, practical demo of Currency Converter.
+Need to convert a value? Here is a short, practical demo of Energy Converter.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=currency-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=energy-converter_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #Converters #QuickTutorial
 
-**Keywords:** Currency Converter, Converter tool, Huzaifa Tools, currency, converter, quick tutorial, practical tip
+**Keywords:** Energy Converter, Converter tool, Huzaifa Tools, energy, converter, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=currency-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=energy-converter_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Need to convert a value | Currency Converter #Shorts
+**Title:** Need to convert a value | Energy Converter #Shorts
 
 Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=currency-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=energy-converter_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #Converters
 
-**Keywords:** Currency Converter, Converter tool, Huzaifa Tools, currency, converter, how to, short tutorial
+**Keywords:** Energy Converter, Converter tool, Huzaifa Tools, energy, converter, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=currency-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/energy-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261210&utm_content=energy-converter_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Currency Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Currency Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Energy Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Energy Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -2320,7 +2220,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Currency Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Currency Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Energy Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Energy Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -2328,12 +2228,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Currency Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Currency Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Energy Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Energy Converter.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-10-currency-converter.jpg
+**JPEG preview:** assets/2026-12-10-energy-converter.jpg
 
 ---
 
@@ -2437,103 +2337,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-12 · AI Code Explainer
+## 2026-12-12 · AI Text Summarizer
 
-**Category:** AI · **Tool:** Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Turn supplied text into a focused summary with key points and important qualifications. AI generation requires sign-in and service availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Include the relevant surrounding function so the flow can be understood
+**Useful action:** Include the complete passage rather than isolated quotes so exceptions are not lost
 
-**Check:** Choose the language if automatic detection might be ambiguous
+**Check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Code Explainer
+**Title:** Turn a clear brief into a draft that you can review: AI Text Summarizer
 
-QUICK WALKTHROUGH · AI Code Explainer
+QUICK WALKTHROUGH · AI Text Summarizer
 
 Turn a clear brief into a draft that you can review.
 
-Include the relevant surrounding function so the flow can be understood
+Include the complete passage rather than isolated quotes so exceptions are not lost
 
-Choose the language if automatic detection might be ambiguous
+Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, step by step, online utility
+**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-text-summarizer_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Code Explainer
+**Title:** Want a draft you can actually review · AI Text Summarizer
 
-Want a draft you can actually review? Here is a short, practical demo of AI Code Explainer.
+Want a draft you can actually review? Here is a short, practical demo of AI Text Summarizer.
 
-Include the relevant surrounding function so the flow can be understood Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything
+Include the complete passage rather than isolated quotes so exceptions are not lost Compare names, dates, numbers and uncertainty against the original before sharing
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-text-summarizer_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, quick tutorial, practical tip
+**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-text-summarizer_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Code Explainer #Shorts
+**Title:** Want a draft you can actually review | AI Text Summarizer #Shorts
 
-Turn a clear brief into a draft that you can review. Include the relevant surrounding function so the flow can be understood
+Turn a clear brief into a draft that you can review. Include the complete passage rather than isolated quotes so exceptions are not lost
 
-Choose the language if automatic detection might be ambiguous
+Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-text-summarizer_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, how to, short tutorial
+**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-code-explainer_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-text-summarizer_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
-- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
-- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
+- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
+- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
-- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
-- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
+- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
+- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
-- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
-- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
+- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
+- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-12-ai-code-explainer.jpg
+**JPEG preview:** assets/2026-12-12-ai-text-summarizer.jpg
 
 ---
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-17-discount-calculator.jpg
+
+---
+
+## 2026-12-18 · Currency Converter
+
+**Category:** Converter · **Tool:** Convert between currencies.
+
+**Hook:** Need to convert a value?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Convert a value and confirm the output units or format: Currency Converter
+
+QUICK WALKTHROUGH · Currency Converter
+
+Convert a value and confirm the output units or format.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #Converters
+
+**Keywords:** Currency Converter, Converter tool, Huzaifa Tools, currency, converter, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261218&utm_content=currency-converter_facebook
+
+### Instagram Reels
+
+**Title:** Need to convert a value · Currency Converter
+
+Need to convert a value? Here is a short, practical demo of Currency Converter.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261218&utm_content=currency-converter_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #Converters #QuickTutorial
+
+**Keywords:** Currency Converter, Converter tool, Huzaifa Tools, currency, converter, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261218&utm_content=currency-converter_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to convert a value | Currency Converter #Shorts
+
+Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261218&utm_content=currency-converter_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #Converters
+
+**Keywords:** Currency Converter, Converter tool, Huzaifa Tools, currency, converter, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/currency-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261218&utm_content=currency-converter_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Currency Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Currency Converter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Currency Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Currency Converter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to convert a value?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Currency Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Currency Converter.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-18-currency-converter.jpg
 
 ---
