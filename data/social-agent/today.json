@@ -1,24 +1,24 @@
 {
-  "id": "2026-11-19-ai-cover-letter-assistant",
-  "date": "2026-11-19",
+  "id": "2026-11-20-ai-faq-generator",
+  "date": "2026-11-20",
   "version": 2,
   "tool": {
-    "name": "AI Cover Letter Assistant",
-    "slug": "ai-cover-letter-assistant",
+    "name": "AI FAQ Generator",
+    "slug": "ai-faq-generator",
     "category": "AI",
-    "description": "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability."
+    "description": "Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability."
   },
   "lesson": {
     "hook": "Want a draft you can actually review?",
     "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Keep your experience separate from skills the employer asks for",
-    "check": "Add the company name only if useful; no contact address or phone number is needed",
-    "takeaway": "Check every claim and replace generic wording with a truthful detail before sending",
+    "action": "Supply real policies instead of asking the assistant to make them up",
+    "check": "Choose a focused question count and avoid repetitive questions",
+    "takeaway": "Resolve unanswered facts and review every answer before publishing",
     "factualBasis": [
-      "Connect genuine experience with a target role in an editable cover-letter draft. Requires sign-in and AI availability.",
-      "Keep your experience separate from skills the employer asks for.",
-      "Add the company name only if useful; no contact address or phone number is needed.",
-      "Check every claim and replace generic wording with a truthful detail before sending."
+      "Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability.",
+      "Supply real policies instead of asking the assistant to make them up.",
+      "Choose a focused question count and avoid repetitive questions.",
+      "Resolve unanswered facts and review every answer before publishing."
     ]
   },
   "score": {
@@ -39,28 +39,28 @@
   },
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Cover Letter Assistant",
+    "title": "Turn a clear brief into a draft that you can review: AI FAQ Generator",
     "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Cover Letter Assistant\n\nTurn a clear brief into a draft that you can review.\n\nKeep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "message": "QUICK WALKTHROUGH · AI FAQ Generator\n\nTurn a clear brief into a draft that you can review.\n\nSupply real policies instead of asking the assistant to make them up\n\nChoose a focused question count and avoid repetitive questions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI FAQ Generator\n\nTurn a clear brief into a draft that you can review.\n\nSupply real policies instead of asking the assistant to make them up\n\nChoose a focused question count and avoid repetitive questions\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "AI Cover Letter Assistant",
+      "AI FAQ Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "cover",
-      "letter",
-      "assistant",
-      "step by step"
+      "faq",
+      "generator",
+      "step by step",
+      "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
       "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
@@ -72,20 +72,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Keep your experience separate from skills the employer asks for"
+        "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Supply real policies instead of asking the assistant to make them up"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+        "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose a focused question count and avoid repetitive questions"
       },
       {
         "seconds": "20–25",
@@ -96,18 +96,18 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Cover Letter Assistant",
+    "title": "Want a draft you can actually review · AI FAQ Generator",
     "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Cover Letter Assistant.\n\nKeep your experience separate from skills the employer asks for Check every claim and replace generic wording with a truthful detail before sending\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI FAQ Generator.\n\nSupply real policies instead of asking the assistant to make them up Resolve unanswered facts and review every answer before publishing\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "AI Cover Letter Assistant",
+      "AI FAQ Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "cover",
-      "letter",
-      "assistant",
-      "quick tutorial"
+      "faq",
+      "generator",
+      "quick tutorial",
+      "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
@@ -115,7 +115,7 @@
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
@@ -127,20 +127,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Keep your experience separate from skills the employer asks for"
+        "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Supply real policies instead of asking the assistant to make them up"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+        "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose a focused question count and avoid repetitive questions"
       },
       {
         "seconds": "20–25",
@@ -149,22 +149,22 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-19-ai-cover-letter-assistant.jpg"
+    "imagePath": "assets/2026-11-20-ai-faq-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Cover Letter Assistant #Shorts",
+    "title": "Want a draft you can actually review | AI FAQ Generator #Shorts",
     "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Keep your experience separate from skills the employer asks for\n\nAdd the company name only if useful; no contact address or phone number is needed\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "description": "Turn a clear brief into a draft that you can review. Supply real policies instead of asking the assistant to make them up\n\nChoose a focused question count and avoid repetitive questions\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "AI Cover Letter Assistant",
+      "AI FAQ Generator",
       "AI tool",
       "Huzaifa Tools",
       "ai",
-      "cover",
-      "letter",
-      "assistant",
-      "how to"
+      "faq",
+      "generator",
+      "how to",
+      "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
@@ -172,7 +172,7 @@
       "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-cover-letter-assistant?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261119&utm_content=ai-cover-letter-assistant_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
@@ -183,20 +183,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Keep your experience separate from skills the employer asks for"
+        "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Supply real policies instead of asking the assistant to make them up"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+        "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose a focused question count and avoid repetitive questions"
       },
       {
         "seconds": "20–25",
@@ -228,20 +228,20 @@
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+        "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Keep your experience separate from skills the employer asks for"
+        "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Supply real policies instead of asking the assistant to make them up"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-        "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+        "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose a focused question count and avoid repetitive questions"
       },
       {
         "seconds": "20–25",
@@ -261,20 +261,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+          "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Keep your experience separate from skills the employer asks for"
+          "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Supply real policies instead of asking the assistant to make them up"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-          "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+          "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+          "voiceover": "Choose a focused question count and avoid repetitive questions"
         },
         {
           "seconds": "20–25",
@@ -293,20 +293,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+          "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Keep your experience separate from skills the employer asks for"
+          "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Supply real policies instead of asking the assistant to make them up"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-          "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+          "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+          "voiceover": "Choose a focused question count and avoid repetitive questions"
         },
         {
           "seconds": "20–25",
@@ -325,20 +325,20 @@
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Cover Letter Assistant and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Cover Letter Assistant."
+          "visual": "Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI FAQ Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Keep your experience separate from skills the employer asks for Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Keep your experience separate from skills the employer asks for"
+          "visual": "Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Supply real policies instead of asking the assistant to make them up"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Add the company name only if useful; no contact address or phone number is needed Pause long enough for viewers to read the real result.",
-          "voiceover": "Add the company name only if useful; no contact address or phone number is needed"
+          "visual": "Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result.",
+          "voiceover": "Choose a focused question count and avoid repetitive questions"
         },
         {
           "seconds": "20–25",
@@ -350,13 +350,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-19-ai-cover-letter-assistant.jpg",
-    "alt": "AI Cover Letter Assistant practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-20-ai-faq-generator.jpg",
+    "alt": "AI FAQ Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-18T21:02:03.075Z",
+  "createdAt": "2026-11-19T21:06:57.257Z",
   "contentHashes": {
-    "facebook": "1a49c3cf",
-    "instagram": "11ca91c0",
-    "youtube": "e46e0fd4"
+    "facebook": "c0737da1",
+    "instagram": "d5773e6f",
+    "youtube": "768b9394"
   }
 }
