@@ -1,18 +1,17 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-20 to 2026-12-19 (Asia/Karachi)
+Window: 2026-11-21 to 2026-12-20 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-20 | AI FAQ Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-21 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-22 | URL Slug Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-21 | AI Code Explainer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-22 | URL Encoder/Decoder | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-23 | Simple Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-24 | Area Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-25 | JWT Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-11-26 | AI Code Explainer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-11-26 | AI Text Summarizer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-27 | Password Generator | Security | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-28 | QR Code Generator | Generator | Need a quick way to create qr codes instantly? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-29 | Stopwatch | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -20,7 +19,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-01 | Mortgage Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-02 | Speed Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-03 | Unix Timestamp Converter | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-04 | AI Text Summarizer | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-04 | AI Study Notes Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-05 | Prime Number Checker | Number | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-06 | Distance Calculator | Utility | Need a quick way to calculate distance between coordinates? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-07 | Meta Tag Generator | SEO | Need a quick way to generate seo, open graph, and twitter meta tags? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -28,116 +27,117 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-09 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-10 | Energy Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-11 | HTML Entity Encoder/Decoder | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-12 | AI Study Notes Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-13 | ROI Calculator | Business | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-14 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-15 | BMR Calculator | Health | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-| 2026-12-16 | Morse Code Converter | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-12 | ROI Calculator | Business | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-13 | Retirement Calculator | Finance | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-14 | BMR Calculator | Health | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-15 | Grade Calculator | Student | Need a quick way to calculate weighted grade scores for students? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-16 | URL Slug Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-17 | Tip Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-18 | Currency Converter | Converter | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-19 | CSS Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
+| 2026-12-20 | Robots.txt Generator | SEO | Need a quick way to create clean robots.txt rules for search engines? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
-## 2026-11-20 · AI FAQ Generator
+## 2026-11-21 · AI Code Explainer
 
-**Category:** AI · **Tool:** Draft useful question-and-answer pairs from supplied service or product facts. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Supply real policies instead of asking the assistant to make them up
+**Useful action:** Include the relevant surrounding function so the flow can be understood
 
-**Check:** Choose a focused question count and avoid repetitive questions
+**Check:** Choose the language if automatic detection might be ambiguous
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI FAQ Generator
+**Title:** Turn a clear brief into a draft that you can review: AI Code Explainer
 
-QUICK WALKTHROUGH · AI FAQ Generator
+QUICK WALKTHROUGH · AI Code Explainer
 
 Turn a clear brief into a draft that you can review.
 
-Supply real policies instead of asking the assistant to make them up
+Include the relevant surrounding function so the flow can be understood
 
-Choose a focused question count and avoid repetitive questions
+Choose the language if automatic detection might be ambiguous
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, step by step, online utility
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=ai-code-explainer_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI FAQ Generator
+**Title:** Want a draft you can actually review · AI Code Explainer
 
-Want a draft you can actually review? Here is a short, practical demo of AI FAQ Generator.
+Want a draft you can actually review? Here is a short, practical demo of AI Code Explainer.
 
-Supply real policies instead of asking the assistant to make them up Resolve unanswered facts and review every answer before publishing
+Include the relevant surrounding function so the flow can be understood Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=ai-code-explainer_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, quick tutorial, practical tip
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=ai-code-explainer_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI FAQ Generator #Shorts
+**Title:** Want a draft you can actually review | AI Code Explainer #Shorts
 
-Turn a clear brief into a draft that you can review. Supply real policies instead of asking the assistant to make them up
+Turn a clear brief into a draft that you can review. Include the relevant surrounding function so the flow can be understood
 
-Choose a focused question count and avoid repetitive questions
+Choose the language if automatic detection might be ambiguous
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=ai-code-explainer_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI FAQ Generator, AI tool, Huzaifa Tools, ai, faq, generator, how to, short tutorial
+**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-faq-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261120&utm_content=ai-faq-generator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=ai-code-explainer_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
-- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
-- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
-- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
-- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI FAQ Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI FAQ Generator.”
-- **7–14s · Demonstrate:** Supply real policies instead of asking the assistant to make them up Use only a real, harmless sample and show the actual interface output. Voiceover: “Supply real policies instead of asking the assistant to make them up”
-- **14–20s · Teach a check:** Choose a focused question count and avoid repetitive questions Pause long enough for viewers to read the real result. Voiceover: “Choose a focused question count and avoid repetitive questions”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
+- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
+- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-20-ai-faq-generator.jpg
+**JPEG preview:** assets/2026-11-21-ai-code-explainer.jpg
 
 ---
 
-## 2026-11-21 · URL Encoder/Decoder
+## 2026-11-22 · URL Encoder/Decoder
 
 **Category:** Text · **Tool:** Encode and decode URLs.
 
@@ -167,7 +167,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=url-encoder_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_facebook
 
 ### Instagram Reels
 
@@ -179,7 +179,7 @@ Try a short, non-sensitive example and compare the output with what your task re
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=url-encoder_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -187,7 +187,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=url-encoder_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -199,7 +199,7 @@ Work through a small text task and check the result. Try a short, non-sensitive 
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=url-encoder_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -207,7 +207,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** URL Encoder/Decoder, Text tool, Huzaifa Tools, url, encoder, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261121&utm_content=url-encoder_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-encoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-encoder_youtube
 
 ### Facebook Reels storyboard
 
@@ -233,107 +233,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-21-url-encoder.jpg
-
----
-
-## 2026-11-22 · URL Slug Generator
-
-**Category:** Text · **Tool:** Generate URL-friendly slugs.
-
-**Hook:** Working through a text task?
-
-**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
-
-**Check:** Check the result against the requirements of your task.
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Work through a small text task and check the result: URL Slug Generator
-
-QUICK WALKTHROUGH · URL Slug Generator
-
-Work through a small text task and check the result.
-
-Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #TextTools
-
-**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, step by step, online utility
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-slug-generator_facebook
-
-### Instagram Reels
-
-**Title:** Working through a text task · URL Slug Generator
-
-Working through a text task? Here is a short, practical demo of URL Slug Generator.
-
-Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-slug-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #TextTools #QuickTutorial
-
-**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, quick tutorial, practical tip
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-slug-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Working through a text task | URL Slug Generator #Shorts
-
-Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
-
-Check the result against the requirements of your task.
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-slug-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #TextTools
-
-**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, how to, short tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261122&utm_content=url-slug-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
-- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
-- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-22-url-slug-generator.jpg
+**JPEG preview:** assets/2026-11-22-url-encoder.jpg
 
 ---
 
@@ -637,103 +537,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-11-26 · AI Code Explainer
+## 2026-11-26 · AI Text Summarizer
 
-**Category:** AI · **Tool:** Analyze pasted code for purpose, flow and possible issues without executing it. Requires sign-in and AI availability.
+**Category:** AI · **Tool:** Turn supplied text into a focused summary with key points and important qualifications. AI generation requires sign-in and service availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Include the relevant surrounding function so the flow can be understood
+**Useful action:** Include the complete passage rather than isolated quotes so exceptions are not lost
 
-**Check:** Choose the language if automatic detection might be ambiguous
+**Check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Code Explainer
+**Title:** Turn a clear brief into a draft that you can review: AI Text Summarizer
 
-QUICK WALKTHROUGH · AI Code Explainer
+QUICK WALKTHROUGH · AI Text Summarizer
 
 Turn a clear brief into a draft that you can review.
 
-Include the relevant surrounding function so the flow can be understood
+Include the complete passage rather than isolated quotes so exceptions are not lost
 
-Choose the language if automatic detection might be ambiguous
+Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, step by step, online utility
+**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-code-explainer_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Code Explainer
+**Title:** Want a draft you can actually review · AI Text Summarizer
 
-Want a draft you can actually review? Here is a short, practical demo of AI Code Explainer.
+Want a draft you can actually review? Here is a short, practical demo of AI Text Summarizer.
 
-Include the relevant surrounding function so the flow can be understood Treat suggested issues as hypotheses. Run your own tests in a suitable environment; this tool does not execute anything
+Include the complete passage rather than isolated quotes so exceptions are not lost Compare names, dates, numbers and uncertainty against the original before sharing
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-code-explainer_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, quick tutorial, practical tip
+**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-code-explainer_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Code Explainer #Shorts
+**Title:** Want a draft you can actually review | AI Text Summarizer #Shorts
 
-Turn a clear brief into a draft that you can review. Include the relevant surrounding function so the flow can be understood
+Turn a clear brief into a draft that you can review. Include the complete passage rather than isolated quotes so exceptions are not lost
 
-Choose the language if automatic detection might be ambiguous
+Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-code-explainer_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Code Explainer, AI tool, Huzaifa Tools, ai, code, explainer, how to, short tutorial
+**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-code-explainer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-code-explainer_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
-- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
-- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
+- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
+- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
-- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
-- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
+- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
+- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Code Explainer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Code Explainer.”
-- **7–14s · Demonstrate:** Include the relevant surrounding function so the flow can be understood Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the relevant surrounding function so the flow can be understood”
-- **14–20s · Teach a check:** Choose the language if automatic detection might be ambiguous Pause long enough for viewers to read the real result. Voiceover: “Choose the language if automatic detection might be ambiguous”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
+- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
+- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-11-26-ai-code-explainer.jpg
+**JPEG preview:** assets/2026-11-26-ai-text-summarizer.jpg
 
 ---
 
@@ -1437,103 +1337,103 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-04 · AI Text Summarizer
+## 2026-12-04 · AI Study Notes Generator
 
-**Category:** AI · **Tool:** Turn supplied text into a focused summary with key points and important qualifications. AI generation requires sign-in and service availability.
+**Category:** AI · **Tool:** Organize supplied learning material into concepts, definitions and revision bullets. Requires sign-in and AI availability.
 
 **Hook:** Want a draft you can actually review?
 
-**Useful action:** Include the complete passage rather than isolated quotes so exceptions are not lost
+**Useful action:** Include enough of the source to preserve definitions and qualifications
 
-**Check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
+**Check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets
 
 **Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
 
 ### Facebook Page
 
-**Title:** Turn a clear brief into a draft that you can review: AI Text Summarizer
+**Title:** Turn a clear brief into a draft that you can review: AI Study Notes Generator
 
-QUICK WALKTHROUGH · AI Text Summarizer
+QUICK WALKTHROUGH · AI Study Notes Generator
 
 Turn a clear brief into a draft that you can review.
 
-Include the complete passage rather than isolated quotes so exceptions are not lost
+Include enough of the source to preserve definitions and qualifications
 
-Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
+Use Beginner for simpler wording or Exam Revision for compact recall bullets
 
 Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #AITools
 
-**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, step by step, online utility
+**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, step by step
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-text-summarizer_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-study-notes-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Want a draft you can actually review · AI Text Summarizer
+**Title:** Want a draft you can actually review · AI Study Notes Generator
 
-Want a draft you can actually review? Here is a short, practical demo of AI Text Summarizer.
+Want a draft you can actually review? Here is a short, practical demo of AI Study Notes Generator.
 
-Include the complete passage rather than isolated quotes so exceptions are not lost Compare names, dates, numbers and uncertainty against the original before sharing
+Include enough of the source to preserve definitions and qualifications Compare important facts with your course materials; the tool does not know your syllabus or exam
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-text-summarizer_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-study-notes-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #AITools #QuickTutorial
 
-**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, quick tutorial, practical tip
+**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, quick tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-text-summarizer_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-study-notes-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Want a draft you can actually review | AI Text Summarizer #Shorts
+**Title:** Want a draft you can actually review | AI Study Notes Generator #Shorts
 
-Turn a clear brief into a draft that you can review. Include the complete passage rather than isolated quotes so exceptions are not lost
+Turn a clear brief into a draft that you can review. Include enough of the source to preserve definitions and qualifications
 
-Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline
+Use Beginner for simpler wording or Exam Revision for compact recall bullets
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-text-summarizer_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-study-notes-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #AITools
 
-**Keywords:** AI Text Summarizer, AI tool, Huzaifa Tools, ai, text, summarizer, how to, short tutorial
+**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, how to
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-text-summarizer_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261204&utm_content=ai-study-notes-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
-- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
-- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
+- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
+- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
 
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
-- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
-- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
+- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
+- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
 
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Text Summarizer.”
-- **7–14s · Demonstrate:** Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output. Voiceover: “Include the complete passage rather than isolated quotes so exceptions are not lost”
-- **14–20s · Teach a check:** Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result. Voiceover: “Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
+- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
+- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-04-ai-text-summarizer.jpg
+**JPEG preview:** assets/2026-12-04-ai-study-notes-generator.jpg
 
 ---
 
@@ -2237,107 +2137,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ---
 
-## 2026-12-12 · AI Study Notes Generator
-
-**Category:** AI · **Tool:** Organize supplied learning material into concepts, definitions and revision bullets. Requires sign-in and AI availability.
-
-**Hook:** Want a draft you can actually review?
-
-**Useful action:** Include enough of the source to preserve definitions and qualifications
-
-**Check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Turn a clear brief into a draft that you can review: AI Study Notes Generator
-
-QUICK WALKTHROUGH · AI Study Notes Generator
-
-Turn a clear brief into a draft that you can review.
-
-Include enough of the source to preserve definitions and qualifications
-
-Use Beginner for simpler wording or Exam Revision for compact recall bullets
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #AITools
-
-**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, step by step
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-study-notes-generator_facebook
-
-### Instagram Reels
-
-**Title:** Want a draft you can actually review · AI Study Notes Generator
-
-Want a draft you can actually review? Here is a short, practical demo of AI Study Notes Generator.
-
-Include enough of the source to preserve definitions and qualifications Compare important facts with your course materials; the tool does not know your syllabus or exam
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-study-notes-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #AITools #QuickTutorial
-
-**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, quick tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-study-notes-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Want a draft you can actually review | AI Study Notes Generator #Shorts
-
-Turn a clear brief into a draft that you can review. Include enough of the source to preserve definitions and qualifications
-
-Use Beginner for simpler wording or Exam Revision for compact recall bullets
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-study-notes-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #AITools
-
-**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, how to
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=ai-study-notes-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
-- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
-- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
-- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
-- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
-- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
-- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-12-12-ai-study-notes-generator.jpg
-
----
-
-## 2026-12-13 · ROI Calculator
+## 2026-12-12 · ROI Calculator
 
 **Category:** Business · **Tool:** Calculate return on investment and net profit.
 
@@ -2367,7 +2167,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** ROI Calculator, Business tool, Huzaifa Tools, roi, calculator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=roi-calculator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=roi-calculator_facebook
 
 ### Instagram Reels
 
@@ -2379,7 +2179,7 @@ Enter a small example using the units shown, then inspect each input and the dis
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=roi-calculator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=roi-calculator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -2387,7 +2187,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** ROI Calculator, Business tool, Huzaifa Tools, roi, calculator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=roi-calculator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=roi-calculator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -2399,7 +2199,7 @@ Estimate a result from your own inputs and check the assumptions. Enter a small 
 
 Check the inputs, units, rounding, and assumptions before using the result.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=roi-calculator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=roi-calculator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -2407,7 +2207,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** ROI Calculator, Business tool, Huzaifa Tools, roi, calculator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=roi-calculator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/roi-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261212&utm_content=roi-calculator_youtube
 
 ### Facebook Reels storyboard
 
@@ -2433,11 +2233,11 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-13-roi-calculator.jpg
+**JPEG preview:** assets/2026-12-12-roi-calculator.jpg
 
 ---
 
-## 2026-12-14 · Retirement Calculator
+## 2026-12-13 · Retirement Calculator
 
 **Category:** Finance · **Tool:** Estimate future retirement savings from monthly deposits.
 
@@ -2467,7 +2267,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** Retirement Calculator, Finance tool, Huzaifa Tools, retirement, calculator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=retirement-calculator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=retirement-calculator_facebook
 
 ### Instagram Reels
 
@@ -2479,7 +2279,7 @@ Enter a small example using the units shown, then inspect each input and the dis
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=retirement-calculator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=retirement-calculator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -2487,7 +2287,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** Retirement Calculator, Finance tool, Huzaifa Tools, retirement, calculator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=retirement-calculator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=retirement-calculator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -2499,7 +2299,7 @@ Estimate a result from your own inputs and check the assumptions. Enter a small 
 
 Check the inputs, units, rounding, and assumptions before using the result.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=retirement-calculator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=retirement-calculator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -2507,7 +2307,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** Retirement Calculator, Finance tool, Huzaifa Tools, retirement, calculator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=retirement-calculator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/retirement-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261213&utm_content=retirement-calculator_youtube
 
 ### Facebook Reels storyboard
 
@@ -2533,11 +2333,11 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result. Voiceover: “Check the inputs, units, rounding, and assumptions before using the result.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-14-retirement-calculator.jpg
+**JPEG preview:** assets/2026-12-13-retirement-calculator.jpg
 
 ---
 
-## 2026-12-15 · BMR Calculator
+## 2026-12-14 · BMR Calculator
 
 **Category:** Health · **Tool:** Estimate basal metabolic rate using standard formulas.
 
@@ -2567,7 +2367,7 @@ Try one small example and tell us which everyday tool task to explain next.
 
 **Keywords:** BMR Calculator, Health tool, Huzaifa Tools, bmr, calculator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=bmr-calculator_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=bmr-calculator_facebook
 
 ### Instagram Reels
 
@@ -2579,7 +2379,7 @@ Enter a small example using the units shown, then inspect each input and the dis
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=bmr-calculator_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=bmr-calculator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
@@ -2587,7 +2387,7 @@ Instagram may not make caption URLs tappable; the destination is also recorded s
 
 **Keywords:** BMR Calculator, Health tool, Huzaifa Tools, bmr, calculator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=bmr-calculator_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=bmr-calculator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
@@ -2599,7 +2399,7 @@ Estimate a result from your own inputs and check the assumptions. Enter a small 
 
 Treat calculator output as general information, not medical advice or diagnosis.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=bmr-calculator_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=bmr-calculator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
@@ -2607,7 +2407,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 **Keywords:** BMR Calculator, Health tool, Huzaifa Tools, bmr, calculator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=bmr-calculator_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/bmr-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261214&utm_content=bmr-calculator_youtube
 
 ### Facebook Reels storyboard
 
@@ -2633,13 +2433,113 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **14–20s · Teach a check:** Treat calculator output as general information, not medical advice or diagnosis. Pause long enough for viewers to read the real result. Voiceover: “Treat calculator output as general information, not medical advice or diagnosis.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-15-bmr-calculator.jpg
+**JPEG preview:** assets/2026-12-14-bmr-calculator.jpg
 
 ---
 
-## 2026-12-16 · Morse Code Converter
+## 2026-12-15 · Grade Calculator
 
-**Category:** Text · **Tool:** Convert text to Morse code.
+**Category:** Student · **Tool:** Calculate weighted grade scores for students.
+
+**Hook:** Need a quick way to calculate weighted grade scores for students?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Calculate weighted grade scores for students: Grade Calculator
+
+QUICK WALKTHROUGH · Grade Calculator
+
+Calculate weighted grade scores for students.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #StudyTools
+
+**Keywords:** Grade Calculator, Student tool, Huzaifa Tools, grade, calculator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=grade-calculator_facebook
+
+### Instagram Reels
+
+**Title:** Need a quick way to calculate weighted grade scores for students · Grade Calculator
+
+Need a quick way to calculate weighted grade scores for students? Here is a short, practical demo of Grade Calculator.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=grade-calculator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #StudyTools #QuickTutorial
+
+**Keywords:** Grade Calculator, Student tool, Huzaifa Tools, grade, calculator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=grade-calculator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need a quick way to calculate weighted grade scores for students | Grade Calculator #Shorts
+
+Calculate weighted grade scores for students. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=grade-calculator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #StudyTools
+
+**Keywords:** Grade Calculator, Student tool, Huzaifa Tools, grade, calculator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/grade-calculator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261215&utm_content=grade-calculator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate weighted grade scores for students?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Grade Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Grade Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate weighted grade scores for students?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Grade Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Grade Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to calculate weighted grade scores for students?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Grade Calculator and show its actual controls. Voiceover: “Here is a quick walkthrough using Grade Calculator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-15-grade-calculator.jpg
+
+---
+
+## 2026-12-16 · URL Slug Generator
+
+**Category:** Text · **Tool:** Generate URL-friendly slugs.
 
 **Hook:** Working through a text task?
 
@@ -2651,9 +2551,9 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 
 ### Facebook Page
 
-**Title:** Work through a small text task and check the result: Morse Code Converter
+**Title:** Work through a small text task and check the result: URL Slug Generator
 
-QUICK WALKTHROUGH · Morse Code Converter
+QUICK WALKTHROUGH · URL Slug Generator
 
 Work through a small text task and check the result.
 
@@ -2665,54 +2565,54 @@ Try one small example and tell us which everyday tool task to explain next.
 
 #HuzaifaTools #TextTools
 
-**Keywords:** Morse Code Converter, Text tool, Huzaifa Tools, morse, code, converter, step by step, online utility
+**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, step by step, online utility
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/morse-code-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=morse-code-converter_facebook
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=url-slug-generator_facebook
 
 ### Instagram Reels
 
-**Title:** Working through a text task · Morse Code Converter
+**Title:** Working through a text task · URL Slug Generator
 
-Working through a text task? Here is a short, practical demo of Morse Code Converter.
+Working through a text task? Here is a short, practical demo of URL Slug Generator.
 
 Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
 
 Save this Reel for later, then try the same steps with a non-sensitive example.
 
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/morse-code-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=morse-code-converter_instagram
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=url-slug-generator_instagram
 
 Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
 
 #HuzaifaTools #TextTools #QuickTutorial
 
-**Keywords:** Morse Code Converter, Text tool, Huzaifa Tools, morse, code, converter, quick tutorial, practical tip
+**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, quick tutorial, practical tip
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/morse-code-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=morse-code-converter_instagram
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=url-slug-generator_instagram
 
 **Link placement:** plain-text caption URL; not guaranteed tappable
 
 ### YouTube Shorts
 
-**Title:** Working through a text task | Morse Code Converter #Shorts
+**Title:** Working through a text task | URL Slug Generator #Shorts
 
 Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.
 
 Check the result against the requirements of your task.
 
-Tool page: https://ai-tools-by-huzaifa.vercel.app/morse-code-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=morse-code-converter_youtube
+Tool page: https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=url-slug-generator_youtube
 
 Follow for practical walkthroughs; the tracked tool link is in the description.
 
 #Shorts #HuzaifaTools #TextTools
 
-**Keywords:** Morse Code Converter, Text tool, Huzaifa Tools, morse, code, converter, how to, short tutorial
+**Keywords:** URL Slug Generator, Text tool, Huzaifa Tools, url, slug, generator, how to, short tutorial
 
-**URL:** https://ai-tools-by-huzaifa.vercel.app/morse-code-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=morse-code-converter_youtube
+**URL:** https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261216&utm_content=url-slug-generator_youtube
 
 ### Facebook Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Morse Code Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Morse Code Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
@@ -2720,7 +2620,7 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### Instagram Reels storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Morse Code Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Morse Code Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
@@ -2728,12 +2628,12 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 ### YouTube Shorts storyboard
 
 - **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Working through a text task?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for Morse Code Converter and show its actual controls. Voiceover: “Here is a quick walkthrough using Morse Code Converter.”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using URL Slug Generator.”
 - **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
 - **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
-**JPEG preview:** assets/2026-12-16-morse-code-converter.jpg
+**JPEG preview:** assets/2026-12-16-url-slug-generator.jpg
 
 ---
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-19-css-minifier.jpg
+
+---
+
+## 2026-12-20 · Robots.txt Generator
+
+**Category:** SEO · **Tool:** Create clean robots.txt rules for search engines.
+
+**Hook:** Need a quick way to create clean robots.txt rules for search engines?
+
+**Useful action:** Try a short, non-sensitive example and compare the output with what your task requires.
+
+**Check:** Check the result against the requirements of your task.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Create clean robots.txt rules for search engines: Robots.txt Generator
+
+QUICK WALKTHROUGH · Robots.txt Generator
+
+Create clean robots.txt rules for search engines.
+
+Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #SEOTools
+
+**Keywords:** Robots.txt Generator, SEO tool, Huzaifa Tools, robots, txt, generator, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/robots-txt-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261220&utm_content=robots-txt-generator_facebook
+
+### Instagram Reels
+
+**Title:** Need a quick way to create clean robots.txt rules for search engines · Robots.txt Generator
+
+Need a quick way to create clean robots.txt rules for search engines? Here is a short, practical demo of Robots.txt Generator.
+
+Try a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/robots-txt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261220&utm_content=robots-txt-generator_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #SEOTools #QuickTutorial
+
+**Keywords:** Robots.txt Generator, SEO tool, Huzaifa Tools, robots, txt, generator, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/robots-txt-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261220&utm_content=robots-txt-generator_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need a quick way to create clean robots.txt rules for search engines | Robots.txt Generator #Shorts
+
+Create clean robots.txt rules for search engines. Try a short, non-sensitive example and compare the output with what your task requires.
+
+Check the result against the requirements of your task.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/robots-txt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261220&utm_content=robots-txt-generator_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #SEOTools
+
+**Keywords:** Robots.txt Generator, SEO tool, Huzaifa Tools, robots, txt, generator, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/robots-txt-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261220&utm_content=robots-txt-generator_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create clean robots.txt rules for search engines?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Robots.txt Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Robots.txt Generator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create clean robots.txt rules for search engines?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Robots.txt Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Robots.txt Generator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need a quick way to create clean robots.txt rules for search engines?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for Robots.txt Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using Robots.txt Generator.”
+- **7–14s · Demonstrate:** Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output. Voiceover: “Try a short, non-sensitive example and compare the output with what your task requires.”
+- **14–20s · Teach a check:** Check the result against the requirements of your task. Pause long enough for viewers to read the real result. Voiceover: “Check the result against the requirements of your task.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-20-robots-txt-generator.jpg
 
 ---
