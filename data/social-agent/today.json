@@ -1,25 +1,25 @@
 {
-  "id": "2026-11-23-simple-interest",
-  "date": "2026-11-23",
+  "id": "2026-11-24-area-converter",
+  "date": "2026-11-24",
   "version": 2,
   "tool": {
-    "name": "Simple Interest Calculator",
-    "slug": "simple-interest",
-    "category": "Calculator",
-    "description": "Calculate simple interest."
+    "name": "Area Converter",
+    "slug": "area-converter",
+    "category": "Converter",
+    "description": "Convert between area units."
   },
   "lesson": {
-    "hook": "Checking a calculation before you use it?",
-    "problem": "Estimate a result from your own inputs and check the assumptions",
-    "action": "Enter a small example using the units shown, then inspect each input and the displayed result.",
-    "check": "Check the inputs, units, rounding, and assumptions before using the result.",
-    "takeaway": "Check the inputs, units, rounding, and assumptions before using the result.",
+    "hook": "Need to convert a value?",
+    "problem": "Convert a value and confirm the output units or format",
+    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+    "check": "Check the result against the requirements of your task.",
+    "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Calculate simple interest."
+      "Convert between area units."
     ]
   },
   "score": {
-    "total": 7.98,
+    "total": 7.99,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
       "catalogUtility": 8,
@@ -37,62 +37,62 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Compound Interest: Compare Frequency Without Inventing a Forecast",
-      "slug": "compound-interest-frequency-and-assumptions",
-      "primaryKeyword": "compound interest calculator"
+      "title": "Area Conversion: Square Units, Acres and Hectares",
+      "slug": "area-conversion-square-units-acres-hectares",
+      "primaryKeyword": "area converter"
     },
     {
-      "title": "Simple Interest Calculator: Formula, Rate and Time Example",
-      "slug": "simple-interest-principal-rate-and-time",
-      "primaryKeyword": "simple interest calculator"
+      "title": "Convert Length and Keep It Separate from Area and Volume",
+      "slug": "convert-length-without-scaling-the-wrong-dimension",
+      "primaryKeyword": "length converter"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_social",
   "facebook": {
-    "title": "Estimate a result from your own inputs and check the assumptions: Simple Interest Calculator",
-    "hook": "Checking a calculation before you use it?",
-    "message": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
-    "caption": "QUICK WALKTHROUGH · Simple Interest Calculator\n\nEstimate a result from your own inputs and check the assumptions.\n\nEnter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Calculators",
+    "title": "Convert a value and confirm the output units or format: Area Converter",
+    "hook": "Need to convert a value?",
+    "message": "QUICK WALKTHROUGH · Area Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
+    "caption": "QUICK WALKTHROUGH · Area Converter\n\nConvert a value and confirm the output units or format.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #Converters",
     "keywords": [
-      "Simple Interest Calculator",
-      "Calculator tool",
+      "Area Converter",
+      "Converter tool",
       "Huzaifa Tools",
-      "simple",
-      "interest",
+      "area",
+      "converter",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#Calculators"
+      "#Converters"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a calculation before you use it?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+        "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Area Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -103,50 +103,50 @@
     ]
   },
   "instagram": {
-    "title": "Checking a calculation before you use it · Simple Interest Calculator",
-    "hook": "Checking a calculation before you use it?",
-    "caption": "Checking a calculation before you use it? Here is a short, practical demo of Simple Interest Calculator.\n\nEnter a small example using the units shown, then inspect each input and the displayed result. Check the inputs, units, rounding, and assumptions before using the result.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Calculators #QuickTutorial",
+    "title": "Need to convert a value · Area Converter",
+    "hook": "Need to convert a value?",
+    "caption": "Need to convert a value? Here is a short, practical demo of Area Converter.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #Converters #QuickTutorial",
     "keywords": [
-      "Simple Interest Calculator",
-      "Calculator tool",
+      "Area Converter",
+      "Converter tool",
       "Huzaifa Tools",
-      "simple",
-      "interest",
+      "area",
+      "converter",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#Calculators",
+      "#Converters",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a calculation before you use it?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+        "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Area Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -155,53 +155,53 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-23-simple-interest.jpg"
+    "imagePath": "assets/2026-11-24-area-converter.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Checking a calculation before you use it | Simple Interest Calculator #Shorts",
-    "hook": "Checking a calculation before you use it?",
-    "description": "Estimate a result from your own inputs and check the assumptions. Enter a small example using the units shown, then inspect each input and the displayed result.\n\nCheck the inputs, units, rounding, and assumptions before using the result.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Calculators",
+    "title": "Need to convert a value | Area Converter #Shorts",
+    "hook": "Need to convert a value?",
+    "description": "Convert a value and confirm the output units or format. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #Converters",
     "keywords": [
-      "Simple Interest Calculator",
-      "Calculator tool",
+      "Area Converter",
+      "Converter tool",
       "Huzaifa Tools",
-      "simple",
-      "interest",
+      "area",
+      "converter",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#Calculators"
+      "#Converters"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/simple-interest?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261123&utm_content=simple-interest_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/area-converter?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261124&utm_content=area-converter_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a calculation before you use it?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+        "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Area Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -228,25 +228,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Checking a calculation before you use it?"
+        "voiceover": "Need to convert a value?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+        "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using Area Converter."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-        "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -261,25 +261,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Checking a calculation before you use it?"
+          "voiceover": "Need to convert a value?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Area Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -293,25 +293,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Checking a calculation before you use it?"
+          "voiceover": "Need to convert a value?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Area Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -325,25 +325,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Checking a calculation before you use it?"
+          "voiceover": "Need to convert a value?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for Simple Interest Calculator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using Simple Interest Calculator."
+          "visual": "Open the real Huzaifa Tools page for Area Converter and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using Area Converter."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Enter a small example using the units shown, then inspect each input and the displayed result. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Enter a small example using the units shown, then inspect each input and the displayed result."
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Check the inputs, units, rounding, and assumptions before using the result. Pause long enough for viewers to read the real result.",
-          "voiceover": "Check the inputs, units, rounding, and assumptions before using the result."
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -355,13 +355,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-23-simple-interest.jpg",
-    "alt": "Simple Interest Calculator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-24-area-converter.jpg",
+    "alt": "Area Converter practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-22T20:05:25.688Z",
+  "createdAt": "2026-11-24T00:31:30.357Z",
   "contentHashes": {
-    "facebook": "feace183",
-    "instagram": "d038c7ca",
-    "youtube": "3dec81dc"
+    "facebook": "afdbecbc",
+    "instagram": "6ff416db",
+    "youtube": "bc92b57"
   }
 }
