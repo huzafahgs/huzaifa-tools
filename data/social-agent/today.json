@@ -1,34 +1,37 @@
 {
-  "id": "2026-11-25-jwt-decoder",
-  "date": "2026-11-25",
+  "id": "2026-11-26-ai-text-summarizer",
+  "date": "2026-11-26",
   "version": 2,
   "tool": {
-    "name": "JWT Decoder",
-    "slug": "jwt-decoder",
-    "category": "Developer",
-    "description": "Decode JWT headers and payloads safely in your browser."
+    "name": "AI Text Summarizer",
+    "slug": "ai-text-summarizer",
+    "category": "AI",
+    "description": "Turn supplied text into a focused summary with key points and important qualifications. AI generation requires sign-in and service availability."
   },
   "lesson": {
-    "hook": "Need to inspect a small sample?",
-    "problem": "Inspect a small, non-sensitive sample before using the output",
-    "action": "Paste a harmless sample, run the tool, and inspect the output or validation message.",
-    "check": "Use a small, non-sensitive sample and inspect the output before using it.",
-    "takeaway": "Use a small, non-sensitive sample and inspect the output before using it.",
+    "hook": "Want a draft you can actually review?",
+    "problem": "Turn a clear brief into a draft that you can review",
+    "action": "Include the complete passage rather than isolated quotes so exceptions are not lost",
+    "check": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline",
+    "takeaway": "Compare names, dates, numbers and uncertainty against the original before sharing",
     "factualBasis": [
-      "Decode JWT headers and payloads safely in your browser."
+      "Turn supplied text into a focused summary with key points and important qualifications. AI generation requires sign-in and service availability.",
+      "Include the complete passage rather than isolated quotes so exceptions are not lost.",
+      "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline.",
+      "Compare names, dates, numbers and uncertainty against the original before sharing."
     ]
   },
   "score": {
-    "total": 7.98,
+    "total": 12.96,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 8,
+      "catalogUtility": 13,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 3,
+        "relatedArticleCount": 1,
         "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
@@ -37,67 +40,58 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "Base64 for UTF-8 Text: Encode, Decode and Avoid False Security",
-      "slug": "base64-encode-decode-utf8-text",
-      "primaryKeyword": "base64 encoder/decoder"
-    },
-    {
-      "title": "HMAC: Agree on the Message, Key Encoding and Algorithm",
-      "slug": "hmac-message-key-and-encoding-agreement",
-      "primaryKeyword": "hmac generator"
-    },
-    {
-      "title": "Inspect JWT Claims Without Mistaking Decoding for Trust",
-      "slug": "inspect-jwt-claims-without-trusting-them",
-      "primaryKeyword": "jwt decoder"
+      "title": "How to Verify an AI Summary Against the Original Source",
+      "slug": "verify-ai-summary-against-source",
+      "primaryKeyword": "how to verify an AI summary"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_social",
   "facebook": {
-    "title": "Inspect a small, non-sensitive sample before using the output: JWT Decoder",
-    "hook": "Need to inspect a small sample?",
-    "message": "QUICK WALKTHROUGH · JWT Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
-    "caption": "QUICK WALKTHROUGH · JWT Decoder\n\nInspect a small, non-sensitive sample before using the output.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #DeveloperTools",
+    "title": "Turn a clear brief into a draft that you can review: AI Text Summarizer",
+    "hook": "Want a draft you can actually review?",
+    "message": "QUICK WALKTHROUGH · AI Text Summarizer\n\nTurn a clear brief into a draft that you can review.\n\nInclude the complete passage rather than isolated quotes so exceptions are not lost\n\nChoose Short for a quick overview, Medium for key points, or Detailed for a more complete outline\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "caption": "QUICK WALKTHROUGH · AI Text Summarizer\n\nTurn a clear brief into a draft that you can review.\n\nInclude the complete passage rather than isolated quotes so exceptions are not lost\n\nChoose Short for a quick overview, Medium for key points, or Detailed for a more complete outline\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
     "keywords": [
-      "JWT Decoder",
-      "Developer tool",
+      "AI Text Summarizer",
+      "AI tool",
       "Huzaifa Tools",
-      "jwt",
-      "decoder",
+      "ai",
+      "text",
+      "summarizer",
       "step by step",
       "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JWT Decoder."
+        "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+        "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-        "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+        "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
       },
       {
         "seconds": "20–25",
@@ -108,50 +102,51 @@
     ]
   },
   "instagram": {
-    "title": "Need to inspect a small sample · JWT Decoder",
-    "hook": "Need to inspect a small sample?",
-    "caption": "Need to inspect a small sample? Here is a short, practical demo of JWT Decoder.\n\nPaste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #DeveloperTools #QuickTutorial",
+    "title": "Want a draft you can actually review · AI Text Summarizer",
+    "hook": "Want a draft you can actually review?",
+    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Text Summarizer.\n\nInclude the complete passage rather than isolated quotes so exceptions are not lost Compare names, dates, numbers and uncertainty against the original before sharing\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
     "keywords": [
-      "JWT Decoder",
-      "Developer tool",
+      "AI Text Summarizer",
+      "AI tool",
       "Huzaifa Tools",
-      "jwt",
-      "decoder",
+      "ai",
+      "text",
+      "summarizer",
       "quick tutorial",
       "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#DeveloperTools",
+      "#AITools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JWT Decoder."
+        "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+        "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-        "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+        "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
       },
       {
         "seconds": "20–25",
@@ -160,53 +155,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-25-jwt-decoder.jpg"
+    "imagePath": "assets/2026-11-26-ai-text-summarizer.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Need to inspect a small sample | JWT Decoder #Shorts",
-    "hook": "Need to inspect a small sample?",
-    "description": "Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.\n\nUse a small, non-sensitive sample and inspect the output before using it.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #DeveloperTools",
+    "title": "Want a draft you can actually review | AI Text Summarizer #Shorts",
+    "hook": "Want a draft you can actually review?",
+    "description": "Turn a clear brief into a draft that you can review. Include the complete passage rather than isolated quotes so exceptions are not lost\n\nChoose Short for a quick overview, Medium for key points, or Detailed for a more complete outline\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
     "keywords": [
-      "JWT Decoder",
-      "Developer tool",
+      "AI Text Summarizer",
+      "AI tool",
       "Huzaifa Tools",
-      "jwt",
-      "decoder",
+      "ai",
+      "text",
+      "summarizer",
       "how to",
       "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#DeveloperTools"
+      "#AITools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/jwt-decoder?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261125&utm_content=jwt-decoder_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-text-summarizer?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261126&utm_content=ai-text-summarizer_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JWT Decoder."
+        "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+        "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-        "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+        "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
       },
       {
         "seconds": "20–25",
@@ -233,25 +229,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Need to inspect a small sample?"
+        "voiceover": "Want a draft you can actually review?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using JWT Decoder."
+        "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+        "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-        "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+        "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+        "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
       },
       {
         "seconds": "20–25",
@@ -266,25 +262,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JWT Decoder."
+          "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-          "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+          "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
         },
         {
           "seconds": "20–25",
@@ -298,25 +294,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JWT Decoder."
+          "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-          "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+          "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
         },
         {
           "seconds": "20–25",
@@ -330,25 +326,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Need to inspect a small sample?"
+          "voiceover": "Want a draft you can actually review?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for JWT Decoder and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using JWT Decoder."
+          "visual": "Open the real Huzaifa Tools page for AI Text Summarizer and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using AI Text Summarizer."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Paste a harmless sample, run the tool, and inspect the output or validation message."
+          "visual": "Include the complete passage rather than isolated quotes so exceptions are not lost Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Include the complete passage rather than isolated quotes so exceptions are not lost"
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result.",
-          "voiceover": "Use a small, non-sensitive sample and inspect the output before using it."
+          "visual": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline Pause long enough for viewers to read the real result.",
+          "voiceover": "Choose Short for a quick overview, Medium for key points, or Detailed for a more complete outline"
         },
         {
           "seconds": "20–25",
@@ -360,13 +356,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-25-jwt-decoder.jpg",
-    "alt": "JWT Decoder practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-26-ai-text-summarizer.jpg",
+    "alt": "AI Text Summarizer practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-24T22:51:47.258Z",
+  "createdAt": "2026-11-25T22:05:18.178Z",
   "contentHashes": {
-    "facebook": "2780f300",
-    "instagram": "cc70d07d",
-    "youtube": "3b6862f2"
+    "facebook": "1ea1a696",
+    "instagram": "c95cdbd4",
+    "youtube": "611cfac2"
   }
 }
