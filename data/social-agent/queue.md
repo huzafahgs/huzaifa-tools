@@ -1,12 +1,11 @@
 # HGS Social Agent V2 · 30-day content pipeline
 
-Window: 2026-11-27 to 2026-12-26 (Asia/Karachi)
+Window: 2026-11-28 to 2026-12-27 (Asia/Karachi)
 Topics: 30 unique tools · catalog: 116 registered tools · article records: 119
 Search Console: no current GSC export supplied; demand left unknown
 
 | Day | Tool | Category | Topic hook | Evidence |
 |---|---|---|---|---|
-| 2026-11-27 | AI Study Notes Generator | AI | Want a draft you can actually review? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-28 | URL Slug Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-29 | Compound Interest Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-11-30 | Lorem Ipsum Generator | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
@@ -36,106 +35,7 @@ Search Console: no current GSC export supplied; demand left unknown
 | 2026-12-24 | CSV to JSON | Text | Working through a text task? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-25 | Markup Calculator | Calculator | Checking a calculation before you use it? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 | 2026-12-26 | Timer | Time | Need to convert a value? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
-
-## 2026-11-27 · AI Study Notes Generator
-
-**Category:** AI · **Tool:** Organize supplied learning material into concepts, definitions and revision bullets. Requires sign-in and AI availability.
-
-**Hook:** Want a draft you can actually review?
-
-**Useful action:** Include enough of the source to preserve definitions and qualifications
-
-**Check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets
-
-**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
-
-### Facebook Page
-
-**Title:** Turn a clear brief into a draft that you can review: AI Study Notes Generator
-
-QUICK WALKTHROUGH · AI Study Notes Generator
-
-Turn a clear brief into a draft that you can review.
-
-Include enough of the source to preserve definitions and qualifications
-
-Use Beginner for simpler wording or Exam Revision for compact recall bullets
-
-Try one small example and tell us which everyday tool task to explain next.
-
-#HuzaifaTools #AITools
-
-**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, step by step
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_facebook
-
-### Instagram Reels
-
-**Title:** Want a draft you can actually review · AI Study Notes Generator
-
-Want a draft you can actually review? Here is a short, practical demo of AI Study Notes Generator.
-
-Include enough of the source to preserve definitions and qualifications Compare important facts with your course materials; the tool does not know your syllabus or exam
-
-Save this Reel for later, then try the same steps with a non-sensitive example.
-
-Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_instagram
-
-Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
-
-#HuzaifaTools #AITools #QuickTutorial
-
-**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, quick tutorial
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_instagram
-
-**Link placement:** plain-text caption URL; not guaranteed tappable
-
-### YouTube Shorts
-
-**Title:** Want a draft you can actually review | AI Study Notes Generator #Shorts
-
-Turn a clear brief into a draft that you can review. Include enough of the source to preserve definitions and qualifications
-
-Use Beginner for simpler wording or Exam Revision for compact recall bullets
-
-Tool page: https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_youtube
-
-Follow for practical walkthroughs; the tracked tool link is in the description.
-
-#Shorts #HuzaifaTools #AITools
-
-**Keywords:** AI Study Notes Generator, AI tool, Huzaifa Tools, ai, study, notes, generator, how to
-
-**URL:** https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_youtube
-
-### Facebook Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
-- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
-- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
-
-### Instagram Reels storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
-- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
-- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
-
-### YouTube Shorts storyboard
-
-- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Want a draft you can actually review?”
-- **3–7s · Orient:** Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls. Voiceover: “Here is a quick walkthrough using AI Study Notes Generator.”
-- **7–14s · Demonstrate:** Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output. Voiceover: “Include enough of the source to preserve definitions and qualifications”
-- **14–20s · Teach a check:** Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result. Voiceover: “Use Beginner for simpler wording or Exam Revision for compact recall bullets”
-- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
-
-**JPEG preview:** assets/2026-11-27-ai-study-notes-generator.jpg
-
----
+| 2026-12-27 | JavaScript Minifier | Developer | Need to inspect a small sample? | catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet |
 
 ## 2026-11-28 · URL Slug Generator
 
@@ -3034,5 +2934,105 @@ Follow for practical walkthroughs; the tracked tool link is in the description.
 - **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
 
 **JPEG preview:** assets/2026-12-26-timer.jpg
+
+---
+
+## 2026-12-27 · JavaScript Minifier
+
+**Category:** Developer · **Tool:** Minify JavaScript safely for simple production snippets.
+
+**Hook:** Need to inspect a small sample?
+
+**Useful action:** Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+**Check:** Use a small, non-sensitive sample and inspect the output before using it.
+
+**Score basis:** catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet
+
+### Facebook Page
+
+**Title:** Inspect a small, non-sensitive sample before using the output: JavaScript Minifier
+
+QUICK WALKTHROUGH · JavaScript Minifier
+
+Inspect a small, non-sensitive sample before using the output.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Try one small example and tell us which everyday tool task to explain next.
+
+#HuzaifaTools #DeveloperTools
+
+**Keywords:** JavaScript Minifier, Developer tool, Huzaifa Tools, javascript, minifier, step by step, online utility
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/javascript-minifier?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261227&utm_content=javascript-minifier_facebook
+
+### Instagram Reels
+
+**Title:** Need to inspect a small sample · JavaScript Minifier
+
+Need to inspect a small sample? Here is a short, practical demo of JavaScript Minifier.
+
+Paste a harmless sample, run the tool, and inspect the output or validation message. Use a small, non-sensitive sample and inspect the output before using it.
+
+Save this Reel for later, then try the same steps with a non-sensitive example.
+
+Tool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/javascript-minifier?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261227&utm_content=javascript-minifier_instagram
+
+Instagram may not make caption URLs tappable; the destination is also recorded separately for tracking.
+
+#HuzaifaTools #DeveloperTools #QuickTutorial
+
+**Keywords:** JavaScript Minifier, Developer tool, Huzaifa Tools, javascript, minifier, quick tutorial, practical tip
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/javascript-minifier?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261227&utm_content=javascript-minifier_instagram
+
+**Link placement:** plain-text caption URL; not guaranteed tappable
+
+### YouTube Shorts
+
+**Title:** Need to inspect a small sample | JavaScript Minifier #Shorts
+
+Inspect a small, non-sensitive sample before using the output. Paste a harmless sample, run the tool, and inspect the output or validation message.
+
+Use a small, non-sensitive sample and inspect the output before using it.
+
+Tool page: https://ai-tools-by-huzaifa.vercel.app/javascript-minifier?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261227&utm_content=javascript-minifier_youtube
+
+Follow for practical walkthroughs; the tracked tool link is in the description.
+
+#Shorts #HuzaifaTools #DeveloperTools
+
+**Keywords:** JavaScript Minifier, Developer tool, Huzaifa Tools, javascript, minifier, how to, short tutorial
+
+**URL:** https://ai-tools-by-huzaifa.vercel.app/javascript-minifier?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261227&utm_content=javascript-minifier_youtube
+
+### Facebook Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JavaScript Minifier and show its actual controls. Voiceover: “Here is a quick walkthrough using JavaScript Minifier.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Facebook Reels end card. Follow the Huzaifa Tools Page; open the attached tool link to try it. Voiceover: “Follow the Huzaifa Tools Page; open the attached tool link to try it.”
+
+### Instagram Reels storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JavaScript Minifier and show its actual controls. Voiceover: “Here is a quick walkthrough using JavaScript Minifier.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools Instagram Reels end card. Save this Reel and follow for more practical walkthroughs. Voiceover: “Save this Reel and follow for more practical walkthroughs.”
+
+### YouTube Shorts storyboard
+
+- **0–3s · Retention hook:** Show the everyday task first; keep the tool name off-screen for the opening beat. Voiceover: “Need to inspect a small sample?”
+- **3–7s · Orient:** Open the real Huzaifa Tools page for JavaScript Minifier and show its actual controls. Voiceover: “Here is a quick walkthrough using JavaScript Minifier.”
+- **7–14s · Demonstrate:** Paste a harmless sample, run the tool, and inspect the output or validation message. Use only a real, harmless sample and show the actual interface output. Voiceover: “Paste a harmless sample, run the tool, and inspect the output or validation message.”
+- **14–20s · Teach a check:** Use a small, non-sensitive sample and inspect the output before using it. Pause long enough for viewers to read the real result. Voiceover: “Use a small, non-sensitive sample and inspect the output before using it.”
+- **20–25s · Useful CTA:** Show the Huzaifa Tools YouTube Shorts end card. Follow for more practical Shorts; open the tracked tool link in the description. Voiceover: “Follow for more practical Shorts; open the tracked tool link in the description.”
+
+**JPEG preview:** assets/2026-12-27-javascript-minifier.jpg
 
 ---

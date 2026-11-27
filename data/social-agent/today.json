@@ -1,37 +1,34 @@
 {
-  "id": "2026-11-27-ai-study-notes-generator",
-  "date": "2026-11-27",
+  "id": "2026-11-28-url-slug-generator",
+  "date": "2026-11-28",
   "version": 2,
   "tool": {
-    "name": "AI Study Notes Generator",
-    "slug": "ai-study-notes-generator",
-    "category": "AI",
-    "description": "Organize supplied learning material into concepts, definitions and revision bullets. Requires sign-in and AI availability."
+    "name": "URL Slug Generator",
+    "slug": "url-slug-generator",
+    "category": "Text",
+    "description": "Generate URL-friendly slugs."
   },
   "lesson": {
-    "hook": "Want a draft you can actually review?",
-    "problem": "Turn a clear brief into a draft that you can review",
-    "action": "Include enough of the source to preserve definitions and qualifications",
-    "check": "Use Beginner for simpler wording or Exam Revision for compact recall bullets",
-    "takeaway": "Compare important facts with your course materials; the tool does not know your syllabus or exam",
+    "hook": "Working through a text task?",
+    "problem": "Work through a small text task and check the result",
+    "action": "Try a short, non-sensitive example and compare the output with what your task requires.",
+    "check": "Check the result against the requirements of your task.",
+    "takeaway": "Check the result against the requirements of your task.",
     "factualBasis": [
-      "Organize supplied learning material into concepts, definitions and revision bullets. Requires sign-in and AI availability.",
-      "Include enough of the source to preserve definitions and qualifications.",
-      "Use Beginner for simpler wording or Exam Revision for compact recall bullets.",
-      "Compare important facts with your course materials; the tool does not know your syllabus or exam."
+      "Generate URL-friendly slugs."
     ]
   },
   "score": {
-    "total": 12.99,
+    "total": 7.99,
     "basis": "catalog utility and category rotation; no current Search Console page-level evidence; no social performance metrics yet",
     "signals": {
-      "catalogUtility": 13,
+      "catalogUtility": 8,
       "searchConsole": null,
       "searchConsoleBoost": 0,
       "socialMetrics": null,
       "socialMetricsBoost": 0,
       "articleCoverage": {
-        "relatedArticleCount": 1,
+        "relatedArticleCount": 3,
         "editorialGapBoost": 0
       },
       "categoryBalancePenalty": 0
@@ -40,58 +37,68 @@
   "contentAngle": "Original real-interface walkthrough with one concrete verification step; distinguish it from any related long-form guide and do not reuse article prose.",
   "articleReferences": [
     {
-      "title": "How to Verify an AI Summary Against the Original Source",
-      "slug": "verify-ai-summary-against-source",
-      "primaryKeyword": "how to verify an AI summary"
+      "title": "Draft Page Meta Tags, Then Verify the Rendered Head",
+      "slug": "draft-and-verify-page-meta-tags",
+      "primaryKeyword": "meta tag generator"
+    },
+    {
+      "title": "Percent-Encode a URL Component Without Breaking the Whole Address",
+      "slug": "percent-encode-a-url-component",
+      "primaryKeyword": "url encoder/decoder"
+    },
+    {
+      "title": "Create a Readable URL Slug and Plan for Its Future",
+      "slug": "create-a-readable-url-slug",
+      "primaryKeyword": "url slug generator"
     }
   ],
-  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_social",
+  "landingPage": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=social&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=url-slug-generator_social",
   "facebook": {
-    "title": "Turn a clear brief into a draft that you can review: AI Study Notes Generator",
-    "hook": "Want a draft you can actually review?",
-    "message": "QUICK WALKTHROUGH · AI Study Notes Generator\n\nTurn a clear brief into a draft that you can review.\n\nInclude enough of the source to preserve definitions and qualifications\n\nUse Beginner for simpler wording or Exam Revision for compact recall bullets\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
-    "caption": "QUICK WALKTHROUGH · AI Study Notes Generator\n\nTurn a clear brief into a draft that you can review.\n\nInclude enough of the source to preserve definitions and qualifications\n\nUse Beginner for simpler wording or Exam Revision for compact recall bullets\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #AITools",
+    "title": "Work through a small text task and check the result: URL Slug Generator",
+    "hook": "Working through a text task?",
+    "message": "QUICK WALKTHROUGH · URL Slug Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
+    "caption": "QUICK WALKTHROUGH · URL Slug Generator\n\nWork through a small text task and check the result.\n\nTry a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTry one small example and tell us which everyday tool task to explain next.\n\n#HuzaifaTools #TextTools",
     "keywords": [
-      "AI Study Notes Generator",
-      "AI tool",
+      "URL Slug Generator",
+      "Text tool",
       "Huzaifa Tools",
-      "ai",
-      "study",
-      "notes",
+      "url",
+      "slug",
       "generator",
-      "step by step"
+      "step by step",
+      "online utility"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools"
+      "#TextTools"
     ],
     "cta": "Try one small example and tell us which everyday tool task to explain next.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_facebook",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=facebook&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=url-slug-generator_facebook",
     "linkPlacement": "Facebook Page link attachment",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+        "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using URL Slug Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Include enough of the source to preserve definitions and qualifications"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -102,51 +109,51 @@
     ]
   },
   "instagram": {
-    "title": "Want a draft you can actually review · AI Study Notes Generator",
-    "hook": "Want a draft you can actually review?",
-    "caption": "Want a draft you can actually review? Here is a short, practical demo of AI Study Notes Generator.\n\nInclude enough of the source to preserve definitions and qualifications Compare important facts with your course materials; the tool does not know your syllabus or exam\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #AITools #QuickTutorial",
+    "title": "Working through a text task · URL Slug Generator",
+    "hook": "Working through a text task?",
+    "caption": "Working through a text task? Here is a short, practical demo of URL Slug Generator.\n\nTry a short, non-sensitive example and compare the output with what your task requires. Check the result against the requirements of your task.\n\nSave this Reel for later, then try the same steps with a non-sensitive example.\n\nTool page (plain-text URL): https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=url-slug-generator_instagram\n\nInstagram may not make caption URLs tappable; the destination is also recorded separately for tracking.\n\n#HuzaifaTools #TextTools #QuickTutorial",
     "keywords": [
-      "AI Study Notes Generator",
-      "AI tool",
+      "URL Slug Generator",
+      "Text tool",
       "Huzaifa Tools",
-      "ai",
-      "study",
-      "notes",
+      "url",
+      "slug",
       "generator",
-      "quick tutorial"
+      "quick tutorial",
+      "practical tip"
     ],
     "hashtags": [
       "#HuzaifaTools",
-      "#AITools",
+      "#TextTools",
       "#QuickTutorial"
     ],
     "cta": "Save this Reel for later, then try the same steps with a non-sensitive example.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_instagram",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=instagram&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=url-slug-generator_instagram",
     "linkPlacement": "plain-text caption URL; not guaranteed tappable",
     "reelScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+        "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using URL Slug Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Include enough of the source to preserve definitions and qualifications"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -155,54 +162,54 @@
         "voiceover": "Save this Reel and follow for more practical walkthroughs."
       }
     ],
-    "imagePath": "assets/2026-11-27-ai-study-notes-generator.jpg"
+    "imagePath": "assets/2026-11-28-url-slug-generator.jpg"
   },
   "youtube": {
     "status": "script_only",
-    "title": "Want a draft you can actually review | AI Study Notes Generator #Shorts",
-    "hook": "Want a draft you can actually review?",
-    "description": "Turn a clear brief into a draft that you can review. Include enough of the source to preserve definitions and qualifications\n\nUse Beginner for simpler wording or Exam Revision for compact recall bullets\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #AITools",
+    "title": "Working through a text task | URL Slug Generator #Shorts",
+    "hook": "Working through a text task?",
+    "description": "Work through a small text task and check the result. Try a short, non-sensitive example and compare the output with what your task requires.\n\nCheck the result against the requirements of your task.\n\nTool page: https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=url-slug-generator_youtube\n\nFollow for practical walkthroughs; the tracked tool link is in the description.\n\n#Shorts #HuzaifaTools #TextTools",
     "keywords": [
-      "AI Study Notes Generator",
-      "AI tool",
+      "URL Slug Generator",
+      "Text tool",
       "Huzaifa Tools",
-      "ai",
-      "study",
-      "notes",
+      "url",
+      "slug",
       "generator",
-      "how to"
+      "how to",
+      "short tutorial"
     ],
     "hashtags": [
       "#Shorts",
       "#HuzaifaTools",
-      "#AITools"
+      "#TextTools"
     ],
     "cta": "Follow for practical walkthroughs; the tracked tool link is in the description.",
-    "link": "https://ai-tools-by-huzaifa.vercel.app/ai-study-notes-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261127&utm_content=ai-study-notes-generator_youtube",
+    "link": "https://ai-tools-by-huzaifa.vercel.app/url-slug-generator?utm_source=youtube&utm_medium=organic_social&utm_campaign=hgs_social_v2_20261128&utm_content=url-slug-generator_youtube",
     "shortVideoScript": [
       {
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+        "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using URL Slug Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Include enough of the source to preserve definitions and qualifications"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -229,25 +236,25 @@
         "seconds": "0–3",
         "goal": "Retention hook",
         "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-        "voiceover": "Want a draft you can actually review?"
+        "voiceover": "Working through a text task?"
       },
       {
         "seconds": "3–7",
         "goal": "Orient",
-        "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-        "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+        "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+        "voiceover": "Here is a quick walkthrough using URL Slug Generator."
       },
       {
         "seconds": "7–14",
         "goal": "Demonstrate",
-        "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-        "voiceover": "Include enough of the source to preserve definitions and qualifications"
+        "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+        "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
       },
       {
         "seconds": "14–20",
         "goal": "Teach a check",
-        "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-        "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+        "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+        "voiceover": "Check the result against the requirements of your task."
       },
       {
         "seconds": "20–25",
@@ -262,25 +269,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+          "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using URL Slug Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Include enough of the source to preserve definitions and qualifications"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -294,25 +301,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+          "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using URL Slug Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Include enough of the source to preserve definitions and qualifications"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -326,25 +333,25 @@
           "seconds": "0–3",
           "goal": "Retention hook",
           "visual": "Show the everyday task first; keep the tool name off-screen for the opening beat.",
-          "voiceover": "Want a draft you can actually review?"
+          "voiceover": "Working through a text task?"
         },
         {
           "seconds": "3–7",
           "goal": "Orient",
-          "visual": "Open the real Huzaifa Tools page for AI Study Notes Generator and show its actual controls.",
-          "voiceover": "Here is a quick walkthrough using AI Study Notes Generator."
+          "visual": "Open the real Huzaifa Tools page for URL Slug Generator and show its actual controls.",
+          "voiceover": "Here is a quick walkthrough using URL Slug Generator."
         },
         {
           "seconds": "7–14",
           "goal": "Demonstrate",
-          "visual": "Include enough of the source to preserve definitions and qualifications Use only a real, harmless sample and show the actual interface output.",
-          "voiceover": "Include enough of the source to preserve definitions and qualifications"
+          "visual": "Try a short, non-sensitive example and compare the output with what your task requires. Use only a real, harmless sample and show the actual interface output.",
+          "voiceover": "Try a short, non-sensitive example and compare the output with what your task requires."
         },
         {
           "seconds": "14–20",
           "goal": "Teach a check",
-          "visual": "Use Beginner for simpler wording or Exam Revision for compact recall bullets Pause long enough for viewers to read the real result.",
-          "voiceover": "Use Beginner for simpler wording or Exam Revision for compact recall bullets"
+          "visual": "Check the result against the requirements of your task. Pause long enough for viewers to read the real result.",
+          "voiceover": "Check the result against the requirements of your task."
         },
         {
           "seconds": "20–25",
@@ -356,13 +363,13 @@
     }
   },
   "asset": {
-    "imagePath": "assets/2026-11-27-ai-study-notes-generator.jpg",
-    "alt": "AI Study Notes Generator practical walkthrough card for Huzaifa Tools"
+    "imagePath": "assets/2026-11-28-url-slug-generator.jpg",
+    "alt": "URL Slug Generator practical walkthrough card for Huzaifa Tools"
   },
-  "createdAt": "2026-11-26T22:03:23.872Z",
+  "createdAt": "2026-11-27T21:45:51.429Z",
   "contentHashes": {
-    "facebook": "3a563803",
-    "instagram": "5b2d508d",
-    "youtube": "e0a8ff9"
+    "facebook": "ff23dcd5",
+    "instagram": "60064989",
+    "youtube": "d5ee0816"
   }
 }
